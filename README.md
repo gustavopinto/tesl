@@ -73,22 +73,23 @@ TBD
 
 Passível de alterações.
 
-| # | Data  | Conteúdo de Aula             |
-| 1 | 22/03 | [Introdução ao software livre](Aula01.md) |
-| 2 | 29/03 | [Comunidades de software livre](Aula02.md) |
-| 3 | 05/04 | [Contribuindo com software livre](Aula03.md) |
-| 9 | 12/04 | Documentação |
-| 3 | 19/04 | Licenças de software livre |
-| 5 | 26/04 | Desenvolvimento distribuído & Gerenciamento de código     |
-| 6 | 03/05 | Gerenciamento de requisitos |
-| 7 | 10/05 | Boas práticas de codificação |
-| 8 | 17/05 | Métodos Ágeis e software livre |
-| 8 | 24/05 | Testes e Integração contínua |
-| 10 | 31/05 | Métricas de código fonte |
+| # | Data  | Conteúdo de Aula                                            |
+|:-:|-------|-------------------------------------------------------------|
+| 1 | 22/03 | [Introdução ao software livre](Aula01.md)                   |
+| 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  |
+| 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                |
+| 9 | 12/04 | Documentação                                                |
+| 3 | 19/04 | Licenças de software livre                                  |
+| 5 | 26/04 | Desenvolvimento distribuído & Gerenciamento de código       |
+| 6 | 03/05 | Gerenciamento de requisitos                                 |
+| 7 | 10/05 | Boas práticas de codificação                                |
+| 8 | 17/05 | Métodos Ágeis e software livre                              |
+| 8 | 24/05 | Testes e Integração contínua                                |
+| 10 | 31/05 | Métricas de código fonte                                   |
 | 11 | 07/06 | Avaliação de qualidade de projetos & Definição de projetos |
-| 12 | 14/06 | Acompanhamento de projetos |
-| 12 | 21/06 | Acompanhamento de projetos |
-| 13 | 28/06 | Apresentação de projetos |
+| 12 | 14/06 | Acompanhamento de projetos                                 |
+| 12 | 21/06 | Acompanhamento de projetos                                 |
+| 13 | 28/06 | Apresentação de projetos                                   |
 
 ## Entrega atrasada
 
