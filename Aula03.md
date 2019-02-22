@@ -9,7 +9,12 @@
 - TDB
 
 ## Atividades
+
 - Instale o git
+- Acesse os sites e procure um proejto que esteja procurando por ajuda
+  - [Your First PR](https://yourfirstpr.github.io/)
+  - [Up For Grabs](https://up-for-grabs.net/#/)
+  - [CodeTriage](https://www.codetriage.com/)
 - Fazer um pull-request que melhore a documentação de algum projeto (em português ou inglês)
 - Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
 - Desenvolva diagramas UML de um projeto de software livre

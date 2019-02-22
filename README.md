@@ -4,8 +4,8 @@ Site da disciplina de tópicos especiais em software livre (TOSL)
 
 ## Professores
 
-Filipe Saraiva (saraiva at ufpa.br)
-Gustavo Pinto (gpinto at ufpa.br)
+- Filipe Saraiva (saraiva at ufpa.br, [@filipesaraiva](https://github.com/filipesaraiva))
+- Gustavo Pinto (gpinto at ufpa.br, [@gustavopinto](https://github.com/gustavopinto))
 
 ## Monitor
 
@@ -39,19 +39,6 @@ de software, organizações de apoio a projetos, e mais;
 - Auxiliar com o desenvolvimento de primeiras contribuições para projetos de software livre.
 
 
-## Ementa
-
-- O que é software livre?
-- Processo de desenvolvimento de software livre
-  - Infraestrutura técnica
-  - Infraestrutura social e política
-  - Comunicação
-  - Gerencia de participantes
-- Licenças de Software
-- Contribuindo com projetos de software livre
-- Estudos de caso e relatos de experiência
-
-
 ## Bibliografia
 
 - FOGEL, Karl. Producing Open Source Software - How to Run a Successful Free Software Project. O'Reilly, 2017. Disponível em http://producingoss.com
@@ -78,7 +65,7 @@ Passível de alterações.
 | 1 | 22/03 | [Introdução ao software livre](Aula01.md)                   |
 | 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  |
 | 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                |
-| 9 | 12/04 | Documentação                                                |
+| 9 | 12/04 | [Documentação](Aula04.md)                                   |
 | 3 | 19/04 | Licenças de software livre                                  |
 | 5 | 26/04 | Desenvolvimento distribuído & Gerenciamento de código       |
 | 6 | 03/05 | Gerenciamento de requisitos                                 |
