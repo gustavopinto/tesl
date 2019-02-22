@@ -3,6 +3,7 @@
 ## Material extra
 
 - [50 ways to be  FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer)
+- [Contribute on Open Source Friday](https://github.blog/2017-06-27-contribute-on-open-source-friday/)
 
 ## Slides
 

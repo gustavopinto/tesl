@@ -47,10 +47,6 @@ de software, organizações de apoio a projetos, e mais;
 - PINTSCHER, Lydia (org). Open Advice - FOSS: What we wish we had known when we started. 2012. Disponível em http://open-advice.org/
 - SABINO, Vanessa; KON, Fábio. Licenças de Software Livre - História e Características. CCSL-USP, 2009. Disponível em http://ccsl.ime.usp.br/files/relatorio-licencas.pdf
 
-## Material extra
-
-TBD
-
 ## Avaliação
 
 - Atividades conduzidas ao longo da disciplina
@@ -66,7 +62,7 @@ Passível de alterações.
 | 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  |
 | 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                |
 | 9 | 12/04 | [Documentação](Aula04.md)                                   |
-| 3 | 19/04 | Licenças de software livre                                  |
+| 3 | 19/04 | [Licenças de software livre](Aula05.md)                     |
 | 5 | 26/04 | Desenvolvimento distribuído & Gerenciamento de código       |
 | 6 | 03/05 | Gerenciamento de requisitos                                 |
 | 7 | 10/05 | Boas práticas de codificação                                |

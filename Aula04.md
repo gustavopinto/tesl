@@ -17,3 +17,4 @@
 - Teste a documentação (por ex, siga as instruções de instalação) e sumarize os problemas encontrados
 - Converta documentação escrita em documentação de video
 - Desenvolva um diagrama UML de um projeto existente
+- Traduza uma página que [precise de ajuda](https://github.com/github/opensource.guide/blob/master/docs/translations.md)
