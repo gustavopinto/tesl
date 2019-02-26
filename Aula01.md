@@ -10,7 +10,8 @@
 
 ## Slides
 
-- TDB
+- Slides da [aula Aula00](https://docs.google.com/presentation/d/1Ufs-kpjmQ4gglsL1u5bfFAC_QRVmLW2dokhLdVAATYE/edit?usp=sharing).
+- Slides da [aula Aula01](https://docs.google.com/presentation/d/1VxN6YnyUcR6d8uXs7wJoqElqwgIrm5PIh8gydPc5NM8/edit?usp=sharing).
 
 ## Atividades (ao menos 3 atividades)
 - Criar conta no GitHub
@@ -23,5 +24,4 @@
   - https://github.com/dmgerman/ninka
   - https://github.com/aserg-ufmg/CSIndex
   - https://github.com/funcoeszz/funcoeszz/
-  
 - Instale um dos projetos acima na sua estação de trabalho
