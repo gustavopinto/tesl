@@ -15,10 +15,11 @@
 ## Atividades (ao menos 3 atividades)
 - Criar conta no GitHub
 - Alterar, via pull-request, o arquivo [Grupos.md](Grupos.md) com informações dos grupos
-- Ler os arquivos README e CONTRIBUTING desses projetos
+- Ler os arquivos README e CONTRIBUTING desses projetos (se algum deles estiver faltando, crie)
   - https://github.com/django/django
   - https://github.com/rails/rails
   - https://github.com/ishepard/pydriller
   - https://github.com/tsantalis/RefactoringMiner
   - https://github.com/dmgerman/ninka
+  - https://github.com/aserg-ufmg/CSIndex
 - Instale o projeto [funcoeszz](https://github.com/funcoeszz/funcoeszz/) na sua estação de trabalho

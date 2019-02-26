@@ -25,3 +25,9 @@ software livre e tornar a informação disponível em arquivo .md.
 
 - Criar um grafo de licenças entre as dependencias de um projeto de software
 livre e identificar eventuais violações de licenças.
+
+- Realizar mais de 20 pull-requests em um ou mais (não trivial projetos de
+  software livre
+
+- Criar um projeto de software livre seu. Definir escopo, documentação,
+arquitetura, testes, etc.

@@ -50,7 +50,7 @@ de software, organizações de apoio a projetos, e mais;
 ## Avaliação
 
 - Atividades conduzidas ao longo da disciplina
-- Projeto ao final da disciplina. Veja sobre projetos aqui.
+- Projeto ao final da disciplina. [Veja sobre projetos aqui](/Projetos.md).
 
 ## Cronograma
 
