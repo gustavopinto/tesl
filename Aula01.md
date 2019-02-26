@@ -7,6 +7,9 @@
 - [Open Source Friday](https://opensourcefriday.com/)
 - [Open Source Guide](https://opensource.guide/)
 - [The census of the Brazilian Open Source Community](http://gustavopinto.org/lost+found/oss2014.pdf)
+- [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
+- [Oracle America, Inc. v. Google, Inc.](https://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc.)
+- [VIDEO: The Code-Breakers (Documentary, Free/Open Source Software)](https://www.youtube.com/watch?v=1uL4-EuCq0Q)
 
 ## Slides
 

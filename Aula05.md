@@ -6,6 +6,8 @@
 - [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
 - [To distribute or not to distribute?: why licensing bugs matter](http://www.christophervendome.com/wp-content/uploads/2018/05/ICSE18-LicensingBugsCRC.pdf)
 - [Analysis of license inconsistency in large collections of open source projects](https://link.springer.com/article/10.1007/s10664-016-9487-8)
+- [Crowdsourcing Identification of License Violations](http://jcse.kiise.org/files/V9N4-03.pdf)
+- [VIDEO: A Controvérsia da Lerna vs ICE](https://www.youtube.com/watch?v=WObC_2e0kZk)
 - [SPDX License List](https://spdx.org/licenses/)
 
 ## Slides
