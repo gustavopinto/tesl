@@ -22,4 +22,6 @@
   - https://github.com/tsantalis/RefactoringMiner
   - https://github.com/dmgerman/ninka
   - https://github.com/aserg-ufmg/CSIndex
-- Instale o projeto [funcoeszz](https://github.com/funcoeszz/funcoeszz/) na sua estação de trabalho
+  - https://github.com/funcoeszz/funcoeszz/
+  
+- Instale um dos projetos acima na sua estação de trabalho

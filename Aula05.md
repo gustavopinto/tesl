@@ -13,5 +13,8 @@
 
 ## Atividades (ao menos 3 atividades)
 
-- Procure um projeto sem licença de software e adicione uma
+- Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+- Procure um projeto sem licença de software e adicione uma.
 - Baixe e instale a ferramenta [ninka](https://github.com/dmgerman/ninka) e rode em pelo menos cinco projetos não-triviais
+- Acesse o site [choosealicense](https://choosealicense.com/), e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+- Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
