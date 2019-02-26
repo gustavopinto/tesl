@@ -9,10 +9,10 @@
 
 - TDB
 
-## Atividades
+## Atividades (ao menos 3 atividades)
 
-- Instale o git
-- Acesse os sites e procure um proejto que esteja procurando por ajuda
+- Instale o git (** obrigatória), e experimente os commandos commit, push, pull, checkout, log, etc
+- Acesse os sites e procure um projeto que esteja procurando por ajuda, e tente fazer uma contribuição
   - [Your First PR](https://yourfirstpr.github.io/)
   - [Up For Grabs](https://up-for-grabs.net/#/)
   - [CodeTriage](https://www.codetriage.com/)

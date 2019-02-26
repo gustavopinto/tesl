@@ -12,7 +12,7 @@
 
 - TDB
 
-## Atividades
+## Atividades (ao menos 3 atividades)
 - Identificar novatos nos projetos
 - Identificar desenvolvedores chave nos projetos
 - Identificar como tarefas são sugeridas

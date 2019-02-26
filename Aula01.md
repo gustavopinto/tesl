@@ -12,7 +12,7 @@
 
 - TDB
 
-## Atividades
+## Atividades (ao menos 3 atividades)
 - Criar conta no GitHub
 - Alterar, via pull-request, o arquivo [Grupos.md](Grupos.md) com informações dos grupos
 - Ler os arquivos README e CONTRIBUTING desses projetos
