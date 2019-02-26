@@ -1,6 +1,6 @@
-# Tópicos Especiais em Software Livre (TOSL)
+# Tópicos Especiais em Software Livre (TESL)
 
-Site da disciplina de tópicos especiais em software livre (TOSL)
+Site da disciplina de tópicos especiais em software livre (TESL)
 
 ## Professores
 
