@@ -61,18 +61,18 @@ Passível de alterações.
 | 1 | 22/03 | [Introdução ao software livre](Aula01.md)                   |
 | 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  |
 | 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                |
-| 9 | 12/04 | [Documentação](Aula04.md)                                   |
-| 3 | 19/04 | [Licenças de software livre](Aula05.md)                     |
-| 5 | 26/04 | Desenvolvimento distribuído & Gerenciamento de código       |
-| 6 | 03/05 | Gerenciamento de requisitos                                 |
-| 7 | 10/05 | Boas práticas de codificação                                |
-| 8 | 17/05 | Métodos Ágeis e software livre                              |
-| 8 | 24/05 | Testes e Integração contínua                                |
-| 10 | 31/05 | Métricas de código fonte                                   |
-| 11 | 07/06 | Avaliação de qualidade de projetos & Definição de projetos |
-| 12 | 14/06 | Acompanhamento de projetos                                 |
-| 12 | 21/06 | Acompanhamento de projetos                                 |
-| 13 | 28/06 | Apresentação de projetos                                   |
+| 4 | 12/04 | [Documentação](Aula04.md)                                   |
+| 5 | 19/04 | Semana Santa                                                |
+| 6 | 26/04 | [Licenças de software livre](Aula05.md)                     |
+| 7 | 03/05 | Gerenciamento de código e requisitos                        |
+| 8 | 10/05 | Boas práticas de codificação                                |
+| 9 | 17/05 | Métodos Ágeis e software livre                              |
+| 10 | 24/05 | [Testes e Integração contínua](Aula09.md)                   |
+| 11 | 31/05 | Métricas de código fonte                                   |
+| 12 | 07/06 | Avaliação de qualidade de projetos & Definição de projetos |
+| 13 | 14/06 | Acompanhamento de projetos                                 |
+| 14 | 21/06 | Acompanhamento de projetos                                 |
+| 15 | 28/06 | Apresentação de projetos                                   |
 
 ## Entrega atrasada
 
