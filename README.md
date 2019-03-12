@@ -56,23 +56,23 @@ de software, organizações de apoio a projetos, e mais;
 
 Passível de alterações.
 
-| # | Data  | Conteúdo de Aula                                            | Apresentações de Comunidades |
+| # | Data  | Conteúdo de Aula                                            | Responsável                  |
 |:-:|-------|-------------------------------------------------------------|------------------------------|
-| 1 | 22/03 | [Introdução ao software livre](Aula01.md)                   |                              |
-| 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  |                              |
-| 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                |                              |
-| 4 | 12/04 | [Documentação](Aula04.md)                                   |                              |
-| 5 | 19/04 | Semana Santa                                                |                              |
-| 6 | 26/04 | [Licenças de software livre](Aula05.md)                     |                              |
-| 7 | 03/05 | Gerenciamento de código e requisitos                        |                              |
-| 8 | 10/05 | Boas práticas de codificação                                |                              |
-| 9 | 17/05 | Métodos Ágeis e software livre                              |                              |
-| 10 | 24/05 | [Testes e Integração contínua](Aula09.md)                  |                              |
-| 11 | 31/05 | Métricas de código fonte                                   |                              |
-| 12 | 07/06 | Avaliação de qualidade de projetos & Definição de projetos |                              |
-| 13 | 14/06 | Acompanhamento de projetos                                 |                              |
-| 14 | 21/06 | Acompanhamento de projetos                                 |                              |
-| 15 | 28/06 | Apresentação de projetos                                   |                              |
+| 1 | 22/03 | [Introdução ao software livre](Aula01.md)                   | Filipe e Gustavo             |
+| 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  | Filipe                       |
+| 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                | Filipe                       |
+| 4 | 12/04 | [Documentação](Aula04.md)                                   | Filipe                       |
+| 5 | 19/04 | Semana Santa                                                | ---                          |
+| 6 | 26/04 | [Licenças de software livre](Aula05.md)                     | Gustavo                      |
+| 7 | 03/05 | Gerenciamento de código e requisitos                        | Gustavo                      |
+| 8 | 10/05 | Boas práticas de codificação                                | Nazario                      |
+| 9 | 17/05 | Métodos Ágeis e software livre                              | Nazario                      |
+| 10 | 24/05 | [Testes e Integração contínua](Aula09.md)                  | Wagner                       |
+| 11 | 31/05 | Avaliação de qualidade de projetos                         | TBD                          |
+| 12 | 07/06 | Métricas de código fonte & Definição de projetos           | Gustavo                      |
+| 13 | 14/06 | Acompanhamento de projetos                                 | Filipe e Gustavo             |
+| 14 | 21/06 | Acompanhamento de projetos                                 | Filipe e Gustavo             |
+| 15 | 28/06 | Apresentação de projetos                                   | Filipe e Gustavo             |
 
 ## Entrega atrasada
 

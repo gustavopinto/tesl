@@ -9,6 +9,7 @@
 - [Crowdsourcing Identification of License Violations](http://jcse.kiise.org/files/V9N4-03.pdf)
 - [VIDEO: A Controvérsia da Lerna vs ICE](https://www.youtube.com/watch?v=WObC_2e0kZk)
 - [SPDX License List](https://spdx.org/licenses/)
+- [The Tidelift guide to working with open source licenses](https://blog.tidelift.com/introducing-the-tidelift-guide-to-working-with-open-source-licenses)
 
 ## Slides
 
