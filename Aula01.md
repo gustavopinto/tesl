@@ -16,7 +16,7 @@
 - Slides da [aula Aula00](https://docs.google.com/presentation/d/1Ufs-kpjmQ4gglsL1u5bfFAC_QRVmLW2dokhLdVAATYE/edit?usp=sharing).
 - Slides da [aula Aula01](https://docs.google.com/presentation/d/1VxN6YnyUcR6d8uXs7wJoqElqwgIrm5PIh8gydPc5NM8/edit?usp=sharing).
 
-## Atividades (ao menos 3 atividades)
+## Atividades
 - Criar conta no GitHub
 - Alterar, via pull-request, o arquivo [Grupos.md](Grupos.md) com informações dos grupos
 - Ler os arquivos README e CONTRIBUTING desses projetos (se algum deles estiver faltando, crie)
@@ -26,5 +26,7 @@
   - https://github.com/tsantalis/RefactoringMiner
   - https://github.com/dmgerman/ninka
   - https://github.com/aserg-ufmg/CSIndex
-  - https://github.com/funcoeszz/funcoeszz/
-- Instale um dos projetos acima na sua estação de trabalho
+  - https://github.com/funcoeszz/funcoeszz
+  - https://github.com/mauricioaniche/ck
+- Baixe e instale um dos projetos acima na sua estação de trabalho
+- Preencha [esta planilha de projetos](https://docs.google.com/spreadsheets/d/1Uk-T8GFNx-yd3wId9zAvKbe_mqtCYZFy9mMQyT3tLVI/edit?usp=sharing) como explicado em sala (atividade avaliativa)
