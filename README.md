@@ -13,7 +13,7 @@ Marcos Nazario ()
 
 ## Horário
 
-Sexta-Feira, às 14:30 @ LABCOMP-03
+Sexta-Feira, às 14:30 @ LABCOMP-01
 
 ## Telegram
 
