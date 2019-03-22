@@ -18,7 +18,7 @@
 
 ## Atividades
 - Criar conta no GitHub
-- Alterar, via pull-request, o arquivo [Grupos.md](Grupos.md) com informações dos grupos
+- Alterar, via pull-request, o arquivo [Duplas.md](Grupos.md) com informações das duplas
 - Ler os arquivos README e CONTRIBUTING desses projetos (se algum deles estiver faltando, crie)
   - https://github.com/django/django
   - https://github.com/rails/rails
