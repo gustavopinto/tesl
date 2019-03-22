@@ -17,7 +17,7 @@ Sexta-Feira, às 14:30 @ LABCOMP-01
 
 ## Telegram
 
-Endereço: Xxx
+Endereço: [tesl@telegram](https://t.me/joinchat/GeSB2RXChn9BHN0hDF0RFA)
 
 ## Objetivo Geral
 
