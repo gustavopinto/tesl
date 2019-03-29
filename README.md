@@ -9,15 +9,16 @@ Site da disciplina de tópicos especiais em software livre (TESL)
 
 ## Monitor
 
-Marcos Nazario ()
+Marcos Nazario (carvalhonazario at gmail.com[@felipenazario](https://github.com/felipenazario))
 
 ## Horário
 
-Sexta-Feira, às 14:30 @ LABCOMP-03
+Sexta-Feira, às 14:50 @ Mirante 315
+Sexta-Feira, às 16:40 @ LABCOMP-01
 
 ## Telegram
 
-Endereço: Xxx
+Para entrar no grupo, clique [aqui](https://t.me/joinchat/GeSB2RXChn9BHN0hDF0RFA).
 
 ## Objetivo Geral
 
@@ -58,21 +59,22 @@ Passível de alterações.
 
 | # | Data  | Conteúdo de Aula                                            | Responsável      | Apresentações Convidadas |
 |:-:|-------|-------------------------------------------------------------|------------------|--------------------------|
-| 1 | 22/03 | [Introdução ao software livre](Aula01.md)                   | Filipe e Gustavo |                          |
-| 2 | 29/03 | [Comunidades de software livre](Aula02.md)                  | Filipe           |                          |
-| 3 | 05/04 | [Contribuindo com software livre](Aula03.md)                | Filipe           |                          |
-| 4 | 12/04 | [Documentação](Aula04.md)                                   | Filipe           |                          |
-| 5 | 19/04 | Semana Santa                                                | ---              |                          |
-| 6 | 26/04 | [Licenças de software livre](Aula05.md)                     | Gustavo          |                          |
-| 7 | 03/05 | Gerenciamento de código e requisitos                        | Gustavo          |                          |
-| 8 | 10/05 | Boas práticas de codificação                                | Nazario          |                          |
-| 9 | 17/05 | Métodos Ágeis e software livre                              | Nazario          |                          |
-| 10 | 24/05 | [Testes e Integração contínua](Aula09.md)                  | Wagner           |                          |
-| 11 | 31/05 | Avaliação de qualidade de projetos                         | TBD              |                          |
-| 12 | 07/06 | Métricas de código fonte & Definição de projetos           | Gustavo          |                          |
-| 13 | 14/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
-| 14 | 21/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
-| 15 | 28/06 | Apresentação de projetos                                   | Filipe e Gustavo |                          |
+| 1 | 22/03 | **PARALISACAO NA UFPA**                                     | Filipe e Gustavo |                          |
+| 1 | 29/03 | [Introdução ao software livre](Aula01.md)                   | Filipe e Gustavo |                          |
+| 2 | 05/04 | [Comunidades de software livre](Aula02.md)                  | Filipe           |                          |
+| 3 | 12/04 | [Contribuindo com software livre](Aula03.md)                | Filipe           |                          |
+| 4 | 19/04 | [Documentação](Aula04.md)                                   | Filipe           |                          |
+| 5 | 26/04 | Semana Santa                                                | ---              |                          |
+| 6 | 03/05 | [Licenças de software livre](Aula05.md)                     | Gustavo          |                          |
+| 7 | 10/05 | Gerenciamento de código e requisitos                        | Gustavo          |                          |
+| 8 | 17/05 | Boas práticas de codificação                                | Nazario          |                          |
+| 9 | 24/05 | Métodos Ágeis e software livre                              | Nazario          |                          |
+| 10 | 31/05 | [Testes e Integração contínua](Aula09.md)                  | Wagner           |                          |
+| 11 | 07/06 | Avaliação de qualidade de projetos                         | TBD              |                          |
+| 12 | 14/06 | Métricas de código fonte & Definição de projetos           | Gustavo          |                          |
+| 13 | 21/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
+| 14 | 28/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
+| 15 | 05/07 | Apresentação de projetos                                   | Filipe e Gustavo |                          |
 
 ## Entrega atrasada
 

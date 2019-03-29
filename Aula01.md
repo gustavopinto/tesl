@@ -10,6 +10,7 @@
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [Oracle America, Inc. v. Google, Inc.](https://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc.)
 - [VIDEO: The Code-Breakers (Documentary, Free/Open Source Software)](https://www.youtube.com/watch?v=1uL4-EuCq0Q)
+- [The many meaning of open source](https://ieeexplore.ieee.org/document/1259206)
 
 ## Slides
 
@@ -18,8 +19,8 @@
 
 ## Atividades
 - Criar conta no GitHub
-- Alterar, via pull-request, o arquivo [Duplas.md](Grupos.md) com informações das duplas
-- Ler os arquivos README e CONTRIBUTING desses projetos (se algum deles estiver faltando, crie)
+- Alterar, via pull-request, o arquivo [Duplas.md](Duplas.md) com informações das duplas
+- Ler os arquivos README e CONTRIBUTING desses projetos
   - https://github.com/django/django
   - https://github.com/rails/rails
   - https://github.com/ishepard/pydriller
@@ -28,5 +29,4 @@
   - https://github.com/aserg-ufmg/CSIndex
   - https://github.com/funcoeszz/funcoeszz
   - https://github.com/mauricioaniche/ck
-- Baixe e instale um dos projetos acima na sua estação de trabalho
 - Preencha [esta planilha de projetos](https://docs.google.com/spreadsheets/d/1Uk-T8GFNx-yd3wId9zAvKbe_mqtCYZFy9mMQyT3tLVI/edit?usp=sharing) como explicado em sala (atividade avaliativa)
