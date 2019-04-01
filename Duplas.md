@@ -2,8 +2,8 @@
 
 Coloquem suas duplas seguindo o template:
 
-- Cassio Batsita (cassio.batista.13@gmail.com, @cassiobatista)    
-- Eric Pereira   (eric.cbcc@gmail.com,         @eriicf)
+- Cassio Batista (cassio.batista.13@gmail.com, [@cassiobatista](https://github.com/cassiobatista))    
+- Eric Pereira   (eric.cbcc@gmail.com,         [@eriicf](https://github.com/eriicf))          
 
 ## Dupla NOME
 - Nome aluno 1 (email, github)
