@@ -18,7 +18,7 @@ Sexta-Feira, às 16:40 @ LABCOMP-01
 
 ## Telegram
 
-Para entrar no grupo, clique [aqui](https://t.me/joinchat/GeSB2RXChn9BHN0hDF0RFA).
+Endereço: [tesl@telegram](https://t.me/joinchat/GeSB2RXChn9BHN0hDF0RFA)
 
 ## Objetivo Geral
 
