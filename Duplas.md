@@ -1,4 +1,4 @@
-# Grupos
+# Duplas
 
 Coloquem suas duplas seguindo o template:
 
@@ -6,5 +6,5 @@ Coloquem suas duplas seguindo o template:
 - Nome aluno 1 (email, github)
 - Nome aluno 2 (email, github)
 
-Em seguida, crie um arquivo chamado Dupla_NOME01_NOME02.md na raiz do
-projeto, para que todas as atividades sejam registradas.
+Em seguida, crie um arquivo chamado Dupla_NOME01_NOME02.md dentro do diretório
+''duplas'' na raiz do projeto, para que todas as atividades sejam registradas.
