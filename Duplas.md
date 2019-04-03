@@ -9,6 +9,6 @@ Coloquem suas duplas seguindo o template:
 Em seguida, crie um arquivo chamado Dupla_NOME01_NOME02.md dentro do diretório
 ''duplas'' na raiz do projeto, para que todas as atividades sejam registradas.
 
-## Dupla KELLY_LUCAS
+## Dupla [KELLY_LUCAS](duplas/Dupla_KELLY_LUCAS.md)
 - Kelly do Socorro Silva da Costa (kellydosocorro@gmail.com, [@kellydosocorro](https://github.com/kellydosocorro))
 - Lucas Gabriel de Souza (lucassouzaufpa@gmail.com, [@souzaluuk](https://github.com/souzaluuk))
