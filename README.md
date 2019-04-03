@@ -9,12 +9,12 @@ Site da disciplina de tópicos especiais em software livre (TESL)
 
 ## Monitor
 
-Marcos Nazario (carvalhonazario at gmail.com[@felipenazario](https://github.com/felipenazario))
+Marcos Nazario (carvalhonazario at gmail.com, [@felipenazario](https://github.com/felipenazario))
 
 ## Horário
 
-Sexta-Feira, às 14:50 @ Mirante 315
-Sexta-Feira, às 16:40 @ LABCOMP-01
+- Sexta-Feira, às 14:50 @ Mirante 216
+- Sexta-Feira, às 16:40 @ LABCOMP-01
 
 ## Telegram
 
