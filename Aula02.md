@@ -2,6 +2,8 @@
 
 ## Material extra
 
+- [Hackers – Heroes of the Computer Revolution](https://www.stevenlevy.com/index.php/books/hackers)
+- [The Tech Model Railroad Club](https://www.wired.com/2014/11/the-tech-model-railroad-club/)
 - [Building a community](https://opensource.guide/building-community/)
 - [Best Practices for Maintainers](https://opensource.guide/best-practices/)
 - [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
