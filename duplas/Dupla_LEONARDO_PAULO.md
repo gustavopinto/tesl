@@ -28,7 +28,16 @@ Os três mais novos contribuidores são Adolfo Jay Barrientos, José Vieira e Th
 Essas informações podem ser verificadas [aqui](https://www.openhub.net/p/dokuwiki/contributors?query=&time_span=&sort=newest)
 
 
+* Canais de comunicação:
 
-* Canais de comunicação: e-mail
+e-mail (andi@splitbrain.org), twitter (@dokuwiki), IRC
 
+Essas informações podem ser verificadas [aqui](https://www.dokuwiki.org/dokuwiki)
+
+* Como as tarefas são sugeridas
+
+Se você quer contribuir, basta se inscrever na lista de e-mail DokuWiki Tams Mailing List, lá você pode interagir com as pessoas e identificar as tarefas que se pode contribuir.
+Mas antes de meter a mão na massa, é sugerido que se mande um e-mail antes, se apresentando e dizendo que tipo de contribuição gostaria de dar, pois existem várias equipes, equipes de desenvolvedores, equipes de infraestrutura, equipes de tradução, equipes de gerenciamentos de releases, etc.
+
+Essas informações podem ser verificadas [aqui](https://www.dokuwiki.org/teams)
 
