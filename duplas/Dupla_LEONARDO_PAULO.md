@@ -4,4 +4,11 @@
 
 ## Link para atividades
 
-- Atividade01: [link aqui](Ficou na planilha)
+## Atividade 1
+
+* [link aqui](https://drive.google.com/open?id=1YH9ZG0aDg2qKG5W8buJ1KHplCyGDMDyPvfNg-I9mnc4)
+
+* [link aqui](https://drive.google.com/open?id=1qPo8jNEjLJp_OuyyDYt8UtSW6U0vhFOQkJJWX1ZBfbE)
+
+## Atividade 2
+
