@@ -39,3 +39,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [GUILHERME_TEOIAN](duplas/Dupla_Guilherme_Teoian.md)
 - Guilherme Smethurst Albuquerque (guitrompa1@gmail.com, [@Lakshamana](https://github.com/Lakshamana))
 - Teoian Giovane Costa Quaresma (teoian.giovane@gmail.com, [@quaresmateo](https://github.com/quaresmateo))
+
+## Dupla [CASSIO_ERIC](duplas/Dupla_CASSIO_ERIC.md)
+- Cassio Trindade Batista (cassio.batista.13@gmail.com, [@cassiobatista](https://github.com/cassiobatista))
+- Eric Felipe de Oliveira Pereira (eric.cbcc@gmail.com, [@eriicf](https://github.com/eriicf))
