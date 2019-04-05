@@ -8,4 +8,6 @@ José Paulo Neves (josepaulobrandaoneves13@gmail.com, @pauloneves123)
 ## Link para atividades
 
 - Atividade01: [link aqui](https://drive.google.com/drive/folders/1eOmzHU3JNfaCdX1keJUiAIIjm-8Uxo2V?usp=sharing)
+- Atividade02: [link aqui](https://docs.google.com/document/d/15pxFhJ-e7JOmI7Fc5F58hjDxPw2zJijt3yNSZX1MEbo/edit?usp=sharing)
+
 
