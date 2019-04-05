@@ -17,7 +17,7 @@
 
 ## Slides
 
-- TDB
+- Slide da [Aula02](https://docs.google.com/presentation/d/14aeBqzLB5Mopf1AbKwBkH0S8chJQAzLKejeDTG_zoNo/edit?usp=sharing)
 
 ## Atividades (ao menos 3 atividades)
 - Identificar novatos nos projetos
