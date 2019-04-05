@@ -7,7 +7,7 @@
 - Atividade01: [link aqui](https://drive.google.com/drive/folders/1zPgeRZ-AI_rjgGjfCBBDnH7z3ksdkQtE?usp=sharing)
 
 ## Atividade 2
-
+- Projeto escolhido: [Inkscape](https://gitlab.com/inkscape/inkscape)
 - Identificar como os canais de comunicação das comunidades
 
   Os [canais de comunicação](https://inkscape.org/pt-br/comunidade/)
