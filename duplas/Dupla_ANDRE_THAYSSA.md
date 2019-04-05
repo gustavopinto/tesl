@@ -5,3 +5,4 @@
 ## Link para atividades
 
 - Atividade01: [https://drive.google.com/open?id=1-2JYiJDWs0k8Pk1-Qo7871pGRoLcgfPD]
+- Atividade02: [https://drive.google.com/open?id=1NMC08QTeloXgR4j6hIlI2G1K_LEfPvMrCVKVAhsHAjo]
