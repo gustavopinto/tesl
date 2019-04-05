@@ -20,6 +20,9 @@
 - Slide da [Aula02](https://docs.google.com/presentation/d/14aeBqzLB5Mopf1AbKwBkH0S8chJQAzLKejeDTG_zoNo/edit?usp=sharing)
 
 ## Atividades (ao menos 3 atividades)
+
+Crie uma subseção `## Atividade 2` no seu arquivo de dupla e faça as atividades abaixo:
+
 - Identificar novatos nos projetos
 - Identificar desenvolvedores chave nos projetos
 - Identificar como tarefas são sugeridas
