@@ -12,3 +12,23 @@
 
 ## Atividade 2
 
+* Desenvolvedores chave: 
+
+Os desenvolvedores chaves são Andreas Gor (Líder) e Anika Henke (Gerente).
+O Andreas Gor utiliza o username de splibrain e tem 40 contribuições nos últimos 140 dias.
+Existem também outros desenvolvedores com um número alto de commits nos últimos 12 meses, como Michael Grobe com 97 commit e Phy com 97 commits.
+
+Essas informações podem ser verificadas [aqui](https://www.openhub.net/p/dokuwiki/contributors/summary)
+
+
+* Novos desenvolvedores: 
+
+Os três mais novos contribuidores são Adolfo Jay Barrientos, José Vieira e Thammi. No entanto, acho que são contribuições esporádicas.
+
+Essas informações podem ser verificadas [aqui](https://www.openhub.net/p/dokuwiki/contributors?query=&time_span=&sort=newest)
+
+
+
+* Canais de comunicação: e-mail
+
+
