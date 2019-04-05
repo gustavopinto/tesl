@@ -12,6 +12,8 @@
 
 ## Atividade 2
 
+Projeto DokuWiki
+
 * Desenvolvedores chave: 
 
 Os desenvolvedores chaves são Andreas Gor (Líder) e Anika Henke (Gerente).
