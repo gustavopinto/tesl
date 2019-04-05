@@ -21,5 +21,5 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Wagner Felidré Negrão (wagnerfelidre@gmail.com, [@wagnerfns](https://github.com/wagnerfns))
 
 ## Dupla [ANDRE_THAYSSA](duplas/Dupla_ANDRE_THAYSSA.md)
-- André Miranda ()
+- André Miranda (andremirandap93@gmail.com, [@andremp93]https://github.com/andremp93))
 - Thayssa Rocha (thayssa.rocha@gmail.com, [@ThayssaRocha](https://github.com/ThayssaRocha))
