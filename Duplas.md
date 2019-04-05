@@ -20,6 +20,14 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Ronaldd Patrik S. Pinho (ronaldppinho@gmail.com, [@ronaldpnh](https://github.com/ronaldpnh))
 - Wagner Felidré Negrão (wagnerfelidre@gmail.com, [@wagnerfns](https://github.com/wagnerfns))
 
+## Dupla [ANDRE_THAYSSA](duplas/Dupla_ANDRE_THAYSSA.md)
+- André Miranda (andremirandap93@gmail.com, [@andremp93]https://github.com/andremp93))
+- Thayssa Rocha (thayssa.rocha@gmail.com, [@ThayssaRocha](https://github.com/ThayssaRocha))
+
 ## Dupla [URIEL_JOAO](duplas/Dupla_URIELCAMPOS_JOAOPEDROMORAES.md)
 - Uriel Ferreira Campos (urielfcampos95@gmail.com, [@urielfcampos](https://github.com/urielfcampos)
 - João Pedro Moreira Moraes (joaopedromoraes94@gmail.com, [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)
+
+## Dupla [JOÃO_THIAGO](duplas/Dupla_JOÃO_THIAGO.md)
+- João de Deus Ferreira Filho (lubien1996@gmail.com, [@lubien](https://github.com/lubien))
+- Thiago Calado Sosinho (thiagocalado30@gmail.com, [@uzumis](https://github.com/uzumis))
