@@ -31,3 +31,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [JOÃO_THIAGO](duplas/Dupla_JOÃO_THIAGO.md)
 - João de Deus Ferreira Filho (lubien1996@gmail.com, [@lubien](https://github.com/lubien))
 - Thiago Calado Sosinho (thiagocalado30@gmail.com, [@uzumis](https://github.com/uzumis))
+
+## Dupla [LEONARDO_LUCAS](duplas/Dupla_LEONARDO_LUCAS.md)
+- Leonardo Christian Ferreira da Costa (leonardo.chfc@gmail.com, [@leochrisis](https://github.com/leochrisis))
+- Lucas Tavares Monteiro (tavares.lucas1996@gmail.com, [@tavareslucas](https://github.com/tavareslucas))
