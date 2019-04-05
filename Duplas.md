@@ -27,3 +27,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [JOÃO_THIAGO](duplas/Dupla_JOÃO_THIAGO.md)
 - João de Deus Ferreira Filho (lubien1996@gmail.com, [@lubien](https://github.com/lubien))
 - Thiago Calado Sosinho (thiagocalado30@gmail.com, [@uzumis](https://github.com/uzumis))
+
+## Dupla [GUILHERME_TEOIAN](duplas/Dupla_Guilherme_Teoian.md)
+- Guilherme Smethurst Albuquerque (guitrompa1@gmail.com, [@Lakshamana](https://github.com/Lakshamana))
+- Teoian Giovane Costa Quaresma (teoian.giovane@gmail.com, [@quaresmateo](https://github.com/quaresmateo))
