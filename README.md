@@ -14,7 +14,7 @@ Marcos Nazario (carvalhonazario at gmail.com, [@felipenazario](https://github.co
 ## Horário
 
 - Sexta-Feira, às 14:50 @ Mirante 216
-- Sexta-Feira, às 16:40 @ LABCOMP-01
+- Sexta-Feira, às 16:40 @ LABCOMP-02
 
 ## Telegram
 
