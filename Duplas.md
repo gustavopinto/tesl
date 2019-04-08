@@ -19,3 +19,8 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [RONALD_WAGNER](duplas/Dupla_RONALD_WAGNER.md)
 - Ronaldd Patrik S. Pinho (ronaldppinho@gmail.com, [@ronaldpnh](https://github.com/ronaldpnh))
 - Wagner Felidré Negrão (wagnerfelidre@gmail.com, [@wagnerfns](https://github.com/wagnerfns))
+
+## Dupla [LEONARDO_PAULO](duplas/Dupla_LEONARDO_PAULO.md)
+- Leonardo Junqueira da Silva Valente (leonardovalente@gmail.com, [@leojsv](https://github.com/leojsv))
+- Paulo Fernando Souza Rodrigues Junior  (pjpaulor@gmail.com, [@pjpaulor](https://github.com/pjpaulor))
+
