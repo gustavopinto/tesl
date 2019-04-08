@@ -20,6 +20,10 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Ronaldd Patrik S. Pinho (ronaldppinho@gmail.com, [@ronaldpnh](https://github.com/ronaldpnh))
 - Wagner Felidré Negrão (wagnerfelidre@gmail.com, [@wagnerfns](https://github.com/wagnerfns))
 
+## Dupla [LEONARDO_PAULO](duplas/Dupla_LEONARDO_PAULO.md)
+- Leonardo Junqueira da Silva Valente (leonardovalente@gmail.com, [@leojsv](https://github.com/leojsv))
+- Paulo Fernando Souza Rodrigues Junior  (pjpaulor@gmail.com, [@pjpaulor](https://github.com/pjpaulor))
+
 ## Dupla [CAIO_LEONARDO](duplas/Dupla_CAIO_LEONARDO.md)
 - Caio Shimada Rabello (xcaiosr@gmail.com, [@caiosr](https://github.com/CaioSR))
 - Leonardo Barbosa Furtado (srleonardofurtado@gmail.com, [@leonardofurtado](https://github.com/LeonardoFurtado))
