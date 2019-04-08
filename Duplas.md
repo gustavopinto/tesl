@@ -51,3 +51,8 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [GABRIEL_TAINA](duplas/Dupla_GABRIEL_TAINA.md)
 - Gabriel de Moraes Quinto (gabrielquintoand@gmail.com, [@gabrielgm5](https://github.com/gabrielgm5))
 - Tainá Inaie dos Santos da Silva (taina.inaie@gmail.com, [@inaie](https://github.com/inaie))
+
+## Dupla [Reinaldo_Wescley](duplas/Dupla_1_Reinaldo_Cardoso_2_Wescley_Fontes.md)
+- Nome: Wescley Fontes (wescley.fontes@gmail.com, https://github.com/wescley/)
+- Nome: Reinaldo Cardoso (reinald28@gmail.com, https://github.com/reinald28)
+
