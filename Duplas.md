@@ -56,3 +56,6 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Nome: Wescley Fontes (wescley.fontes@gmail.com, https://github.com/wescley/)
 - Nome: Reinaldo Cardoso (reinald28@gmail.com, https://github.com/reinald28)
 
+## Dupla [ANDRÉ_JULIO](duplas/Dupla_André_Julio.md)
+ - Nome: André Francisco Pastana da Cunnha (andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))
+ - Nome: Julio Cesar Oliveira Carvalho (julio.developer10@gmail.com, [@juliocesark](https://github.com/juliocesark))
