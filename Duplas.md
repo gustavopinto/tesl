@@ -39,3 +39,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [GUILHERME_TEOIAN](duplas/Dupla_Guilherme_Teoian.md)
 - Guilherme Smethurst Albuquerque (guitrompa1@gmail.com, [@Lakshamana](https://github.com/Lakshamana))
 - Teoian Giovane Costa Quaresma (teoian.giovane@gmail.com, [@quaresmateo](https://github.com/quaresmateo))
+
+## Dupla [GABRIEL_TAINA](duplas/Dupla_GABRIEL_TAINA.md)
+- Gabriel de Moraes Quinto (gabrielquintoand@gmail.com, [@gabrielgm5](https://github.com/gabrielgm5))
+- Tainá Inaie dos Santos da Silva (taina.inaie@gmail.com, [@inaie](https://github.com/inaie))
