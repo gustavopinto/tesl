@@ -19,3 +19,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [RONALD_WAGNER](duplas/Dupla_RONALD_WAGNER.md)
 - Ronaldd Patrik S. Pinho (ronaldppinho@gmail.com, [@ronaldpnh](https://github.com/ronaldpnh))
 - Wagner Felidré Negrão (wagnerfelidre@gmail.com, [@wagnerfns](https://github.com/wagnerfns))
+
+## Dupla [LEONARDO_LUCAS](duplas/Dupla_LEONARDO_LUCAS.md)
+- Leonardo Christian Ferreira da Costa (leonardo.chfc@gmail.com, [@leochrisis](https://github.com/leochrisis))
+- Lucas Tavares Monteiro (tavares.lucas1996@gmail.com, [@tavareslucas](https://github.com/tavareslucas))
