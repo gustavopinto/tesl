@@ -14,7 +14,7 @@ Marcos Nazario (carvalhonazario at gmail.com, [@felipenazario](https://github.co
 ## Horário
 
 - Sexta-Feira, às 14:50 @ Mirante 216
-- Sexta-Feira, às 16:40 @ LABCOMP-01
+- Sexta-Feira, às 16:40 @ LABCOMP-02
 
 ## Telegram
 
@@ -63,8 +63,8 @@ Passível de alterações.
 | 1 | 29/03 | [Introdução ao software livre](Aula01.md)                   | Filipe e Gustavo |                          |
 | 2 | 05/04 | [Comunidades de software livre](Aula02.md)                  | Filipe           |                          |
 | 3 | 12/04 | [Contribuindo com software livre](Aula03.md)                | Filipe           |                          |
-| 4 | 19/04 | [Documentação](Aula04.md)                                   | Filipe           |                          |
-| 5 | 26/04 | Semana Santa                                                | ---              |                          |
+| 4 | 19/04 | Semana Santa                                                | ---              |                          |
+| 5 | 26/04 | [Documentação](Aula04.md)                                   | Filipe           |                          |
 | 6 | 03/05 | [Licenças de software livre](Aula05.md)                     | Gustavo          |                          |
 | 7 | 10/05 | Gerenciamento de código e requisitos                        | Gustavo          |                          |
 | 8 | 17/05 | Boas práticas de codificação                                | Nazario          |                          |

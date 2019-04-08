@@ -43,3 +43,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [CASSIO_ERIC](duplas/Dupla_CASSIO_ERIC.md)
 - Cassio Trindade Batista (cassio.batista.13@gmail.com, [@cassiobatista](https://github.com/cassiobatista))
 - Eric Felipe de Oliveira Pereira (eric.cbcc@gmail.com, [@eriicf](https://github.com/eriicf))
+
+## Dupla [GABRIEL_TAINA](duplas/Dupla_GABRIEL_TAINA.md)
+- Gabriel de Moraes Quinto (gabrielquintoand@gmail.com, [@gabrielgm5](https://github.com/gabrielgm5))
+- Tainá Inaie dos Santos da Silva (taina.inaie@gmail.com, [@inaie](https://github.com/inaie))
