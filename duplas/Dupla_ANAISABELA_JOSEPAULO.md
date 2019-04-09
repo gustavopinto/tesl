@@ -1,8 +1,8 @@
 # Dupla ANAISABELA e JOSEPAULO
 
-Ana Isabela Manito Ramos (aisabelamr@gmail.com, @anaisabelamr)
+Ana Isabela Manito Ramos (aisabelamr@gmail.com, [@anaisabelamr](https://github.com/anaisabelamr))
 
-José Paulo Neves (josepaulobrandaoneves13@gmail.com, @pauloneves123)
+José Paulo Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://github.com/pauloneves123))
 
 
 ## Link para atividades
