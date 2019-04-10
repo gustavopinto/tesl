@@ -59,3 +59,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [ANDRÉ_JULIO](duplas/Dupla_André_Julio.md)
  - Nome: André Francisco Pastana da Cunnha (andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))
  - Nome: Julio Cesar Oliveira Carvalho (julio.developer10@gmail.com, [@juliocesark](https://github.com/juliocesark))
+ 
+## Dupla [THAYS_AUGUSTO](duplas/Dupla_THAYS_AUGUSTO.md)
+- Thays Dhandarah Rodrigues Sá  (dhandarah1996@gmail.com, [@dhandarah](https://github.com/dhandarah))
+- Augusto Farias Cravo (augusto.f.cravo@gmail.com, [@augustofcravo](https://github.com/augustofcravo))
