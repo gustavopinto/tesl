@@ -4,7 +4,7 @@
 ## Link para atividades
 
 - Atividade01: [link aqui](#)
-- Atividade02: [Link aqui](https://docs.google.com/document/d/1z7i2o5C48DcbmhXWKgzWHaZlLgnNqLvth65ATvyjhWg/edit?usp=sharing)
+- Atividade02: [link aqui](https://docs.google.com/document/d/1z7i2o5C48DcbmhXWKgzWHaZlLgnNqLvth65ATvyjhWg/edit?usp=sharing)
 - Atividade03: [link aqui](#)
  
 
