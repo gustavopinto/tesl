@@ -1,0 +1,36 @@
+# Dupla Caio_Isaac
+
+- Caio Marcos Flexa Rodrigues (caiomfrodrigues@gmail.com, @caioMFRodrigues)
+- Isaac Souza Elgrably (email, github)
+
+# Link para atividades
+
+- Atividade01: [link aqui](#)
+
+## Atividade02
+
+Atividade 02
+
+Projeto: scikit-learn
+
+Contribuidores novatos
+
+Alguns dos contribuidores novatos são apresentados abaixo. Tais contribuidores realizaram poucos commits recentemente.
+
+wdevazelhes [https://github.com/scikit-learn/scikit-learn/commits?author=wdevazelhes];
+naoyak [https://github.com/scikit-learn/scikit-learn/commits?author=naoyak];
+tguillemot [https://github.com/scikit-learn/scikit-learn/commits?author=tguillemot]; 
+jakirkham [https://github.com/scikit-learn/scikit-learn/commits?author=jakirkham].
+
+Contribuidores chave
+
+Os contribuidores chave do projeto são:
+
+amueller [https://github.com/scikit-learn/scikit-learn/commits?author=amueller] (criador do projeto; ele possui a maior parte dos commits na história do projeto);
+ogrisel [https://github.com/scikit-learn/scikit-learn/commits?author=ogrisel] (segundo maior contribuidor);
+GaelVaroquaux [https://github.com/scikit-learn/scikit-learn/commits?author=GaelVaroquaux];
+larsmans [https://github.com/scikit-learn/scikit-learn/commits?author=larsmans].
+
+Sugestão de tarefas
+
+Sugestão de tarefas está descrita no ReadMe do projeto na seção “Maintainership” detalhando que tipo de mantenedores estão sendo procurados. No projeto os mantenedores devem realizar triagem de issues, pull requests e cut releases. Pessoas que trabalham em projetos que utilizam o scikit-learn e tem interesse em auxiliar eu seu desenvolvimento podem enviar um email a alguém do arquivo de Mantenedores. Além disso, o acesso ao site “https://scikit-learn.org/stable/” é recomendado para mais informações.
