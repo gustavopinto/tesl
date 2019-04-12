@@ -5,6 +5,8 @@
 - [50 ways to be  FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer)
 - [The Census of the Brazilian Open-Source Community](http://gustavopinto.org/lost+found/oss2014.pdf)
 - [Why do commercial companies contribute to open source software?](https://www.sciencedirect.com/science/article/pii/S026840121100123X)
+- [Why Hackers Do What They Do: Understanding Motivation and Effort in Free/Open Source Software Projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=443040)
+- [Let me in: Guidelines for the Successful Onboarding of Newcomers to Open Source Projects](http://www.igor.pro.br/publica/papers/IEEESoft_2018.pdf)
 - [Contribute on Open Source Friday](https://github.blog/2017-06-27-contribute-on-open-source-friday/)
 
 ## Slides
