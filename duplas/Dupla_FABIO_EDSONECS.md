@@ -27,3 +27,19 @@ link: https://openhub.net/p/apache/contributors/309237652638
 
 Identificar como os canais de comunicação das comunidades:
 Lista de e-mail: announce-subscribe@httpd.apache.org
+
+## Atividade 3
+
+commit: grava alterações no repositório
+push: envia alterações ao seu repositório remoto
+pull: atualiza seu repositório local com a mais nova versão, execute 
+checkout: faz uma verificação enquanto o arquivo ainda não foi adicionado na staged area
+log: exibe histórico
+shortlog: exibe um histórico com as últimas atualizações
+
+ghlp$ git shortlog -sne
+     5  Filipe Saraiva <saraiva@ufpa.br>
+    24  Gustavo Pinto <gustavohenrique.86@gmail.com>
+
+https://github.com/django/django/pull/11200
+Minha contribuição foi a tradução de como usar o Django       
