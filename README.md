@@ -87,5 +87,3 @@ Todos os trabalhos (a não ser que indicados explicitamentes) devem ser feitos d
 ## Pontuação extra
 
 Dado a existência da atividade extra (AE), qualquer pontuação extra não será possível.
-
-TESTEs
