@@ -14,6 +14,7 @@
 ## Atividade 03
 
 1 - Obrigatória
+
 - commit: uma operação que descreve certa mudança/incremento/exclusão de código
 - push: Envia mudanças locais para o reposiório origem
 - pull: puxa mudanças localmente do repsotório de origem
