@@ -17,8 +17,13 @@
 
 Crie uma subseção `## Atividade 3` no seu arquivo de dupla e faça as atividades abaixo:
 
-- Experimente os commandos do `git` em algum repositório de código. Utilize os commandos commit, push, pull, checkout, log, etc. Descreva o que é pedido a seguir:
-  - O nome do projeto, principal linguagem em que é desenvolvido, as principais bibliotecas utilizadas.
+- (Obrigatória) Experimente os commandos do `git` em algum repositório de código. Utilize os commandos `commit`, `push`, `pull`, `checkout`, `log`, `shortlog`, etc. Descreva o que cada um desses comandos faz. 
+- Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
+```
+ghlp$ git xxxx
+     5  Filipe Saraiva <saraiva@ufpa.br>
+    24  Gustavo Pinto <gustavohenrique.86@gmail.com>
+```
 - Acesse os sites abaixo e procure um projeto que esteja procurando por ajuda. Tente fazer uma contribuição:
   - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
   - [Your First PR](https://yourfirstpr.github.io/)
