@@ -74,3 +74,8 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTORHUGO_BHRUNNO)
 - Victor Hugo Azevedo Ferreira (victorhugo543af@gmail.com, [@VictorBSI](https://github.com/VictorBSI))
 - Bhrunno Brito Medeiros (bhrunno.medeiros@gmail.com, [@Bhrunno](https://github.com/bhrunno))
+
+## Dupla [HAMILTON_MATHEUS](duplas/Dupla_Hamilton_Matheus.md)
+- Hamilton Cavalcante (hamiltoncavalcante@gmail.com) [@HCavalcante](https://github.com/HCavalcante)
+- Matheus Seabra (matheusvieiracoelho@gmail.com) [@matheuseabra](https://github.com/matheuseabra)
+
