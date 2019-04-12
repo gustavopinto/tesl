@@ -13,3 +13,19 @@
 - Identificar como tarefas são sugeridas: Tarefas são sugeridas através de Issues que não são categorizadas, entretanto contém com um guia de inserção no readme (https://github.com/quasarframework/quasar/blob/dev/README.md).
 - Identificar como novas contribuições são avaliadas: O responsável por avaliar as contribuições é o desenvolvedor chave (https://github.com/rstoenescu), que pode ser notado pelo padrão dos commits da Branch Master do QUASAR Framework. 
 - Identificar como os canais de comunicação das comunidades: Fórum do QUASAR (https://forum.quasar-framework.org) e servidor no DISCORD (http://chat.quasar-framework.org)
+
+## Atividade 3
+
+- Experimente os commandos do `git` em algum repositório de código. Utilize os commandos `commit`, `push`, `pull`, `checkout`, `log`, `shortlog`, etc. Descreva o que cada um desses comandos faz:
+  - `commit`: Este comando cria um estado dentro da atual branch que encapsula as alterações que foram feitas contendo um log dessas alterações e tem o objetivo de posteriormente adiciona-las ao repositório remoto.
+  - `push`: atualiza as referências remotas utilizando as referências locais, ou seja, o comando push "empurra" as alterações para a origin desejada.
+  - `pull`: o comando compara qual o estado atual da árvore de commit local com a árvore de commits remota, e atualiza a árvore local caso exista uma desatualização.
+  - `checkout`: este comando atualiza os arquivos da árvore de trabalho para o index especificado ou para a árvore de trabalho especificada.
+  - `log` : o comando apresenta a lista de commits, bem como as informações relacionadas a estas (autor, data, hora).
+  - `shortlog`: sumariza a lista de commits de forma que seja possível notar quais foram os autores responsáveis pelos commits, em geral são usados no anúncio de uma nova release.
+
+- Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
+  - O comando para executar o que foi pedido é `git shortlog -e -s`
+  
+- Acesse os sites abaixo e procure um projeto que esteja procurando por ajuda. Tente fazer uma contribuição:
+  
