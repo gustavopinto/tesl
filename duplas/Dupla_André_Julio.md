@@ -17,3 +17,16 @@
     - Alexander Fefelov: [@alexanderfefelov](https://github.com/EbookFoundation/free-programming-books/commits?author=alexanderfefelov)
 	    - Segundo principal contribuidor, com 134 commits.
 - Identificar como novas contribuições são avaliadas: [Codigo de conduta](https://github.com/EbookFoundation/free-programming-books/blob/master/CODE_OF_CONDUCT.md)
+### Atividade 03:
+- Experimente os commandos do git em algum repositório de código. Utilize os commandos commit, push, pull, checkout, log, shortlog, etc. Descreva o que cada um desses comandos faz:	
+    - Commit: Utilizado para identificar uma mudança em um repositório.
+    - Push: Utilizado para enviar uma mudança de código para o repositório.
+    - Pull: Utilizado para puxar as ultimas mudanças do repositório.
+    - Checkout: Utilizado para mudar de Branch.
+    - Log: Utilizado para verificar um histórico de commits.
+    - Shortlog: Utilizado para visualizar os commits de forma agrupada.
+    - Clone: Utilizado para clonar um repositório.
+- Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto:
+    - Foi feito um [Pull-Request](https://github.com/python-babel/babel/pull/638) para a tradução de um arquivo da documentação do projeto [babel](https://github.com/python-babel/babel).
+- Acesse os sites abaixo e procure um projeto que esteja procurando por ajuda:
+    - Foi escolhido o projeto [yourfirstpr.github.io](https://github.com/yourfirstpr/yourfirstpr.github.io) e foi feito um [Pull-Request](https://github.com/yourfirstpr/yourfirstpr.github.io/pull/156) para atualização na formatação do arquivo, código de conduta.
