@@ -22,6 +22,6 @@
 - log: exibe uma série de informações sobre a mudança
 - shortlog: exibe um log mais curto sobre as mudanças
 
-2 - git shortlog -n -e 
+2 - git shortlog -s -n -e 
 
 
