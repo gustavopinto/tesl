@@ -26,3 +26,17 @@
     2 - Corrigir uma issue de bug
     3 - Desenvolver sua própria aplicação servidora
     4 - Melhorar o Core do ownCloud
+
+## Atividade03: 
+    - Obrigatória:
+        Add: inclusão de novos arquivos no Stage
+        Commit: confirma o envio das alterações para o repositório local
+        Push: enviar as alterações para o repositório remoto
+        Pull: atualiza o repositório local com a versão mais nova constante no repositório remoto.
+        Checkout: sobrescreve o repositório local com a versão mais nova constante no repositório remoto.
+        Log: mostra o histórico dos commits realizados com id, autor, data e comentário
+        ShortLog: gera um resumo das mudanças que aconteceram no código a partir de uma determinada versão informada, agrupada por autor.
+        - Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
+        git shortlog -n -s -e
+        - Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+        https://github.com/lubien/ufpa-advanced-databases-2018-assignment-01/pull/2
