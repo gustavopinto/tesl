@@ -3,6 +3,8 @@
 ## Material extra
 
 - [50 ways to be  FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer)
+- [The Census of the Brazilian Open-Source Community](http://gustavopinto.org/lost+found/oss2014.pdf)
+- [Why do commercial companies contribute to open source software?](https://www.sciencedirect.com/science/article/pii/S026840121100123X)
 - [Contribute on Open Source Friday](https://github.blog/2017-06-27-contribute-on-open-source-friday/)
 
 ## Slides
