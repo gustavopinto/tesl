@@ -13,10 +13,14 @@
 
 - Slide da [Aula03](https://docs.google.com/presentation/d/1cZCiyEl776GnaOztfOgd8M9OpDtMsdr3cClJKk2Lvq4/edit?usp=sharing)
 
-## Atividades (ao menos 3 atividades)
+## Atividades (ao menos 2 atividades)
 
-- Instale o git (** obrigatória), e experimente os commandos commit, push, pull, checkout, log, etc
-- Acesse os sites e procure um projeto que esteja procurando por ajuda, e tente fazer uma contribuição
+Crie uma subseção `## Atividade 3` no seu arquivo de dupla e faça as atividades abaixo:
+
+- Experimente os commandos do `git` em algum repositório de código. Utilize os commandos commit, push, pull, checkout, log, etc. Descreva o que é pedido a seguir:
+  - O nome do projeto, principal linguagem em que é desenvolvido, as principais bibliotecas utilizadas.
+- Acesse os sites abaixo e procure um projeto que esteja procurando por ajuda. Tente fazer uma contribuição:
+  - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
   - [Your First PR](https://yourfirstpr.github.io/)
   - [Up For Grabs](https://up-for-grabs.net/#/)
   - [CodeTriage](https://www.codetriage.com/)
