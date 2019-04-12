@@ -13,7 +13,7 @@
 
 - Slide da [Aula03](https://docs.google.com/presentation/d/1cZCiyEl776GnaOztfOgd8M9OpDtMsdr3cClJKk2Lvq4/edit?usp=sharing)
 
-## Atividades (ao menos 2 atividades)
+## Atividades (ao menos 3 atividades)
 
 Crie uma subseção `## Atividade 3` no seu arquivo de dupla e faça as atividades abaixo:
 
