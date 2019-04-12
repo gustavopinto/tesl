@@ -17,7 +17,7 @@
 
 Crie uma subseção `## Atividade 3` no seu arquivo de dupla e faça as atividades abaixo:
 
-- (Obrigatória) Experimente os commandos do `git` em algum repositório de código. Utilize os commandos `commit`, `push`, `pull`, `checkout`, `log`, `shortlog`, etc. Descreva o que cada um desses comandos faz. 
+- (Obrigatória) Experimente os comandos do `git` em algum repositório de código. Utilize os commandos `commit`, `push`, `pull`, `checkout`, `log`, `shortlog`, etc. Descreva o que cada um desses comandos faz. 
 - Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
 ```
 ghlp$ git xxxx
