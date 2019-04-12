@@ -64,7 +64,10 @@ Dupla_NOME01_NOME02.md recentemente criado.
  - Nome: André Francisco Pastana da Cunnha (andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))
  - Nome: Julio Cesar Oliveira Carvalho (julio.developer10@gmail.com, [@juliocesark](https://github.com/juliocesark))
  
- ## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTOR_BHRUNNO.md)
+## Dupla [THAYS_AUGUSTO](duplas/Dupla_THAYS_AUGUSTO.md)
+- Thays Dhandarah Rodrigues Sá  (dhandarah1996@gmail.com, [@dhandarah](https://github.com/dhandarah))
+- Augusto Farias Cravo (augusto.f.cravo@gmail.com, [@augustofcravo](https://github.com/augustofcravo))
+
+## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTOR_BHRUNNO.md)
 - Victor Hugo Azevedo Ferreira (victorhugo543af@gmail.com, [@VictorBSI](https://github.com/VictorBSI))
 - Bhrunno Brito Medeiros (bhrunno.medeiros@gmail.com, [@Bhrunno](https://github.com/bhrunno))
-
