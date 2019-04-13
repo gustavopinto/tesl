@@ -13,12 +13,12 @@
   Os [canais de comunicação](https://inkscape.org/pt-br/comunidade/)
 identificados foram:
     
-    - Fórum [oficial](https://forum.inkscapecommunity.com/index.php) e fóruns 
+  - Fórum [oficial](https://forum.inkscapecommunity.com/index.php) e fóruns 
 regionais;
-    - [Listas de 
+  - [Listas de 
 e-mails](https://inkscape.org/community/mailing-lists/#inkscape-user);
-    - [Chat](https://inkscape.org/community/discussion/);
-    - [Galeria](https://inkscape.org/gallery/) com trabalhos de artistas que 
+  - [Chat](https://inkscape.org/community/discussion/);
+  - [Galeria](https://inkscape.org/gallery/) com trabalhos de artistas que 
 utilizam a ferramenta.
 
 - Identificar como tarefas são sugeridas
@@ -41,3 +41,50 @@ desenvolvedores podem contribuir para a ferramenta;
 classificação destes erros por etiquetas e discussões em cima destas 
 solicitações.
 
+## Atividade 3
+- Listando e descrevendo os seguintes comandos do `git`: `commit`, `push`, `pull`, `checkout`, `log` e `shortlog`.
+
+  ```
+  commit:
+  Função: Registra as alterações no repositório
+  Forma de utilização: git commit [opções]
+  Exemplo de uso: git commit -m 'Aletaração na classe EXMEPLO'
+  Onde o -m: Adiciona uma mensagem ao commit. Normalmente utilizada para indicar 
+  sobre o que se trata aquela alteração.
+  ```
+  ```
+  push:
+  Função: Atualiza referências remotas junto aos objetos associados.
+  Forma de utilização: git push [opções]
+  Exemplo de uso: git push origin master
+  Onde origin se refere ao repositório remoto de origem e master a branch master
+  deste repositório remoto.
+  ```
+  ```
+  pull:
+  Função: Integra com outro repositório ou um branch local.
+  Forma de utilização: git pull [opções]
+  Exemplo de uso: git pull
+  ```
+  ```
+  checkout:
+  Função: alterna entre branches ou restaura arquivos da árvore de trabalho
+  Forma de utilização: git checkout [opções]
+  Exemplo de uso: git checkout branch-exemplo
+  ```
+  ```
+  log:
+  Função: exibe os logs de commit
+  Forma de utilização: git log [opções]
+  Exemplo de uso: git log --grep='Aletaração na classe EXMEPLO'
+  ```
+  ```
+  shortlog:
+  Função: resume a saída do 'git log'
+  Forma de utilização: git shortlog [opções]
+  Exemplo de uso: git shortlog -n -e -s
+  ```
+- O comando `git` que imprime uma saída neste formato `"quant_commits Autor <email>"` é:
+
+  `git shortlog [-e|--email] [-s|--summary]`
+  
