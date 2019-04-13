@@ -47,9 +47,28 @@ user@host ~/git-all/tesl (master) $ git shortlog -se
      3	reinald28 <49073381+reinald28@users.noreply.github.com>
      2	tavareslucas <tavares.lucas1996@gmail.com>
 ```
-
+Explicação do comando:     
 ```bash
 git shortlog \
     -s # mostra somente o número de commits por autor, suprimindo qualquer outra descrição textual
     -e # mostra o email de cada autor
-```
+```      
+
+3. Fazer um PR que melhore documentação/tradução de um projeto:     
+Fizemos mais que isso e implementamos duas funções em um projeto na área de
+processamento de linguagem natural (NLP, do inglês *natural language
+processing*). O projeto converte números para sua versão por extenso em forma de
+texto (e.g.: `68 -> "sessenta e oito"`), e tinha as funcionalidades de converter
+números cardinais, ordinais e moedas (*currency*) com os métodos
+`to_cardinal()`, `to_ordinal()` e `to_currency()`, respectivamente. Nós
+implementamos os métodos `to_date()` (Cassio) e `to_time()` (Eric) para
+converter de forma respectiva padrões de datas 
+(e.g.: `12/5/1875 -> "doze de maio de mil, novecentos e setenta e cinco"`) e 
+horas (e.g.: `14:55 -> "catorze e cinquenta e cinco"`).
+
+Os métodos encontram-se dentro do arquivo
+[lang_PT_BR.py](https://github.com/cassiobatista/num2words/blob/master/num2words/lang_PT_BR.py),
+o qual encontra-se no repositório do 
+[@cassiobatista](https://github.com/cassiobatista/num2words) que foi por sua vez
+forked to repositório original do 
+[@savoirfairelinux](https://github.com/savoirfairelinux/num2words).
