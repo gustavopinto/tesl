@@ -66,11 +66,14 @@ git shortlog \
    de datas (e.g.: `12/5/1875 -> "doze de maio de mil, novecentos e setenta e
    cinco"`) e horas (e.g.: `14:55 -> "catorze e cinquenta e cinco"`).
 
+    - O link para o projeto foi encontrado no site do
+   [CodeTriage](https://www.codetriage.com/savoirfairelinux/num2words).
+
     - Os métodos encontram-se dentro do arquivo
    [lang_PT_BR.py](https://github.com/cassiobatista/num2words/blob/master/num2words/lang_PT_BR.py),
    o qual encontra-se no repositório do
    [@cassiobatista](https://github.com/cassiobatista/num2words) que foi por
    sua vez forked to repositório original do
    [@savoirfairelinux](https://github.com/savoirfairelinux/num2words). Por fim,
-   oPR encontra-se neste 
+   o PR encontra-se neste 
    [link](https://github.com/savoirfairelinux/num2words/pull/250).
