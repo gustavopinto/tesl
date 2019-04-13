@@ -34,3 +34,24 @@ larsmans [https://github.com/scikit-learn/scikit-learn/commits?author=larsmans].
 Sugestão de tarefas
 
 Sugestão de tarefas está descrita no ReadMe do projeto na seção “Maintainership” detalhando que tipo de mantenedores estão sendo procurados. No projeto os mantenedores devem realizar triagem de issues, pull requests e cut releases. Pessoas que trabalham em projetos que utilizam o scikit-learn e tem interesse em auxiliar eu seu desenvolvimento podem enviar um email a alguém do arquivo de Mantenedores. Além disso, o acesso ao site “https://scikit-learn.org/stable/” é recomendado para mais informações.
+
+## Atividade03
+
+Atividade 03
+
+ - Commit é o ato de commitar suas modificações. Essas modificações serão inseridas no histórico do projeto as outras pessoas participantes do projeto.
+ - Push é o comando de enviar um projeto para ser compartilhado.
+ - Pull é um comando que incorpora mudanças de um repositório remoto para o branch local.
+ - Checkout Atualiza arquivos na árvore de trabalho para corresponder à versão no índice ou na árvore especificada.
+ - Log é utlizado para verificar os logs de commits do projeto.
+ - Shortlog mostra a quantidade de commits do projeto.
+
+Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
+
+git shortlog -sne
+
+Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+MunGell/awesome-for-beginners
+Add Brazilian version - free translation CONTRIBUTING.md #339
+	Elgrably wants to merge 141 commits into
