@@ -64,7 +64,8 @@ git shortlog \
    `to_currency()`, respectivamente. Nós implementamos os métodos `to_date()`
    (Cassio) e `to_time()` (Eric) para converter de forma respectiva padrões
    de datas (e.g.: `12/5/1875 -> "doze de maio de mil, novecentos e setenta e
-   cinco"`) e horas (e.g.: `14:55 -> "catorze e cinquenta e cinco"`).
+   cinco"`) e horas 
+   (e.g.: `14:55 -> "catorze horas e cinquenta e cinco minutos"`).
 
     - O link para o projeto foi encontrado no site do
    [CodeTriage](https://www.codetriage.com/savoirfairelinux/num2words).
