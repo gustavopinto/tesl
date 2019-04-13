@@ -64,7 +64,7 @@ Passível de alterações.
 | 2 | 05/04 | [Comunidades de software livre](Aula02.md)                  | Filipe           |                          |
 | 3 | 12/04 | [Contribuindo com software livre](Aula03.md)                | Filipe           |                          |
 | 4 | 19/04 | Semana Santa                                                | ---              |                          |
-| 5 | 26/04 | [Documentação](Aula04.md)                                   | Filipe           |                          |
+| 5 | 26/04 | [Documentação](Aula04.md)                                   | Filipe           | [Debian](https://www.debian.org/), por [Antonio Terceiro](http://softwarelivre.org/terceiro) |
 | 6 | 03/05 | [Licenças de software livre](Aula05.md)                     | Gustavo          |                          |
 | 7 | 10/05 | Gerenciamento de código e requisitos                        | Gustavo          |                          |
 | 8 | 17/05 | Boas práticas de codificação                                | Nazario          | [GNOME](https://www.gnome.org/), por [George Stavracas](https://feaneron.com/) |
