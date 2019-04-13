@@ -74,6 +74,7 @@ git shortlog \
    o qual encontra-se no repositório do
    [@cassiobatista](https://github.com/cassiobatista/num2words) que foi por
    sua vez forked to repositório original do
-   [@savoirfairelinux](https://github.com/savoirfairelinux/num2words). Por fim,
-   o PR encontra-se neste 
+   [@savoirfairelinux](https://github.com/savoirfairelinux/num2words). 
+
+   - Por fim, o PR encontra-se neste 
    [link](https://github.com/savoirfairelinux/num2words/pull/250).
