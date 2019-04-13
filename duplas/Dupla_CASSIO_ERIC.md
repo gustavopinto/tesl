@@ -7,12 +7,49 @@
 
 - Atividade01: [link](https://docs.google.com/spreadsheets/d/1KE8YOIUFBwCTb0rkOSTE5cIdBi0Fqv2-fO4vAG79OeI/edit#gid=122497701) e [link](https://docs.google.com/spreadsheets/d/1fV-axR9_C6V3LBRMxadurJQAEyGZCzFRBiEPeVW-tUo/edit#gid=122497701)
 - Atividade02: [link](https://docs.google.com/document/d/1ealVO6usU1eS3idCyYAy9e8tJCLbtb6hvh2gnyrpOnU/edit)
-## Atividade 03
-- Commit: Serve para confirmar as mudanças feitas nos arquivos.
-- Push: Comando para enviar as mudanças salvas localmente para o repositório.
-- Pull: Comando para atualizar o repositório local com a mais nova versão.
-- Checkout: Comando para alternar entre os branch de um projeto.
-- Log: Comando para mostrar o id, autor, data e mensagens dos commits.
-- Shortlog: Mostra por usuário o número de commits.
-- Comando para mostrar o número de commit, nome do autor e email do autor: git shortlog -n -s -e
 
+## Atividade 03
+1. Experimentando comandos do `git`:    
+    - `commit`: Serve para confirmar as mudanças feitas nos arquivos.    
+    - `push`: Comando para enviar as mudanças salvas localmente para o repositório.    
+    - `pull`: Comando para atualizar o repositório local com a mais nova versão.    
+    - `checkout`: Comando para alternar entre os branch de um projeto.    
+    - `log`: Comando para mostrar o id, autor, data e mensagens dos commits.    
+    - `shortlog`: Mostra por usuário o número de commits.    
+
+2. Imprimir saída de terminal similar:    
+```
+user@host ~/git-all/tesl (master) $ git shortlog -se
+     1	AugustofCravo <49079453+AugustofCravo@users.noreply.github.com>
+     4	Caio Shimada Rabello <xcaiosr@gmail.com>
+     2	CaioMFRodrigues <caiomfrodrigues@gmail.com>
+     2	Cassio Batista <cassio.batista.13@gmail.com>
+     2	EdsonECS <49080256+EdsonECS@users.noreply.github.com>
+     9	Filipe Saraiva <mail@filipesaraiva.info>
+    18	Filipe Saraiva <saraiva@ufpa.br>
+     2	Gabriel Quinto <gabrielquintoand@gmail.com>
+    53	Gustavo Pinto <gustavohenrique.86@gmail.com>
+     2	João Ferreira <lubien1996@gmail.com>
+     2	Julio Cesar <julio.developer10@gmail.com>
+     3	Lakshamana <guitrompa1@gmail.com>
+     4	Lucas Gabriel de Souza <lucassouzaufpa@gmail.com>
+     2	Lucas Monteiro <tavares.lucas1996@gmail.com>
+     2	Lucas Souza <lucassouzaufpa@gmail.com>
+     1	Ronaldd <ronaldppinho@gmail.com>
+    11	Ronan Silva <contato.ronansilva@gmail.com>
+     5	ThayssaRocha <49079381+ThayssaRocha@users.noreply.github.com>
+     5	Uriel Campos <31864637+urielfcampos@users.noreply.github.com>
+     2	VictorBSI <38796125+VictorBSI@users.noreply.github.com>
+     1	Wagner Negrão <35495925+wagnerfns@users.noreply.github.com>
+     1	eriicf <eric.cbcc@gmail.com>
+     7	leojsv <49284606+leojsv@users.noreply.github.com>
+     1	lubien <lubien1996@gmail.com>
+     3	reinald28 <49073381+reinald28@users.noreply.github.com>
+     2	tavareslucas <tavares.lucas1996@gmail.com>
+```
+
+```bash
+git shortlog \
+    -s # mostra somente o número de commits por autor, suprimindo qualquer outra descrição textual
+    -e # mostra o email de cada autor
+```
