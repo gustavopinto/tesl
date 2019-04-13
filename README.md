@@ -60,7 +60,7 @@ Passível de alterações.
 | # | Data  | Conteúdo de Aula                                            | Responsável      | Apresentações Convidadas |
 |:-:|-------|-------------------------------------------------------------|------------------|--------------------------|
 | 1 | 22/03 | **PARALISACAO NA UFPA**                                     | Filipe e Gustavo |                          |
-| 1 | 29/03 | [Introdução ao software lGeorgei(re](Aula01.md) | Filipe e Gustavo |                          |
+| 1 | 29/03 | [Introdução ao software livre](Aula01.md) | Filipe e Gustavo |                          |
 | 2 | 05/04 | [Comunidades de software livre](Aula02.md)                  | Filipe           |                          |
 | 3 | 12/04 | [Contribuindo com software livre](Aula03.md)                | Filipe           |                          |
 | 4 | 19/04 | Semana Santa                                                | ---              |                          |
