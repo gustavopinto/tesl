@@ -63,7 +63,7 @@ git shortlog \
    (*currency*) com os métodos `to_cardinal()`, `to_ordinal()` e
    `to_currency()`, respectivamente. Nós implementamos os métodos `to_date()`
    (Cassio) e `to_time()` (Eric) para converter de forma respectiva padrões
-   de datas (e.g.: `12/5/1875 -> "doze de maio de mil, novecentos e setenta e
+   de datas (e.g.: `12/5/1875 -> "doze de maio de mil, oitocentos e setenta e
    cinco"`) e horas 
    (e.g.: `14:55 -> "catorze horas e cinquenta e cinco minutos"`).
 
