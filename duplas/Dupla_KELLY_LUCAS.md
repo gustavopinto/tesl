@@ -88,3 +88,5 @@ solicitações.
 
   `git shortlog [-e|--email] [-s|--summary]`
   
+  - Fazer um [pull-request](https://github.com/brython-dev/brython/pull/1094) que faça tradução de alguma parte da documentação de um projeto
+  
