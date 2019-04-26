@@ -29,3 +29,18 @@
   
 - Acesse os sites abaixo e procure um projeto que esteja procurando por ajuda. Tente fazer uma contribuição:
   - Acontribuição foi feita ao repositório da [fulma](https://github.com/Fulma/Fulma). Aqui o [link](https://github.com/Fulma/Fulma/pull/204) para a contribuição.
+  
+ ## Atividade 4
+ 
+ - Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não):
+  - [Projeto Vue](https://github.com/vuejs/vue).
+  - [Instalação](https://vuejs.org/v2/guide/installation.html)
+  - [Documentação](https://vuejs.org/v2/guide/)
+  - [Documentação Traduzida](https://br.vuejs.org/v2/guide/index.html)
+  - [Como Contribuir](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md)
+ - Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa):
+  - [Projeto Buefy](https://github.com/buefy/buefy)
+  - Não tem guideline para contribuir para o projeto.
+  - Não tem documentação traduzida.
+  - Não diz como pode ser reportado um bug.
+  - Não há um visível guia de criação de novas Issues.
