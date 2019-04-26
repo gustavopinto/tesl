@@ -89,4 +89,11 @@ solicitações.
   `git shortlog [-e|--email] [-s|--summary]`
   
   - Fazer um [pull-request](https://github.com/brython-dev/brython/pull/1094) que faça tradução de alguma parte da documentação de um projeto
-  
+
+## Atividade 4
+- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+
+- Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados;
+
+- Traduza uma página que precise de ajuda.
+
