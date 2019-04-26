@@ -79,3 +79,40 @@ git shortlog \
 
    - Por fim, o PR encontra-se neste 
    [link](https://github.com/savoirfairelinux/num2words/pull/250).
+
+## Atividade 04
+O projeto escolhido foi o
+[num2words](https://github.com/savoirfairelinux/num2words) reportado na
+atividade passada (03) cujo link foi encontrado no CodeTriage.
+
+1. Selecione e identifique em um projeto:     
+    - links para instalação: existe
+   [aqui](https://github.com/savoirfairelinux/num2words#installation). Como o
+   projeto é em Python, existe a opção de instalar pelo `pip` e pelo `setup.py`,
+   mas a documentação para instalação local por desenvolvedores que desejam
+   contribuir é escassa.      
+    - documentação: simples para uso [aqui](https://github.com/savoirfairelinux/num2words#usage)       
+    - documentação traduzida: não existe, apenas em inglês no próprio `README`.     
+    - como contribuir: existe o arquivo [CONTRIBUTING](https://github.com/savoirfairelinux/num2words/blob/master/CONTRIBUTING.md)  
+
+2. Revise uma página e sumarize os problemas encontrados:    
+    - A página indica a Wiki para procurar infos adicionais, mas na
+   [Wiki](https://github.com/savoirfairelinux/num2words/wiki) só há informações
+   para os idiomas Japonês, Finlandês e Telugo     
+    - O software dá suporte a tradução de números em muitos idiomas, porém a
+   documentação encontra-se apenas em inglês      
+    - O repositório não possui nenhum arquivo LICENSE, apenas um arquivo
+   [COPYING](https://github.com/savoirfairelinux/num2words/blob/master/COPYING),
+   o que não é muito intuitivo para iniciantes.
+
+3. Teste a documentação e sumarize os problemas encontrados     
+    - falta documentação para instalação por partes dos desenvolvedores. A
+   página indica apenas como instalar para usuários, usando `pip` e
+   `setup.py`, mas não há indicações de configuração de variáveis de ambiente
+   necessárias para executar o projeto localmente (sem permissão de admin),
+   tampouco como fazer debug     
+    - Na instalação pelo `pip` no Python3 Debian 9.8 Stretch, a função de 
+   conversão de _currency_ não funciona para português brasileiro (e.g.: o 
+   comportamento esperado seria `32 -> trinta e dois reais`, porém ocorre um
+   erro).    
+
