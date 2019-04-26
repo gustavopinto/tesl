@@ -5,7 +5,7 @@
 
 ## Link para atividades
 
-- Atividade03: 
+## Atividade03: 
 
 1- Crie uma subseção ## Atividade 3 no seu arquivo de dupla e faça as atividades abaixo:
 (Obrigatória) Experimente os commandos do git em algum repositório de código. Utilize os commandos commit, push, pull, checkout, log, shortlog, etc. Descreva o que cada um desses comandos faz.
