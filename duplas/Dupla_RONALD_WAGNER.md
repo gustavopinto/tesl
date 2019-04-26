@@ -34,3 +34,17 @@
 		Contribuimos com o projeto [ParadisEO](https://nojhan/paradiseo) adaptando o arquivo README do projeto para um arquivo Markdown para melhor formatção e organização das informações disponibilizadas através desse arquivo.
 
 		[Link do Pull Request](https://github.com/nojhan/paradiseo/pull/37)
+		
+- Atividade 4:
+
+	1. Projeto: [DSpace](https://github.com/DSpace/DSpace). Links:
+    		Documentação [aqui](https://wiki.duraspace.org/display/DSDOC/);
+    		Instalação [aqui](https://wiki.duraspace.org/display/DSDOC6x/Installing+DSpace);
+    		Como contribuir [aqui](https://wiki.duraspace.org/display/DSPACE/How+to+Contribute+to+DSpace);
+    		Não possui documentação traduzida.
+    		Obs: todos esses links estão presentes no README.md na raíz do projeto.
+    
+ 	2. Projeto: [Catapult](https://github.com/catapult-project/catapult)
+    		É um projeto que contém váŕias ferramentas de desempenho, porém, ele não possui de forma explícita como contribuir especificamente para cada ferramenta, apenas diz como contribuir para o projeto como um todo, assim gerando problemas de PRs para análise de implementações em cada ferramenta.
+	
+	3. 
