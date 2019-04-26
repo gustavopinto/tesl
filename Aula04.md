@@ -12,8 +12,8 @@
 
 Crie uma subseção `## Atividade 4` no seu arquivo de dupla e faça as atividades abaixo:
 
-- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, e como contribuir;
-- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser informativa);
+- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa);
 - Procure e melhore uma página de README ou outra descritiva adicionando informações sobre como compilar o software, como configura o ambiente, como testar, indicar onde está o site;
 - Crie uma nova página com conteúdo apropriado;
 - Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados;
