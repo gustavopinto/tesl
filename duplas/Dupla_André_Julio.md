@@ -30,3 +30,14 @@
     - Foi feito um [Pull-Request](https://github.com/python-babel/babel/pull/638) para a tradução de um arquivo da documentação do projeto [babel](https://github.com/python-babel/babel).
 - Acesse os sites abaixo e procure um projeto que esteja procurando por ajuda:
     - Foi escolhido o projeto [yourfirstpr.github.io](https://github.com/yourfirstpr/yourfirstpr.github.io) e foi feito um [Pull-Request](https://github.com/yourfirstpr/yourfirstpr.github.io/pull/156) para atualização na formatação do arquivo, código de conduta.
+### Atividade 04:
+- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não):	
+    - Projeto de software livre: [polymer](https://github.com/Polymer/polymer)
+    - Na página inicial do projeto no arquivo [README.md](https://github.com/Polymer/polymer/blob/master/README.md) na seção Getting started tem links para downloads dos pacotes necessários e comandos para instalar os pacotes.
+    - Tem o arquivo [CONTRIBUTING.md](https://github.com/Polymer/polymer/blob/master/CONTRIBUTING.md) indicando os passos para contribuir com o repositório.
+    - Não há documentação, logo, também não há documentação traduzida.
+- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa):
+    - O projeto de software livre escolhido: [gateway](https://github.com/mozilla-iot/gateway)
+    - Falta a colocar a documentação.
+    - Falta escrever um texto, ou criar um arquivo, informando como contribuir ou reportar um erro.
+    - Deixar o README.md mais com informações espécificas como links para o um arquivo de configuração do ambiente, documentação e contribuição.
