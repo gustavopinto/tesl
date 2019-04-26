@@ -43,3 +43,16 @@ ghlp$ git shortlog -sne
 
 https://github.com/django/django/pull/11200
 Minha contribuição foi a tradução de como usar o Django       
+
+## Atividade 4
+
+Item1:
+Link de Instalação: https://github.com/django/django/blob/master/setup.py
+Link de Documentação: https://github.com/django/django/blob/master/README.rst
+Link de Documentação Traduzido: 
+Link de Contribuição: https://github.com/django/django/blob/master/CONTRIBUTING.rst
+
+Item2:
+Falta documentação, instalação e contribuição traduzida para o português;
+Falta tradução do manual do usuário "Como usar o Django"
+
