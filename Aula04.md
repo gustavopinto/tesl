@@ -6,15 +6,16 @@
 
 ## Slides
 
-- TDB
+- Slide da [Aula04](https://docs.google.com/presentation/d/1dt_MisrGjr5BjYEc5aQ-dwfLYrPXK8ztxktLQper1eA/edit?usp=sharing)
 
 ## Atividades (ao menos 3 atividades)
 
-- Revise uma página de um projeto de software livre e sumarize os problemas encontrados
-- Procure e melhore uma página que pode se beneficiar de uma rescrescrita/melhoria
-- Procure uma página "stub" e expanda-a
-- Crie uma nova página com conteúdo apropriado
-- Teste a documentação (por ex, siga as instruções de instalação) e sumarize os problemas encontrados
-- Converta documentação escrita em documentação de video
+Crie uma subseção `## Atividade 4` no seu arquivo de dupla e faça as atividades abaixo:
+
+- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, e como contribuir;
+- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser informativa);
+- Procure e melhore uma página de README ou outra descritiva adicionando informações sobre como compilar o software, como configura o ambiente, como testar, indicar onde está o site;
+- Crie uma nova página com conteúdo apropriado;
+- Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados;
 - Desenvolva um diagrama UML de um projeto existente
 - Traduza uma página que [precise de ajuda](https://github.com/github/opensource.guide/blob/master/docs/translations.md)
