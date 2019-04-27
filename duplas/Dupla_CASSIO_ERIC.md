@@ -91,9 +91,15 @@ atividade passada (03) cujo link foi encontrado no CodeTriage.
    projeto é em Python, existe a opção de instalar pelo `pip` e pelo `setup.py`,
    mas a documentação para instalação local por desenvolvedores que desejam
    contribuir é escassa.      
-    - documentação: simples para uso [aqui](https://github.com/savoirfairelinux/num2words#usage)       
+    - documentação: simples para uso
+   [aqui](https://github.com/savoirfairelinux/num2words#usage), porém quase
+   nenhuma documentação sobre as classes e métodos é fornecida, nem por meio de
+   comentários no código fonte     
     - documentação traduzida: não existe, apenas em inglês no próprio `README`.     
-    - como contribuir: existe o arquivo [CONTRIBUTING](https://github.com/savoirfairelinux/num2words/blob/master/CONTRIBUTING.md)  
+    - como contribuir: existe o arquivo
+   [CONTRIBUTING](https://github.com/savoirfairelinux/num2words/blob/master/CONTRIBUTING.md)
+   com um modelo para preenchimento de informações sobre as features adicionadas
+   nos pull requests e com instruções para a formatação do código (PEP8).
 
 2. Revise uma página e sumarize os problemas encontrados:    
     - A página indica a Wiki para procurar infos adicionais, mas na
@@ -113,6 +119,7 @@ atividade passada (03) cujo link foi encontrado no CodeTriage.
    tampouco como fazer debug     
     - Na instalação pelo `pip` no Python3 Debian 9.8 Stretch, a função de 
    conversão de _currency_ não funciona para português brasileiro (e.g.: o 
-   comportamento esperado seria `32 -> trinta e dois reais`, porém ocorre um
-   erro).    
+   comportamento esperado seria `32.20 -> trinta e dois reais e vinte centavos`, 
+   porém ocorre um erro dizendo que a opção não existe). Ou seja, o repositório
+   disponível pelo pip ainda aponta para uma versão desatualizada.
 
