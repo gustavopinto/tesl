@@ -41,3 +41,7 @@
     - Falta a colocar a documentação.
     - Falta escrever um texto, ou criar um arquivo, informando como contribuir ou reportar um erro.
     - Deixar o README.md mais com informações espécificas como links para o um arquivo de configuração do ambiente, documentação e contribuição.
+- Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados:
+    - O projeto de software livre escolhido: [missioncontrol](https://github.com/DAVFoundation/missioncontrol)
+    - Problema ao verificar o proxy, seguindo a documentação.
+    - Erro ao executar o comando, kubectl, pois falta pacotes serem instalados.
