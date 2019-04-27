@@ -28,3 +28,35 @@ Resposta - git shortlog -s -n -e : mostra a listas dos usuários, seus commits e
 
 3- Link da tradução feita em Your First PR : https://github.com/yourfirstpr/yourfirstpr.github.io/pull/157
 
+
+## Atividade04:
+
+Parte 1 
+Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+
+Projeto : ifme  https://github.com/ifmeorg/ifme
+
+
+Instalação: https://github.com/ifmeorg/ifme/wiki
+
+Documentação: https://github.com/ifmeorg/ifme/wiki
+
+Documentação traduzida: não foi encontrado
+
+Contribuir: https://github.com/ifmeorg/ifme/wiki/Contributor-Blurb
+
+Parte 2 
+Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa);
+
+Projeto : ifme  https://github.com/ifmeorg/ifme
+
+A página do projeto está bem organizada, contendo bem claros e fáceis o acesso aos links para funções como Instalação, Documentação, Contribuição, etc.
+Entretanto não foi encontrada a opção de tradução da documentação.
+
+Parte 3
+Traduza uma página que precise de ajuda
+
+Feito tradução de arquivo Readme do Projeto : ifme  https://github.com/ifmeorg/ifme
+
+link do pull request: https://github.com/ifmeorg/ifme/pull/1464
+
