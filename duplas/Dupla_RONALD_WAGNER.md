@@ -48,5 +48,6 @@
     		É um projeto que contém váŕias ferramentas de desempenho, porém, ele não possui de forma explícita como contribuir especificamente para cada ferramenta, apenas diz como contribuir para o projeto como um todo, assim gerando problemas de PRs para análise de implementações em cada ferramenta.
 	
 	
-	3. Projeto: [dynamic_bitset](https://github.com/boostorg/dynamic_bitset) da Boost
+	3. Projeto: [dynamic_bitset](https://github.com/boostorg/dynamic_bitset), da
+	Boost:
 		É um projeto que possui uma classe que emula uma matriz de elementos bool, mas otimizada para alocação de espaço. Observemos que esse projeto não possui em seu readme como instalar, não apresenta o objetivo principal do projeto, apenas mostra que é similar ao bitset padrão do c++ e não explica como executar os testes unitarios apenas mostrando onde está a pasta de testes. De forma geral apresenta testes, exemplos porém não diz como executar os mesmos.
