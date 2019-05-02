@@ -1,11 +1,16 @@
 # Dupla Caio_Isaac
 
 - Caio Marcos Flexa Rodrigues (caiomfrodrigues@gmail.com, @caioMFRodrigues)
-- Isaac Souza Elgrably (email, github)
+- Isaac Souza Elgrably (isaacelgrably@hotmail.com, elgrably)
 
 # Link para atividades
 
-- Atividade01: [link aqui](#)
+## Atividade01
+
+Atividade 01
+
+- Planilha01: [https://docs.google.com/spreadsheets/d/1P-DPpUiFZ1Je326a46_qesu3L748WIsukSRQkzt8UPc/edit?userstoinvite=fronchettiemail@gmail.com&ts=5c9f7432&actionButton=1#gid=122497701](#)
+- Planilha02: [https://docs.google.com/spreadsheets/d/1uUmtZF-gyQE11RZcc59HRkvKW3xEpNXnJxWHT8mfJlk/edit?userstoinvite=fronchettiemail@gmail.com&ts=5c9f7400#gid=122497701](#) 
 
 ## Atividade02
 
@@ -34,6 +39,21 @@ larsmans [https://github.com/scikit-learn/scikit-learn/commits?author=larsmans].
 Sugestão de tarefas
 
 Sugestão de tarefas está descrita no ReadMe do projeto na seção “Maintainership” detalhando que tipo de mantenedores estão sendo procurados. No projeto os mantenedores devem realizar triagem de issues, pull requests e cut releases. Pessoas que trabalham em projetos que utilizam o scikit-learn e tem interesse em auxiliar eu seu desenvolvimento podem enviar um email a alguém do arquivo de Mantenedores. Além disso, o acesso ao site “https://scikit-learn.org/stable/” é recomendado para mais informações.
+
+## Atividade03
+
+Experimentação e descrição de vários comandos do git
+
+git pull: atualizar os arquivos no branch atual
+git commit: comando necessário à consolidação de alguma modificação, assim salvando o estado atual do projeto
+git push: quando o próximo estado está pronto para ser compartilhado, o comando git push é necessário para enviá-lo à fonte
+git checkout: esse comando é necessário para chavear entre branches
+git log: o comando git log é usado para visualizarmos o histórico de commits
+git shortlog: é usado para resumir as saídas do git log e agrupar os commits por autor
+
+Comando para imprimir uma saída de terminal similar a esta
+
+git shortlog -sne
 
 ## Atividade04
 
