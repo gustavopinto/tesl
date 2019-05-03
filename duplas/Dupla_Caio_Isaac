@@ -1,7 +1,7 @@
 # Dupla Caio_Isaac
 
 - Caio Marcos Flexa Rodrigues (caiomfrodrigues@gmail.com, @caioMFRodrigues)
-- Isaac Souza Elgrably (isaacelgrably@hotmail.com, elgrably)
+- Isaac Souza Elgrably (isaacelgrably@hotmail.com, @elgrably)
 
 # Link para atividades
 
@@ -55,6 +55,13 @@ Comando para imprimir uma saída de terminal similar a esta
 
 git shortlog -sne
 
+Update Dupla_Caio_Isaac #65
+Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+MunGell/awesome-for-beginners
+Add Brazilian version - free translation CONTRIBUTING.md #339
+	Elgrably wants to merge 141 commits into
+  
 ## Atividade04
 
 Atividade 04
@@ -94,3 +101,27 @@ Problemas Encontrados
 - Versão do projeto lançada em janeiro está com problema para executar no Windows ("O Windows Defender SmartScreen impediu a inicialização de um aplicativo não reconhecido.
 Se você executar esse aplicativo, o computador poderá ficar vulnerável.") já foi informado no track do projeto e o link ainda não foi retirado.
 - A organização do Branch Master está bagunçada, sem uma estrutura de pastas do projeto bem concisa.
+
+
+## Atividade05
+
+Atividade 05
+
+* Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+R = Se acaso um projeto de software não possui uma licença, significa que materialmente, em termos legais, 
+ninguém tem permissão para usar, modificar ou compartilhar aquele software sem correr o risco de sofrer interrupções, 
+abalos ou litígios legais da parte dos criadores do software. Mesmo que o código esteja em algum repositório aberto como o Github, 
+havendo a possibilidade de visualizar e bifurcar o código, isso não significa que você tenha permissão para usar, modificar ou compartilhar o software. 
+Seja a finalidade qual for, não se deve tirar proveito do software.
+ 
+* Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+R = A licença do site da disciplina é a “Creative Commons Attribution 4.0 International”. Bastante flexível e “royalty-free”, 
+essa versão permite quase qualquer uso de terceiros – a fornecer aviso de crédito e licença ao autor original do trabalho –, 
+sendo frequentemente usada para ativos de mídia e materiais educacionais como aqueles compartilhados na página da disciplina. 
+Além disso, ela também é a licença mais comum para publicações científicas Open Access. O licenciante não pode revogar essas liberdades, 
+a menos que os termos da licença sejam transgredidos. 
+ 
+* Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
+R = O projeto bezierplot [https://github.com/linusromer/bezierplot.git](#) desenvolve um programa Lua que aproxima plotagens de função. 
+Ele é licenciado com "LaTeX Project Public License (LPPL)". 
+No entanto, ela é a principal licença sob a qual os pacotes LaTeX são distribuídos.
