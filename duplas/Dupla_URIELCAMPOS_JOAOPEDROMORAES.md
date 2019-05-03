@@ -46,6 +46,7 @@
         1. Repositorio analisado : https://github.com/grei-ufc/pade
             1. Problemas achados : Readme não possui qualquer tipo de FAQ com erros frequentes e suas soluções, readme leva para uma documentação desatualizada em relação a versão atual do sistema, documentação bem precaria com exemplos que não explicam os por menores do framework.
    - Questão 3 :
-        
+        1. Repositorio analisado : https://github.com/Zarad1993/dyc
+            1. A instalação ocorreu sem problemas, porém a documentação não possui nenhuma informação sobre erros que possam ocorrer, e também não possui nenhuma guideline de contribuição a ser seguido.
    
     
