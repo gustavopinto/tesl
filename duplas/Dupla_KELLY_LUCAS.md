@@ -110,4 +110,11 @@ solicitações.
 
 - Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados;
 
-- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa);
+- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa).
+
+Projeto [Video Maker](https://github.com/filipedeschamps/video-maker)
+ 
+* Toda a informação de instalação é colocada diretamente no [README.md](https://github.com/filipedeschamps/video-maker/blob/master/README.md), o que acaba ele muito extenso. A sugestão seria criar uma pasta docs com a documentação específica para o usuário e atrelar ela a um link no read me;
+* A descrição é muito básica, não é possível sondar com muita profundidade sobre o projeto;
+* Não há nada indicando ou mesmo incitando a partipação de contribuidores para o projeto;
+* Diante de tantas issue abertas, observou-se que não há um template estabelecido para estas (nem para pull requests).
