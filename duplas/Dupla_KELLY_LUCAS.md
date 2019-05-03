@@ -133,7 +133,7 @@ Se um software não definir uma licença para uso, automaticamente todos os dire
  
  - [GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/): Esta licença permite o uso comercial, a distribuição, a modificaão e o uso privado mediante a disponibilidade do software após sua distribuição, uma cópia da licença e do copyright deve ir junto do software, as modificações neste devem estar sob a mesma licença (ou similar em alguns casos) do código original bem como a documentação das mudanças realizadas no código.
  
- -[ISC License](https://choosealicense.com/licenses/isc/): É uma licença permissiva que garante a comercialização, distribuição, modificação e uso privado sob a única condição de que a licença e o copyright estejam inclusos com o código.
+ - [ISC License](https://choosealicense.com/licenses/isc/): É uma licença permissiva que garante a comercialização, distribuição, modificação e uso privado sob a única condição de que a licença e o copyright estejam inclusos com o código.
  
  - [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/): Esta licença permite o uso comercial, a distribuição, a modificaão, a patente (sua principal diferença em relação à GNU General Public License v2.0) e o uso privado mediante a disponibilidade do software após sua distribuição, uma cópia da licença e do copyright deve ir junto do software, as modificações neste devem estar sob a mesma licença (ou similar em alguns casos) do código original bem como a documentação das mudanças realizadas no código.
  
