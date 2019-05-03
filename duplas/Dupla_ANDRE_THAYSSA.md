@@ -65,3 +65,13 @@
         Projeto: https://github.com/funcoeszz/funcoeszz
         
         O projeto disponibiliza um link para uma pagina onde contem a instruções para instalar das funçõeszz, a instalação das funçõeszz no linux foi bem sucedida, as instruções são fáceis de intender, porem as instruções para a documentação de instalação no Windows não possui um passo a passo para instalar igual a documentação de instalação no linux. As instruções apresentadas lá não deixaram claro o que era preciso ser feito apos cada instrução. Com isso, as instruções não conseguiram me ajudaram a instalar corretamente as funçõeszz no Windows.
+## Atividade05:
+- ustifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+       R: Caso alguém utilize um trecho de código que não tem licença definida estará ferindo a propriedade intelectual do autor e ficará passível de ser processado por plágio, pois quando não está claramente definido que o uso é livre, entende-se que a licença é copyright (propriedade intelectual).
+
+ - Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+      R: O site da disciplina utiliza a licença Creative Commons Attribution 4.0 International, destinada a ativos de mídia e materiais educativos. Como o conteúdo da disciplina não constitui em código fonte a licença  CC-BY-4.0 é suficiente para ser utilizada (licenças Creative Commons não são aplicáveis a código fonte/projetos de software).
+      
+- Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
+        https://github.com/lubien/ufpa-advanced-databases-2018-assignment-01/pull/3
+-
