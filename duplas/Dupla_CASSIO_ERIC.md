@@ -147,6 +147,13 @@ porque o site da disciplina tem a licença que tem.
    preservados (provavelmente no código), porém modificações e trabalhos maiores
    que tomem o projeto como base podem ser distribuídos em licenças diferentes e
    até mais restritas que não exijam distribuição do código-fonte.
+    - [MIT](https://choosealicense.com/licenses/mit/): a licença MIT, conforme
+   dito no blog [Exygy](https://exygy.com/which-license-should-i-use-mit-vs-apache-vs-gpl/),
+   é uma licença permissiva que permite ao desenvolvedor "fazer o que quiser com
+   o código", exigindo somente que o usuário mantenha as notas de copyright dos
+   autores e da própria licença. Porém, a redistribuição podem ocorrer sob
+   outras licenças, permitindo inclusive a não-divulgação dos códigos fontes, o
+   que é de fundamental interesse para fins lucrativos (empresas, por exemplo).
     - o site da disciplina possui licença *Creative Commons 4.0* pois não se
    trata de código de software propriamente dito. Conforme consta no
    [choosealicense.com](https://choosealicense.com/non-software/), "
