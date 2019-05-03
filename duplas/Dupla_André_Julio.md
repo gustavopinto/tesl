@@ -45,3 +45,11 @@
     - O projeto de software livre escolhido: [missioncontrol](https://github.com/DAVFoundation/missioncontrol)
     - Problema ao verificar o proxy, seguindo a documentação.
     - Erro ao executar o comando, kubectl, pois falta pacotes serem instalados.
+### Atividade 05:
+- Justifique o que acontece se um projeto de software não tiver nenhuma licença definida:	
+    - O projeto passa a ter direitos autorais, não sendo considerado um projeto de software livre, ou seja, para terceiros usarem e necessário pedir permisão ao autor.
+- Procure um projeto sem licença de software e adicione uma.:
+    - O projeto de software livre escolhido: [memes](https://github.com/OpenGenus/memes)
+    - Foi criado um [Pull Request](https://github.com/OpenGenus/memes/pull/144) para a adição de uma licença ao projeto.
+- Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem:
+    - O site da disciplina tem a licença Creative Commons devido a não ser um software e possuir direitos autorais. Essa licença é muito usada para materias de estudo.
