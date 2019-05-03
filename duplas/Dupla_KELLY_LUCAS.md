@@ -91,9 +91,23 @@ solicitações.
   - Fazer um [pull-request](https://github.com/brython-dev/brython/pull/1094) que faça tradução de alguma parte da documentação de um projeto
 
 ## Atividade 4
-- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+- Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instalação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+
+  Projeto [Apache Tomcat](http://tomcat.apache.org/) ([GitHub](https://github.com/apache/tomcat))
+
+  | Identificador | Site do Projeto | GitHub |
+  |:------------- |:---------------:|:------:|
+  | Instalação | [RUNNING.txt :-1:](https://tomcat.apache.org/tomcat-9.0-doc/RUNNING.txt) | [RUNNING.txt :+1:](https://github.com/apache/tomcat/blob/master/RUNNING.txt) |
+  | Documentação | [:+1:](https://tomcat.apache.org/tomcat-9.0-doc/index.html) | [:-1:](http://localhost:8080/docs/) |
+  | Documentação Traduzida | :open_hands: | :open_hands: |
+  | Como contribuir | [Get Involved :+1:](https://tomcat.apache.org/getinvolved.html) | [CONTRIBUTING.md :+1:](https://github.com/apache/tomcat/blob/master/CONTRIBUTING.md) |
+
+  > :-1: dificuldade na localização de informação e/ou falta adaptação do conteúdo para as diferentes fontes de informação (Site e GitHub)
+
+  > :+1: facilidade de localização e coerência do conteúdo com a fonte de informação
+
+  > :open_hands: nada encontrado
 
 - Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados;
 
-- Traduza uma página que precise de ajuda.
-
+- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa);
