@@ -44,3 +44,11 @@
   - Não tem documentação traduzida.
   - Não diz como pode ser reportado um bug.
   - Não há um visível guia de criação de novas Issues.
+
+## Atividade 5
+- Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+  - Como não existe uma licença específica, então todos os direitos ficam reservados para o autor ou a empresa que produziu o projeto de software em questão.
+- Procure um projeto sem licença de software e adicione uma.
+  - Aqui o [link](https://github.com/leochrisis/todoMVC-challenge/pull/2) para a PR da adição de licença.
+- Acesse o site [choosealicense](https://choosealicense.com/), e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+  - A licença utilizada pelo site é Creative Commons Attribution 4.0 International. O primeiro motivo é que o repositório da diciplina não se trata de um produto de software, e essa licença não é recomendada para software. O segundo motivo seria que o site é composto por dados e materias educacionais, que precisam ser acessados e manuseados pelos alunos da disciplina, o que é devidamente abrangido pela licença utilizada, pois ela permite a cópia, distribuição, redistribuição e remanuseio do material disponibilizado, desde que sejam respeitados alguns requisitos, sendo eles: os devidos créditos dos autores do site devem ser mantidos, além de indicar qualquer tipo de modificação realizada no mesmo, se realizadas. Além disso, não se pode adicionar nenhum termo legal que restrinja outros de fazer qualquer coisa que a licença permita.
