@@ -169,4 +169,11 @@ porque o site da disciplina tem a licença que tem.
    for media is applicable to software documentation."
 3. Procure por projetos de software que utilize uma licença que não deveria ser
 empregada em projetos de software.
-    - https://gitlab.com/fb-nlp/nlp-generator
+    - O [Grupo FalaBrasil](https://gitlab.com/) possui um projeto de geração de
+   ferramentas para processamento de linguagem natural (NLP) chamado
+   [nlp-generator](https://gitlab.com/fb-nlp/nlp-generator) que não possui
+   licença.
+   - O projeto [DNF-Patch](https://github.com/Kxnrl/DNF-Patch) utiliza uma
+   licença chamada
+   [GLWT](https://github.com/Kxnrl/DNF-Patch/blob/master/LICENSE) (good luck
+   with that), que não é reconhecida pelo OSI e não consta na lista SPDX.
