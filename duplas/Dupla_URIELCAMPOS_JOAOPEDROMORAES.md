@@ -26,7 +26,7 @@
 
 
 - ## Atividade 03: 
-   - Questao 1 :
+   - Questão 1 :
         1. commit: Comando feito para salvar as alterações feitas até aquele momento nos arquivos selecionados, com uma mensangem do que foi feito, nome do autor que realizou o commit e um hash que identifica aquele commit.
         2. Push: Comando feito para publicar as mudanças locais para um repositorio remoto.
         3. Pull: Comando para atualizar o repositorio local com as mudanças do repositorio remoto.
@@ -38,5 +38,14 @@
     - Questão 3 :
         1. https://github.com/projeto-spider/spider-gap-analysis/pull/27
 - ## Atividade 04 :
-    
+    - Questão 1 :
+        1. VueJs : Contribuição https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md, 
+            Instalação e guia de uso : https://vuejs.org/v2/guide/ 
+            documentação traduzida : https://br.vuejs.org/v2/guide/
+    - Questão 2 : 
+        1. Repositorio analisado : https://github.com/grei-ufc/pade
+            1. Problemas achados : Readme não possui qualquer tipo de FAQ com erros frequentes e suas soluções, readme leva para uma documentação desatualizada em relação a versão atual do sistema, documentação bem precaria com exemplos que não explicam os por menores do framework.
+   - Questão 3 :
+        
+   
     
