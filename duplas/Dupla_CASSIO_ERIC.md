@@ -141,7 +141,7 @@ porque o site da disciplina tem a licença que tem.
    módulos possam ser copiados e redistribuídos sob diferentes licenças,
    incluindo as mais restritas que não disponibilizam código-fonte.
     - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/): é uma
-      licença permissiva, que protege o autor no sentido de proibir forks de
+   licença permissiva, que protege o autor no sentido de proibir forks de
    requerer patentes (direitos) sobre código eventualmente copiado e
    redistribuído. As notas de copyright do autor e a da licença Apache devem ser
    preservados (provavelmente no código), porém modificações e trabalhos maiores
@@ -154,6 +154,13 @@ porque o site da disciplina tem a licença que tem.
    autores e da própria licença. Porém, a redistribuição podem ocorrer sob
    outras licenças, permitindo inclusive a não-divulgação dos códigos fontes, o
    que é de fundamental interesse para fins lucrativos (empresas, por exemplo).
+    - [MPL 2.0](https://choosealicense.com/licenses/mpl-2.0/): a Mozilla Public
+      License é uma licença recíproca parcial assim como a LGPL. O código fonte
+   deve ser feito disponível e todos os arquivos, bem como suas eventuais
+   modificações, devem ser disponibilizados sob a mesma licença. Porém, se o
+   projeto forked for grande, é possível disponibilizá-lo sob uma diferente
+   licença, incluindo as mais restritivas que não obrigam a compartilhar os
+   fontes.
     - o site da disciplina possui licença *Creative Commons 4.0* pois não se
    trata de código de software propriamente dito. Conforme consta no
    [choosealicense.com](https://choosealicense.com/non-software/), "
