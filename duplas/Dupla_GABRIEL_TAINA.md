@@ -20,3 +20,4 @@
         
 - 5)  Tradução
         [Aqui](https://github.com/mauricioaniche/ck/pull/12#issue-270159281)
+sadasdasd
