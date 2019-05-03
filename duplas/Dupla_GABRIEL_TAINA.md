@@ -20,4 +20,11 @@
         
 - 5)  Tradução
         [Aqui](https://github.com/mauricioaniche/ck/pull/12#issue-270159281)
-sadasdasd
+        
+        
+## Atividade 4
+
+## Atividade 5
+- 1)    Todos os direitos são reservados ao autor.
+- 4)    Ele possui a licensa Creative Commons Attribution 4.0 International pelo fato de não se tratar de um projeto de software, e sim de uso educacional.
+- 2)    [Pull Request](https://github.com/smealum/3ds_hb_menu/pull/63#issue-275853216)
