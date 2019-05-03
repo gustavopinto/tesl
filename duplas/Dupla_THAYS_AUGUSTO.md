@@ -60,3 +60,20 @@ Feito tradução de arquivo Readme do Projeto : ifme  https://github.com/ifmeorg
 
 link do pull request: https://github.com/ifmeorg/ifme/pull/1464
 
+## Atividade05:
+
+1 -Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+2 -Procure um projeto sem licença de software e adicione uma.
+3 -Baixe e instale a ferramenta ninka e rode em pelo menos cinco projetos não-triviais
+4- Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+5 - Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
+
+Respostas:
+
+1 -  Quando um software não tiver nenhum tipo de licença, é considerado conteúdo de direitos reservados.
+
+2-   Criado licença para projeto. O commit segue abaixo.
+https://github.com/anaisabelamr/ArqueiroJava/pull/1/commits/e03a124c0e2fe8ecadec23c75f00701236cf828c
+
+4-   A licença utilizada pela disciplina é a Creative Commons Attribution 4.0 International Public License, que não é recomendada para software. Ela permite quase qualquer uso, sujeita a fornecer aviso de crédito e licença. Ela é frequentemente usada para ativos de mídia e materiais educacionais. A licença mais comum para publicações científicas do Open Access. 
+
