@@ -153,3 +153,6 @@ porque o site da disciplina tem a licença que tem.
    CC-BY-SA-4.0 is an open license used for non-software material ranging from
    datasets to videos." and "any open source software license or open license
    for media is applicable to software documentation."
+3. Procure por projetos de software que utilize uma licença que não deveria ser
+empregada em projetos de software.
+    - https://gitlab.com/fb-nlp/nlp-generator
