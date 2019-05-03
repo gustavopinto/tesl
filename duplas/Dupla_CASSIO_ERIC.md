@@ -123,3 +123,33 @@ atividade passada (03) cujo link foi encontrado no CodeTriage.
    porém ocorre um erro dizendo que a opção não existe). Ou seja, o repositório
    disponível pelo pip ainda aponta para uma versão desatualizada.
 
+## Atividade 05
+1. Justifique o que acontece se um projeto de software não tiver nenhuma licença
+definida.    
+    - o projeto é tratado como se fosse privado, sendo **TODOS** os direitos de
+   uso e redistribuição reservados exclusivamente ao autor do projeto
+   (*copyright*).
+2. Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique
+porque o site da disciplina tem a licença que tem.    
+    - [GPLv3](https://choosealicense.com/licenses/gpl-3.0/): é considerada
+    _strong copyleft_ por ser recíproca total, ou seja, todo e qualquer
+    software derivado de um projeto sob esta licença deverá ser também
+   redistribuído sob a mesma licença. 
+    - [LGPLv3](https://choosealicense.com/licenses/lgpl-3.0/): criada com base
+   na GPL original, a LGPL é considerada recíproca parcial. O `L` refere-se à
+   "lesser", o que significa que a licença é mais permissiva por admitir que
+   módulos possam ser copiados e redistribuídos sob diferentes licenças,
+   incluindo as mais restritas que não disponibilizam código-fonte.
+    - [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/): é uma
+      licença permissiva, que protege o autor no sentido de proibir forks de
+   requerer patentes (direitos) sobre código eventualmente copiado e
+   redistribuído. As notas de copyright do autor e a da licença Apache devem ser
+   preservados (provavelmente no código), porém modificações e trabalhos maiores
+   que tomem o projeto como base podem ser distribuídos em licenças diferentes e
+   até mais restritas que não exijam distribuição do código-fonte.
+    - o site da disciplina possui licença *Creative Commons 4.0* pois não se
+   trata de código de software propriamente dito. Conforme consta no
+   [choosealicense.com](https://choosealicense.com/non-software/), "
+   CC-BY-SA-4.0 is an open license used for non-software material ranging from
+   datasets to videos." and "any open source software license or open license
+   for media is applicable to software documentation."
