@@ -110,6 +110,19 @@ solicitações.
 
 - Teste a documentação (por exemplo, siga as instruções de instalação) e sumarize os problemas encontrados;
 
+  - Informações para realização dos testes:
+    - Projeto testado: [Apache Tomcat](https://github.com/apache/tomcat);
+    - Documentações seguidas: [RUNNING.txt](https://github.com/apache/tomcat/blob/master/RUNNING.txt) e [Tomcat 9](https://tomcat.apache.org/tomcat-9.0-doc/);
+    - SO: Manjaro Linux 18.0.4 64-bit.
+  - Considerações:
+    - As informações de instalação, configuração e execução do Software encontram-se no arquvivo RUNNING.txt;
+    - No GitHub, tal informação é mais [direta](https://github.com/apache/tomcat#installation) e clara, diferentemente do site do projeto, em que deve-se ler atentamente a [documentação->introdução](http://tomcat.apache.org/tomcat-8.5-doc/introduction.html) até chegar na indicação para o arquvivo;
+    - Considero que isso dificulta usuários que "cheguem" ao mesmo através do site e não pelo GitHub;
+    - O arquivo RUNNING.txt por si só, é suficiente para a execução do Software, porém depende de documentações exeternas para pleno funcionamento;
+    - A documentação "externa" a que se refere é do Java JRE, que é requisito para o funcionamento do Tomcat. Assim, a instalação do java não é orientada pelos mantenedores do projeto do Apache;
+    - Fora isso, as orientações são bem claras e fáceis de realizar;
+    - Por fim, as informações, apesar de claras, por vezes parecem mal organizadas ou dificies de encontrar, podendo ser uma barreira para novos contribuidores.
+
 - Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa).
   
   Projeto [Video Maker](https://github.com/filipedeschamps/video-maker)
