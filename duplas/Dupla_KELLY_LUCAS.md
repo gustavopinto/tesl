@@ -123,22 +123,22 @@ solicitações.
 
 - Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
 
-Se um software não definir uma licença para uso, automaticamente todos os direitos autorais são exclusivos de seu proprietário, logo, para alguém utilizar este código ele deve solicitar a autorização deste autor. Desta forma, um projeto deste tipo não poderá ser aceito em uma comunidade de software livre, para isto, ele deve adquirir uma licença que o permita ser considerado como um.
+  Se um software não definir uma licença para uso, automaticamente todos os direitos autorais são exclusivos de seu proprietário, logo, para alguém utilizar este código ele deve solicitar a autorização deste autor. Desta forma, um projeto deste tipo não poderá ser aceito em uma comunidade de software livre, para isto, ele deve adquirir uma licença que o permita ser considerado como um.
 
 - Acesse o site [choosealicense](https://choosealicense.com/), e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
 
- - [APACHE LICENSE 2.0](https://choosealicense.com/licenses/apache-2.0/): Esta é uma licença permissiva utilizada para comunidades e autoriza o uso comercial, distribuição, modificação, patente e uso pessoal sob a condição de apresentar cópias desta e do copyright junto ao software, bem como a documentação de mudanças no software.
+  - [APACHE LICENSE 2.0](https://choosealicense.com/licenses/apache-2.0/): Esta é uma licença permissiva utilizada para comunidades e autoriza o uso comercial, distribuição, modificação, patente e uso pessoal sob a condição de apresentar cópias desta e do copyright junto ao software, bem como a documentação de mudanças no software.
  
- - [MIT License](https://choosealicense.com/licenses/mit/): Esta licença é permissiva, de forma a permitir o uso comercial, distribuição, modificação e uso privado sob a condição de que uma cópia desta e do copyright sejam disponibilizadas junto ao software.
+  - [MIT License](https://choosealicense.com/licenses/mit/): Esta licença é permissiva, de forma a permitir o uso comercial, distribuição, modificação e uso privado sob a condição de que uma cópia desta e do copyright sejam disponibilizadas junto ao software.
  
- - [GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/): Esta licença permite o uso comercial, a distribuição, a modificaão e o uso privado mediante a disponibilidade do software após sua distribuição, uma cópia da licença e do copyright deve ir junto do software, as modificações neste devem estar sob a mesma licença (ou similar em alguns casos) do código original bem como a documentação das mudanças realizadas no código.
+  - [GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/): Esta licença permite o uso comercial, a distribuição, a modificaão e o uso privado mediante a disponibilidade do software após sua distribuição, uma cópia da licença e do copyright deve ir junto do software, as modificações neste devem estar sob a mesma licença (ou similar em alguns casos) do código original bem como a documentação das mudanças realizadas no código.
  
- - [ISC License](https://choosealicense.com/licenses/isc/): É uma licença permissiva que garante a comercialização, distribuição, modificação e uso privado sob a única condição de que a licença e o copyright estejam inclusos com o código.
+  - [ISC License](https://choosealicense.com/licenses/isc/): É uma licença permissiva que garante a comercialização, distribuição, modificação e uso privado sob a única condição de que a licença e o copyright estejam inclusos com o código.
  
- - [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/): Esta licença permite o uso comercial, a distribuição, a modificaão, a patente (sua principal diferença em relação à GNU General Public License v2.0) e o uso privado mediante a disponibilidade do software após sua distribuição, uma cópia da licença e do copyright deve ir junto do software, as modificações neste devem estar sob a mesma licença (ou similar em alguns casos) do código original bem como a documentação das mudanças realizadas no código.
+  - [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/): Esta licença permite o uso comercial, a distribuição, a modificaão, a patente (sua principal diferença em relação à GNU General Public License v2.0) e o uso privado mediante a disponibilidade do software após sua distribuição, uma cópia da licença e do copyright deve ir junto do software, as modificações neste devem estar sob a mesma licença (ou similar em alguns casos) do código original bem como a documentação das mudanças realizadas no código.
  
- A licença usada pelo site da disciplina é a Creative Commons Attribution 4.0 International Public License que permite a cópia e redistribuição de materiais bem como sua adaptação para qualquer propósito, incluso uso comercial, de tal forma que estes direitos não podem ser revogados enquanto aqueles que fazem uso destes materiais cumprirem os termos de licença.
+  A licença usada pelo site da disciplina é a Creative Commons Attribution 4.0 International Public License que permite a cópia e redistribuição de materiais bem como sua adaptação para qualquer propósito, incluso uso comercial, de tal forma que estes direitos não podem ser revogados enquanto aqueles que fazem uso destes materiais cumprirem os termos de licença.
 
 - Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
 
-O software [Dspace](https://github.com/DSpace/DSpace/blob/master/LICENSE) que utiliza uma licença Copyright mesmo sendo um software livre.
+  O software [Dspace](https://github.com/DSpace/DSpace/blob/master/LICENSE) que utiliza uma licença Copyright mesmo sendo um software livre.
