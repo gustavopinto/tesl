@@ -13,7 +13,7 @@
 
 ## Slides
 
-- TDB
+- Slide da [Aula05](https://docs.google.com/presentation/d/1ahoxue-BOkh9ZWwVGrKABGOyhSbG9Y6sMZuCd6oQGNY/edit?usp=sharing)
 
 ## Atividades (ao menos 3 atividades)
 
