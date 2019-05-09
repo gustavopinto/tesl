@@ -3,7 +3,9 @@
 ## Link para atividades
 
 - Atividade01: [link](https://drive.google.com/drive/folders/1PeIoRisXHgWEEyu7me-BXfZDeQsZ_zTV)
+
 - Atividade02: [link](https://drive.google.com/drive/folders/1zbfOReKVaapiUuM4wXyl1mkvU-dF1ZUL)
+
 - Atividade03:
 
 	1. **Comandos do git**:
@@ -50,3 +52,9 @@
 	Boost:
 		É um projeto que possui uma classe que emula uma matriz de elementos bool, mas otimizada para alocação de espaço. Observemos que esse projeto não possui em seu readme como instalar, não apresenta o objetivo principal do projeto, apenas mostra que é similar ao bitset padrão do c++ e não explica como executar os testes unitarios apenas mostrando onde está a pasta de testes. De forma geral apresenta testes, exemplos porém não diz como executar os mesmos.
 
+- Atividade 5:
+	1. Não se pode utilizar o projeto visto que, não possuindo uma licença não sabe-se o que pode ser feito, se é permissivo a alguma restrição de uso, distribuição ou aplicação de algum código, desta forma uma projeto sem licença está sujeito a problemas de como deve ser distribuido ou utilizado.
+	
+	2. Foi enviado um PR para adição da licença MIT no projeto [effmli/TinderAutomation](https://github.com/jeffmli/TinderAutomation) link para [Pull request](https://github.com/jeffmli/TinderAutomation/pull/4)
+	
+	4. A disciplina possui a licença Creative Commons Atribution 4.0 International. A licença creative commons é um conjunto de licenças possuindo algumas variações, a versão que é aplicada no projeto da disciplina é CC BY, pois é permisso ao uso e distribuição e modificação, ao mesmo tempo atribuindo os direitos autorais ao criadores do projeto. No contexto da disciplina o uso dessa licença é vantajoso visto que, o projeto demanda compartilhamentos com os alunos e tem cunho acadêmico para aplicação de uma disciplina para a Universidade, fazendo com que os autores(professores) sejam devidamente referencidos em futuros forks. Com isso os professores não precisam se preocupar com os direitos autorais dos materiais disponibilizados, pois a licença protege a propriedade autoral.
