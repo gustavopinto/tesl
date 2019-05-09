@@ -52,7 +52,6 @@
 	Boost:
 		É um projeto que possui uma classe que emula uma matriz de elementos bool, mas otimizada para alocação de espaço. Observemos que esse projeto não possui em seu readme como instalar, não apresenta o objetivo principal do projeto, apenas mostra que é similar ao bitset padrão do c++ e não explica como executar os testes unitarios apenas mostrando onde está a pasta de testes. De forma geral apresenta testes, exemplos porém não diz como executar os mesmos.
 
-
 - Atividade 5:
 	1. Não se pode utilizar o projeto visto que, não possuindo uma licença não sabe-se o que pode ser feito, se é permissivo a alguma restrição de uso, distribuição ou aplicação de algum código, desta forma uma projeto sem licença está sujeito a problemas de como deve ser distribuido ou utilizado.
 	
