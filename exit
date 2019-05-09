@@ -1,0 +1,207 @@
+Gustavo Pinto <gustavohenrique.86@gmail.com> (53):
+      Initial commit
+      primeira versao de cronograma e aulas
+      ajeitando a tabela do cronograma
+      aula 4 mais algumas melhoras nas demais
+      adicionando uma licenca no projeto
+      aula sobre licenças
+      edits geral nas aulas
+      pagina com projetos de disciplina para os alunos
+      novos potenciais projetos para disciplina
+      melhorias na aula de licencas
+      alterando a licenca de uso do repositorio
+      melhorias na aula01
+      Merge branch 'master' of github.com:gustavopinto/tosl
+      novo material pra aula01 e aula 05
+      reorganizando cronograma & aula09.md
+      com nome dos responsaveis pelas aulas
+      com nova atividade avaliativa na aula01
+      Merge branch 'master' of github.com:gustavopinto/tosl
+      nao mais grupos e sim duplas
+      adicionando novos links na aula01
+      Resolvendo conflitos de merge
+      Atualizacao do arquivo de duplas
+      Arquivo template para informacao de atividade das duplas
+      correcoes no arquivo de duplas
+      Merge pull request #1 from souzaluuk/master
+      Merge pull request #8 from urielfcampos/master
+      Merge pull request #13 from lubien/dupla-joao-thiago
+      Merge pull request #40 from Gabrielgm5/Gabrielgm5-patch-2
+      Merge pull request #39 from wagnerfns/patch-1
+      Merge branch 'master' into master
+      Merge pull request #38 from cassiobatista/master
+      Merge pull request #24 from urielfcampos/master
+      Merge pull request #37 from souzaluuk/master
+      Merge pull request #34 from EdsonECS/patch-3
+      Merge pull request #18 from ThayssaRocha/patch-3
+      Merge pull request #25 from lubien/dupla-joao-thiago-atv-2
+      Merge pull request #26 from Lakshamana/patch-5
+      Merge pull request #32 from CaioMFRodrigues/patch-4
+      Merge branch 'master' into master
+      Merge pull request #9 from leojsv/master
+      Merge pull request #41 from reinald28/patch-2
+      Merge pull request #30 from reinald28/patch-1
+      Merge pull request #42 from juliocesark/patch-2
+      Merge pull request #31 from juliocesark/patch-1
+      Merge branch 'master' into patch-1
+      Merge pull request #7 from tavareslucas/patch-1
+      Merge pull request #44 from VictorBSI/patch-3
+      Merge pull request #45 from VictorBSI/patch-4
+      Merge branch 'master' into patch-4
+      Merge pull request #46 from AugustofCravo/patch-4
+      Merge branch 'master' into master
+      Merge pull request #49 from RonanUFPa/master
+      Update Aula03.md
+
+Filipe Saraiva <saraiva@ufpa.br> (18):
+      Corrige sigla da disciplina no README
+      Adiciona coluna para "Apresentações de Comunidades"
+      Adiciona coluna para apresentações convidadas
+      Corrige laboratório para Labcomp-01
+      Adiciona link para grupo no Telegram
+      Adiciona referências para aula de comunidades
+      Mais algumas referências
+      Desloca linha de explicação do preenchimento para o lugar correto
+      Adiciona mais referências para a aula de comunidades
+      Adiciona link para slide da Aula02
+      Adiciona dica de formatação para a atividade 2
+      Corrigindo o feriado no cronograma
+      Corrige laboratório utilizado para as atividades
+      Adiciona alguns artigos como referências para a Aula03
+      Adiciona mais artigos referências para a Aula03
+      Adiciona slide para a Aula03
+      Atualizando tarefas para a Aula03
+      Corrige número de atividades
+
+Ronan Silva <contato.ronansilva@gmail.com> (11):
+      Create Dupla_RONAN_NONE
+      Update Dupla_RONAN_NONE
+      Update Dupla_RONAN_NONE
+      Update Duplas.md
+      Merge branch 'master' into master
+      Rename Dupla_RONAN_NONE to Dupla_RONAN_NONE.md
+      Update Dupla_RONAN_NONE.md
+      Update Dupla_RONAN_NONE.md
+      Update Dupla_RONAN_NONE.md
+      Update Dupla_RONAN_NONE.md
+      Update Dupla_RONAN_NONE.md
+
+Filipe Saraiva <mail@filipesaraiva.info> (9):
+      Merge pull request #6 from ronaldpnh/addfile
+      Merge branch 'master' into patch-2
+      Merge pull request #12 from ThayssaRocha/patch-2
+      Merge pull request #5 from Lakshamana/patch-3
+      Merge pull request #15 from Lakshamana/patch-4
+      Merge branch 'master' into master
+      Merge pull request #10 from CaioSR/master
+      Merge pull request #23 from EdsonECS/patch-1
+      Merge pull request #27 from CaioMFRodrigues/patch-3
+
+leojsv <49284606+leojsv@users.noreply.github.com> (7):
+      Dupla Leonardo e Paulo
+      Atualização com os links da Atividade 1
+      Atividade 2
+      Atividade 2 com forma de comunicação
+      Update Dupla_LEONARDO_PAULO.md
+      Update Atividade 2 com nome do Projeto DokuWiki
+      Adição da dupla LEONARDO_PAULO no Duplas.md
+
+ThayssaRocha <49079381+ThayssaRocha@users.noreply.github.com> (5):
+      Update Duplas.md
+      Update Duplas.md
+      Create Dupla_ANDRE_THAYSSA.md
+      Update Dupla_ANDRE_THAYSSA.md
+      Update Dupla_ANDRE_THAYSSA.md
+
+Uriel Campos <31864637+urielfcampos@users.noreply.github.com> (5):
+      Create Dupla_URIELCAMPOS_JOAOPEDROMORAES.md
+      Updated Duplas.md with Dupla Uriel e Joao
+      Update Dupla_URIELCAMPOS_JOAOPEDROMORAES.md
+      Merge pull request #1 from gustavopinto/master
+      Atualizado com a atividade 2
+
+Caio Shimada Rabello <xcaiosr@gmail.com> (4):
+      Merge pull request #1 from gustavopinto/master
+      Update Duplas.md Dupla CAIO_LEONARDO
+      Cria Dupla_CAIO_LEONARDO.md
+      Atualizado com Atividade02
+
+Facomp-adm <you@example.com> (4):
+      Atividade 3: testar comandos Git
+      Merge branch 'master' of https://github.com/matheuseabra/tesl
+      Remover comentário do arquivo README.md
+      Merge branch 'master' of https://github.com/matheuseabra/tesl
+
+Lucas Gabriel de Souza <lucassouzaufpa@gmail.com> (4):
+      Insere dupla KELLY_LUCAS
+      Corrige dados da Dupla KELLY_LUCAS
+      Resolvendo conflitos
+      Merge https://github.com/gustavopinto/tesl
+
+Lakshamana <guitrompa1@gmail.com> (3):
+      Create Dupla_Guilherme_Teoian.md
+      Create Dupla GUILHERME_TEOIAN
+      Update Dupla_Guilherme_Teoian.md
+
+Matheus Seabra <5796861+matheuseabra@users.noreply.github.com> (3):
+      Create dupla Hamilton e Matheus
+      Update Duplas.md
+      Update Duplas.md
+
+reinald28 <49073381+reinald28@users.noreply.github.com> (3):
+      Create Dupla_1_Reinaldo_Cardoso_2_Wescley_Fontes.md
+      Update Dupla_1_Reinaldo_Cardoso_2_Wescley_Fontes.md
+      Update Duplas.md
+
+CaioMFRodrigues <caiomfrodrigues@gmail.com> (2):
+      Create Dupla_Caio_Isaac
+      Atividade02 finalizada
+
+Cassio Batista <cassio.batista.13@gmail.com> (2):
+      Duplas.md updated
+      individual file Dupla_CASSIO_ERIC added
+
+EdsonECS <49080256+EdsonECS@users.noreply.github.com> (2):
+      Create Dupla_FABIO_EDSONECS.md
+      Atualização
+
+Gabriel Quinto <gabrielquintoand@gmail.com> (2):
+      Arquivo da dupla Tainá e Gabriel criado
+      Update Duplas.md
+
+João Ferreira <lubien1996@gmail.com> (2):
+      Create Dupla_JOÃO_THIAGO.md
+      Add JOÃO_THIAGO to Duplas.md
+
+Julio Cesar <julio.developer10@gmail.com> (2):
+      Criação da dupla e atividades 1 e 2
+      Atualização de dupla
+
+Lucas Monteiro <tavares.lucas1996@gmail.com> (2):
+      Update Dupla_LEONARDO_LUCAS.md
+      Update Duplas (Leonardo e Lucas)
+
+Lucas Souza <lucassouzaufpa@gmail.com> (2):
+      Insere atividade 2
+      Insere nome/link do projeto escolhido
+
+VictorBSI <38796125+VictorBSI@users.noreply.github.com> (2):
+      Update Duplas.md
+      Create Dupla_VICTORHUGO_BHRUNNO
+
+tavareslucas <tavares.lucas1996@gmail.com> (2):
+      Create Dupla_Leonardo_Lucas.md
+      Update and rename Dupla_Leonardo_Lucas.md to Dupla_LEONARDO_LUCAS.md
+
+AugustofCravo <49079453+AugustofCravo@users.noreply.github.com> (1):
+      Update Duplas.md
+
+Ronaldd <ronaldppinho@gmail.com> (1):
+      Dupla_RONALD_WAGNER.md included
+
+Wagner Negrão <35495925+wagnerfns@users.noreply.github.com> (1):
+      Update aula02
+
+lubien <lubien1996@gmail.com> (1):
+      Add Atividade02 for Dupla_JOÃO_THIAGO.md
+
