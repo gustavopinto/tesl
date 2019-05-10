@@ -27,3 +27,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [JOÃO_THIAGO](duplas/Dupla_JOÃO_THIAGO.md)
 - João de Deus Ferreira Filho (lubien1996@gmail.com, [@lubien](https://github.com/lubien))
 - Thiago Calado Sosinho (thiagocalado30@gmail.com, [@uzumis](https://github.com/uzumis))
+
+## Dupla[ANAISABELA_JOSEPAULO](duplas/Dupla_ANAISABELA_JOSEPAULO.md)
+- José Paulo Brandão Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://github.com/pauloneves123))
+- Ana Isabela Manito Ramos (aisabelamr@gmail.com, [@anaisabelamr](https://github.com/anaisabelamr))
