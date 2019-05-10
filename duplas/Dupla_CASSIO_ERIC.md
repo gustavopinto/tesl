@@ -184,27 +184,27 @@ empregada em projetos de software.
 planos de curto e longo prazo desse projeto.      
   - [Vim](https://github.com/vim/vim):    
 2. Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.     
-    - Vim: famoso editor de texto (16.5k estrelas).    
+    - **Vim**: (un)popular and (but) famous text editor (16.5k estrelas).    
         - site: https://www.vim.org/     
         - source code repo: https://github.com/vim/vim  
         - bug tracking: label `defect` on [GitHub issues](https://github.com/vim/vim/issues?q=is%3Aopen+is%3Aissue+label%3Adefect)    
         - communication tools: lots of [mailing lists](https://www.vim.org/maillist.php), [conferences](https://www.vim.org/news/news.php)    
-    - Kaldi: speech recognition tool (5.8k stars).    
+    - **Kaldi**: speech recognition tool (5.8k stars).    
         - site: https://kaldi-asr.org/    
         - source code repo: https://github.com/kaldi-asr/kaldi    
         - bug tracking: label `bug` on [GitHub issues](https://github.com/kaldi-asr/kaldi/labels/bug)    
         - communication tools: [forum](http://kaldi-asr.org/forums.html) on official website provides links for [dev](https://groups.google.com/forum/#!forum/kaldi-developers) and [help](https://groups.google.com/forum/#!forum/kaldi-help) google groups,
-    - PocketSphinx: speech recognition tool (2.1k estrelas).    
+    - **PocketSphinx**: speech recognition tool (2.1k estrelas).    
         - site: https://cmusphinx.github.io/    
         - source code repo: https://github.com/cmusphinx/pocketsphinx    
         - bug tracking: label `bug` on [GitHub issues](https://github.com/cmusphinx/pocketsphinx/labels/bug) and issue tracker on [SourceForge](https://sourceforge.net/p/cmusphinx/bugs/).    
         - communication tools: group on [Telegram](https://t.me/cmusphinx) and [dev](https://t.me/cmusphinx) mailing list    
-    - Riot.IM: messaging client software (2.9k stars)    
+    - **Riot.IM**: messaging client software (2.9k stars)    
         - site: https://about.riot.im/    
         - source code repo: https://github.com/vector-im/riot-web    
         - bug tracking: labels `bug`, `p1`, `critical` and `FIRE` on [GitHub issues](https://github.com/vector-im/riot-web/labels)
         - communication tools: ['room' chat](https://riot.im/app/#/room/#riot:matrix.org) within the platform
-    - Keybase: messaging client software (4.9k stars)    
+    - **Keybase**: messaging client software (4.9k stars)    
         - site: https://keybase.io/    
         - source code repo: https://github.com/keybase/client    
         - bug tracking: issue tracker on a exclusive, independent [repo](https://github.com/keybase/keybase-issues); labels `bug` and `showstopper` on [GitHub issues](https://github.com/keybase/client/labels), but bugs are effectively managed through a system called Jira, which is [internal](https://github.com/keybase/keybase-issues/issues/2786#issuecomment-275767901)
