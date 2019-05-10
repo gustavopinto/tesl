@@ -210,3 +210,5 @@ planos de curto e longo prazo desse projeto.
         - source code repo: https://github.com/keybase/client    
         - bug tracking: issue tracker on a exclusive, independent [repo](https://github.com/keybase/keybase-issues); labels `bug` and `showstopper` on [GitHub issues](https://github.com/keybase/client/labels), but bugs are effectively managed through a system called Jira, which is [internal](https://github.com/keybase/keybase-issues/issues/2786#issuecomment-275767901)
         - communication tools: [group chat](https://keybase.io/team/keybasefriends) within the platform
+3. Formas de priorizar requisitos
+    - Riot.IM: O software de troca de mensagens priora suas issues por tags no GitHub, que vão de P1 à P5, e devem ser associadas à outras tags que remetem à bugs ou a seções particulares do software (e.g.: VoIP, UI, network, etc.). As de P1 normalmente referem à bugs de segurança, enquanto as de P5 são normalmente resolvidas a longo prazo, podendo conter também duplicações. 
