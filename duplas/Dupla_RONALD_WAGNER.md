@@ -58,3 +58,22 @@
 	2. Foi enviado um PR para adição da licença MIT no projeto [effmli/TinderAutomation](https://github.com/jeffmli/TinderAutomation) link para [Pull request](https://github.com/jeffmli/TinderAutomation/pull/4)
 	
 	4. A disciplina possui a licença Creative Commons Atribution 4.0 International. A licença creative commons é um conjunto de licenças possuindo algumas variações, a versão que é aplicada no projeto da disciplina é CC BY, pois é permisso ao uso e distribuição e modificação, ao mesmo tempo atribuindo os direitos autorais ao criadores do projeto. No contexto da disciplina o uso dessa licença é vantajoso visto que, o projeto demanda compartilhamentos com os alunos e tem cunho acadêmico para aplicação de uma disciplina para a Universidade, fazendo com que os autores(professores) sejam devidamente referencidos em futuros forks. Com isso os professores não precisam se preocupar com os direitos autorais dos materiais disponibilizados, pois a licença protege a propriedade autoral.
+
+- Atividade 6:
+
+    1. 
+
+    2. 5 projetos (1K+ stars) e os links para site, repositório, bug tracking e ferramentas de comunicação.
+
+        * __React.js__: [Site](https://reactjs.org/), [Repositório](https://github.com/facebook/react), Bug Tracker são as [Github Issues](https://github.com/facebook/react/issues), [IRC](https://webchat.freenode.net/?channels=reactjs) e [Fóruns](https://discuss.reactjs.org/).
+
+        *__Reac Native__: [Site](http://www.reactnative.com/), [Repositório](https://github.com/facebook/react-native), Bug tracker através das [Github Issues](https://github.com/facebook/react-native/issues/), comunicação por Issues no repo [react-native-website](https://github.com/facebook/react-native-website/issues) e tags no [Twitter](https://twitter.com/reactnative).
+
+        * __Angular__: [Site1](https://angularjs.org/) e [Site2](https://angular.io), [Repositório](https://github.com/angular/angular), Bug tracker e comunicação através das [Githubs Issues](https://github.com/angular/angular/issues);
+
+        *__Django__: [Site](https://www.djangoproject.com/), [Repositório](https://github.com/django/django), Bugs através de [ticket tracker](https://code.djangoproject.com/), comunicação por [Listas de emails](https://docs.djangoproject.com/en/dev/internals/mailing-lists/#django-users-mailing-list) e [Canal IRC](irc://irc.freenode.net/django-dev);
+
+        *__TensorFlow__: [Site](https://www.tensorflow.org/), [Repositório](https://github.com/tensorflow/tensorflow), Bug Tracker nas [Github Issues](https://github.com/tensorflow/tensorflow/issues), comunicação nas Issues, [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow) e várias listas de emails categorizadas em [anuncios](https://groups.google.com/a/tensorflow.org/d/forum/announce), [discussões](https://groups.google.com/a/tensorflow.org/d/forum/discuss), [desenvolvedores](https://groups.google.com/a/tensorflow.org/d/forum/developers), [documentação](https://groups.google.com/a/tensorflow.org/d/forum/docs) e [testes](https://groups.google.com/a/tensorflow.org/d/forum/testing).
+
+
+    3.
