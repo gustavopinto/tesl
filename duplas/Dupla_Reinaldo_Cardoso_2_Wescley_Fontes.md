@@ -47,3 +47,57 @@ As permissões desta fraca licença de copyleft estão condicionadas a disponibi
 Uma licença sem condições que dedica obras ao domínio público. Trabalhos não licenciados, modificações e trabalhos maiores podem ser distribuídos sob termos diferentes e sem código-fonte.
 
 “O projeto da disciplina tem a licença Creative Commons Attribution, licença adequada para a finalidade a qual o projeto se destina conforme descrição no item 1.
+
+## Atividade 06
+
+- Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
+
+[Mysqljs - site] (https://github.com/mysqljs/mysql)
+
+[Mysqljs - Repositório] (https://github.com/mysqljs/mysql)
+
+[Mysqljs - bug tracking ] (https://github.com/mysqljs/mysql/issues)
+
+[Mysqljs - Ferramenta de Comunicação] (https://groups.google.com/forum/#!forum/node-mysql)
+
+
+[Docker library Mysql - site] (https://dev.mysql.com/)
+
+[Docker library Mysql - Repositório] (https://github.com/docker-library/mysql)
+
+[Docker library Mysql - bug tracking ] (https://github.com/mysqljs/mysql/issues)
+
+[Docker library Mysql - Ferramenta de Comunicação] (https://forums.mysql.com/)
+
+
+[Angular - site] (https://angular.io)
+
+[Angular - Repositório] (https://github.com/angular/angular)
+
+[Angular - bug tracking ] (https://github.com/angular/angular/issues)
+
+[Angular - Ferramenta de Comunicação] (https://twitter.com/angular)
+
+
+- Encontre 3 exemplos de pedidos de feature ou resolução de bugs que foram implementadas, coloque o link para elas e faça um relatório crítico sobre o fluxo: era bug ou feature? foi iniciado por um usuário ou desenvolvedor? os desenvolvedores foram reticentes ou abertos para a descrição realizada? houve pedido de mais informações? foi resolvido rapidamente ou demorou? houve algum impecilho técnico ou social para essa resolução? quem resolveu o problema foi um desenvolvedor experiente, novato ou algum usuário?
+
+[Angular](https://github.com/angular/angular/issues/30404)
+Era uma solicitação de correção de BUG, iniciado por um desenvolvedor. Os desenvolvedores foram aberto com relação ao chamado. Porém ouve questionamentos sobre a necessidade daquela utilização. o chamado foi atendido rapidamente e concluido em poucos minutos. Houve um impecilio técnico para resolução do chamado pois o problema reportado estava fora do escopo de atuação do projeto, tratava-se de um problema de java script puro e não relacionado ao Angular propriamente dito. O problema foi encerrado por um desenvolvedor experiente.
+
+
+- Encontre e discuta formas de priorizar requisitos em projetos de software livre.
+
+Uma proposta de priorização pode começar em dar foco em questões globais que afetem a estrutura e funcionamento do projeto para então fatiar o sistema em módulos independes, realizar a priorização por módulos e então em requisitos estruturais de cada módulo e por fim requisitos periféricos sempre levando em consideração o Roadmaps do projeto.
+
+Desse modo temos:
+
+1 - Questões estruturais.
+
+2 - Definiar priorização por módulos.
+
+3 - Priorizar requisitos estruturais de cada módulo.
+
+4 - Priorizar requisitos periféricos de acordo com o valor agregado para os usuário e conforme o Roadmaps do projeto.
+
+
+
