@@ -144,3 +144,84 @@ a menos que os termos da licença sejam transgredidos.
 R = O projeto bezierplot [https://github.com/linusromer/bezierplot.git](#) desenvolve um programa Lua que aproxima plotagens de função. 
 Ele é licenciado com "LaTeX Project Public License (LPPL)". 
 No entanto, ela é a principal licença sob a qual os pacotes LaTeX são distribuídos.
+
+
+## Atividade06
+
+Atividade 06
+
+* Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os planos de curto e longo prazo desse projeto.
+R = 
+Projeto 1: Postgis
+Roadmap/Website: [https://trac.osgeo.org/postgis/roadmap](#)
+A curto prazo o principal plano do Postgis é a estabilização e correção dos bug da versão 2.5, porém nesse momento nenhum dos tracks existentes são classificados como prioridade acima de médio. A longo prazo os dois principais planos do Postgis é o marco PostGIS Fund Me, que possui tempo de execução de mais 7 anos, 267 tracks ativos e alguns tracks com prioridades altas; outro é a implementação da nova versão GEOS do Postgis que teve o marco iniciado esse ano e tem prazo de término até 2026.
+
+Projeto 2: scikit-learn
+Roadmap/Website: [https://scikit-learn.org/stable/roadmap.html](#)
+Onze anos após o início do Scikit-learn muita coisa mudou no mundo do aprendizado de máquina. Uma mudança mais sutil na última década é que, devido à mudança de interesse na ML, os alunos de PhD em aprendizado de máquina têm mais probabilidade de contribuir com PyTorch, Dask, etc. do que com o Scikit-learn, então nosso pool de colaboradores é muito diferente de uma década atrás.
+
+O Scikit-learn permanece muito popular na prática por experimentar técnicas canônicas de aprendizado de máquina, particularmente para aplicações em ciência experimental e em ciência de dados. Muito do que nós fornecemos agora é muito maduro. Mas pode ser caro manter e, portanto, ele não pode incluir novas implementações arbitrárias. Assim, os principais objetivos do projeto são:
+- Continuar mantendo uma coleção bem documentada e de alta qualidade de ferramentas canônicas para processamento de dados e aprendizado de máquina; 
+ - Melhorar a facilidade para os usuários desenvolverem e publicarem componentes externos;
+ - Melhorar a interoperabilidade com ferramentas modernas de dados científicos (por exemplo, Pandas, Dask) e infra-estruturas como o processamento distribuído.
+
+Observação: muitas das metas mais delicadas podem ser encontradas na tag da API no rastreador de problemas.
+
+Projeto 3:
+Roadmap/Website: [https://www.postgresql.org/developer/roadmap/](#)
+
+O objetivo do projeto PostgreSQL a curto prazo é de pelo menos um lançamento menor a cada trimestre, em um cronograma pré-definido. Se for necessário, devido a algum bug importante ou a um problema de segurança, mais lançamentos serão feitos entre essas datas. O próximo grande lançamento do PostgreSQL está planejado para ser a versão 12 (Atualmente utiliza-se a versão 11). Um cronograma experimental para esta versão tem um lançamento no terceiro trimestre de 2019.
+
+* Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
+R = 
+Projeto 1: scikit-learn 
+Stars: 34.995
+Website: [http://scikit-learn.org](#)
+Repositório de código fonte: [https://github.com/scikit-learn/scikit-learn](#)
+Bug tracking: [https://github.com/scikit-learn/scikit-learn/labels/Bug](#)
+Ferramentas de comunicação:
+- Lista de discussão: [https://mail.python.org/mailman/listinfo/scikit-learn](#)
+- StackOverflow com a tag [scikit-learn]: [https://stackoverflow.com/questions/tagged/scikit-learn](#)
+- Suporte: [https://scikit-learn.org/stable/support.html](#)
+
+Projeto 2: PyTorch
+Stars: 27.889
+Website: [https://pytorch.org/](#)
+Repositório de código fonte: [https://github.com/pytorch/pytorch](#)
+Bug tracking: [https://github.com/pytorch/pytorch/labels/topic%3A%20error%20checking](#)
+Ferramentas de comunicação:
+- Slack, para discussão em torno da integração do framework, suporte de built, colaboração, etc: [https://tensorcomprehensions.herokuapp.com/](#).
+Email: tensorcomp@fb.com 
+- Guide: [https://opensource.guide](#)
+
+Projeto 3: TensorFlow
+Stars: 127.276
+Website: [https://www.tensorflow.org/](#)
+Repositório de código fonte: [https://github.com/tensorflow/tensorflow](#)
+Bug tracking: [https://github.com/tensorflow/tensorflow/labels/type%3Abug%2Fperformance](#)
+Ferramentas de comunicação:
+- StackOverflow com a tag [tensorflow]: [https://stackoverflow.com/questions/tagged/tensorflow](#)
+- Comunidade: [https://www.tensorflow.org/community](#)
+
+Projeto 4:  Postgres 
+Stars: 5.213
+Website: [https://www.postgresql.org/](#)
+Repositório de código fonte: [https://github.com/postgres/postgres](#) Obs: Apenas espelho do código original.
+Bug tracking:[https://www.postgresql.org/list/pgsql-bugs/](#)
+Ferramentas de comunicação:
+-  IRC channel: [postgresql on irc.freenode.net](#)
+- Slack: [https://postgres-slack.herokuapp.com/](#)
+- Email para inclusão nos grupos: [webmaster@postgresql.org](#)
+
+Projeto 5:  Pencil
+Stars: 6.726
+Website: [http://pencil.evolus.vn/](#)
+Repositório de código fonte: [https://github.com/evolus/pencil](#) 
+Bug tracking:[ (https://github.com/evolus/pencil/issues)](#)
+Ferramentas de comunicação:
+-  Email para licenciamento comercial: [contact@evolus.vn](#)
+
+* Encontre e discuta formas de priorizar requisitos em projetos de software livre
+R  =  
+Uma das principais formas de priorizar requisitos seria através da utilização dos itens do roadmap como quase épicos, baseando-se em desenvolvimento ágil (projetos maiores que levam mais de um sprint para serem concluídos). Assim, os mantenedores ou líderes de projeto podem selecionar #Issues prioritárias que se alinhem com esses épicos definidos no roadmap de um projeto de software livre.
+Outra abordagem, seria utilizando a figura de um ou mais responsáveis técnicos do projeto, como, p. ex., o “ditador benevolente”, que tenham a autoridade de selecionar determinadas issues, bugs ou requisitos que devem ser definidos como imprescindíveis para a evolução do projeto. 
