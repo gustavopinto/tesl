@@ -202,10 +202,10 @@ planos de curto e longo prazo desse projeto.
     - Riot.IM: messaging client software (2.9k stars)    
         - site: https://about.riot.im/    
         - source code repo: https://github.com/vector-im/riot-web    
-        - bug tracking:  
-        - communication tools: 
+        - bug tracking: labels `bug`, `p1`, `critical` and `FIRE` on [GitHub issues](https://github.com/vector-im/riot-web/labels)
+        - communication tools: ['room' chat](https://riot.im/app/#/room/#riot:matrix.org) within the platform
     - Keybase: messaging client software (4.9k stars)    
-        - site: 
-        - source code repo: 
-        - bug tracking:  
-        - communication tools: 
+        - site: https://keybase.io/    
+        - source code repo: https://github.com/keybase/client    
+        - bug tracking: issue tracker on a exclusive, independent [repo](https://github.com/keybase/keybase-issues); labels `bug` and `showstopper` on [GitHub issues](https://github.com/keybase/client/labels), but bugs are effectively managed through a system called Jira, which is [internal](https://github.com/keybase/keybase-issues/issues/2786#issuecomment-275767901)
+        - communication tools: [group chat](https://keybase.io/team/keybasefriends) within the platform
