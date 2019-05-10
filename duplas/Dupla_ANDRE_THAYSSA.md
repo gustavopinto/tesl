@@ -2,9 +2,9 @@
 - André Miranda (andremirandap93@gmail.com, [@andremp93]https://github.com/andremp93))
 - Thayssa Rocha (thayssa.rocha@gmail.com, @ThayssaRocha)
 
-## Link para atividades
+## Atividade01:
 
-- Atividade01: [https://drive.google.com/open?id=1-2JYiJDWs0k8Pk1-Qo7871pGRoLcgfPD]
+ - Link para atividades [https://drive.google.com/open?id=1-2JYiJDWs0k8Pk1-Qo7871pGRoLcgfPD]
 
 ## Atividade02: 
     Identificar novatos nos projetos
@@ -75,3 +75,54 @@
 - Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
         https://github.com/lubien/ufpa-advanced-databases-2018-assignment-01/pull/3
 -
+
+##Atividade 06:
+ - Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os planos de curto e longo prazo desse projeto.
+ 
+        1 - Inkscape https://inkscape.org/develop/next-release/
+        Curto prazo: O link https://inkscape.org/develop/next-release/ apesenta as funcionalidades que serão contempladas na próxima versão do produto
+        Longo prazo: Não possui planejamento a longo prazo.
+
+        2 - Hibernate: https://github.com/hibernate/hibernate-orm/wiki/Roadmap
+        O site informa que o roadmap é dirigido pela comunidade e por isso é muito fluido.
+        Curto prazo: https://github.com/hibernate/hibernate-orm/wiki/Roadmap6.0 contem:  Integração SQM, Type contract redesign e Integração CDI unificada.
+        Longo Prazo: https://github.com/hibernate/hibernate-orm/wiki/Roadmap7.0 versão tem 2 funcionalidades maiores: "extended" JPA mapping/config xml schemas e Jandex (biblioteca para ler metadados Java sem carregar a classe no ClassLoader)
+
+        3 - Gimp: https://wiki.gimp.org/wiki/Roadmap
+        A página de roadmap apresenta pelo menos 4 planejamentos em aberto. Um da versão mais próxima a ser liberada que é a 2.10.X com várias funcionalidades já atendidas (em verde) e uma única funcionalidade faltando ser implementada que são melhorias e correções no gerenciamento de cores.
+        Em seguida as versões 3.0 e 3.2 apresentam também a lista de funcionalidades esperadas e seu andamento. O site também exibe uma lista de planejamento a longo prazo, indicado como "Future", que podem ser incluídas na versão 3.2 caso haja disponibildade dos desenvolvedores.
+
+- Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
+
+        Projeto 1:
+            site: https://mantisbt.org/
+            repositório de código fonte:  https://github.com/mantisbt
+            bug tracking: https://mantisbt.org/bugs/my_view_page.php
+            ferramentas de comunicação: https://mantisbt.org/forums/
+            
+        Projeto 2:
+            site: https://www.typescriptlang.org/
+            repositório de código fonte:  https://github.com/Microsoft/TypeScript
+            bug tracking: https://github.com/Microsoft/TypeScript/issues
+            ferramentas de comunicação: https://twitter.com/search?q=%23TypeScript
+            
+        Projeto 3:
+            site: https: https://telegram.org/
+            repositório de código fonte:  https://github.com/DrKLO/Telegram
+            bug tracking: https://github.com/DrKLO/Telegram/pulls
+            ferramentas de comunicação: https://twitter.com/telegram; https://telegram.org/blog
+            
+        Projeto 4:
+            site: https: https://koajs.com/#
+            repositório de código fonte:  https://github.com/koajs/koa
+            bug tracking: https://github.com/koajs/koa/issues
+            ferramentas de comunicação: https://groups.google.com/forum/#!forum/koajs
+            
+        Projeto 5:
+            site: https: https://www.gimp.org/
+            repositório de código fonte:  https://github.com/GNOME/gimp
+            bug tracking: https://www.gimp.org/bugs/
+            ferramentas de comunicação: https://www.gimp.org/mail_lists.html
+  -Encontre e discuta formas de priorizar requisitos em projetos de software livre
+  
+        Uma forma interessante de priorizar requisitos é a utilizada pelo OpenNebula (https://opennebula.org/roadmap/) Neste link, é definido explicitamente um método de priorização que considera prioritariamente as funcionalidades solicitadas por patrocinadores, seguidas por funcionalidades solicitadas por organizações que utilizam a versão paga da aplicação e por fim as funcionalidades sugeridas por usuários e integradores.
