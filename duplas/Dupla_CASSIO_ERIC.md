@@ -172,8 +172,36 @@ empregada em projetos de software.
     - O [Grupo FalaBrasil](https://gitlab.com/) possui um projeto de geração de
    ferramentas para processamento de linguagem natural (NLP) chamado
    [nlp-generator](https://gitlab.com/fb-nlp/nlp-generator) que não possui
-   licença.
+   licença.    
    - O projeto [DNF-Patch](https://github.com/Kxnrl/DNF-Patch) utiliza uma
    licença chamada
    [GLWT](https://github.com/Kxnrl/DNF-Patch/blob/master/LICENSE) (good luck
    with that), que não é reconhecida pelo OSI e não consta na lista SPDX.
+
+## Atividade 06
+1. Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os
+planos de curto e longo prazo desse projeto.
+  - [Vim](https://github.com/vim/vim): 
+
+2. Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e
+coloque os links para seus respectivos site, repositório de código fonte, bug
+tracking e ferramentas de comunicação.
+  - Vim: famoso editor de texto (16.5k estrelas).    
+    - site: https://www.vim.org/     
+    - source code repo: https://github.com/vim/vim  
+    - bug tracking: label `defect` on [GitHub issues](https://github.com/vim/vim/issues?q=is%3Aopen+is%3Aissue+label%3Adefect)    
+    - communication tools: lots of [mailing lists](https://www.vim.org/maillist.php), [conferences](https://www.vim.org/news/news.php)    
+  - Kaldi: speech recognition tool (5.8k stars).    
+    - site: https://kaldi-asr.org/    
+    - source code repo: https://github.com/kaldi-asr/kaldi    
+    - bug tracking: label `bug` on [GitHub issues](https://github.com/kaldi-asr/kaldi/labels/bug)    
+    - communication tools: [forum](http://kaldi-asr.org/forums.html) on official website provides links for [dev](https://groups.google.com/forum/#!forum/kaldi-developers) and [help](https://groups.google.com/forum/#!forum/kaldi-help) google groups,
+  - CMU Sphinx: famoso editor de texto (16.5k estrelas).    
+    - site: https://www.vim.org/     
+    - source code repo: https://github.com/vim/vim  
+    - bug tracking: label `defect` on [GitHub issues](https://github.com/vim/vim/issues?q=is%3Aopen+is%3Aissue+label%3Adefect)    
+    - communication tools: lots of [mailing lists](https://www.vim.org/maillist.php), [conferences](https://www.vim.org/news/news.php)    
+
+
+
+
