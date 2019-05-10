@@ -1,4 +1,4 @@
-# Aula 4: Licenças de Software Livre
+# Aula 5: Licenças de Software Livre
 
 ## Material extra
 
@@ -13,7 +13,7 @@
 
 ## Slides
 
-- TDB
+- Slide da [Aula05](https://docs.google.com/presentation/d/1ahoxue-BOkh9ZWwVGrKABGOyhSbG9Y6sMZuCd6oQGNY/edit?usp=sharing)
 
 ## Atividades (ao menos 3 atividades)
 
