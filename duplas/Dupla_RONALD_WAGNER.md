@@ -61,7 +61,8 @@
 
 - Atividade 6:
 
-    1. 
+    1. Roadmaps:
+        * [Windows Calculator](https://github.com/microsoft/calculator): Planos para 2019 incluem um melhor desenvolvimento usando Github.
 
     2. 5 projetos (1K+ stars) e os links para site, repositório, bug tracking e ferramentas de comunicação.
 
@@ -76,4 +77,8 @@
         *__TensorFlow__: [Site](https://www.tensorflow.org/), [Repositório](https://github.com/tensorflow/tensorflow), Bug Tracker nas [Github Issues](https://github.com/tensorflow/tensorflow/issues), comunicação nas Issues, [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow) e várias listas de emails categorizadas em [anuncios](https://groups.google.com/a/tensorflow.org/d/forum/announce), [discussões](https://groups.google.com/a/tensorflow.org/d/forum/discuss), [desenvolvedores](https://groups.google.com/a/tensorflow.org/d/forum/developers), [documentação](https://groups.google.com/a/tensorflow.org/d/forum/docs) e [testes](https://groups.google.com/a/tensorflow.org/d/forum/testing).
 
 
-    3.
+    3. Relatórios de pedidos de features ou bug reports:
+        * [Feature](https://github.com/facebook/react/issues/15605): Pedido de feature realizado por um usuário, um desenvolvedor/usuário mais experiente não foi claro ou aberto na resposta, a issue foi respondida rapidamente, não foi resolvida e foi fechada pelo usuário que a iniciou.
+
+        * []:
+
