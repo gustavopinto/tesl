@@ -155,3 +155,13 @@ solicitações.
 - Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
 
   O software [Dspace](https://github.com/DSpace/DSpace/blob/master/LICENSE) que utiliza uma licença Copyright mesmo sendo um software livre.
+
+## Atividade 6
+
+- Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os planos de curto e longo prazo desse projeto.
+
+- Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
+
+- Encontre 3 exemplos de pedidos de feature ou resolução de bugs que foram implementadas, coloque o link para elas e faça um relatório crítico sobre o fluxo: era bug ou feature? foi iniciado por um usuário ou desenvolvedor? os desenvolvedores foram reticentes ou abertos para a descrição realizada? houve pedido de mais informações? foi resolvido rapidamente ou demorou? houve algum impecilho técnico ou social para essa resolução? quem resolveu o problema foi um desenvolvedor experiente, novato ou algum usuário?
+
+- Encontre e discuta formas de priorizar requisitos em projetos de software livre
