@@ -9,3 +9,5 @@
 - Atividade 03: [link aqui](https://drive.google.com/drive/folders/1IBHV4PAYjzTmFYpuhcz68rpSzcdmHYzc?usp=sharing)
 
 - Atividade 05: [link aqui](https://drive.google.com/open?id=1eix25lJR0N_LE4M4JbW7aeyU77PVBpIB)
+
+- Atividade 06: [link aqui](https://drive.google.com/open?id=1896ljFJXT9fpOnpuqmCeG09JpYe-VEAb)
