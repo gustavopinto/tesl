@@ -1,0 +1,146 @@
+# Dupla Caio_Isaac
+
+- Caio Marcos Flexa Rodrigues (caiomfrodrigues@gmail.com, @caioMFRodrigues)
+- Isaac Souza Elgrably (isaacelgrably@hotmail.com, @elgrably)
+
+# Link para atividades
+
+## Atividade01
+
+Atividade 01
+
+- Planilha01: [https://docs.google.com/spreadsheets/d/1P-DPpUiFZ1Je326a46_qesu3L748WIsukSRQkzt8UPc/edit?userstoinvite=fronchettiemail@gmail.com&ts=5c9f7432&actionButton=1#gid=122497701](#)
+- Planilha02: [https://docs.google.com/spreadsheets/d/1uUmtZF-gyQE11RZcc59HRkvKW3xEpNXnJxWHT8mfJlk/edit?userstoinvite=fronchettiemail@gmail.com&ts=5c9f7400#gid=122497701](#) 
+
+## Atividade02
+
+Atividade 02
+
+Projeto: scikit-learn
+
+Contribuidores novatos
+
+Alguns dos contribuidores novatos são apresentados abaixo. Tais contribuidores realizaram poucos commits recentemente.
+
+wdevazelhes [https://github.com/scikit-learn/scikit-learn/commits?author=wdevazelhes];
+naoyak [https://github.com/scikit-learn/scikit-learn/commits?author=naoyak];
+tguillemot [https://github.com/scikit-learn/scikit-learn/commits?author=tguillemot]; 
+jakirkham [https://github.com/scikit-learn/scikit-learn/commits?author=jakirkham].
+
+Contribuidores chave
+
+Os contribuidores chave do projeto são:
+
+amueller [https://github.com/scikit-learn/scikit-learn/commits?author=amueller] (criador do projeto; ele possui a maior parte dos commits na história do projeto);
+ogrisel [https://github.com/scikit-learn/scikit-learn/commits?author=ogrisel] (segundo maior contribuidor);
+GaelVaroquaux [https://github.com/scikit-learn/scikit-learn/commits?author=GaelVaroquaux];
+larsmans [https://github.com/scikit-learn/scikit-learn/commits?author=larsmans].
+
+Sugestão de tarefas
+
+Sugestão de tarefas está descrita no ReadMe do projeto na seção “Maintainership” detalhando que tipo de mantenedores estão sendo procurados. No projeto os mantenedores devem realizar triagem de issues, pull requests e cut releases. Pessoas que trabalham em projetos que utilizam o scikit-learn e tem interesse em auxiliar eu seu desenvolvimento podem enviar um email a alguém do arquivo de Mantenedores. Além disso, o acesso ao site “https://scikit-learn.org/stable/” é recomendado para mais informações.
+
+## Atividade03
+
+Atividade 03
+
+ - Commit é o ato de commitar suas modificações. Essas modificações serão inseridas no histórico do projeto as outras pessoas participantes do projeto.
+ - Push é o comando de enviar um projeto para ser compartilhado.
+ - Pull é um comando que incorpora mudanças de um repositório remoto para o branch local.
+ - Checkout Atualiza arquivos na árvore de trabalho para corresponder à versão no índice ou na árvore especificada.
+ - Log é utlizado para verificar os logs de commits do projeto.
+ - Shortlog mostra a quantidade de commits do projeto.
+
+Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
+
+git shortlog -sne
+
+Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+MunGell/awesome-for-beginners
+Add Brazilian version - free translation CONTRIBUTING.md #339
+	Elgrably wants to merge 141 commits into
+
+Experimentação e descrição de vários comandos do git
+
+git pull: atualizar os arquivos no branch atual
+git commit: comando necessário à consolidação de alguma modificação, assim salvando o estado atual do projeto
+git push: quando o próximo estado está pronto para ser compartilhado, o comando git push é necessário para enviá-lo à fonte
+git checkout: esse comando é necessário para chavear entre branches
+git log: o comando git log é usado para visualizarmos o histórico de commits
+git shortlog: é usado para resumir as saídas do git log e agrupar os commits por autor
+
+Comando para imprimir uma saída de terminal similar a esta
+
+git shortlog -sne
+
+Update Dupla_Caio_Isaac #65
+Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+MunGell/awesome-for-beginners
+Add Brazilian version - free translation CONTRIBUTING.md #339
+	Elgrably wants to merge 141 commits into
+  
+## Atividade04
+
+Atividade 04
+
+* Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+R = 
+
+Projeto: scikit-learn [https://github.com/scikit-learn/scikit-learn](#)
+Os links encontrados são estes:
+Website: [http://scikit-learn.org](#)
+About us: [https://scikit-learn.org/dev/about.html#authors](#)
+Developer’s Guide: [https://scikit-learn.org/stable/developers/index.html](#)
+Installing scikit-learn: [https://scikit-learn.org/stable/install.html](#)
+
+* Teste a documentação (por ex, siga as instruções de instalação) e sumarize os problemas encontrados
+
+Instalação do projeto ck ([https://github.com/mauricioaniche/ck](#))
+Instruções obtidas do ck/ README.md
+
+O tutorial para instalação é simples e bem didático.
+
+- A arquitetura utilizada no desenvolvimento não foi indicada.
+-Para iniciantes seria bom que houvesse as indicações de quais tecnologias foram utilizadas, por exemplo: Para rodar os comandos mvn (Maven instalado).
+-A parte de integração com sua app não está bem descrita (How to integrate it in my Java app).
+-Seria interessante um leque maior de traduções (Houve um Pull Request Translated README.md #12, mas não houve o merge)
+- Falta de Examples para poder ver o funcionamento do projeto ck.
+
+* Revise uma página de um projeto de software livre e sumarize os problemas encontrados
+
+Revisão da Página do projeto Freecol [https://github.com/FreeCol/freecol](#)
+
+Problemas Encontrados
+
+- Não Existe nenhum guia para compilar o software (abaixo o texto pra auxiliar o Building do projeto)
+- Não possui tradução, seja a pagina do Github como a propria aplicação.
+- Falta de indicação de quais as tecnologias necessitam estar instaladas para implementação do código.
+- Versão do projeto lançada em janeiro está com problema para executar no Windows ("O Windows Defender SmartScreen impediu a inicialização de um aplicativo não reconhecido.
+Se você executar esse aplicativo, o computador poderá ficar vulnerável.") já foi informado no track do projeto e o link ainda não foi retirado.
+- A organização do Branch Master está bagunçada, sem uma estrutura de pastas do projeto bem concisa.
+
+
+## Atividade05
+
+Atividade 05
+
+* Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+R = Se acaso um projeto de software não possui uma licença, significa que materialmente, em termos legais, 
+ninguém tem permissão para usar, modificar ou compartilhar aquele software sem correr o risco de sofrer interrupções, 
+abalos ou litígios legais da parte dos criadores do software. Mesmo que o código esteja em algum repositório aberto como o Github, 
+havendo a possibilidade de visualizar e bifurcar o código, isso não significa que você tenha permissão para usar, modificar ou compartilhar o software. 
+Seja a finalidade qual for, não se deve tirar proveito do software.
+ 
+* Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+R = A licença do site da disciplina é a “Creative Commons Attribution 4.0 International”. Bastante flexível e “royalty-free”, 
+essa versão permite quase qualquer uso de terceiros – a fornecer aviso de crédito e licença ao autor original do trabalho –, 
+sendo frequentemente usada para ativos de mídia e materiais educacionais como aqueles compartilhados na página da disciplina. 
+Além disso, ela também é a licença mais comum para publicações científicas Open Access. O licenciante não pode revogar essas liberdades, 
+a menos que os termos da licença sejam transgredidos. 
+ 
+* Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
+R = O projeto bezierplot [https://github.com/linusromer/bezierplot.git](#) desenvolve um programa Lua que aproxima plotagens de função. 
+Ele é licenciado com "LaTeX Project Public License (LPPL)". 
+No entanto, ela é a principal licença sob a qual os pacotes LaTeX são distribuídos.
