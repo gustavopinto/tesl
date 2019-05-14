@@ -79,3 +79,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Hamilton Cavalcante (hamiltoncavalcante@gmail.com) [@HCavalcante](https://github.com/HCavalcante)
 - Matheus Seabra (matheusvieiracoelho@gmail.com) [@matheuseabra](https://github.com/matheuseabra)
 
+## Dupla [ANAISABELA_JOSEPAULO](duplas/Dupla_ANAISABELA_JOSEPAULO.md)
+- José Paulo Brandão Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://github.com/pauloneves123))
+- Ana Isabela Manito Ramos (aisabelamr@gmail.com, [@anaisabelamr](https://github.com/anaisabelamr))
+
