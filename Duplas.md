@@ -82,4 +82,3 @@ Dupla_NOME01_NOME02.md recentemente criado.
 ## Dupla [ANAISABELA_JOSEPAULO](duplas/Dupla_ANAISABELA_JOSEPAULO.md)
 - José Paulo Brandão Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://github.com/pauloneves123))
 - Ana Isabela Manito Ramos (aisabelamr@gmail.com, [@anaisabelamr](https://github.com/anaisabelamr))
-
