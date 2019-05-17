@@ -13,3 +13,4 @@ José Paulo Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://g
 - Atividade04: [link aqui](https://docs.google.com/document/d/1walNRj8arag4swfNYgPHm4TUPC025MHhKMiBhlxUG9o/edit?usp=sharing)
 - Atividade05: [link aqui](https://docs.google.com/document/d/11EaqBYXRBm7bzCgs8JkvTGVZ5b7uIzRFDXR5iXdNo_w/edit?usp=sharing)
 - Atividade06: [link aqui](https://docs.google.com/document/d/1-olGJu8ghnbjEuOXwAoPkpw9qsLGvWbHLyZXY8LiXrI/edit?usp=sharing)
+- Atividade07: [link aqui](https://docs.google.com/document/d/1evvcJPm38vgIkIRjsvd2LSljfG-XbTLaouNpw9FSG1M/edit?usp=sharing)
