@@ -71,7 +71,7 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Thays Dhandarah Rodrigues Sá  (dhandarah1996@gmail.com, [@dhandarah](https://github.com/dhandarah))
 - Augusto Farias Cravo (augusto.f.cravo@gmail.com, [@augustofcravo](https://github.com/augustofcravo))
 
-## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTORHUGO_BHRUNNO)
+## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTORHUGO_BHRUNNO.md)
 - Victor Hugo Azevedo Ferreira (victorhugo543af@gmail.com, [@VictorBSI](https://github.com/VictorBSI))
 - Bhrunno Brito Medeiros (bhrunno.medeiros@gmail.com, [@Bhrunno](https://github.com/bhrunno))
 
