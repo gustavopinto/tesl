@@ -47,3 +47,30 @@ As permissões desta fraca licença de copyleft estão condicionadas a disponibi
 Uma licença sem condições que dedica obras ao domínio público. Trabalhos não licenciados, modificações e trabalhos maiores podem ser distribuídos sob termos diferentes e sem código-fonte.
 
 “O projeto da disciplina tem a licença Creative Commons Attribution, licença adequada para a finalidade a qual o projeto se destina conforme descrição no item 1.
+
+## Atividade 8
+Explique o são Linters e qual a sua importância ?
+R: Linters são programas que realizam uma varredura em determinado codigo fonte em busca de anomalias do tipo - falhas de programação, falta de padronizações (sejam elas arquiteturais até mesmo identaçõoes simples). Essas anomalias podem comprometer a qualidade do software desenvolvido impactando em sua legibilidade, manutenibilidade, e até mesmo influenciando o seu desmpenho.
+Os Linters são ferramentas auxiliares que ajudam a criar os padrões definidos para a arquitetura construção e organização de um sistema.
+Quando utilizados desde o inicio de um projeto contribuem para que haja alinhamento entre a equipe de desenvolvimento contribuindo para que o projeto siga um fluxo unico e padronizado para todos os desenvolvedores.
+
+
+Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java)
+R: Object Pascal Style Guide - Que é o guia da própria equipe Delphi disponibilizado pela Embarcadero.
+Nesse gui são definidas diretrizes de identaçõoes de codigo como: Convenção de nomenclatura, Linhas em branco, Espaços, Declaração try etc.
+
+
+Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+R: [Guia de boas praticas para o CakePHP](https://book.cakephp.org/3.0/_downloads/pt/CakePHPCookbook.pdf). 
+
+
+Procure um projeto e encontre 3 violações de boas práticas de codificação com base nos guias abordados em sala de aula, informe ao projeto das violações encontradas através de pull request.
+R:
+Importação do pacote completo ao inves de somente da classe com o recurso desejado. Implica no desempenho da aplicação;
+Utilização de classe com definição do caminho absoluto de classe já importada no projeto. Redundancia de codigo;
+Utilização de catch com exception generico. Dificulta uma futura depuração em caso de falha na conexão.
+[Pull request:] (https://github.com/marciojsalmeida/Sistema-de-Ordem-de-servico-java-mysql/pull/2)
+
+
+Procure um projeto e corrija uma violação de boas práticas de codificação, envie sua correção ao projeto através de pull request.
+R: Correcões realizadas - [Pull request:] (https://github.com/marciojsalmeida/Sistema-de-Ordem-de-servico-java-mysql/pull/2)
