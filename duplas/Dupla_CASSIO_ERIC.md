@@ -243,3 +243,8 @@ reconhecimento de fala
 consistência no desenvolvimento de código colaborativo em JavaScript sobre o
 framework Angular (o qual é usado no desenvolvimento de aplicações web em
 ambientes desktop e mobile) através de um guideline de boas práticas.
+    - O framework Joomla possui os seus próprios guidelines para escrita de
+código. Na página [Joomla! Coding
+Standards](https://developer.joomla.org/coding-standards/basic-guidelines.html)
+há um pequeno tutorial para indentação, tamanho da linha, e diversos outros
+links para mais informações.
