@@ -159,36 +159,31 @@ solicitações.
 ## Atividade 6
 
 - Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
-
- 1. Kubernetes:
+  - Kubernetes:
     - [Site](https://kubernetes.io);
     - [Repositório](https://github.com/kubernetes/);
     - [Código fonte](https://github.com/kubernetes/kubernetes);
     - [Bug Tracking](https://github.com/kubernetes/kubernetes/issues);
     - Comunicação: [Repositório da comunidade](), [Fórum](https://discuss.kubernetes.io/), [Twitter](https://twitter.com/kubernetesio), [Stackoverflow](https://stackoverflow.com/search?q=kubernetes) e [Slack](http://slack.k8s.io/).
- 
- 2. QGIS:
+  - QGIS:
     - [Site]();
     - [Repositório](https://github.com/qgis);
     - [Código fonte](https://github.com/qgis/QGIS);
     - Bug tracking: [Aplicações](https://issues.qgis.org/projects/qgis/issues), [Website](https://github.com/qgis/QGIS-Website/issues), [Documentação](https://github.com/qgis/QGIS-Documentation/issues) e via [Readmine](https://issues.qgis.org/projects/qgis/issues);
-    - Comunicação: [Lista de e-mails](https://qgis.org/en/site/getinvolved/mailinglists.html#qgis-mailinglists), [Twitter](http://twitter.com/qgis) e [Facebook](https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096). 
-  
-  3. Symfony:
+    - Comunicação: [Lista de e-mails](https://qgis.org/en/site/getinvolved/mailinglists.html#qgis-mailinglists), [Twitter](http://twitter.com/qgis) e [Facebook](https://www.facebook.com/pages/QGIS-Quantum-GIS-/298112000235096).
+  - Symfony:
     - [Site](https://symfony.com);
     - [Repositório](https://github.com/symfony/);
     - [Código fonte](https://github.com/symfony/symfony);
     - [Bug tracking](https://github.com/symfony/symfony/issues);
     - Comunicação: [Twitter](https://twitter.com/symfony), [Facebook](https://www.facebook.com/SymfonyFramework/), [Stackoverflow](https://stackoverflow.com/questions/tagged/symfony), [Slack](https://symfony.com/slack), [Mensagem direta](https://symfony.com/support).
-  
-  4. Deno:
+  - Deno:
     - [Site](https://deno.land);
     - [Repositório](https://github.com/denoland/);
     - [Código fonte](https://github.com/denoland/deno);
     - [Bug tracking](https://github.com/denoland/deno/issues);
-    - Comunicação: [Chat](https://gitter.im/denolife/Lobby).
-    
-  5. Home Assistant:
+    - Comunicação: [Chat](https://gitter.im/denolife/Lobby). 
+  - Home Assistant:
     - [Site](https://www.home-assistant.io/);
     - [Repositório](https://github.com/home-assistant/);
     - [Código fonte](https://github.com/home-assistant/home-assistant);
@@ -196,16 +191,15 @@ solicitações.
     - Comunicação: [Fóruns](https://community.home-assistant.io/), [Chat](https://www.home-assistant.io/join-chat/), [Facebook](https://facebook.com/homeassistantio) e [Twitter](https://twitter.com/home_assistant).
 
 - Encontre 3 exemplos de pedidos de feature ou resolução de bugs que foram implementadas, coloque o link para elas e faça um relatório crítico sobre o fluxo: era bug ou feature? foi iniciado por um usuário ou desenvolvedor? os desenvolvedores foram reticentes ou abertos para a descrição realizada? houve pedido de mais informações? foi resolvido rapidamente ou demorou? houve algum impecilho técnico ou social para essa resolução? quem resolveu o problema foi um desenvolvedor experiente, novato ou algum usuário?
+  - [vuetify](https://github.com/vuetifyjs/vuetify/issues/7223): A issue em questão se trata de uma Feature Request feita por um usuário que foi rapidamente atendida, porém, "etiquetada" como uma duplicata. O membro do repositório que atendeu rapidamente relacionou o pedido à [outra issue](https://github.com/vuetifyjs/vuetify/issues/2961) já existente e igualmente fechada. É importante observar que certamente o template pronto para bugs e features contribui para o atendimento rápido neste repositório.
  
- - [vuetify](https://github.com/vuetifyjs/vuetify/issues/7223): A issue em questão se trata de uma Feature Request feita por um usuário que foi rapidamente atendida, porém, "etiquetada" como uma duplicata. O membro do repositório que atendeu rapidamente relacionou o pedido à [outra issue](https://github.com/vuetifyjs/vuetify/issues/2961) já existente e igualmente fechada. É importante observar que certamente o template pronto para bugs e features contribui para o atendimento rápido neste repositório.
+  - [gatsby](https://github.com/gatsbyjs/gatsby/issues/14075): A issue em questão era uma dúvida que não foi respondida sendo encerrada pela própria pessoa que a adicionou apenas 2 horas depois de sua publicação.
  
- - [gatsby](https://github.com/gatsbyjs/gatsby/issues/14075): A issue em questão era uma dúvida que não foi respondida sendo encerrada pela própria pessoa que a adicionou apenas 2 horas depois de sua publicação.
- 
- - [angular](https://github.com/angular/angular/issues/30500): A issue em questão foi um bug report que não foi bem explicitada pelo usuário que a publicou, sendo encerrada sem uma solução por um dos membros do repositório.
+  - [angular](https://github.com/angular/angular/issues/30500): A issue em questão foi um bug report que não foi bem explicitada pelo usuário que a publicou, sendo encerrada sem uma solução por um dos membros do repositório.
 
-- Encontre e discuta formas de priorizar requisitos em projetos de software livre
-
- Uma das possíveis formas de se levar em consideração seria através de uma classificação, ocorrendo de tal forma:
+- Encontre e discuta formas de priorizar requisitos em projetos de software livre.
+  
+  Uma das possíveis formas de se levar em consideração seria através de uma classificação, ocorrendo de tal forma:
  
   - Manter uma equipe responsável por lidar com estes requisitos atenta aos mais diversos meios de comunidação e feature requests;
   - Verificar se é uma issue ou uma sugestão de equipe/comunidade. Priorizar sugestões de equipe/comunidade e categorizar com labels cada issue adicionada;
