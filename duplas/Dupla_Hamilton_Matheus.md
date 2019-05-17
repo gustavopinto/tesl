@@ -171,3 +171,48 @@ Estratégias para gerenciar bugs em projetos de software livre:
 - Verficar que bug reports não estejam duplicados
 - O bug report deve conter informações suficientes para serem resolvidos imediatamente
 
+## Atividade 08
+
+### 1. Explique o são Linters e qual a sua importância ?
+
+R = Linters são ferramentas para padronizar código de liguagens de programação em um formato/estilo. Os linters são importantes durante o processo de desenvolvimento de software pois essas ferramantas permitem que haja uma homogenização no formato entre todos os membros da equipe que estão participando daquele projeto. Além disso, outro resultado que linters trazem é uma redução de inconsistências no código do projeto.
+
+### 3. Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+
+Linguagem: Python
+Framework: Django
+
+Boas práticas:
+
+- Nomenclaturas:
+  As boas-práticas de nomenclaturas dos models em Django seguem também as boas práticas da PEP8, que são, basicamente:
+
+  Nomes de classes são capitalizadas;
+  Nome dos métodos e atributos são em snake_case;
+  Além disso, os nomes das classes devem ser sempre no singular. Isso se dá pois uma classe model representa um objeto daquele tipo de dado, e não uma coleção.
+
+- Ordenação de atributos e métodos
+  
+  De acordo com a documentação oficial de boas práticas do Django, a ordem indicada para os métodos e atributos de uma classe são:
+
+  - Constantes
+  - Campos da tabela
+  - Custom Managers
+  - classe Meta
+  - sobrescrição do __str__()
+  - sobrescrição do __save__()
+  - definição do get_absolute_url()
+  - Properties customizadas
+  - Métodos customizados
+
+- Atenção para a diferença entre 'blank' e 'null': 
+
+  É importante saber a diferença entre os atributos blank e null.
+
+  null: é o atributo que corresponde a capacidade do campo aceitar valores nulos no banco de dados. Por padrão, todo campo criado no django não aceita valores nulos.
+  blank: é o atributo responsável por lidar com a entrada deste dado, seja via django-admin ou forms. Você pode ter um campo que aceita valores nulos no banco de dados mas que não aceita uma entrada vazia no seu formulário.
+
+- Use os 'Managers'
+
+Semelhante aos modelos, é recomendável abstrair a lógica comum em métodos em um 'gerenciador'. Mais especifícamente, é provavelmente desejável um método que possa ser usado em cadeia e que possa ser usado em qualquer hora. 
+
