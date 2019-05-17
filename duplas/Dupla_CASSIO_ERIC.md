@@ -213,3 +213,27 @@ planos de curto e longo prazo desse projeto.
         - communication tools: [group chat](https://keybase.io/team/keybasefriends) within the platform
 3. Formas de priorizar requisitos
     - Riot.IM: O software de troca de mensagens priora suas issues por tags no GitHub, que vão de P1 à P5, e devem ser associadas à outras tags que remetem à bugs ou a seções particulares do software (e.g.: VoIP, UI, network, etc.). As de P1 normalmente referem à bugs de segurança, enquanto as de P5 são normalmente resolvidas a longo prazo, podendo conter também duplicações. Tudo isso está explicitado logo no [README](https://github.com/vector-im/riot-web) do repositório do GitHub.
+
+## Atividade 07
+1. Explique o que são _linters_     
+    - Linters são normalmente definidos como software de análise de código (ou
+debuggers) que analisam o fonte a procura de problemas de convenções e/ou
+estilos de programação, vazamento de memória, bugs, dentre outros. Os linters
+são importantes especialmente quando se pensa na manutenção do código ao longo
+prazo, visto que o software normalmente não é mantido pela mesma pessoa para
+sempre. Além disso, quando se trabalha em grupo, o uso de um analisador de
+formatação ajuda membros do grupo na compreensão de código escrito pelos
+colegas.
+2. Indique um guia de boas práticas de codificação     
+    - O Google possui um guia próprio para C++ que deve ser seguido para
+integrar o desenvolvimento dos projetos open-source da empresa. O nome é 
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) e
+define padrões para criação de headers com extensão `.h`, classes,
+funções/métodos, nomenclatura de classes, métodos e variáveis, formatação,
+conteúdo (scoping) de classes e métodos, etc. As diretrizes acompanham um código
+em python chamado
+[cpplint.py](https://google.github.io/styleguide/cppguide.html#cpplint) que atua
+de forma automática em um código fonte para detecção de erros de convenção. Esse
+guia também é utilizado em outros projetos de software livre, como o pacote de
+reconhecimento de fala
+[Kaldi](https://github.com/kaldi-asr/kaldi#development-pattern-for-contributors).
