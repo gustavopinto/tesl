@@ -13,11 +13,8 @@
 
 ### - Atividade07 (Aula 08.md)
 
-1 - Explique o são Linters e qual a sua importância?
-[Linter](https://en.wikipedia.org/wiki/Lint_(software)) é uma ferramenta que inspeciona códigos para identificar erros de programação, erros de estilo, erros de construção, chamadas de funções obsoletas etc. Um exemplo de Linter é o Pylint, que pode ser integrado com uma editor de texto ou IDE como Atom, Visual Studio Code e Vim.
+Linter -> [Linter](https://en.wikipedia.org/wiki/Lint_(software)) é uma ferramenta que inspeciona códigos para identificar erros de programação, erros de estilo, erros de construção, chamadas de funções obsoletas etc. Um exemplo de Linter é o Pylint, que pode ser integrado com uma editor de texto ou IDE como Atom, Visual Studio Code e Vim.
 
-2 - Guias de Boas Práticas para linguagens de programação
-Foram encontrados 2 Guias de Boas Práticas para a linguagem C, uma voltada para a indústria de softwares para veículos -principalmente-, a [MISRA](https://www.grammatech.com/software-assurance/certifications-compliance/misra?gclid=Cj0KCQjwt_nmBRD0ARIsAJYs6o0oJs_hvB4RZl2UNbCmghvF9HsFJYubWG117J_JuFVIbeM7DANIpDoaAr5VEALw_wcB), e outra escrita pela [NASA](http://web.archive.org/web/20190125125043/http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf) em 1994.
+Guias de Boas Práticas para linguagens de programação -> Foram encontrados 2 Guias de Boas Práticas para a linguagem C, uma voltada para a indústria de softwares para veículos -principalmente-, a [MISRA](https://www.grammatech.com/software-assurance/certifications-compliance/misra?gclid=Cj0KCQjwt_nmBRD0ARIsAJYs6o0oJs_hvB4RZl2UNbCmghvF9HsFJYubWG117J_JuFVIbeM7DANIpDoaAr5VEALw_wcB), e outra escrita pela [NASA](http://web.archive.org/web/20190125125043/http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf) em 1994.
 
-3 - Guia de Boas Práticas para frameworks.
-Encontramos algumas boas práticas para o [Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/) e para o [Flask](http://exploreflask.com/en/latest/conventions.html?highlight=style) -e um [slide](http://exploreflask.com/en/latest/conventions.html?highlight=style) criado por um contribuidor com exemplos.
+Guia de Boas Práticas para frameworks -> Encontramos algumas boas práticas para o [Django](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/) e para o [Flask](http://exploreflask.com/en/latest/conventions.html?highlight=style) -e um [slide](http://exploreflask.com/en/latest/conventions.html?highlight=style) criado por um contribuidor com exemplos.
