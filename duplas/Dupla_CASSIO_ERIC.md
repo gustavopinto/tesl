@@ -237,3 +237,8 @@ de forma automática em um código fonte para detecção de erros de convenção
 guia também é utilizado em outros projetos de software livre, como o pacote de
 reconhecimento de fala
 [Kaldi](https://github.com/kaldi-asr/kaldi#development-pattern-for-contributors).
+3. ndique um guia de boas práticas de codificação em frameworks.
+    - O [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) é
+um guia disponível no GitHub que tem o objetivo de prover consistência no
+desenvolvimento de código colaborativo em JavaScript sobre o framework Angular.
+através de um guideline de boas práticas.
