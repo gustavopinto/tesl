@@ -144,3 +144,22 @@ a menos que os termos da licença sejam transgredidos.
 R = O projeto bezierplot [https://github.com/linusromer/bezierplot.git](#) desenvolve um programa Lua que aproxima plotagens de função. 
 Ele é licenciado com "LaTeX Project Public License (LPPL)". 
 No entanto, ela é a principal licença sob a qual os pacotes LaTeX são distribuídos.
+
+## Atividade07
+
+Atividade 07
+
+* Explique o são Linters e qual a sua importância.
+R = Um linter é uma ferramenta que analisa código-fonte a fim de acusar erros de programação, bugs e construções suspeitas, funcionando como um formatador de código-fonte com algo de análise sintática. HTMLHint, para HTML, e TSLINT, para Angular, são alguns exemplos de "linters" bem conhecidos.
+
+* Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java) 
+R =  Um Guia de boas práticas pode ser o  Guia De programação do C# ([https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/](#)). Ele contém uma pagina mais especifica com o guia de convênções de escrita ([https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/coding-conventions](#)). 
+
+O guia recomenda que as convenções atendam às seguintes finalidades:
+- Criam uma aparência consistente para o código, para que os leitores possam se concentrar no conteúdo e não no layout;
+- Permitem que os leitores entendam o código com mais rapidez, fazendo suposições com base na experiência anterior;
+- Facilitam a cópia, a alteração e a manutenção do código;
+- Demonstram as práticas recomendadas do C#.
+
+* Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+R =  O Framework CakePHP é um framework da linguagem de programação PHP com o foco em desenvolvimento web, em sua pagina inicial  ([https://book.cakephp.org/3.0/pt/index.html](#)). É possível ver uma grande quantidade de exemplos e tutoriais para auxiliar o desenvolvedor iniciante. Um exemplo ilustrativo destaca o guia de convenções utilizados pelo framework (veja [https://book.cakephp.org/3.0/pt/intro/conventions.html](#)).
