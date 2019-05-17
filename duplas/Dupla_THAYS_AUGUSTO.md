@@ -174,3 +174,21 @@ Twitter: https://twitter.com/jellyfin
 
 5 - 
 A forma mais recorrente de priorizar requisitos de software livre segue a lógica de se trabalhar e produzir de acordo com a necessidade do usuário (to scratch the itch). Nesse modelo não planejado, os usuários dos projetos irão desenvolver soluções e adições ao programa de acordo com as necessidades que encontrar durante o uso. Dessa forma tanto o usuário quanto o projeto se beneficiam do trabalho feito.
+
+## Atividade08:
+
+Atividades escolhidas:
+
+-Explique o são Linters e qual a sua importância ?
+
+	Lint é uma aplicação utilizada para encontrar  erros e bugs em códigos-fontes. A importância de utilizá-los é de se tornar o código mais legível e livre de erros que possam comprometer o entendimento de terceiros que o leiam. 
+
+-Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java)
+
+	Guia de boas práticas de codificação da linguagem HTML5
+	Link: https://www.w3schools.com/html/html5_syntax.asp
+
+-Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+
+	O guia Laravel está no endereço abaixo:
+	https://johnatant.github.io/laraveltherightway/
