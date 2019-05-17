@@ -37,7 +37,7 @@
   - [Documentação](https://vuejs.org/v2/guide/)
   - [Documentação Traduzida](https://br.vuejs.org/v2/guide/index.html)
   - [Como Contribuir](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md)
- - Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa):
+- Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa):
   - [Projeto Buefy](https://github.com/buefy/buefy)
   - Não tem guideline para contribuir para o projeto.
   - Não tem documentação traduzida.
@@ -117,3 +117,12 @@
     - A issue solucionada era um bug, foi iniciado por um usuário, os desenvolvedores foram abertos para a descrição, sem necessitar de mais informações, e foi solucionado com uma certa demora, em aproximadamente 20 dias, por um desenvolvedor experiente.
   - [Issue 9361 do Vue](https://github.com/vuejs/vue/issues/9361):
     - A issue solucionada era uma feature, foi iniciado por um usuário, os desenvolvedores foram abertos para a descrição, foram abertas algumas discussões sobre como implementa-las, e foi solucionado de forma rapida, em apenas 1 dia, por um desenvolvedores experientes.
+ 
+## Atividade 7
+- Explique o são Linters e qual a sua importância ?
+  - Linters são ferramentas que identificam erros de código fonte, baseados em um determinado padrão de construção de código. Essas ferramentas são importantes para ajudar a manter o código de acordo com o padrão estabelecido, mais limpo e com maior manutenabilidade.
+- Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java):
+  - O [JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices) é um guia de boas práticas de JavaScript disponibilizado pela W3C, que é uma organização de padronização da World Wide Web.
+- Indique um guia de boas práticas de codificação em frameworks de linguagem de programação:
+  - O [Vue Style Guide](https://vuejs.org/v2/style-guide/) é um guia de boas práticas para Vue.js, servindo como referência para evitar erros e codificações fora de padrão.
+  
