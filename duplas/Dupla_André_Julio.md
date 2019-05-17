@@ -48,8 +48,41 @@
 ### Atividade 05:
 - Justifique o que acontece se um projeto de software não tiver nenhuma licença definida:	
     - O projeto passa a ter direitos autorais, não sendo considerado um projeto de software livre, ou seja, para terceiros usarem e necessário pedir permisão ao autor.
-- Procure um projeto sem licença de software e adicione uma.:
+- Procure um projeto sem licença de software e adicione uma:
     - O projeto de software livre escolhido: [memes](https://github.com/OpenGenus/memes)
     - Foi criado um [Pull Request](https://github.com/OpenGenus/memes/pull/144) para a adição de uma licença ao projeto.
 - Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem:
     - O site da disciplina tem a licença Creative Commons devido a não ser um software e possuir direitos autorais. Essa licença é muito usada para materias de estudo.
+### Atividade 06:
+- Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação:	
+    - 1º Projeto: codetriage
+        - [Site](https://www.codetriage.com/)
+        - [Repositório](https://github.com/codetriage/codetriage)
+        - [Bug Tracking](https://github.com/codetriage/codetriage/issues)
+        - Ferramenta de comunicação: [Twitter](https://twitter.com/schneems)
+    - 2º Projeto: photoprism
+        - [Site](https://photoprism.org/)
+        - [Repositório](https://github.com/photoprism/photoprism)
+        - [Bug Tracking](https://github.com/photoprism/photoprism/issues)
+        - Ferramenta de comunicação: [Forúm Google](https://groups.google.com/a/photoprism.org/forum/#!forum/help), (help@photoprism.org)
+    - 3º Projeto: popmotion
+        - [Site](https://popmotion.io/)
+        - [Repositório](https://github.com/Popmotion/popmotion)
+        - [Bug Tracking](https://github.com/Popmotion/popmotion/issues)
+        - Ferramenta de comunicação: [Twitter](https://twitter.com/popmotionjs), [Forúm](https://spectrum.chat/popmotion?tab=posts)
+    - 4º Projeto: lit-element
+        - [Site](https://lit-element.polymer-project.org/)
+        - [Repositório](https://github.com/Polymer/lit-element)
+        - [Bug Tracking](https://github.com/Polymer/lit-element/issues)
+        - Ferramenta de comunicação: [Twitter](https://twitter.com/polymer), [Blog](https://blog.polymer-project.org/), [Mailing list](https://groups.google.com/forum/#!forum/polymer-dev), [Slack channel](https://bit.ly/polymerslack)
+    - 5º Projeto: MagicMirror
+        - [Site](http://magicmirror.builders/)
+        - [Repositório](https://github.com/MichMich/MagicMirror)
+        - [Bug Tracking](https://github.com/MichMich/MagicMirror/issues)
+        - Ferramenta de comunicação: [Forúm](https://forum.magicmirror.builders/)
+- Encontre e discuta forma de priorizar requisitos em projetos de software livre:
+    - A Análise Importância-Desempenho (IPA – Importance-Performance Analysis), é uma forma para priorizar requisitos de software, o uso dela pode trazer benefícios gerenciais consideráveis, um deles é a possibilidade de identificar exatamente as áreas que necessitam de melhorias de qualidade.
+- Feche 3 bugs antigos em projetos de software livre, verificando anteriormente se eles foram criados para versões muito anteriores à atual, se ninguém está trabalhando neles, e se o projeto tem alguma política de fechar bug reports muito antigos:
+    - [Bug para ser fechado do repositório xbmc](https://github.com/xbmc/xbmc/pull/11937)
+    - [Bug para ser fechado do repositório OpenBLAS](https://github.com/xianyi/OpenBLAS/issues/455)
+    - [Bug para ser fechado do repositório Apktool](https://github.com/iBotPeaches/Apktool/issues/1111)
