@@ -224,5 +224,13 @@ solicitações.
 
 ## Atividade 8
 - Explique que o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares?
+
+  Métodos ágeis são um conjunto de abordagens alternativas para gerência de projetos nas quais são definidas iterações curtas cujos resultados são medidos através da conclusão do produto. Os métodos ágeis são importantes para o desenvolvimento de software devido ao fato de sua simplicidade e eficácia na gerências das atividades que compõe em projeto bem como nas interações dos membros da equipe. 
+
 - Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
-- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
+  
+  Commit feito no repositório do [Angular](https://github.com/angular/angular/commit/deb77bd3df2300eb8ed46f5015e730afd8dc5c78).
+
+- Procure um projeto que utilize kanban e coloque o link para a utilização desse método.
+
+  Repositório do projeto [GNOME](https://gitlab.gnome.org/groups/GNOME/-/boards).
