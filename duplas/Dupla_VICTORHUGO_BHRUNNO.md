@@ -4,10 +4,207 @@
 
 ## Link para atividades
 
-- Atividade01: [link aqui](https://drive.google.com/drive/folders/1nJXAGzmCEM18AUYYK_95N_T5JzYHrCfn)
-- Atividade02: [link aqui](https://docs.google.com/document/d/1MwkCoNTbMOULcxbWhSXyNhJFoMgJGKnUB2qqN04tQMM/edit)
-- Atividade03: [link aqui](https://docs.google.com/document/d/1Fe9Pb__Hd3Xt6yeZyCOS7wENsMDyFxz4aZ75wKcVol8/edit)
-- Atividade04: [link aqui](https://drive.google.com/drive/folders/1XTxusvalviBZ8hNPFbNUTVsrtAeFIiY0)
-- Atividade05: [link aqui](https://drive.google.com/open?id=19YxRGYg59QMXlutXGmycev6hL9sUyLeefym7qUgnKlg)
-- Atividade06: [link aqui](https://drive.google.com/open?id=1tMkGUn6mA47MYofM4txRRCad6eAPtITU2VBKrxZOGhs)
-- Atividade07: [link aqui](https://drive.google.com/open?id=16_sYnn8-vRuGyI7zV3rUpvxuY0fBfGUgJnPZZYm0LEA)
+### - Atividade01: [link aqui](https://drive.google.com/drive/folders/1nJXAGzmCEM18AUYYK_95N_T5JzYHrCfn)
+
+### - Atividade02: 
+
+#### Projeto: Git
+#### Identificar novatos nos projetos
+O contribuidor mais novo é o Yash Bhatambare, ele substituiu no arquivo gitattributes.txt o campo `UTF-16-LE-BOM` por `UTF-16LE-BOM`. Sabemos que ele é o mais novo pois ordenamos a lista de pesquisa pelos contribuidores mais novos a dar commit, e ele tem apenas um commit neste repositório. https://www.openhub.net/p/git/contributors?query=&time_span=&sort=newest
+
+#### Identificar desenvolvedores chave nos projetos
+O desenvolvedor chave é o Junio C Hamano, pois ele é o mantenedor do    projeto. https://www.openhub.net/p/git/contributors?query=&time_span=&sort=commits
+
+#### Identificar como os canais de comunicação das comunidades
+Para comunicar sobre bugs, requerimento de features e patches, o meio de comunicação é git@vger.kernel.org , e para se inscrever para a lista principal e poder participar das discussões, o desenvolvedor deve enviar uma e-mail para majordomo@vger.kernel.org, esses endereços estão na página principal do repositório
+
+#### Projeto: Angular
+#### Identificar novatos nos projetos
+O contribuidor mais novo é o Tim Deschryver, ele consertou erros de digitação no arquivo “getting started”. Sabemos que ele é o mais novo pois ordenamos a lista de pesquisa pelos contribuidores mais novos a dar commit, e ele tem apenas um commit neste repositório. https://www.openhub.net/p/angularjs/contributors?query=&time_span=&sort=newest
+
+#### Identificar como tarefas são sugeridas
+As tarefas são sugeridas na aba de Issues. https://github.com/angular/angular/labels/hotlist%3A%20community-help
+
+#### Identificar como os canais de comunicação das comunidades
+O canal de comunicação é um chat em tempo real. https://gitter.im/angular/angular
+
+### - Atividade03: 
+
+#### (Obrigatória) Experimente os commandos do git em algum repositório de código. Utilize os commandos commit, push, pull, checkout, log, shortlog, etc. Descreva o que cada um desses comandos faz.
+
+   branch 	Lista, cria ou deleta branches
+   checkout   	Troca Branches ou restaura os arquivos do projeto
+   commit 	Grava as alterações
+   diff   		Mostra as mudanças entre commits
+   merge  	Mesclar commits, caso não houver conflito
+   tag    	Cria, lista, deleta ou verifica a tag objeto assinada com GPG
+   fetch  	Faz o download de objetos e referencia de outro repositório, ou seja sincroniza com o repositório 
+   pull   		Busca os arquivos da branch
+   push   	Envia as alterações
+
+#### Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal
+
+facomp@facomp-VirtualBox:~/tesl$ git shortlog -s -n --email -2
+ 	1  Filipe Saraiva <saraiva@ufpa.br>
+ 	1  Gustavo Pinto <gustavohenrique.86@gmail.com>
+
+#### Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+https://github.com/reactjs/pt-PT.reactjs.org/pull/28
+
+
+### - Atividade04:
+
+#### Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+
+#### Projeto: didi/booster
+
+Instalação: https://github.com/didi/booster#getting-started--%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B
+
+Documentação:
+https://github.com/didi/booster/wiki
+
+Documentação traduzida: Não consta
+
+Contribuição:
+https://github.com/didi/booster/blob/master/CONTRIBUTING.md
+
+#### Revise uma página de um projeto de software livre e sumarize os problemas encontrados (o que falta para ela ser mais informativa);
+#### Projeto:
+rsennrich/Bleualign: https://github.com/rsennrich/Bleualign
+Falta a informação sobre como contribuir
+Não tem tradução para pt-br
+
+#### Traduza uma página que precise de ajuda
+https://github.com/projeto-siga/siga/pull/1271/files
+
+### - Atividade05:
+
+#### Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+	
+Se o Software não tiver nenhuma licença definida, ele automaticamente é definido como um software proprietário, ou seja, é de propriedade diretamente do autor e não pode ser distribuído como Software Livre.
+
+#### Procure um projeto sem licença de software e adicione uma.
+https://github.com/VictorBSI/firstcontributions.github.io/commit/9a8de3283601e4435cdaaf39b4ed9060d913ffd7
+
+#### Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+A licença do site é a Creative Commons Attribution 4.0 International, pois é frequentemente usada para ativos de mídia e materiais educacionais, não recomendada para software. Além disso, ela permite quase qualquer uso, somente sujeito a fornecer direitos autorais e licença.
+
+### - Atividade06: 
+
+#### Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os planos de curto e longo prazo desse projeto.
+
+#### Projeto: https://github.com/pulumi/pulumi/wiki/Roadmap
+
+##### Planos a curto prazo:
+
+Adicionar um provedor de banco de dados MySQL
+Adicionar suporte para Azure
+Fazer tarefa de Pipeline de DevOps do Azure
+Adicionar segredos aprimorados e criptografia de ponto de verificação
+Adicionar pulumi query
+Fazer a renomeação de recursos
+Adicionar recursos de importação
+Introduzir o pacote kubernetesx para a alta produção do desenvolvimento de Kubernetes
+Adicionar suporte para frameworks de teste nativos
+	
+##### Planos a longo prazo:
+
+Adicionar declaração de configuração
+Adicionar anexos personalizados de atualização e exclusão
+Adicionar tf2pulumi com suporte para Python
+Adicionar suporte completo para Go
+Adicionar suporte para .NET e Java
+Adicionar bibliotecas de alto nível (como awsx) para Azure e GCP
+
+#### Projeto: https://github.com/micaharvey/micahSynth/wiki/Roadmap-&-Progress
+
+##### Planos a curto prazo:
+
+Adicionar 25 sintetizadores com botão usando entrada GPIO raspi para botões / interruptores / botões
+Adicionar Course Tuning / Fine Tuning / Volume para cada oscilador
+Adicionar ressonância variável no filtro
+Adicionar seção de mixagem
+Adicionar LFO, Noise, Sample & Hold, Volume master
+
+##### Planos a longo prazo:
+
+Adicionar função de escala completa do buffer para o MiSynth
+
+#### Projeto: https://github.com/samdauwe/BabylonCpp/wiki/Roadmap-towards-Babylon.js-4.0.0
+
+##### Planos a curto prazo:
+
+Melhorar o gerenciamento de construção, adicionando Clang Compiler e MacOSX Target para Travis CI
+Melhorar a qualidade do código, melhorando o uso inteligente do ponteiro
+Adicionar exemplos de sistemas de partículas sólidas
+Atualizar o Inspector v2.0: Terceira iteração. Adicionando previsão de textos e grades de propriedade de pós processamento
+Testar modelos de amostra gITF2.0
+
+##### Planos a longo prazo:
+
+Adicionar Sponza Demo
+Adicionar exemplo de mesclagem de animação
+Finalizar bibliotecas materiais, como consertar o problema de movimentação da câmera.
+Resolver os problemas da VS2017
+
+ 
+ 
+#### Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
+
+Projeto: https://github.com/microsoft/terminal
+Site: https://opensource.microsoft.com/
+Código fonte: https://github.com/microsoft/terminal/blob/master/src/terminal/input/terminalInput.cpp
+Bug tracking: https://github.com/microsoft/terminal/issues
+Ferramentas de comunicação: A forma de se comunicar com os responsáveis é por meio das suas respectivas contas no Twitter: Rich Turner, Program Manager: @richturn_ms; Dustin Howett, Engineering Lead: @dhowett; Michael Niksa, Senior Developer: @michaelniksa; Kayla Cinnamon, Program Manager (especially for UX issues): @cinnamon_msft;
+
+Projeto: https://github.com/jolaleye/cssfx
+Site: https://cssfx.dev/
+Código fonte: https://github.com/jolaleye/cssfx/blob/master/pages/index.vue
+Bug Tracking: https://github.com/jolaleye/cssfx/issues
+Ferramentas de comunicação: j.olaleye.o@gmail.com
+
+Projeto: https://github.com/flutter/flutter
+Site: https://flutter.dev/
+Código fonte: https://github.com/flutter/flutter/blob/master/bin/flutter.bat
+Bug Tracking:https://github.com/flutter/flutter/issues
+Ferramentas de comunicação: flutter-announce@googlegroups.com
+
+Projeto: https://github.com/python-telegram-bot/python-telegram-bot
+Site: https://core.telegram.org/bots/api
+Código fonte: https://github.com/python-telegram-bot/python-telegram-bot/blob/master/telegram/__main__.py
+Bug Tracking: https://github.com/python-telegram-bot/python-telegram-bot/issues
+Ferramentas de comunicação: https://telegram.me/pythontelegrambotgroup
+
+Projeto: https://github.com/vuejs/vue
+Site: http://vuejs.org
+Código fonte: https://github.com/vuejs/vue/blob/dev/src/compiler/codegen/index.js
+Bug Tracking: https://new-issue.vuejs.org/
+Ferramentas de comunicação: http://forum.vuejs.org/, https://chat.vuejs.org/
+
+
+#### Encontre e discuta formas de priorizar requisitos em projetos de software livre.
+
+Uma forma de priorizar requisitos em projetos de software livre seria verificar o benefício que determinada função traria frente ao seu custo. Pois dependendo do quanto de custo de mão-de-obra ela demande, pode ou não valer a pena fazer esta função naquele momento, visto que a quantidade de colaboradores é limitada e as suas motivações para ajudar na referida empreitada podem ser afetadas por causa deste custo-benefício.
+
+### - Atividade07:
+
+#### Explique o são Linters e qual a sua importância ?
+São ferramentas que analisam o código-fonte do projeto para sinalizar erros de codificação, são importantes para adequar o código em questão com as boas práticas de programação.
+
+#### Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java)
+https://github.com/kelvins/Boas-Praticas-Cplusplus	
+
+#### Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+http://restcookbook.com/
+
+### - Atividade08:
+
+#### Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+Métodos ágeis são formas de conduzir a implementação de um projeto, visando otimizar o seu tempo de conclusão gerando valor ao projeto sem comprometer a sua qualidade, ou seja, cumprindo as expectativas do cliente. Além disso, tem a importância de melhorar a eficiência do gerenciamento no desenvolvimento do projeto.
+
+#### Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
+https://github.com/yunque/web/wiki/kanban
+
+#### Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+https://github.com/arindambhaumik/microservices-banking-application/commit/57ede52ae63d3ecf086b8ebf8801c8722b6a457f
