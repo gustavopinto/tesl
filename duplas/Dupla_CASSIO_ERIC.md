@@ -248,3 +248,11 @@ código. Na página [Joomla! Coding
 Standards](https://developer.joomla.org/coding-standards/basic-guidelines.html)
 há um pequeno tutorial para indentação, tamanho da linha, e diversos outros
 links para mais informações.
+
+## Atividade 08
+1. Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+    - São alternativas à gerenciamento de projetos, mesmos do que não são relacionados a software, com o intuito de aumentar a produtividade e diminuir o tempo gasto durante o projeto. Trazem maior dinamisno e flexibilidade no desenvolvimento de software.
+2. Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+    - Foi encontrado no repositório do projeto Kaldi, um [commit](https://github.com/kaldi-asr/kaldi/commit/0e5e07b27de7941b75cd982b7f710cea2d7d96a4) no qual foi verificado que foi realizado em par por dois contribuidores diferentes.
+3. Procure um projeto e indique um commit que tenha Refactor e qual informe o nome da técnica empregada durante o refactor.
+    - Encontramos um [commit](https://github.com/kylekatarnls/business-day/commit/10a88da0bd90d2dddadd292f379314278e754527) no qual foi verificado a realização de um refactor do código, onde foi refatorado a classe base e deixando o código com um menor tamanho.
