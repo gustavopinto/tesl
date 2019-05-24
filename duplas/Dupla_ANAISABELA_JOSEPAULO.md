@@ -137,3 +137,15 @@ Boas práticas de programação em Linguagem C: http://linguagemc.com.br/boas-pr
 3- Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
 7 Boas Práticas de Desenvolvimento com Spring Framework: http://blog.globalcode.com.br/2010/03/7-boas-praticas-de-desenvolvimento-com.html
 
+
+## - Atividade 08:
+
+1- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+São uma alternativa à gestão tradicional de projetos, eles nasceram nos braços do desenvolvimento de software, mas hoje podem ser aplicados a qualquer tipo de projeto (inclusive os que não se remetem ao software). A importancia dele está no fato de acelerar no desenvolvimento de software o seu processo produtivo. 
+
+2- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+Possui 2 assignatures[link](https://github.com/microsoft/BuildXL/pull/330)
+
+3- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
+Utilizou o kanban nessa issue. [kanban](https://github.com/praia/appmenu/issues/4#)
+
