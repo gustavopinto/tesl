@@ -221,3 +221,8 @@ solicitações.
 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
 
   Guia de boas práticas do [Jquery](https://contribute.jquery.org/style-guide/), um framework de Javascript.
+
+## Atividade 8
+- Explique que o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares?
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
