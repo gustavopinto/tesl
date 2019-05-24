@@ -74,3 +74,16 @@ Utilização de catch com exception generico. Dificulta uma futura depuração e
 
 Procure um projeto e corrija uma violação de boas práticas de codificação, envie sua correção ao projeto através de pull request.
 R: Correcões realizadas - [Pull request:] (https://github.com/marciojsalmeida/Sistema-de-Ordem-de-servico-java-mysql/pull/2)
+
+## Atividade 9
+
+1) Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+R- Métodos ágeis são tipos de processo no desenvolvimento de software que surgiram a partir dos problemas recorrentes identificados com o tradicional método cascata, tais como: demora na entrega do software implementado, dificuldade em aceitar as mudanças de requisitos e excessiva produção de documentação. Surgiu tento como base o processo de produção da Toyota e foi eloluindo no decorrer do tempo com a contribuição de várias pessoas e equipes. Em relação a sua importância os projetos começaram a focar mais na entrega de valor, ciclos menores de desenvolvimento e uma maior e melhor comunicação entre os envolvidos. O uso das metodologias ágeis tem crescido em seu percentual de adocação nos projetos. 
+
+2) Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+
+https://github.com/kittinunf/fuel/commit/840e9c805fa59596e384c0a83fe18a411079598a
+
+3) Procure um projeto que utilize kanban e coloque o link para a utilização desse método.
+
+https://kanboard.org/
