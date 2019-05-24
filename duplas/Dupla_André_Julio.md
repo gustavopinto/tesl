@@ -86,3 +86,10 @@
     - [Bug para ser fechado do repositório xbmc](https://github.com/xbmc/xbmc/pull/11937)
     - [Bug para ser fechado do repositório OpenBLAS](https://github.com/xianyi/OpenBLAS/issues/455)
     - [Bug para ser fechado do repositório Apktool](https://github.com/iBotPeaches/Apktool/issues/1111)
+### Atividade 07:
+- Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java):	
+    - Guia de boa prática de codificação para linguagem C#: [Guia](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+- Indique um guia de boas práticas de codificação em frameworks de linguagem de programação:
+    - Guia de boa prática para o framework Angular: [Guia](https://angular.io/guide/styleguide)
+- Explique o que são Linters e a sua importância:
+    - São ferramentas que analisam o código-fonte para sinalizar erros de programação, bugs, erros estilísticos, e construções suspeitas. É de grande importãncia para fazer com que o código-fonte siga um padrão de projeto.

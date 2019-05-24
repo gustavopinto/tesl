@@ -172,8 +172,79 @@ empregada em projetos de software.
     - O [Grupo FalaBrasil](https://gitlab.com/) possui um projeto de geração de
    ferramentas para processamento de linguagem natural (NLP) chamado
    [nlp-generator](https://gitlab.com/fb-nlp/nlp-generator) que não possui
-   licença.
+   licença.    
    - O projeto [DNF-Patch](https://github.com/Kxnrl/DNF-Patch) utiliza uma
    licença chamada
    [GLWT](https://github.com/Kxnrl/DNF-Patch/blob/master/LICENSE) (good luck
    with that), que não é reconhecida pelo OSI e não consta na lista SPDX.
+
+## Atividade 06
+
+1. Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os
+planos de curto e longo prazo desse projeto.      
+    - [SpaceVim](https://github.com/SpaceVim/SpaceVim): o SpaceVim é um plugin para "IDEzar" o editor de texto Vim, deixando-o com mais funcionalidades de interface gráfica. Seu roadmap é definido dentro do [site oficial](https://spacevim.org/roadmap/) e os desenvolvedores aparentemente se organizam assinalando milestones nas issues do GitHub A versão 1.1.0 é a mais recente, e a 1.2.0 está marcada para agosto de 2019. Infelizmente não há planos mais longos do que para esta data. Para a versão 1.2.0, já há 11 issues fechadas e apenas 2 abertas com os mais variados tópicos, como suporte à assembly, correção de bugs para C, enhanced features com suporte à Python Jupyter notebooks, etc.     
+    - [Riot.IM](https://about.riot.im/): o Riot é uma ferramenta para comunicação e troca de mensagens entre grupos de trabalhos, similar ao Slack. Seu roadmap encontra-se no [blog oficial](https://medium.com/@RiotChat/whats-next-for-riot-web-be48f948c801) no Medium e não apresenta datas nem calendário, mas uma sequência ordenada de planos. O documento foi definido na forma de um kanban board, onde lista features em algo similar aos cards do Trello: `now`, `next`, `later` e `later still`. As mais recentes incluem melhorar o suporte à emojis, melhorar o design das salas (grupos), e facilitar a opção de confiar todos os dispositivos de uma mesma pessoa que já é conhecida (end to end encryption). As mais longas incluem consertar os módulos de VoIP (todas marcadas como "tarefas difíceis"), melhorar documentação da API e dos guidelines para contribuição, além de mudanças não específicas no design.
+    - [TensorFlow](https://www.tensorflow.org/): o TensorFlow é a API do Google para deep learning que foi milagrosamente disponibilizada de forma open source. O roadmap encontra-se na seção de comunidade do [site oficial](https://www.tensorflow.org/community/roadmap) e foca na seção 2.0 da lib, que deve ser lançada ainda em 2019. As funcionalidades incluem tornar a plataforma mais fácil de aprender através da flexibilização da API (que dará a opção de mais auto nível ou total controle da lib pelo usuário); melhorar as unidades de tensor (TPU), que é a estrutura de dados central da biblioteca, dar mais suporte oficial à biblioteca Keras (que é um fork independente, mas se tornou muito popular), e criar um framework para machine learning de ponta a ponta (end to end). Para além da versão 2.0, o roadmap só fala em corrigir os eventuais bugs da versão em questão.     
+2. Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.     
+    - **Vim**: (un)popular and (but) famous text editor (16.5k stars).    
+        - site: https://www.vim.org/     
+        - source code repo: https://github.com/vim/vim  
+        - bug tracking: label `defect` on [GitHub issues](https://github.com/vim/vim/issues?q=is%3Aopen+is%3Aissue+label%3Adefect)    
+        - communication tools: lots of [mailing lists](https://www.vim.org/maillist.php), [conferences](https://www.vim.org/news/news.php)    
+    - **Kaldi**: speech recognition tool (5.8k stars).    
+        - site: https://kaldi-asr.org/    
+        - source code repo: https://github.com/kaldi-asr/kaldi    
+        - bug tracking: label `bug` on [GitHub issues](https://github.com/kaldi-asr/kaldi/labels/bug)    
+        - communication tools: [forum](http://kaldi-asr.org/forums.html) on official website provides links for [dev](https://groups.google.com/forum/#!forum/kaldi-developers) and [help](https://groups.google.com/forum/#!forum/kaldi-help) google groups,
+    - **PocketSphinx**: speech recognition tool (2.1k stars).    
+        - site: https://cmusphinx.github.io/    
+        - source code repo: https://github.com/cmusphinx/pocketsphinx    
+        - bug tracking: label `bug` on [GitHub issues](https://github.com/cmusphinx/pocketsphinx/labels/bug) and issue tracker on [SourceForge](https://sourceforge.net/p/cmusphinx/bugs/).    
+        - communication tools: group on [Telegram](https://t.me/cmusphinx) and [dev](https://t.me/cmusphinx) mailing list    
+    - **Riot.IM**: messaging client software (2.9k stars)    
+        - site: https://about.riot.im/    
+        - source code repo: https://github.com/vector-im/riot-web    
+        - bug tracking: labels `bug`, `p1`, `critical` and `FIRE` on [GitHub issues](https://github.com/vector-im/riot-web/labels)
+        - communication tools: ['room' chat](https://riot.im/app/#/room/#riot:matrix.org) within the platform
+    - **Keybase**: messaging client software (4.9k stars)    
+        - site: https://keybase.io/    
+        - source code repo: https://github.com/keybase/client    
+        - bug tracking: issue tracker on a exclusive, independent [repo](https://github.com/keybase/keybase-issues); labels `bug` and `showstopper` on [GitHub issues](https://github.com/keybase/client/labels), but bugs are effectively managed through a system called Jira, which is [internal](https://github.com/keybase/keybase-issues/issues/2786#issuecomment-275767901)
+        - communication tools: [group chat](https://keybase.io/team/keybasefriends) within the platform
+3. Formas de priorizar requisitos
+    - Riot.IM: O software de troca de mensagens priora suas issues por tags no GitHub, que vão de P1 à P5, e devem ser associadas à outras tags que remetem à bugs ou a seções particulares do software (e.g.: VoIP, UI, network, etc.). As de P1 normalmente referem à bugs de segurança, enquanto as de P5 são normalmente resolvidas a longo prazo, podendo conter também duplicações. Tudo isso está explicitado logo no [README](https://github.com/vector-im/riot-web) do repositório do GitHub.
+
+## Atividade 07
+1. Explique o que são _linters_     
+    - Linters são normalmente definidos como software de análise de código (ou
+debuggers) que analisam o fonte a procura de problemas de convenções e/ou
+estilos de programação, vazamento de memória, bugs, dentre outros. Os linters
+são importantes especialmente quando se pensa na manutenção do código ao longo
+prazo, visto que o software normalmente não é mantido pela mesma pessoa para
+sempre. Além disso, quando se trabalha em grupo, o uso de um analisador de
+formatação ajuda membros do grupo na compreensão de código escrito pelos
+colegas.
+2. Indique um guia de boas práticas de codificação     
+    - O Google possui um guia próprio para C++ que deve ser seguido para
+integrar o desenvolvimento dos projetos open-source da empresa. O nome é 
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) e
+define padrões para criação de headers com extensão `.h`, classes,
+funções/métodos, nomenclatura de classes, métodos e variáveis, formatação,
+conteúdo (scoping) de classes e métodos, etc. As diretrizes acompanham um código
+em python chamado
+[cpplint.py](https://google.github.io/styleguide/cppguide.html#cpplint) que atua
+de forma automática em um código fonte para detecção de erros de convenção. Esse
+guia também é utilizado em outros projetos de software livre, como o pacote de
+reconhecimento de fala
+[Kaldi](https://github.com/kaldi-asr/kaldi#development-pattern-for-contributors).
+3. Indique um guia de boas práticas de codificação em frameworks.
+    - O [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) 
+(24k estrelas) é um guia disponível no GitHub que tem o objetivo de prover
+consistência no desenvolvimento de código colaborativo em JavaScript sobre o
+framework Angular (o qual é usado no desenvolvimento de aplicações web em
+ambientes desktop e mobile) através de um guideline de boas práticas.
+    - O framework Joomla possui os seus próprios guidelines para escrita de
+código. Na página [Joomla! Coding
+Standards](https://developer.joomla.org/coding-standards/basic-guidelines.html)
+há um pequeno tutorial para indentação, tamanho da linha, e diversos outros
+links para mais informações.

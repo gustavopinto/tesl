@@ -82,3 +82,20 @@
 		* [Feature](https://github.com/facebook/react/issues/15605): Pedido de feature realizado por um usuário, um desenvolvedor/usuário mais experiente não foi claro ou aberto na resposta, a issue foi respondida rapidamente, não foi resolvida e foi fechada pelo usuário que a iniciou.
 		* [Feature](https://github.com/funcoeszz/funcoeszz/issues/287): Pedido de nova feature foi feito por um contribuidor ativo que iniciou uma Issue. A resposta foi dada rapidamente por outro desenvolvedor (que também é mantenedor) e a discussão foi aberta e simplese entre ambos. A Issue e sua discussão levou a conclusões em relação ao assunto, mas continua aberta.
 		* [Bug Report](https://github.com/funcoeszz/funcoeszz/issues/427): Um bug foi reportado por um usuário do software. Foi respondido rapidamente (no dia seguinte) por um desenvolvedor chave do projeto. A explicação e interação entre os envolvidos foi clara e simples. O Issue foi resolvida através de explicações sobre o melhor uso da função em questão, e poor conseguinte foi sinalizado que o problema foi resolvido em um Pull Request posterior e por fim a Issue foi fechada.
+
+
+- Atividade 7:
+	1. É uma ferramenta para verificar seu código em algumas das convenções de estilo. É importante para ajudá-lo a escrever um código melhor. Há razões para os sublinhados ondulados vermelhos. Depois de saber o que traz esses sublinhados, você saberá o que ignorar e o que não.
+
+
+	2. ALgumas boas práticas de codificação em JavaScript são:
+		* Utilizar sempre o operador ```===``` ao invés de ```==``` para comparar variáveis pois este considera somente os valores sem comparar os tipos;
+		* Priorizar declaração de variáveis usando ```let``` ao invés de ```var```, utilizar o var somente quando realmente necessário;
+		* Declarar objetos usando ```{}``` ao invés de ```new Object()```;
+		* Utilizar algum Linter (como o JSLint) para manter o código depurado;
+
+	3. O framework será o django, um framework do python. Algumas boas praticas são:
+		* Utilizar uma virtualização, pode-se utlizar o myEnv
+		* Um arquivo settings.py bem configurado visto que permite a configuração personalizada para cada ambiente.
+		* Usar Pony Checkup para verificação de segurança de um passo do site.
+		* Utilizar o sentinela por erros de registro.

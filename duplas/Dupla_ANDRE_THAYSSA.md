@@ -126,3 +126,13 @@
   -Encontre e discuta formas de priorizar requisitos em projetos de software livre
   
         Uma forma interessante de priorizar requisitos é a utilizada pelo OpenNebula (https://opennebula.org/roadmap/) Neste link, é definido explicitamente um método de priorização que considera prioritariamente as funcionalidades solicitadas por patrocinadores, seguidas por funcionalidades solicitadas por organizações que utilizam a versão paga da aplicação e por fim as funcionalidades sugeridas por usuários e integradores.
+#Atividade 07:
+
+    1 - Explique o são Linters e qual a sua importância ?
+        R: ferramentas de analise de código que identificam pontos de fraqueza no código fonte a fim de facilitar a correção de defeitos e implementação e melhorias.
+
+    2 - Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java)
+        R: C# da página da prórpria MS https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+    
+    3 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+        Vue.js: https://vuejs.org/v2/style-guide/

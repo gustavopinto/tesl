@@ -207,3 +207,17 @@ solicitações.
   - Estimar o esforço em implementação deste requisito;
   - Dispensar mais esforço naqueles que parecem mais agradar à comunidade;
   - E com base na análise anterior, decidir os requisitos a serem mantidos e deixa-los claros à comunidade informando sua respectiva importância, impacto e status(se não iniciado, em andamento e concluído ambos bem detalhados).
+
+
+## Atividade 7
+- Explique o são Linters e qual a sua importância?
+
+  O linter é uma ferramenta que tem por objetivo analisar códigos-fontes afim de localizar e sinalizar potênciais erros de padrão de codificação e indentação. Sua importância reside no fato de auxiliar na garantia de padrônização de códigos dos projetos, principalmente em trabalhos colaborativos.
+  
+- Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java)
+
+  Guia de boas práticas para codificação de projetos JavaScript do Google: [Google JavaScritp Style Guide](https://google.github.io/styleguide/jsguide.html)
+
+- Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+
+  Guia de boas práticas do [Jquery](https://contribute.jquery.org/style-guide/), um framework de Javascript.
