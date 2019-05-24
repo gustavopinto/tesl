@@ -1,5 +1,5 @@
 # Dupla ANDRÉ e JULIO
-  - André Francisco Pastana da Cunnha (andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))
+  - ~~André Francisco Pastana da Cunnha(andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))~~ (Desistiu da disciplina)
   - Julio Cesar Oliveira Carvalho (julio.developer10@gmail.com, [@juliocesark](https://github.com/juliocesark))
 
 ## Link para atividades
@@ -93,3 +93,12 @@
     - Guia de boa prática para o framework Angular: [Guia](https://angular.io/guide/styleguide)
 - Explique o que são Linters e a sua importância:
     - São ferramentas que analisam o código-fonte para sinalizar erros de programação, bugs, erros estilísticos, e construções suspeitas. É de grande importãncia para fazer com que o código-fonte siga um padrão de projeto.
+### Atividade 08:
+- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares:	
+    - São uma abordagem ao modelo de gestão tradicional de projetos. São um importantes para o desenvolvimento de softwares no que diz respeito a sua eficácia, que permitem a entrega rápida e de alta qualidade do produto, tendo uma abordagem de negócios que alinha o desenvolvimento do projeto com as necessidades do cliente e os objetivos da empresa.
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores:
+    - O projeto escolhido: [next](https://github.com/atlas-engineer/next)
+    - Commit que contém mais de mais de um autor: [commit](https://github.com/atlas-engineer/next/commit/dc96d84f5c1c20702097c20429601247d3e031f5)
+- Procure um projeto e indique um commit que tenha Refactor e informe qual o nome da técnica empregada durante o refactor:
+    - O projeto escolhido: [http-server](https://github.com/Himalee/http-server)
+    - Commit que contém um refactor utilizando a técnica "Magic Numbers": [commit](https://github.com/Himalee/http-server/commit/71e545f85a4ad39cd9123cbadca264a0f8f0bb10)
