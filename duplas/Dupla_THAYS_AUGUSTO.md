@@ -5,6 +5,12 @@
 
 ## Link para atividades
 
+## Atividade01:
+(https://docs.google.com/spreadsheets/d/1aNAMo9I_oapSxBGUyZeVYfEjLQCOk5_2V6oyhY5v4Jk/edit?usp=sharing)
+
+## Atividade02:
+(https://docs.google.com/document/d/1E4lbbeLnLmlgngp9UEUp7Jhbp2i7vm_b5nYqVztZqRA/edit?usp=sharing)
+
 ## Atividade03: 
 
 1- Crie uma subseção ## Atividade 3 no seu arquivo de dupla e faça as atividades abaixo:
