@@ -71,6 +71,14 @@ Dupla_NOME01_NOME02.md recentemente criado.
 - Thays Dhandarah Rodrigues Sá  (dhandarah1996@gmail.com, [@dhandarah](https://github.com/dhandarah))
 - Augusto Farias Cravo (augusto.f.cravo@gmail.com, [@augustofcravo](https://github.com/augustofcravo))
 
-## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTOR_BHRUNNO.md)
+## Dupla [VICTORHUGO_BHRUNNO](duplas/Dupla_VICTORHUGO_BHRUNNO.md)
 - Victor Hugo Azevedo Ferreira (victorhugo543af@gmail.com, [@VictorBSI](https://github.com/VictorBSI))
 - Bhrunno Brito Medeiros (bhrunno.medeiros@gmail.com, [@Bhrunno](https://github.com/bhrunno))
+
+## Dupla [HAMILTON_MATHEUS](duplas/Dupla_Hamilton_Matheus.md)
+- Hamilton Cavalcante (hamiltoncavalcante@gmail.com) [@HCavalcante](https://github.com/HCavalcante)
+- Matheus Seabra (matheusvieiracoelho@gmail.com) [@matheuseabra](https://github.com/matheuseabra)
+
+## Dupla [ANAISABELA_JOSEPAULO](duplas/Dupla_ANAISABELA_JOSEPAULO.md)
+- José Paulo Brandão Neves (josepaulobrandaoneves13@gmail.com, [@pauloneves123](https://github.com/pauloneves123))
+- Ana Isabela Manito Ramos (aisabelamr@gmail.com, [@anaisabelamr](https://github.com/anaisabelamr))
