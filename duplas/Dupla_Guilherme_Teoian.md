@@ -32,10 +32,44 @@ I. Este passa a ser automaticamente software proprietário em razão de não ter
 
 
 ### Atividade 06:
-
 I. 
-  1. Utilizando como referência o projeto TypeScript, em sua roadmap, foi encontrado este plano de longo prazo (dentre vários): tipos variádicos. Isto é, habilitar a uma função que esta receba vários elementos do mesmo tipo, usando por exemplo o operador rest (JavaScript) na definição destes tipos. Como plano de curto prazo, isto é, para o mês de Maio deste ano (2019), foi escolhido (dentre vários) este plano. Neste, é descrito uma issue (no GitHub) propondo uma nova funcionalidade ao Visual Studio Code. Um dos contribuidores do TypeScript observou esta proposta e fez uma análoga ao TypeScript Server (extensão da linguagem).
- 
+  1. Utilizando como referência o projeto [TypeScript](https://github.com/Microsoft/TypeScript/wiki/Roadmap), em sua roadmap, foi encontrado este plano de longo prazo (dentre vários): tipos variádicos. Isto é, habilitar a uma função que esta receba vários elementos do mesmo tipo, usando por exemplo o operador rest (JavaScript) na definição destes tipos. Como plano de curto prazo, isto é, para o mês de Maio deste ano (2019), foi escolhido (dentre vários) este plano. Neste, é descrito uma issue (no GitHub) propondo uma nova funcionalidade ao Visual Studio Code. Um dos contribuidores do TypeScript observou esta proposta e fez uma análoga ao TypeScript Server (extensão da linguagem).
+  2. O projeto [OpenNebula](https://opennebula.org/roadmap/) possui um roadmap que define quais os critérios levados em conta na definição de roadmaps de curto-prazo (próximas *releases*). Uma das issues que é apontada como uma nova *feature* é o endereçamento único nos endereços IP/MAC, utilizados por sub-redes de hosts, por restringir o uso de endereços já alocados. O seu roadmap de backlog a longo prazo não está definido (de maneira explícita).
+  3. [Libreplan](http://www.libreplan.org/open-source/roadmap/) define os roadmaps baseados no feedback da comunidade. Seus objetivos de curto prazo são: atualizar as bibliotecas internas do projeto e listar de os projetos de maneira hierárquica. Seus planos de longo prazo não estão definidos de maneira explícita.
+
+II. 
+  1. [angular/angular](https://github.com/angular/angular/)
+     - Bugs and F. Requests: https://github.com/angular/angular/issues
+     - Blog: https://blog.angular.io/
+     - Website: https://angular.io/
+     - Twitter: https://twitter.com/angular
+  2. [jgraph/mxgraph](https://github.com/jgraph/mxgraph)
+     - Bugs and F. Requests: https://github.com/jgraph/mxgraph/issues
+     - Code: https://bitbucket.org/jgraph/mxgraph2/src/master/
+     - Website: https://jgraph.github.io/mxgraph/
+     - StackOverflow threads: https://stackoverflow.com/questions/tagged/mxgraph
+  3. [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code)
+     - Bugs and F. Requests: https://github.com/supertuxkart/stk-code/issues
+     - Website: https://supertuxkart.net/
+     - FAQ: https://supertuxkart.net/FAQ
+  4. [vuejs/vue](https://github.com/vuejs/vue)
+     - Bugs and F. Requests: https://github.com/vuejs/vue/issues
+     - Website: https://vuejs.org/
+     - Twitter: https://twitter.com/vuejs
+  5. [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
+     - Bugs and F. Requests: https://github.com/jhipster/generator-jhipster/issues
+     - Website: https://www.jhipster.tech/
+     - Twitter: https://twitter.com/java_hipster
+     
+III.
+   1. O bug descrito pela issue [#9203](https://github.com/jhipster/generator-jhipster/issues/9203) em jhipster/generator-jhipster descreve informações de um big descrito por um usuário da ferramenta. Os desenvolvedores que atenderam auxiliaram o usuário a resolver o problema. Houve maiores pedidos de informações a respeito de estado de arquivos de configuração.
+   2. A issue [#16075](https://github.com/bitcoin/bitcoin/issues/16075) foi marcada com a tag `brainstorming` (automação para testes de interface gráfica). A issue parece ter sido aberta por um desenvolvedor e foi respondida com prontidão. Ainda está aberta.
+   3. A issue [#26](https://github.com/skanaar/nomnoml/issues/26) foi marcada como `enhancement` parece ter sido aberta por um usuário da ferramenta e não foi fechada. Contudo, o desenvolvedor (aparentemente solitário) da ferramenta relatou ter planos para atendê-la no futuro.
+   
+IV.
+
+V. Essas formas variam de acordo com o projeto sendo desenvolvido. Por exemplo, em uma fábrica de software a tendência é ter prazos bem definidos para a entrega de uma nova release. Essa release pode atender a necessidade dos patrocinadores ou mesmo de acordo com as tendências de mercado, que favorecem certos requisitos em detrimento de outros.
+    Outra situação comum para projetos de software livre é que não há pressão de mercado sobre a ferramenta. Nesse caso os requisitos para novos releases da ferramenta estão em função dos pedidos e necessidades da comunidade em torno daquele projeto.
   
 ### Atividade 08:
 <p>1 - Explique o são Linters e qual a sua importância ?
