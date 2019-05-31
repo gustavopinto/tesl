@@ -248,3 +248,7 @@ solicitações.
   - Redução dos erros e reposta mais rápida dado o surgimento de um;
   - Disponibilização do software em ciclos menores;
   - Diminuição no tempo de lançamento de atualização de produtos.
+
+- Adicionar um método e o respectivo teste no projeto calculadora.
+  
+  Método sugerido na PR [#7](https://github.com/wagnernegrao/calculadora-CI/pull/7)
