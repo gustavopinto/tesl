@@ -158,7 +158,5 @@ Procedimento padrão: se repetir o mesmo teste algumas vezes, então comece a au
 Encontrar e investigar bugs de forma mais rápida, reduzir o tempo de validação e lançamento de novas atualizações de software e também para melhorar a qualidade de software.
 
 3- Adicionar um método e o respectivo teste no projeto calculadora.
-Método:
- https://github.com/wagnernegrao/calculadora-CI/pull/9/commits
-Teste:
-https://github.com/wagnernegrao/calculadora-CI/pull/11/commits
+Metodo e Teste:
+https://github.com/wagnernegrao/calculadora-CI/pull/18/commits
