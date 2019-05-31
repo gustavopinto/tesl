@@ -198,3 +198,20 @@ Atividades escolhidas:
 
 	O guia Laravel está no endereço abaixo:
 	https://johnatant.github.io/laraveltherightway/
+	
+## Atividade10:
+
+Atividade escolhidas:
+
+
+- Por que utilizar testes unitários?
+	O teste unitário deve ser capaz de examinar o comportamento do código de acordo com a entrada e saída de dados 	utilizadas. Utilizar o teste unitário reduz a quantidade de bugs no projeto ao longo da implementação. 
+
+- Quais vantagens de utilizar integração contínua?
+	Testes unitários previnem regressão, pois com uma boa base de testes garante que a introdução de novos métodos não afetam o funcionamento do que já existe; Incentivam a refatoração, já que o processo de refatorar não deve afetar o que o código faz, refactoring consiste em mudar apenas a aparência do código, além disso os testes unitários também podem ser utilizados como documentação.
+
+
+- Adicionar um método e o respectivo teste no projeto calculadora.
+
+https://github.com/wagnernegrao/calculadora-CI/pull/19
+
