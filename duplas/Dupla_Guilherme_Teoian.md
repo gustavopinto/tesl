@@ -93,3 +93,12 @@ https://github.com/apache/incubator-druid/projects/4
 
 3. Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha múltiplos autores.
 No mesmo projeto mostrado na segunda questão encontramos commits feito em par, segue o link para o commit: https://github.com/apache/incubator-druid/commit/83152a7a00b5ada720880fcea2ca763ede8284c5
+
+### Atividade 10:
+
+1. Testes unitários garantem que funcionalidades dos sistemas (_backend_ ou _frontend_) funcionam de maneira automatizada, sem necessidade de rodar todo o código que contém funcionalidades de maneira exaustiva. Além disso, podem servir para atestar que o código possa continuar a funcionar após certas alterações.
+
+2. CI (Continous Integration - Integração contínua) serve para melhorar as condições de investigação e mitigação de _bugs_ nas aplicações que a utilizam. Ela roda os testes unitários e pode, dependendo da ferramenta, identificar códigos mal-escritos de acordo com a folha de estilos utilizada (_codes bad-smell_).
+    Além disso, CI anda de mãos dadas com CD (Continuous Delivery - Entrega contínua), que preza pela entrega de novas _releases_ de aplicações mais rapidamente (práticas de DevOps).
+
+3. Link da PR da contribuição: github.com/wagnernegrao/calculadora-CI/pull/16
