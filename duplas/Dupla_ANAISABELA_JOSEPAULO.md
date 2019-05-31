@@ -149,3 +149,16 @@ Possui 2 assignatures[link](https://github.com/microsoft/BuildXL/pull/330)
 3- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
 Utilizou o kanban nessa issue. [kanban](https://github.com/praia/appmenu/issues/4#)
 
+## - Atividade 09:
+
+1- Por que utilizar testes unitários?
+Procedimento padrão: se repetir o mesmo teste algumas vezes, então comece a automatizar; Garantir que a aplicação está de fato funcionando bem; Confiança no código; Possibilita refatoração do código verificando se você não modificou o comportamento do código; Pull requests não negados pela falta de testes.
+
+2- Quais vantagens de utilizar integração contínua?
+Encontrar e investigar bugs de forma mais rápida, reduzir o tempo de validação e lançamento de novas atualizações de software e também para melhorar a qualidade de software.
+
+3- Adicionar um método e o respectivo teste no projeto calculadora.
+Método:
+ https://github.com/wagnernegrao/calculadora-CI/pull/9/commits
+Teste:
+https://github.com/wagnernegrao/calculadora-CI/pull/11/commits
