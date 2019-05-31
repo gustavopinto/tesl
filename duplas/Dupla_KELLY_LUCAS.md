@@ -234,3 +234,17 @@ solicitações.
 - Procure um projeto que utilize kanban e coloque o link para a utilização desse método.
 
   Repositório do projeto [GNOME](https://gitlab.gnome.org/groups/GNOME/-/boards).
+  
+## Atividade 9
+
+- Por que utilizar testes unitários?
+
+  Os testes unitários são importantes pois visam realizar o teste da menor parte possível de um código (por exemplo, teste de uma função/método) de forma a manter a mínima coerência possível dada modificações realizadas naquele método/função.
+
+- Quais vantagens de utilizar integração contínua?
+
+  - Redução do trabalho manual durante o processo de integração;
+  - Melhor entendimento da equipe sobre o trabalho de seus colegas;
+  - Redução dos erros e reposta mais rápida dado o surgimento de um;
+  - Disponibilização do software em ciclos menores;
+  - Diminuição no tempo de lançamento de atualização de produtos.
