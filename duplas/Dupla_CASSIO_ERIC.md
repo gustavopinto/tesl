@@ -281,3 +281,6 @@ links para mais informações.
     grow more solid, especially as the number of contributors also grow, 
     because this also allows devs to follow some patterns of coding that can
     make the source become more reliable, readable, documented... well-writen.
+3. Add a method and its respective test into the `calculadora` project
+    - PR created with a new method called `median()` to compute the median 
+    value of a vector passed to the class `Operations`
