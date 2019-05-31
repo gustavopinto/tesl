@@ -273,4 +273,11 @@ links para mais informações.
     possible errors (debugging). This is important for detecting errors and
     bugs more quickly, as well as for avoiding a lot of backtracking (let's say
     the dev won't need to look into several weeks old commits because the bug
-    must probably had come from newer patches).
+    must probably had been originated on newer patches). This latter reason can
+    be seen as another advatage, since the system wouldn't need to integrate
+    lots of commits (which would most likely take a large amount of time), so
+    integrating continuously can be seen as a good practice to release often 
+    and for finding bugs often too. Additionaly, CI can help the project to 
+    grow more solid, especially as the number of contributors also grow, 
+    because this also allows devs to follow some patterns of coding that can
+    make the source become more reliable, readable, documented... well-writen.
