@@ -102,3 +102,12 @@
 - Procure um projeto e indique um commit que tenha Refactor e informe qual o nome da técnica empregada durante o refactor:
     - O projeto escolhido: [http-server](https://github.com/Himalee/http-server)
     - Commit que contém um refactor utilizando a técnica "Magic Numbers": [commit](https://github.com/Himalee/http-server/commit/71e545f85a4ad39cd9123cbadca264a0f8f0bb10)
+### Atividade 09:
+- Por que utilizar testes unitários:	
+    - São utilizados para garantir que uma aplicação/método esteja funcionando de forma correta.
+- Quais vantagens de utilizar integração contínua:
+    - Encontrar e investigar bugs mais rapidamente.
+    - Melhorar a qualidade do software.
+    - Reduzir o tempo que leva para validar e lançar novas atualizações de software.
+- Adicionar um serviço de integração contínua (Travis) em um projeto pessoal:
+    - Projeto Pessoal com travis adicionado: [travis_teste](https://travis-ci.org/juliocesark/travis_teste)
