@@ -29,7 +29,6 @@ projetos.
 
 ## Objetivo Específicos
 
-
 - Contextualizar historicamente o surgimento do software livre;
 - Apresentar diferentes temas sobre dinâmicas de comunidades de software livre,
 por exemplo, iniciação de novatos, manutenção de projetos, papel do mantenedor
@@ -38,7 +37,6 @@ de software, organizações de apoio a projetos, e mais;
 - Apresentar ferramentas típicas de comunicação em comunidades de software livre, como o IRC, aplicativos de mensagens modernos, fóruns, lista de e-mail, gerenciador de bugs, etc;
 - Apresentar os principais conjuntos de licenciamento de software livre e discutir suas diferenças, vantagens e desvantagens;
 - Auxiliar com o desenvolvimento de primeiras contribuições para projetos de software livre.
-
 
 ## Bibliografia
 
@@ -51,7 +49,7 @@ de software, organizações de apoio a projetos, e mais;
 ## Avaliação
 
 - Atividades conduzidas ao longo da disciplina
-- Projeto ao final da disciplina. [Veja sobre projetos aqui](/Projetos.md).
+- [Trabalho final](trabalho-final.md)
 
 ## Cronograma
 
