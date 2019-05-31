@@ -29,6 +29,9 @@ da disciplina em 5 julho.
 ## Observações
 
 * Todas as atividades devem ter sido desenvolvidas após o dia 31 de maio;
-* Não serão consideradas contribuições para projetos próprios ou de alunos matriculados da disciplina;
+* Não serão consideradas contribuições para projetos próprios ou de alunos matriculados na disciplina;
+* Os bugs reports devem ser originais, não duplicados;
+* As criações de funcionalidades não precisam ser aceitas pelo projeto, mas o aluno deve mostrar que
+a funcionalidade foi de fato implementada;
 * Prazo final para entrega das tarefas: **3 de julho**;
 * As atividades em duplas serão apresentadas em **5 de julho**.
