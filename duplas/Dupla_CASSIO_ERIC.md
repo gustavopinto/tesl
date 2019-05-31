@@ -259,13 +259,18 @@ links para mais informações.
 
 ## Atividade 09
 1. Why unit tests?
-The idea is to check if each unit (module, class, method, etc.) of a software 
-is executing as it should. This is important in order to increase the 
-reliability of a software, as well as avoiding each individual in a 
-multi-collaborator project doesn't commit garbage that can compromise the 
-software as a whole. Unit tests nowadays are becoming something more like a 
-way of life that must be inherent to the programming practices of the 
-developer, since tests can also ensure the software is being well maintained 
-and sometimes good documented as well.  
+    - The idea is to check if each unit (module, class, method, etc.) of a 
+    software is executing as it should. This is important in order to increase
+    the reliability of a software, as well as avoiding each individual in a 
+    multi-collaborator project doesn't commit garbage that can compromise the 
+    software as a whole. Unit tests nowadays are becoming something more like 
+    a way of life that must be inherent to the programming practices of the 
+    developer, since tests can also ensure the software is being well 
+    maintained and sometimes good documented as well.  
 2. What are the advantages of using CI?
-
+    - When integrating software into a shared repo more often, the advantage is
+    that an automated build can verify each new commit in order to look for
+    possible errors (debugging). This is important for detecting errors and
+    bugs more quickly, as well as for avoiding a lot of backtracking (let's say
+    the dev won't need to look into several weeks old commits because the bug
+    must probably had come from newer patches).
