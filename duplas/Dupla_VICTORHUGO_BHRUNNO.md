@@ -208,3 +208,16 @@ https://github.com/yunque/web/wiki/kanban
 
 #### Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
 https://github.com/arindambhaumik/microservices-banking-application/commit/57ede52ae63d3ecf086b8ebf8801c8722b6a457f
+
+### - Atividade09:
+
+#### Por que utilizar testes unitários?
+Utiliza-se testes unitários para verificar se as funções ou métodos que serão candidatos a serem integrados ao projeto estão realmente funcionando como o esperado.
+
+#### Quais vantagens de utilizar integração contínua?
+Dentre as vantagens de se fazer a integração contínua, pode-se citar: Encontrar e resolver bugs com maior eficiência, além de atualizar e poder lançar novas versões do software com maior rapidez.
+
+#### Adicionar um método e o respectivo teste no projeto calculadora.
+https://github.com/wagnernegrao/calculadora-CI/pull/4
+https://github.com/wagnernegrao/calculadora-CI/pull/5
+
