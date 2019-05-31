@@ -71,3 +71,13 @@ Para que ele possa ser empregado corretamente e efetivamente, foi-se criado, ent
 - [Commit por mais de uma pessoa](https://github.com/pallets/flask/pull/3181/commits/8590d65a57ad57c99a82fdf4e1c57921d7e1bdcd)
 
 - [Projeto que utiliza o Kanban](https://github.com/wekan/wekan/projects/2)
+
+### - Atividade09 (Aula 10.md)
+- Por que utilizar testes unitários?
+  - Devido a necessidade de sempre adicionar funcionalidades ou realizar alterações que realmente funcionem, há a necessidade de sempre testar os métodos implementados ou alterados através de testes unitários para manter o funcionamento do projeto em questão, principalmente quando esse projeto esta sendo desenvolvido por vários indivíduos.
+  
+- Quais as vantages de utilizar integração contínua?
+  - A integração contínua possui a finalidade de sempre manter o projeto ou uma branch específica atualizada, isto é, sempre estar ingregando novas funcionalidades ou alterações ao projeto para que diminua a probabilidade de outros desenvolvedores estarem trabalhando em uma versão desatualizada do projeto devido a não integração de alguma mudança por outro(s) desenvolvedor(es).
+
+- Pull request com adição de função na calculadora
+  - [add Absolute](https://github.com/wagnernegrao/calculadora-CI/pull/8)
