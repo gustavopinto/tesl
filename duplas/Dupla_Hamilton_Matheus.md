@@ -171,7 +171,7 @@ Estratégias para gerenciar bugs em projetos de software livre:
 - Verficar que bug reports não estejam duplicados
 - O bug report deve conter informações suficientes para serem resolvidos imediatamente
 
-## Atividade 08
+## Atividade 09
 
 ### 1. Explique o são Linters e qual a sua importância ?
 
@@ -215,4 +215,18 @@ Boas práticas:
 - Use os 'Managers'
 
 Semelhante aos modelos, é recomendável abstrair a lógica comum em métodos em um 'gerenciador'. Mais especifícamente, é provavelmente desejável um método que possa ser usado em cadeia e que possa ser usado em qualquer hora. 
+
+## Atividade 10
+
+### 1. Por que utilizar testes unitários?
+
+Teste unitários é um nível de testes em software onde partes e componentes individuais são testadas. 
+O objetivo desse tipo de teste é validar cada que cada unidade de software funcione como foi projetado. 
+
+### 2. Quais vantagens de utilizar integração contínua?
+
+A intengração contínua ajuda times de desenvolvimento de software a serem mais produtivos de acordo com a metodologias ágeis, permitindo que times consigam responder a mudanças de requisitos de negócio rápidamente, e ao mesmo tempo garantindo que o hardware e software estejam sincronizados constantemente entre si. A CI permite que membros de uma mesma equipe trabalhem focados em seus domínios, focando em tarefas que se sobresaem melhor para entregar, dando a confiança para o time que as contribuições estão integradas e que os componentes funcionam como esperado. E se algo no sistema não está integrado, pode ser rapidamente descoberto.
+
+### 3. Adicionar um serviço de integração contínua (Travis) em um projeto pessoal.
+
 
