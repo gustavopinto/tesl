@@ -87,3 +87,15 @@ https://github.com/kittinunf/fuel/commit/840e9c805fa59596e384c0a83fe18a411079598
 3) Procure um projeto que utilize kanban e coloque o link para a utilização desse método.
 
 https://kanboard.org/
+
+## Atividade 10
+
+1) Por que utilizar testes unitários?
+R- Aumentar a qualidade do código de forma a garantir que o mesmo continue funcional (não quebre) após as modificações.
+
+2) Quais vantagens de utilizar integração contínua?
+R- Possibilitar que os processos de construção, deploy e publicação sejam automatizados, com isso é possível reduzir o tempo de entrega das builds.
+
+3) Adicionar um método e o respectivo teste no projeto calculadora.
+https://github.com/wagnernegrao/calculadora-CI/pull/3
+
