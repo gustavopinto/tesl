@@ -256,3 +256,16 @@ links para mais informações.
     - Foi encontrado no repositório do projeto Kaldi, um [commit](https://github.com/kaldi-asr/kaldi/commit/0e5e07b27de7941b75cd982b7f710cea2d7d96a4) no qual foi verificado que foi realizado em par por dois contribuidores diferentes.
 3. Procure um projeto e indique um commit que tenha Refactor e qual informe o nome da técnica empregada durante o refactor.
     - Encontramos um [commit](https://github.com/kylekatarnls/business-day/commit/10a88da0bd90d2dddadd292f379314278e754527) no qual foi verificado a realização de um refactor do código, onde foi refatorado a classe base e deixando o código com um menor tamanho.
+
+## Atividade 09
+1. Why unit tests?
+The idea is to check if each unit (module, class, method, etc.) of a software 
+is executing as it should. This is important in order to increase the 
+reliability of a software, as well as avoiding each individual in a 
+multi-collaborator project doesn't commit garbage that can compromise the 
+software as a whole. Unit tests nowadays are becoming something more like a 
+way of life that must be inherent to the programming practices of the 
+developer, since tests can also ensure the software is being well maintained 
+and sometimes good documented as well.  
+2. What are the advantages of using CI?
+
