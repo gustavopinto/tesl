@@ -81,3 +81,6 @@ Para que ele possa ser empregado corretamente e efetivamente, foi-se criado, ent
 
 - Pull request com adição de função na calculadora
   - [add Absolute](https://github.com/wagnernegrao/calculadora-CI/pull/8)
+  
+- Pull request com conserto de falha de build
+  - [fixing broken build](https://github.com/wagnernegrao/calculadora-CI/pull/10)
