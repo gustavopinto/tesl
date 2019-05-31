@@ -99,3 +99,11 @@
 		* Um arquivo settings.py bem configurado visto que permite a configuração personalizada para cada ambiente.
 		* Usar Pony Checkup para verificação de segurança de um passo do site.
 		* Utilizar o sentinela por erros de registro.
+
+- Atividade 8:
+
+	1. A Integração Contínua garante que o projeto se mantenha em bom funcionamento durante o desenvolvimento, logo, mantém confiáveis as funcionalidades do software. 
+	
+	3. Adicionou um método para o cálculo do fatorial na [Calculadora](https://github.com/wagnernegrao/calculadora-CI/pull/6) com o teste no arquivo test_core.py (O arquivo modificado gerou uma build falha).
+	
+	5. Partindo da build falha gerada pelo PR anterior, enviei as devidas [correções](https://github.com/wagnernegrao/calculadora-CI/pull/15).
