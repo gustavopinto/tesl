@@ -282,5 +282,9 @@ links para mais informações.
     because this also allows devs to follow some patterns of coding that can
     make the source become more reliable, readable, documented... well-writen.
 3. Add a method and its respective test into the `calculadora` project
-    - PR created with a new method called `median()` to compute the median 
-    value of a vector passed to the class `Operations`
+    - [PR #14](https://github.com/wagnernegrao/calculadora-CI/pull/14) created 
+    with a new method called `median()` to compute the median value of a vector 
+    passed to the class `Operations`. Tests failed on Python 2.7 because the 
+    our `median()` method depends on the `avg()` method for even-sized vectors
+    and the division operation doesn't provide floats when computing two
+    integers in that Python version.
