@@ -1,11 +1,245 @@
 # Dupla Caio_Isaac
 
 - Caio Marcos Flexa Rodrigues (caiomfrodrigues@gmail.com, @caioMFRodrigues)
-- Isaac Souza Elgrably (email, github)
+- Isaac Souza Elgrably (isaacelgrably@hotmail.com, @elgrably)
 
 # Link para atividades
 
-- Atividade01: [link aqui](#)
+## Atividade01
+
+Atividade 01
+
+- Planilha01: [https://docs.google.com/spreadsheets/d/1P-DPpUiFZ1Je326a46_qesu3L748WIsukSRQkzt8UPc/edit?userstoinvite=fronchettiemail@gmail.com&ts=5c9f7432&actionButton=1#gid=122497701](#)
+- Planilha02: [https://docs.google.com/spreadsheets/d/1uUmtZF-gyQE11RZcc59HRkvKW3xEpNXnJxWHT8mfJlk/edit?userstoinvite=fronchettiemail@gmail.com&ts=5c9f7400#gid=122497701](#) 
 
 ## Atividade02
 
+Atividade 02
+
+Projeto: scikit-learn
+
+Contribuidores novatos
+
+Alguns dos contribuidores novatos são apresentados abaixo. Tais contribuidores realizaram poucos commits recentemente.
+
+wdevazelhes [https://github.com/scikit-learn/scikit-learn/commits?author=wdevazelhes];
+naoyak [https://github.com/scikit-learn/scikit-learn/commits?author=naoyak];
+tguillemot [https://github.com/scikit-learn/scikit-learn/commits?author=tguillemot]; 
+jakirkham [https://github.com/scikit-learn/scikit-learn/commits?author=jakirkham].
+
+Contribuidores chave
+
+Os contribuidores chave do projeto são:
+
+amueller [https://github.com/scikit-learn/scikit-learn/commits?author=amueller] (criador do projeto; ele possui a maior parte dos commits na história do projeto);
+ogrisel [https://github.com/scikit-learn/scikit-learn/commits?author=ogrisel] (segundo maior contribuidor);
+GaelVaroquaux [https://github.com/scikit-learn/scikit-learn/commits?author=GaelVaroquaux];
+larsmans [https://github.com/scikit-learn/scikit-learn/commits?author=larsmans].
+
+Sugestão de tarefas
+
+Sugestão de tarefas está descrita no ReadMe do projeto na seção “Maintainership” detalhando que tipo de mantenedores estão sendo procurados. No projeto os mantenedores devem realizar triagem de issues, pull requests e cut releases. Pessoas que trabalham em projetos que utilizam o scikit-learn e tem interesse em auxiliar eu seu desenvolvimento podem enviar um email a alguém do arquivo de Mantenedores. Além disso, o acesso ao site “https://scikit-learn.org/stable/” é recomendado para mais informações.
+
+## Atividade03
+
+Atividade 03
+
+ - Commit é o ato de commitar suas modificações. Essas modificações serão inseridas no histórico do projeto as outras pessoas participantes do projeto.
+ - Push é o comando de enviar um projeto para ser compartilhado.
+ - Pull é um comando que incorpora mudanças de um repositório remoto para o branch local.
+ - Checkout Atualiza arquivos na árvore de trabalho para corresponder à versão no índice ou na árvore especificada.
+ - Log é utlizado para verificar os logs de commits do projeto.
+ - Shortlog mostra a quantidade de commits do projeto.
+
+Baixe o site da disciplina na sua máquina local, e rode um comando para imprimir uma saída de terminal similar a esta:
+
+git shortlog -sne
+
+Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+MunGell/awesome-for-beginners
+Add Brazilian version - free translation CONTRIBUTING.md #339
+	Elgrably wants to merge 141 commits into
+
+Experimentação e descrição de vários comandos do git
+
+git pull: atualizar os arquivos no branch atual
+git commit: comando necessário à consolidação de alguma modificação, assim salvando o estado atual do projeto
+git push: quando o próximo estado está pronto para ser compartilhado, o comando git push é necessário para enviá-lo à fonte
+git checkout: esse comando é necessário para chavear entre branches
+git log: o comando git log é usado para visualizarmos o histórico de commits
+git shortlog: é usado para resumir as saídas do git log e agrupar os commits por autor
+
+Comando para imprimir uma saída de terminal similar a esta
+
+git shortlog -sne
+
+Update Dupla_Caio_Isaac #65
+Fazer um pull-request que faça tradução de alguma parte da documentação de um projeto
+
+MunGell/awesome-for-beginners
+Add Brazilian version - free translation CONTRIBUTING.md #339
+	Elgrably wants to merge 141 commits into
+  
+## Atividade04
+
+Atividade 04
+
+* Selecione e identifique em um determinado projeto de software livre se a página inicial ou alguma página logo em seguida tem (ou não) links para instação, documentação, documentação traduzida, e como contribuir. Coloque o projeto avaliado e os links encontrados (ou não);
+R = 
+
+Projeto: scikit-learn [https://github.com/scikit-learn/scikit-learn](#)
+Os links encontrados são estes:
+Website: [http://scikit-learn.org](#)
+About us: [https://scikit-learn.org/dev/about.html#authors](#)
+Developer’s Guide: [https://scikit-learn.org/stable/developers/index.html](#)
+Installing scikit-learn: [https://scikit-learn.org/stable/install.html](#)
+
+* Teste a documentação (por ex, siga as instruções de instalação) e sumarize os problemas encontrados
+
+Instalação do projeto ck ([https://github.com/mauricioaniche/ck](#))
+Instruções obtidas do ck/ README.md
+
+O tutorial para instalação é simples e bem didático.
+
+- A arquitetura utilizada no desenvolvimento não foi indicada.
+-Para iniciantes seria bom que houvesse as indicações de quais tecnologias foram utilizadas, por exemplo: Para rodar os comandos mvn (Maven instalado).
+-A parte de integração com sua app não está bem descrita (How to integrate it in my Java app).
+-Seria interessante um leque maior de traduções (Houve um Pull Request Translated README.md #12, mas não houve o merge)
+- Falta de Examples para poder ver o funcionamento do projeto ck.
+
+* Revise uma página de um projeto de software livre e sumarize os problemas encontrados
+
+Revisão da Página do projeto Freecol [https://github.com/FreeCol/freecol](#)
+
+Problemas Encontrados
+
+- Não Existe nenhum guia para compilar o software (abaixo o texto pra auxiliar o Building do projeto)
+- Não possui tradução, seja a pagina do Github como a propria aplicação.
+- Falta de indicação de quais as tecnologias necessitam estar instaladas para implementação do código.
+- Versão do projeto lançada em janeiro está com problema para executar no Windows ("O Windows Defender SmartScreen impediu a inicialização de um aplicativo não reconhecido.
+Se você executar esse aplicativo, o computador poderá ficar vulnerável.") já foi informado no track do projeto e o link ainda não foi retirado.
+- A organização do Branch Master está bagunçada, sem uma estrutura de pastas do projeto bem concisa.
+
+
+## Atividade05
+
+Atividade 05
+
+* Justifique o que acontece se um projeto de software não tiver nenhuma licença definida.
+R = Se acaso um projeto de software não possui uma licença, significa que materialmente, em termos legais, 
+ninguém tem permissão para usar, modificar ou compartilhar aquele software sem correr o risco de sofrer interrupções, 
+abalos ou litígios legais da parte dos criadores do software. Mesmo que o código esteja em algum repositório aberto como o Github, 
+havendo a possibilidade de visualizar e bifurcar o código, isso não significa que você tenha permissão para usar, modificar ou compartilhar o software. 
+Seja a finalidade qual for, não se deve tirar proveito do software.
+ 
+* Acesse o site choosealicense, e estude ao menos cinco licenças. Justifique porque o site da disciplina tem a licença que tem.
+R = A licença do site da disciplina é a “Creative Commons Attribution 4.0 International”. Bastante flexível e “royalty-free”, 
+essa versão permite quase qualquer uso de terceiros – a fornecer aviso de crédito e licença ao autor original do trabalho –, 
+sendo frequentemente usada para ativos de mídia e materiais educacionais como aqueles compartilhados na página da disciplina. 
+Além disso, ela também é a licença mais comum para publicações científicas Open Access. O licenciante não pode revogar essas liberdades, 
+a menos que os termos da licença sejam transgredidos. 
+ 
+* Procure por projetos de software que utilize uma licença que não deveria ser empregada em projetos de software.
+R = O projeto bezierplot [https://github.com/linusromer/bezierplot.git](#) desenvolve um programa Lua que aproxima plotagens de função. 
+Ele é licenciado com "LaTeX Project Public License (LPPL)". 
+No entanto, ela é a principal licença sob a qual os pacotes LaTeX são distribuídos.
+
+## Atividade06
+
+Atividade 06
+
+* Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os planos de curto e longo prazo desse projeto.
+R = 
+Projeto 1: Postgis
+Roadmap/Website: [https://trac.osgeo.org/postgis/roadmap](#)
+A curto prazo o principal plano do Postgis é a estabilização e correção dos bug da versão 2.5, porém nesse momento nenhum dos tracks existentes são classificados como prioridade acima de médio. A longo prazo os dois principais planos do Postgis é o marco PostGIS Fund Me, que possui tempo de execução de mais 7 anos, 267 tracks ativos e alguns tracks com prioridades altas; outro é a implementação da nova versão GEOS do Postgis que teve o marco iniciado esse ano e tem prazo de término até 2026.
+
+Projeto 2: scikit-learn
+Roadmap/Website: [https://scikit-learn.org/stable/roadmap.html](#)
+Onze anos após o início do Scikit-learn muita coisa mudou no mundo do aprendizado de máquina. Uma mudança mais sutil na última década é que, devido à mudança de interesse na ML, os alunos de PhD em aprendizado de máquina têm mais probabilidade de contribuir com PyTorch, Dask, etc. do que com o Scikit-learn, então nosso pool de colaboradores é muito diferente de uma década atrás.
+
+O Scikit-learn permanece muito popular na prática por experimentar técnicas canônicas de aprendizado de máquina, particularmente para aplicações em ciência experimental e em ciência de dados. Muito do que nós fornecemos agora é muito maduro. Mas pode ser caro manter e, portanto, ele não pode incluir novas implementações arbitrárias. Assim, os principais objetivos do projeto são:
+- Continuar mantendo uma coleção bem documentada e de alta qualidade de ferramentas canônicas para processamento de dados e aprendizado de máquina; 
+ - Melhorar a facilidade para os usuários desenvolverem e publicarem componentes externos;
+ - Melhorar a interoperabilidade com ferramentas modernas de dados científicos (por exemplo, Pandas, Dask) e infra-estruturas como o processamento distribuído.
+
+Observação: muitas das metas mais delicadas podem ser encontradas na tag da API no rastreador de problemas.
+
+Projeto 3:
+Roadmap/Website: [https://www.postgresql.org/developer/roadmap/](#)
+
+O objetivo do projeto PostgreSQL a curto prazo é de pelo menos um lançamento menor a cada trimestre, em um cronograma pré-definido. Se for necessário, devido a algum bug importante ou a um problema de segurança, mais lançamentos serão feitos entre essas datas. O próximo grande lançamento do PostgreSQL está planejado para ser a versão 12 (Atualmente utiliza-se a versão 11). Um cronograma experimental para esta versão tem um lançamento no terceiro trimestre de 2019.
+
+* Selecione 5 projetos de software livre famosos (pelo menos 1000 estrelas) e coloque os links para seus respectivos site, repositório de código fonte, bug tracking e ferramentas de comunicação.
+R = 
+Projeto 1: scikit-learn 
+Stars: 34.995
+Website: [http://scikit-learn.org](#)
+Repositório de código fonte: [https://github.com/scikit-learn/scikit-learn](#)
+Bug tracking: [https://github.com/scikit-learn/scikit-learn/labels/Bug](#)
+Ferramentas de comunicação:
+- Lista de discussão: [https://mail.python.org/mailman/listinfo/scikit-learn](#)
+- StackOverflow com a tag [scikit-learn]: [https://stackoverflow.com/questions/tagged/scikit-learn](#)
+- Suporte: [https://scikit-learn.org/stable/support.html](#)
+
+Projeto 2: PyTorch
+Stars: 27.889
+Website: [https://pytorch.org/](#)
+Repositório de código fonte: [https://github.com/pytorch/pytorch](#)
+Bug tracking: [https://github.com/pytorch/pytorch/labels/topic%3A%20error%20checking](#)
+Ferramentas de comunicação:
+- Slack, para discussão em torno da integração do framework, suporte de built, colaboração, etc: [https://tensorcomprehensions.herokuapp.com/](#).
+Email: tensorcomp@fb.com 
+- Guide: [https://opensource.guide](#)
+
+Projeto 3: TensorFlow
+Stars: 127.276
+Website: [https://www.tensorflow.org/](#)
+Repositório de código fonte: [https://github.com/tensorflow/tensorflow](#)
+Bug tracking: [https://github.com/tensorflow/tensorflow/labels/type%3Abug%2Fperformance](#)
+Ferramentas de comunicação:
+- StackOverflow com a tag [tensorflow]: [https://stackoverflow.com/questions/tagged/tensorflow](#)
+- Comunidade: [https://www.tensorflow.org/community](#)
+
+Projeto 4:  Postgres 
+Stars: 5.213
+Website: [https://www.postgresql.org/](#)
+Repositório de código fonte: [https://github.com/postgres/postgres](#) Obs: Apenas espelho do código original.
+Bug tracking:[https://www.postgresql.org/list/pgsql-bugs/](#)
+Ferramentas de comunicação:
+-  IRC channel: [postgresql on irc.freenode.net](#)
+- Slack: [https://postgres-slack.herokuapp.com/](#)
+- Email para inclusão nos grupos: [webmaster@postgresql.org](#)
+
+Projeto 5:  Pencil
+Stars: 6.726
+Website: [http://pencil.evolus.vn/](#)
+Repositório de código fonte: [https://github.com/evolus/pencil](#) 
+Bug tracking:[ (https://github.com/evolus/pencil/issues)](#)
+Ferramentas de comunicação:
+-  Email para licenciamento comercial: [contact@evolus.vn](#)
+
+* Encontre e discuta formas de priorizar requisitos em projetos de software livre
+R  =  
+Uma das principais formas de priorizar requisitos seria através da utilização dos itens do roadmap como quase épicos, baseando-se em desenvolvimento ágil (projetos maiores que levam mais de um sprint para serem concluídos). Assim, os mantenedores ou líderes de projeto podem selecionar #Issues prioritárias que se alinhem com esses épicos definidos no roadmap de um projeto de software livre.
+Outra abordagem, seria utilizando a figura de um ou mais responsáveis técnicos do projeto, como, p. ex., o “ditador benevolente”, que tenham a autoridade de selecionar determinadas issues, bugs ou requisitos que devem ser definidos como imprescindíveis para a evolução do projeto. 
+
+## Atividade07
+
+Atividade 07
+
+* Explique o são Linters e qual a sua importância.
+R = Um linter é uma ferramenta que analisa código-fonte a fim de acusar erros de programação, bugs e construções suspeitas, funcionando como um formatador de código-fonte com algo de análise sintática. HTMLHint, para HTML, e TSLINT, para Angular, são alguns exemplos de "linters" bem conhecidos.
+
+* Indique um guia de boas práticas de codificação em linguagem de programação (exceto: Python, PHP e Java) 
+R =  Um Guia de boas práticas pode ser o  Guia De programação do C# ([https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/](#)). Ele contém uma pagina mais especifica com o guia de convênções de escrita ([https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/inside-a-program/coding-conventions](#)). 
+
+O guia recomenda que as convenções atendam às seguintes finalidades:
+- Criam uma aparência consistente para o código, para que os leitores possam se concentrar no conteúdo e não no layout;
+- Permitem que os leitores entendam o código com mais rapidez, fazendo suposições com base na experiência anterior;
+- Facilitam a cópia, a alteração e a manutenção do código;
+- Demonstram as práticas recomendadas do C#.
+
+* Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
+R =  O Framework CakePHP é um framework da linguagem de programação PHP com o foco em desenvolvimento web, em sua pagina inicial  ([https://book.cakephp.org/3.0/pt/index.html](#)). É possível ver uma grande quantidade de exemplos e tutoriais para auxiliar o desenvolvedor iniciante. Um exemplo ilustrativo destaca o guia de convenções utilizados pelo framework (veja [https://book.cakephp.org/3.0/pt/intro/conventions.html](#)).
