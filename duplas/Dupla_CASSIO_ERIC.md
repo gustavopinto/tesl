@@ -312,5 +312,9 @@ A nice project community of the Linux Foundation called
 committee for capturing metrics to assess OSS health and sustainability. 
 Several metrics are defined on the project's 
 [GitHub metric](https://github.com/chaoss/metrics) repo, such as:
-    - 
+    - Number of closed issues:
+        - Quality criteria:   
+        - Indicator:
+        - Healthy value:
+        - Alarm when:
 3. 
