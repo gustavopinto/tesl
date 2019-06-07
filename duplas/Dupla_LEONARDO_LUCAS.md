@@ -125,4 +125,19 @@
   - O [JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices) é um guia de boas práticas de JavaScript disponibilizado pela W3C, que é uma organização de padronização da World Wide Web.
 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação:
   - O [Vue Style Guide](https://vuejs.org/v2/style-guide/) é um guia de boas práticas para Vue.js, servindo como referência para evitar erros e codificações fora de padrão.
+
+## Atividade 8
+- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+  - Métodos ágeis são metodologias de desenvolvimento que adotam o conceito de metodologia ágil, sendo este uma filosofia originada do manifesto ágil, que foi desenvolvido como solução aos problemas e prejuízos apresentados pelas práticas de engenharia de software extremamente complexas e custosas da década de 90, como o modelo cascata, por exemplo. Os métodos ágeis seguem os valores e princípios do manifesto ágil, sendo voltados para projetos menores de desenvolvimento, altamente adaptáveis à mudanças e entregando software funcional continuamente. Alguns exemplos desses métodos são: XP (Extreme Programming); Scrum; KANBAN; TDD e BDD.
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores:
+  - O seguinte [commit](https://github.com/jpalmerr/ajak-final-project/commit/20972fd5ab3acbdb59af7d0da0e1859bb697682e) é de autoria de duas pessoas, o que indica que elas trabalharam utilizando a técnica de pairing programming.
+- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método:
+  - O projeto vue.js utiliza o [KANBAN](https://github.com/vuejs/vue/projects/8) para gerenciar as tasks de acordo com o release documentado em seu roadmap.
   
+## Atividade 9
+- Por que utilizar testes unitários?
+  - Os testes unitários são importantes para dar segurança e garantia de qualidade ao que está sendo implementado. Ao utilizar esses testes o programador pode verificar o funcionamento do código, garantir respostas adequadas para as funcionalidades implementadas, bem como verificar se as alterações efetuadas no código não produzem erros e inconsistências no sistema como um todo, incluindo testes de outras funcionalidades. Em um contexto de software livre, os testes unitários dão credibilidade à aceitação de pull requests.
+- Quais vantagens de utilizar integração contínua?
+  - Ao utilizar integração contínua no projeto, há garantia de que bugs serão encontrados e investigados de forma mais regular, melhor qualidade no software desenvolvido devido ao processo de planejamento mais frequente de atualizações providas, além de uma redução no intervalo de uma atualização de software para outra.
+- Adicionar um serviço de integração contínua (Travis) em um projeto pessoal.
+  - O projeto escolhido foi [Administer-panel](https://github.com/leochrisis/Administer-panel) e o commit que indica o uso do travis está [aqui](https://github.com/leochrisis/Administer-panel/commit/cbd2957080dad18f02957110222e091fd0c311c6) 

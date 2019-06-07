@@ -69,7 +69,7 @@ Passível de alterações.
 | 7 | 10/05 | [Gerenciamento de código e requisitos](Aula06.md)           | Gustavo          |                          |
 | 8 | 17/05 | [Boas práticas de codificação](Aula08.md)                   | Nazario          | [GNOME](https://www.gnome.org/), por [George Stavracas](https://feaneron.com/) |
 | 9 | 24/05 | Métodos Ágeis e software livre                              | Nazario          |                          |
-| 10 | 31/05 | [Testes e Integração contínua](Aula09.md)                  | Wagner           |                          |
+| 10 | 31/05 | [Testes e Integração contínua](Aula10.md)                  | Wagner           |                          |
 | 11 | 07/06 | Avaliação de qualidade de projetos                         | Gustavo              |                          |
 | 12 | 14/06 | Métricas de código fonte & Definição de projetos           | Gustavo          |                          |
 | 13 | 21/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
