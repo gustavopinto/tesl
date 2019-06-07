@@ -288,3 +288,20 @@ links para mais informações.
     our `median()` method depends on the `avg()` method for even-sized vectors
     and the division operation doesn't provide floats when computing two
     integers in that Python version.
+
+## Atividade 10
+1. ``truck factor'' vs ``heroes''
+    - Truck factor is a metric that is based on the number of important
+  contributors on a project that have to be hit by a truck before the project
+  enters the decline stage. Obviously the lower the number of contributors the
+  higher the risk of the project, since depending on few important people
+  decreases the reliability and pretty much affects the future mantainability of
+  the source code.
+  - A hero project
+2. Cite ao menos três **outras** métricas de saúde for FOSS projects
+    - A nice project community of the Linux Foundation called 
+ [CHAOSS](https://wiki.linuxfoundation.org/chaoss/metrics) has an exclusive
+ committee for capturing metrics to assess OSS health and sustainability.
+ Several metrics are defined on the project's 
+ [GitHub metric](https://github.com/chaoss/metrics) repo. 
+3. 
