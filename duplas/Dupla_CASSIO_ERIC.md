@@ -293,10 +293,14 @@ links para mais informações.
 1. "truck factor" vs "heroes"
     - Truck factor is a metric that is based on the number of important
   contributors on a project that have to be hit by a truck before the project
-  enters the decline stage. Obviously the lower the number of contributors the
-  higher the risk of the project, since depending on few important people
+  enters the decline stage. In other words, the truck factor identifies the
+  concentration of knowledge in software development environments, helping
+  therefore at measuring how prepared a project is to deal with developer
+  replacement/quit. Obviously, the lower the number of contributors the
+  higher the risk of the project, since depending on only a few important people
   decreases the reliability and pretty much affects the future maintainability 
-  of the source code.
+  of the source code. A low truck factor leads to delay in launching new
+  releases and ultimately to the discontinuation of the entire project.
   - A hero project is the one where the great majority of contributions (80% or 
   more) come from a few number of actual developers (less than 20%). Such kind
   of random and sporadic contributions are usually bad for the project since it
