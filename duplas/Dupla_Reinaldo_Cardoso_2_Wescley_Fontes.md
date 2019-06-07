@@ -74,3 +74,24 @@ Utilização de catch com exception generico. Dificulta uma futura depuração e
 
 Procure um projeto e corrija uma violação de boas práticas de codificação, envie sua correção ao projeto através de pull request.
 R: Correcões realizadas - [Pull request:] (https://github.com/marciojsalmeida/Sistema-de-Ordem-de-servico-java-mysql/pull/2)
+
+## Atividade 11
+
+1) Cite pelo menos três outras métricas de saúde de projetos de software livre
+R- 
+Quasi contributors: Métrica na qual um colaborador tenta contribuir com software de código aberto, mas não obtém êxito, ou seja, os seus pull requests não são aceitos, por algum motivo.
+
+Paid developers: Desenvolvedores patrocinados.
+
+Breaks
+
+
+2) Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+R- Porque em projetos de software livre deve-se levar em conta fatores como comunidades e processos que vão além do código. 
+
+3) Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+R- 
+- Quantidade de erros, pois podem ser problemas repetidos com pesos diferentes, ou seja, a quantidade não corresponde a complexidade dos erros.
+- Tempo de Indisponibilidade do Desenvolvedor, o desenvolvedor pode estar indisponível por motivos alheios ao projeto.
+- % de Funcionalidades não Documentadas, uma vez que o próprio código pode servir como a documentação do projeto se seguir os padrões de clean code.
+
