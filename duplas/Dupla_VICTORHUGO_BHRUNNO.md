@@ -221,3 +221,15 @@ Dentre as vantagens de se fazer a integração contínua, pode-se citar: Encontr
 https://github.com/wagnernegrao/calculadora-CI/pull/4
 https://github.com/wagnernegrao/calculadora-CI/pull/5
 
+### - Atividade10:
+
+#### Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+Truck Factor tem como métrica a quantidade de contribuídores que mantém um projeto funcionando, quanto menor o seu valor maior o risco que este projeto sofre de parar de funcionar. Já o Heroes é quando 80% ou mais do projeto é desenvolvido por 20% dos contribuídores.
+
+#### Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+Pois projetos de software livre vão muito além do código,tendo em vista que os contribuídores são motivados por diversas formas, não tendo como imprimir neles uma pressão que os projetistas de software tradicional sofreriam.
+
+#### Cite pelo menos tês outras métricas de saúde de projetos de software livre
+Reputação do Software
+Lista de e-mail ou Fórum de desenvolvedores
+Interoperabilidade
