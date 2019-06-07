@@ -300,13 +300,13 @@ links para mais informações.
   higher the risk of the project, since depending on only a few important people
   decreases the reliability and pretty much affects the future maintainability 
   of the source code. A low truck factor leads to delay in launching new
-  releases and ultimately to the discontinuation of the entire project.
+  releases and ultimately to the discontinuation of the entire project.     
   - A hero project is the one where the great majority of contributions (80% or 
   more) come from a few number of actual developers (less than 20%). Such kind
   of random and sporadic contributions are usually bad for the project since it
   affects the speed of development (which becomes normally slow) and promotes
   information loss (actually, it promotes misinformation).
-2. Cite ao menos três **outras** métricas de saúde for FOSS projects
+2. Cite ao menos três **outras** métricas de saúde for FOSS projects    
 A nice project community of the Linux Foundation called 
 [CHAOSS](https://wiki.linuxfoundation.org/chaoss/metrics) has an exclusive 
 committee for capturing metrics to assess OSS health and sustainability. 
