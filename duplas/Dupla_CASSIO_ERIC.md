@@ -320,9 +320,14 @@ Several metrics are defined on the project's
     - Communication inclusivity (see [this](https://github.com/chaoss/wg-diversity-inclusion/tree/master/focus-areas/communication) link)
         - Quality criteria: Listening, speaking and alternatives platforms for communication
         - Indicator1: is it allowed to ask text-based questions where BW is a challenged?
-        - Indicator2: languages in accessible range for non-English speakers?  captioning for the deaf (on live talks)?
+        - Indicator2: languages in accessible range for non-English speakers? captioning for the deaf (on live talks)?
         - Indicator3: can I choose from a variety of channels the one I want to communicate with the team?
         - Healthy value: If there exists at least one of the indicators above
         - Alarm when: none of them exist at all
+    - Issue response time
+        - Quality criteria: minimize time between a new issue is opened and a maintainer's response
+        - Indicator: average time a issue is responded after it's been created
+        - Healthy value: the issue has been responded after X hours with a satisfactory answery
+        - Alarm when: the number of hours is above X
 3. Por que os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos FOSS?
     - Métodos para medição de qualidade em projetos ditos como "tradicionais" não tem o mesmo resultado quando utilizados em projetos de software livre, pois a qualidade de um projeto de software livre é subjetivo. Um software livre pode atender todos os critérios de uma medição de qualidade "tradicional", porém, aos olhos da comunidade o projeto pode ser ruim, não atendendo as expectativas, não tendo uma boa comunidade de contribuidores. Além disso, pelo fato de serem vários contribuidores em um projeto de software, fica mais difícil que todos os contribuidores mantenham o mesmo padrão, mas, ainda existe a questão dos contribuidores não pagos, que quando são reprovados por algum erro, perdem a motivação para fazerem as correções necessárias e reenviar.
