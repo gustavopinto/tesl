@@ -252,3 +252,22 @@ solicitações.
 - Adicionar um método e o respectivo teste no projeto calculadora.
   
   Método sugerido na PR [#7](https://github.com/wagnernegrao/calculadora-CI/pull/7)
+  
+ ### Atividade 10
+  
+ - Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+ 
+  O Truck Factor é uma métrica que analisa a distribuição de trabalho entre os contribuidores em um projeto, de tal forma que se este fator é baixo, significa que uma única pessoa é reponsável por grande parte do código e se este fator é alto, significa que a proporção de pessoas para uma única parte do código é relativamente grande. Já no caso da Heroes, esta métrica visa obter o percentual de participação de uma parcela determinada desenvolvedores dentro de um projeto.
+ 
+ - Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+ 
+  Este problema ocorre devido a existência de muitos fatores externos que não são levados em consideração nestas medições uma vez que estas restrigem-se apenas ao código e seus processos.
+
+- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+
+  - Quasi contribuidores: Analisa o número de pessoas que nunca conseguiram ter um pull request aceito no projeto;
+  - Paid developers: Analisa o número de contribuidores que são pagos para contribuir, de forma a descobrir a porcentagem deles em relação ao número de contribuidores ativos;
+  - Breaks: Analisa a quantidade de desenvolvedores que possuem uma frequência de contribuição muito distante uma da outra.
+  
+  Todas as métricas supracitadas não podem ser bem aproveitadas justamente devido ao fato de elas se restringirem a observação de aparentes contribuições (commits, pull requests, etc) o que não permite levar em consideração fatores externos que possam acometer o projeto (problemas pessoais, etc).
+
