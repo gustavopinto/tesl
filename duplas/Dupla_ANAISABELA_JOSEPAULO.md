@@ -160,3 +160,17 @@ Encontrar e investigar bugs de forma mais rápida, reduzir o tempo de validaçã
 3- Adicionar um método e o respectivo teste no projeto calculadora.
 Metodo e Teste:
 https://github.com/wagnernegrao/calculadora-CI/pull/18/commits
+
+
+## - Atividade 10:
+
+1- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+Truck factor é quando sua equipe pode estar em risco por conta da ausência de membros da equipe por problemas de saúde, férias, etc. Quando muitas desses “problemas” acontecem ao mesmo tempo, esse evento é chamado de “truck factor” e o seu projeto pode estar em risco de sofrer as consequências pela ausência de seus colaboradores. Com o tempo, qualquer um pode ser substituído. O truck factor é uma indicação de quão caro será substituir estes componentes da equipe. 
+Os heroes, ou heróis, são componentes da equipe que possuem conhecimentos específicos sobre certas partes críticas do sistema. Quando, ou se, esses heróis saírem da equipe, haverá prejuízo. Por isso, o melhor coisa a se fazer é transferir essa pessoa para uma parte diferente do sistema. .
+
+2- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+Isso acontece devido a demanda financeira necessária para manter a qualidade do software em muitos casos, algo que não é uma realidade para os projetos de software livre. Além disso, o que define essas qualidades depende dos commits e software livre não depende só do código.
+
+3- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+Quasi contributors, Breaks e Heroes, porque são métricas baseadas puramente em commits, o que pode não refletir necessariamente o projeto em questão, afinal, software livre vai muito além de código.
+
