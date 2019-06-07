@@ -215,3 +215,23 @@ Atividade escolhidas:
 
 https://github.com/wagnernegrao/calculadora-CI/pull/19
 
+## Atividade11:
+
+Atividade escolhidas:
+
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+Truck factor é uma medida utilizada para se determinar o risco que um projeto pode estar correndo caso algum ou mais dos seus participantes não possam mais participar, seja qual for o motivo (inclusive ser atropelado por um caminhão, por isso o nome).
+Dependendo da atuação do membro na equipe, o truck factor pode ser mais alto ou baixo, pois existem pessoas que tem uma participação muito mais alta em um projeto que outras. 
+A métrica de Heroes é aquela utilizada para se determinar se um projeto possui uma porcentagem pequena de colaboradores (do total de participantes) com a maior parte da participação no trabalho. Esses indivíduos são aqueles que justificam a medida do truck factor, pois acabam sendo essenciais para o andamento do projeto. 
+
+- Cite pelo menos três outras métricas de saúde de projetos de software livre
+Defeitos no projeto, é a imperfeição na especificação técnica, no projeto de um componente ou na codificação de um software, que, em determinadas condições, causa uma falha observada. Assim, ao longo do tempo vão aparecendo falhas que constituem a curva de detecção de falhas. Por sua vez, os defeitos também podem ser analisados construindo curva de detecção de defeitos e curva de densidade de defeitos. A observação minuciosa dos defeitos proporcionam a verificação de tendência em direção à qualidade.
+Qualidade total, que proporciona uma visão geral das medidas de qualidade de projeto combinando 4 domínios: arquitetura, projeto, código e teste; com o objetivo de calcular a saúde do projeto.
+O FPA (Function Point Analisys) é a métrica que determina o tamanho e a complexidade de um software. Concentra-se na quantificação da funcionalidade do software e baseia-se na visão do usuário para medir o que é um sistema e o seu tamanho funcional. Também pode medir a relação do sistema com usuários e com outros sistemas.
+
+- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+Softwares tradicionais são mantidos por instituições lucrativas que possuem um vínculo financeiro muito forte com seus colaboradores. Os meios utilizados de medir a qualidade desse tipo de software são fortemente dependentes dessa condição, recorrendo à sua estrutura hierárquica lucrativa para determinar aos colaboradores que cumpram com as metas de qualidade definidas. 
+Softwares livres são mantidos, na maior parte, pela contribuição gratuita de pessoas ao redor do mundo. Essa estrutura hierárquica financeira é fraca e na maioria inexistente. Dessa forma , fica muito mais difícil se garantir que um colaborador cumpra uma meta de qualidade (ele faz se ele quiser).
+Outra condição, é que é muito difícil de se medir a qualidade de software livre baseada em commits, pois , muitas vezes, existe muito mais a ser visto na participação de um colaborador que a quantidade de commits que produziu (software livre não depende só do código).
+
+
