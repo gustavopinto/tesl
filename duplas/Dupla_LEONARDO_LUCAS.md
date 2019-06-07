@@ -141,3 +141,9 @@
   - Ao utilizar integração contínua no projeto, há garantia de que bugs serão encontrados e investigados de forma mais regular, melhor qualidade no software desenvolvido devido ao processo de planejamento mais frequente de atualizações providas, além de uma redução no intervalo de uma atualização de software para outra.
 - Adicionar um serviço de integração contínua (Travis) em um projeto pessoal.
   - O projeto escolhido foi [Administer-panel](https://github.com/leochrisis/Administer-panel) e o commit que indica o uso do travis está [aqui](https://github.com/leochrisis/Administer-panel/commit/cbd2957080dad18f02957110222e091fd0c311c6) 
+
+## Atividade 10
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes":
+  - O "Truck Factor" é um termo criado para determinar quantos desenvolvedores contribuintes para um projeto precisam ser "atropelados" para esse projeto ser considerado incapacitado (ou morrer). Ou seja, tem relação com a concentração de informação e capacidade de contribuição nas mãos de poucas pessoas, sendo estas as que mantém o projeto em pé, dificultando a substituição de desenvolvedores em um projeto. "Heroes", por outro lado, é uma métrica que diz respeito, estatisticamente, à distribuição desigual de contribuições por pessoas. Ou seja, muito commit sendo realizado por uma porcentagem pequena de contribuidores. No caso dos "heroes", não necessariamente eu tenho concentração de informação em poucas pessoas, portanto não causando um possível gargalo caso haja a necessidade de substituir desenvolvedores.
+- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre:
+  - Quasi contributors, Breaks e Heroes, devido ao fato de que são métricas baseadas puramente em commits, o que pode não refletir necessariamente o projeto em questão, afinal, software livre vai muito além de código.
