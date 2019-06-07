@@ -56,3 +56,18 @@ Item2:
 Falta documentação, instalação e contribuição traduzida para o português;
 Falta tradução do manual do usuário "Como usar o Django"
 
+
+## Atividade 11
+
+Item 1: Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+Resp.: Apesar de parecer tem suas diferenças o truck factor- O único desenvolvedor responsável apresenta poucos commits outro deixam de responder e o Heroes- o responsável maior contribui pouco e os demais do grupo que é a maioria contribui muito .
+
+Item 2: Cite pelo menos tês outras métricas de saúde de projetos de software livre.
+Resp.: 1- Incidencia de desenvolvedores de meia idade nos projeto softwares livres.
+       2- O número de erros de códigos.
+       3- A quantidade de traduções utilizada e número de licenças no projeto.
+       
+Item 3: Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+Resp.: Linguagem de Código.
+       Controle de qualidade.
+       Licenças.
