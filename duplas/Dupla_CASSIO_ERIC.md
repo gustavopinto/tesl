@@ -300,8 +300,8 @@ links para mais informações.
   higher the risk of the project, since depending on only a few important people
   decreases the reliability and pretty much affects the future maintainability 
   of the source code. A low truck factor leads to delay in launching new
-  releases and ultimately to the discontinuation of the entire project.     
-  - A hero project is the one where the great majority of contributions (80% or 
+  releases and ultimately to the discontinuation of the entire project.        
+    - A hero project is the one where the great majority of contributions (80% or 
   more) come from a few number of actual developers (less than 20%). Such kind
   of random and sporadic contributions are usually bad for the project since it
   affects the speed of development (which becomes normally slow) and promotes
@@ -313,8 +313,8 @@ committee for capturing metrics to assess OSS health and sustainability.
 Several metrics are defined on the project's 
 [GitHub metric](https://github.com/chaoss/metrics) repo, such as:
     - Number of closed issues:
-        - Quality criteria:   
-        - Indicator:
-        - Healthy value:
-        - Alarm when:
+        - Quality criteria: maximize closed issues
+        - Indicator: total number of issues
+        - Healthy value: X issues closed by period of time or Y issues closed by source code
+        - Alarm when: the number of closed issues is below X or Y
 3. 
