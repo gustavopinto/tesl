@@ -317,4 +317,10 @@ Several metrics are defined on the project's
         - Indicator: total number of issues
         - Healthy value: X issues closed by period of time or Y issues closed by source code
         - Alarm when: the number of closed issues is below X or Y
-3. 
+    - Communication inclusivity (see [this](https://github.com/chaoss/wg-diversity-inclusion/tree/master/focus-areas/communication) link)
+        - Quality criteria: Listening, speaking and alternatives platforms for communication
+        - Indicator1: is it allowed to ask text-based questions where BW is a challenged?
+        - Indicator2: languages in accessible range for non-English speakers?  captioning for the deaf (on live talks)?
+        - Indicator3: can I choose from a variety of channels the one I want to communicate with the team?
+        - Healthy value: If there exists at least one of the indicators above
+        - Alarm when: none of them exist at all
