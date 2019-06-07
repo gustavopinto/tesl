@@ -84,3 +84,15 @@ Para que ele possa ser empregado corretamente e efetivamente, foi-se criado, ent
   
 - Pull request com conserto de falha de build
   - [fixing broken build](https://github.com/wagnernegrao/calculadora-CI/pull/10)
+  
+ ### - Atividade10 (Aula 11.md)
+ - Truck Factor x Heroes
+  - O Truck Factor analisa quais as pessoas VITAIS para o funcionamento de um projeto, logo, quanto maior o Truck Factor, menos perigo corre o projeto; enquanto que Heroes são os 20% ou menos que possuem 80% ou mais das contribuições. 
+Pode-se dizer que o Truck Factor é mais restritivo, pois uma pessoa que contribui muito não necessariamente é vital ao projeto. Logo, apesar deles possivelmente incluírem uma ou outra mesma pessoa, suas finalidades são diferentes. Apesar de parecer que os Heroes são uma existência negativa ao projeto, um [estudo de abril/2019](https://arxiv.org/pdf/1904.09954.pdf) mostra que, na verdade, sua existência é positiva a saúde do projeto, haja vista que, dentre outros benefícios, Heroes normalmente possuem uma qualidade de código superior e contribuem muito mais com comunicação com outros desenvolvedores.
+
+ - Porque meios de qualidade de software tradicionais têm pouca aderência.
+  - A medição de qualidade de um projeto tradicional objetiva em definir detalhadamente os custos, recursos humanos, não humanos, cronograma, além da qualidade do código. Além de questões como cronograma e orçamento não entrarem na análise de qualidade (haja vista que um projeto de software livre não possui data de fim, é um projeto em constante evolução), os recursos humanos requerem uma atenção muito maior em um software livre devido ao fato dele ser aberto e não definirem um ‘contrato’ de responsabilidade a ele diferentemente em um projeto tradicional onde há o contrato de EMPREGO, isto é, em um software livre, o desenvolvedor pode, em geral, ‘se demitir’ quando quiser. Logo, um software livre requer uma atenção ao recursos humanos tão grande quanto ao código, e devido a forma como softwares livres funcionam, as formas de medir e de aprimorar esse ponto é muito mais complexo que em um projeto tradicional.
+  
+ - [Programa para identificar quasi-contributors](https://gist.github.com/LeonardoFurtado/582ddabca634072496bd54b872674793)
+
+
