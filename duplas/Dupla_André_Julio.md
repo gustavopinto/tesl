@@ -111,3 +111,13 @@
     - Reduzir o tempo que leva para validar e lançar novas atualizações de software.
 - Adicionar um serviço de integração contínua (Travis) em um projeto pessoal:
     - Projeto Pessoal com travis adicionado: [travis_teste](https://travis-ci.org/juliocesark/travis_teste)
+### Atividade 10:
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes":	
+    - O truck factor é o número de pessoas específicas que mantém um projeto, um truck factor baixo, possui somente uma pessoa mantedora do projeto, caso ela saía, o projeto pode ser descontinuado. Já os heroes são uma pequena parcela de pessoas que cuidam do projeto e cada uma sabe um pouco de tudo, ou seja, são as que mais contribuem.
+- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre:
+    - Tem pouca aderência devido as mêtricas para medir a qualidade de um software tradicional, se basearem apenas no código e software livre vai muito além do código, pois ela támbem se baseia em comunidades e processos.
+- Cite pelo menos tês outras métricas de saúde de projetos de software livre:
+    - Medir a complexidade de um software
+    - Medir o nível de teste de um software livre
+    - Medir o erros de sintaxe de um software
+    - Medir o número de pessoas que contribuem para o software
