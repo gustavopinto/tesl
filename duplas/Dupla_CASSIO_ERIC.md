@@ -290,18 +290,23 @@ links para mais informações.
     integers in that Python version.
 
 ## Atividade 10
-1. ``truck factor'' vs ``heroes''
+1. "truck factor" vs "heroes"
     - Truck factor is a metric that is based on the number of important
   contributors on a project that have to be hit by a truck before the project
   enters the decline stage. Obviously the lower the number of contributors the
   higher the risk of the project, since depending on few important people
-  decreases the reliability and pretty much affects the future mantainability of
-  the source code.
-  - A hero project
+  decreases the reliability and pretty much affects the future maintainability 
+  of the source code.
+  - A hero project is the one where the great majority of contributions (80% or 
+  more) come from a few number of actual developers (less than 20%). Such kind
+  of random and sporadic contributions are usually bad for the project since it
+  affects the speed of development (which becomes normally slow) and promotes
+  information loss (actually, it promotes misinformation).
 2. Cite ao menos três **outras** métricas de saúde for FOSS projects
-    - A nice project community of the Linux Foundation called 
- [CHAOSS](https://wiki.linuxfoundation.org/chaoss/metrics) has an exclusive
- committee for capturing metrics to assess OSS health and sustainability.
- Several metrics are defined on the project's 
- [GitHub metric](https://github.com/chaoss/metrics) repo. 
+A nice project community of the Linux Foundation called 
+[CHAOSS](https://wiki.linuxfoundation.org/chaoss/metrics) has an exclusive 
+committee for capturing metrics to assess OSS health and sustainability. 
+Several metrics are defined on the project's 
+[GitHub metric](https://github.com/chaoss/metrics) repo, such as:
+    - 
 3. 
