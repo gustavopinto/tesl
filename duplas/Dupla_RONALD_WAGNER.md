@@ -99,3 +99,8 @@
 		* Um arquivo settings.py bem configurado visto que permite a configuração personalizada para cada ambiente.
 		* Usar Pony Checkup para verificação de segurança de um passo do site.
 		* Utilizar o sentinela por erros de registro.
+- Atividade 10:
+	1. 1 - O truck factor é uma medida do risco de informações e capacidade de compartilhamento entre menbros da equipe, basicamente em um número mínimo de membros da equipe / pessoas que devem desaparecer (ou parar de participar) de um projeto antes que ele pare de funciona, de contrapartida os heroes são contribuidores que aparecem adicionando melhorias e auxiliando a vida do software, uma possivel qualidade é que um heroi pode trabalhar em partes diferentes. Os heróis tendem a ser os membros mais competentes tecnicamente da equipe, isso geralmente significa que a nova área irá melhorar quando o herói tiver trabalhado nela por um tempo.
+	
+	3. 4 - Bugs per line of code, code coverage e cohesion.
+	4. 5 - Software quality, software sizing e programming complexity
