@@ -160,7 +160,7 @@
     3 - Adicionar um método e o respectivo teste no projeto calculadora.
         https://github.com/wagnernegrao/calculadora-CI/pull/12/files
         
-# Atividade 09:
+# Atividade 10:
 
     1 - Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
     R:
