@@ -113,3 +113,31 @@ de acordo com a página de comunicação do [projeto](https://docs.ansible.com/a
   1. [VScode](https://github.com/microsoft/vscode/pull/74691) Era um bug, que foi reportado no dia 31 de maio, e no mesmo dia foi aberto uma PR para resolver o bug, que foi aceita, A pessoa que abriu o [Bug](https://github.com/microsoft/vscode/issues/74668) é um core developer do repositorio do VScode, o fluxo foi extremamente rapido ao resolver, não foram pedidos mais informações, e não houve quaisquer impecilhos a implementação do fix dado que a pessoa que implementou o fix também é um desenvolver que faz parte do projeto.
   2. [Vue.js](https://github.com/vuejs/vue/pull/9667) Era um bug que foi reportado no dia 06 de março, onde ocorria um erro de compatibilidade com IE9, O pull request foi fechado no dia 10 de março. Não houve quaisquer discussão entre os mantenedores do projeto e a pessoa que reportou o bug, e a pessoa que implementou o fix é a mesma que fez o bug report. O implementador proveu varias explicações sobre o bug e como resolver.
   3. [React](https://github.com/facebook/react/pull/15769) é uma nova feature do projeto, que foi implementada por um membro do projeto, foi incluida uma longa explanação sobre o que foi feito, seguido de uma breve discussão entre os mantenedores do projeto sobre as heuristicas utilizadas para a implementação. O PR foi aberto no dia 30 de março
+
+## Atividade 08
+
+1. Questão 1 :Linters são ferramentas de analise estatica de codigo, eles fazem o parse do codigo com o intuito de achar problemas de compilação, problemas estilisticos, problemas de boas praticas e etc. Um linter é de extrema importancia em um projeto grande, pois eles permitem padronizar o codigo de acordo com os padrões definidos pelo projeto, permitem achar erros antes mesmo de rodar o codigo, e facilitam muito a vida dos revisores pois o linter consegue resolver a maioria dos problemas de sintaxe e boas praticas.
+2. Questão 2 : [Javascript best practices](https://jstherightway.org/)
+3. Questão 3 : [Vue.js](https://vuejs.org/v2/guide/)
+
+## Atividade 09
+
+1. Kanban: [LABES 2019](https://github.com/orgs/projeto-spider/projects/4)
+2. Os métodos ágeis vem ajudando muitas equipes a encarar a imprevisibilidades dentro de um projeto através de entregas incrementais e ciclos iterativos, os metodos ageis surgiram com o manifesto agil, que definiu varias praticas para um melhor gerenciamento de projetos de software. As metodologias ágeis passaram a ser uma alternativa aos métodos tradicionais. Eles são importantes para o processo de desenvolvimento de software por que eles permitem uma maior flexibilidade e focam menos na burocracia e mais em entregar valor para o cliente, alem de responder de maneira melhor a mudança de requisitos que sempre ocorre nos projetos de software, alguns exemplos de metodos ageis são : Kanban, XP, Scrum
+3. [TDD](https://github.com/projeto-spider/labes-2019/pull/143) Uma PR que inclui o codigo fonte e testes.
+
+## Atividade 10
+
+1. Testes unitarios são importantes para testar cada bloco de função do programa e garantir que eles estão funcionando para todos os casos, isto permite sempre garantir que ao implementar uma nova funcionalidade, as funcionalidades antigas estão funcionando normalmente, o que poupa tempo de implementação corrigindo bugs e integrações.
+2. As vantagens de utilizar integração continua são :
+   1. Loop de feedback mais rapido
+   2. Maior transparência e visibilidade do que esta sendo feito
+   3. Detecção de bugs e erros de requisitos mais rapido, o que permite conserta-los mais rapido
+   4. Maior qualidade de build e Testabilidade
+3. Projeto com TRAVIS [LABES-2019](https://github.com/projeto-spider/labes-2019)
+
+## Atividade 11
+
+1.  A métrica de "Truck Factor" Lida com os desenvolvedores chave do projeto, onde se estes morrerem o projeto provavelmente está morto, enquanto a métrica de "Heroes" dita que 80% das contribuições são feitas por 20% dos contribuidores, o que indica quem são os membros ativos da comunidade, mas não necessariamente fazem parte do truck factor.
+2.  Muitas das medidas de qualidade para um projeto tradicional, lidam com estruturas rigidas e burocraticas, com requisitos bem definidos e metricas a serem atingidas, enquanto em projetos de software livre, requisitos não são bem definidos e são apenas guidelines e qualidade é relativa para os usuarios de um determinado projeto, além de que software livre não possui uma equipe fixa para cuidar daquele projeto, o que causa estes projetos utilizarem metricas diferentes de qualidade.
+3.  Habilidade de atrair e reter contribuidores, Utilização do projeto e Descobrimento do projeto [Open source metrics](https://opensource.guide/metrics/) e [Methodologies for measuring project health](https://nadiaeghbal.com/project-health)
