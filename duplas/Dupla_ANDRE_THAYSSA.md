@@ -76,7 +76,7 @@
         https://github.com/lubien/ufpa-advanced-databases-2018-assignment-01/pull/3
 -
 
-##Atividade 06:
+## Atividade 06:
  - Encontre Roadmaps em pelo menos 3 projetos de software livre. Descreva os planos de curto e longo prazo desse projeto.
  
         1 - Inkscape https://inkscape.org/develop/next-release/
@@ -126,7 +126,7 @@
   -Encontre e discuta formas de priorizar requisitos em projetos de software livre
   
         Uma forma interessante de priorizar requisitos é a utilizada pelo OpenNebula (https://opennebula.org/roadmap/) Neste link, é definido explicitamente um método de priorização que considera prioritariamente as funcionalidades solicitadas por patrocinadores, seguidas por funcionalidades solicitadas por organizações que utilizam a versão paga da aplicação e por fim as funcionalidades sugeridas por usuários e integradores.
-#Atividade 07:
+## Atividade 07:
 
     1 - Explique o são Linters e qual a sua importância ?
         R: ferramentas de analise de código que identificam pontos de fraqueza no código fonte a fim de facilitar a correção de defeitos e implementação e melhorias.
@@ -136,3 +136,16 @@
     
     3 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
         Vue.js: https://vuejs.org/v2/style-guide/
+
+## Atividade 08:
+
+    1 - Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+    R: São processos e práticas embasados de alguma forma no Manifesto Ágil e seus princípios(https://www.manifestoagil.com.br/), visando uma abordagem mais dinâmica para o desenvolvimento de software. Sua importância vem da apresentação de um novo paradigma que pode ser utilizado, conforme as características da empresa/entidade/equipe de desenvolvimento e a finalidade/cliente do software.
+    2 - Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+    https://github.com/andrewgryan/sql-playground/commit/5877220f5b746b28df11745232d3711ed5d7e29e?diff=unified
+    3 - Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
+    O projeto https://github.com/uxbox/ utiliza o kanban desenhado na ferramenta (tb open) Taiga.    
+    https://tree.taiga.io/project/uxbox/kanban
+
+ 
+
