@@ -118,3 +118,32 @@ houve pedido de mais informações? sim
 foi resolvido rapidamente ou demorou? rapidamente
 houve algum impecilho técnico ou social para essa resolução? não
  quem resolveu o problema foi um desenvolvedor experiente, novato ou algum usuário? desenvolvedor experiente
+
+## Atividade 09
+
+* Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+
+> [Adiciona sistema de autorização](https://github.com/projeto-spider/labes-2019/commit/1a6903aff729ae4a71ae4b575911e4858e80ab37)
+> 
+> * Biblioteca koa-jwt para tratar tokens no > cabeçalho Authorization
+> * Biblioteca jsonwebtoken para assinar tokens
+> * Adiciona rotas de GET e POST /api/auth para > ver usuário e login
+> * Criação do middleware isLoggedIn
+> * Separação de diferente usos do koa-body para > JSON e Multipart
+> * Adiciona os erros UNAUTHORIZED e INVALID_TOKEN
+> * Função auxiliar para geração de tokens em > testes em test-utils.js
+> * Criação dos casos de teste de para > autenticação
+> 
+> Vale salientar que o segredo dos tokens ainda é > mockado.
+
+* Procure um projeto e indique um commit que tenha Refactor e qual informe o nome da técnica empregada durante o refactor.
+
+[Reutiliza middleware de body parsing no router.js](https://github.com/projeto-spider/labes-2019/commit/5ecf7d65114a668779c8cbfa71d1a4b8f1384e48)
+
+No commit fora reutilizado a referência de objetos para evitar a instanciação desnecessária de objetos com igual propósito.
+
+A refatoração foi sustentada pelo fato que a equipe de desenvolvimento possuia uma bateria de testes para verificar as funcionalidades.
+
+* Procure um projeto e aplique refactor em um código fonte, informe ao projeto com campo descrição do commit a técnica de refactor usada, envie sua correção ao projeto através de pull request.
+
+[Update deprecated Stream.filter_map/3 to Stream.filter/2 + Stream.map/2](https://github.com/ybod/elixir_flow/pull/1/commits/450b80f2a15286acdc56e685f76df05e57c6f7d7)
