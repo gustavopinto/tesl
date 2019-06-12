@@ -1,6 +1,6 @@
 # Trabalho Final de Cassio Batista ([@cassiobatista](https://github.com/cassiobatista))
 
-## Task 1: Translation on Hugo Academic Template
+## [1pt] Task 1: Translation on Hugo Academic Template
 [Hugo](https://gohugo.io/) (see it on [GitHub](https://github.com/gohugoio/hugo))
 is a framework based on Google's Go language for building static pages in GitHub
 and GitLab. Among the several templates already created to make developer's
@@ -40,8 +40,10 @@ parameters to enable switching the default language directly at the navigation
 bar (top-right corner).
 
 <!--
-## [1pt] Task 4: Bug report on XFCE 4.4
+## [1pt] Task 4: Bug report on XFCE 4.
 There's something really when trying to load an image from a non-default
-repository (such as `~/Dropbox/wallpapers` since the Dialog box won't let me.
+repository (such as `~/Dropbox/wallpapers`) since the Dialog box won't let me.
 I'll report this tomorrow
+Edit: although it seems to be a still-non-solved bug, it's been already highly 
+reported :(
 -->
