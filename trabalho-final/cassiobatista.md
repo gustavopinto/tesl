@@ -38,7 +38,9 @@ section on README that instructs the user on how to set the configuration
 parameters to enable switching the default language directly at the navigation
 bar (top-right corner).
 
+<!--
 ## [1pt] Task 4: Bug report on XFCE 4.4
 There's something really when trying to load an image from a non-default
 repository (such as `~/Dropbox/wallpapers` since the Dialog box won't let me.
 I'll report this tomorrow
+-->
