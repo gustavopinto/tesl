@@ -1,6 +1,6 @@
 # Trabalho Final de Cassio Batista ([@cassiobatista](https://github.com/cassiobatista))
 
-## [1pt] Task 1: Translation on Hugo Academic Template
+## Task 1 [1pt]: Translation on Hugo Academic Template
 [Hugo](https://gohugo.io/) (see it on [GitHub](https://github.com/gohugoio/hugo))
 is a framework based on Google's Go language for building static pages in GitHub
 and GitLab. Among the several templates already created to make developer's
@@ -11,7 +11,7 @@ links), which has a typical layout of an online CV. My accepted contribution in
 in [PR #1121](https://github.com/gcushen/hugo-academic/pull/1121) was to
 translate most of the Brazilian Portuguese stuff that goes in HTML hyperlinks.
 
-## [3pt] Task 2: Small functionality on Hugo Academic Template
+## Task 2 [3pt]: Small functionality on Hugo Academic Template
 I've solved [issue #1108](https://github.com/gcushen/hugo-academic/issues/1108),
 which was scheduled to be solved and released on version 4.4 of the Hugo
 Academic framework. The current version provides some static, fixed buttons to
@@ -29,7 +29,7 @@ defined on the list. Therefore, going back to the aforegiven example, I could
 just commented the Facebook item on the index markdown's list and *voilà!*
 Facebook would be now gone as social sharing button.
 
-## [1pt] Task 3: Improve Multilingual documentation on Beautiful Hugo
+## Task 3 [1pt]: Improve Multilingual documentation on Beautiful Hugo
 The documentation for [Beaultiful Hugo](https://themes.gohugo.io/beautifulhugo/)
 theme for GitHub/GitLab static pages did not give any clue on how to enable the
 multilingual functionality, although it has more than 10 languages available. 
@@ -41,9 +41,10 @@ bar (top-right corner).
 
 <!--
 ## [1pt] Task 4: Bug report on XFCE 4.
-There's something really when trying to load an image from a non-default
+There's something really wrong when trying to load an image from a non-default
 repository (such as `~/Dropbox/wallpapers`) since the Dialog box won't let me.
 I'll report this tomorrow
 Edit: although it seems to be a still-non-solved bug, it's been already highly 
 reported :(
+- https://www.reddit.com/r/archlinux/comments/4zztq8/cannot_change_wallpaper_folder_on_fresh_install/
 -->
