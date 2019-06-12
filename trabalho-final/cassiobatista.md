@@ -27,3 +27,8 @@ config parameters and put them to the GUI automatically in the order they're
 defined on the list. Therefore, going back to the aforegiven example, I could
 just commented the Facebook item on the index markdown's list and *voilà!*
 Facebook would be now gone as social sharing button.
+
+## Task 3: Bug report on XFCE 4.4
+There's something really when trying to load an image from a non-default
+repository (such as `~/Dropbox/wallpapers` since the Dialog box won't let me.
+I'll report this tomorrow
