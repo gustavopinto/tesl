@@ -49,7 +49,7 @@ group or company.
 
 ### Task 4.1: Publication section
 Submitted on [PR #286](https://github.com/halogenica/beautifulhugo/pull/286),
-this contributions solves 
+this contribution solves 
 [issue #283](https://github.com/halogenica/beautifulhugo/issues/283) by adding a
 section for listing academic publications on the Beautiful Hugo theme. It
 wasn't easy since I had to watch half of a
@@ -65,14 +65,14 @@ created a section theme specific for publications by modifying the tags section.
 Now all I had to do was to create some high-level Markdown-based interface for
 the users to insert their publications into the newly created section.
 
-To do so, I had to make another amazing almost-contribution to a script called
+To do so, I had to make another amazing *almost*-contribution to a script called
 `parse_bib`, which I found by messing around the issues of the Hugo Academic
 template. The [original project on GitHub](https://github.com/apetros/parse_bib)
-uses the Python `bibtexparser` library to convert publication info directly from
-the LaTeX's BibTeX .bib files to Markdown (actually it is most TOML
-configuration defined on the page front matter that Markdown itself). I decided
-to work on the script because I was too lazy to manually input all the info from
-the .bib file into the markdown front matter content.
+uses the Python `bibtexparser` library to extract publication info directly from
+the LaTeX's BibTeX .bib files and insert that info into Markdown files (actually 
+it is most TOML configuration defined on the page front matter than Markdown
+itself). I decided to work on the script because I was too lazy to manually
+input all the info from the .bib file into the markdown front matter content.
 
 So I created a 
 [fork on my own GitHub account](https://github.com/cassiobatista/parse_bib/tree/beautiful-hugo)
@@ -80,8 +80,18 @@ and adapted the script to my needs: converting a .bib file to Markdown with YAML
 front matter (used in Beautiful Hugo rather than the TOML used on Hugo
 Academic). But I have made so much improvements that I almost created a totally 
 independent script, since the bibtexparse library had
-too much limitations I decided to switch to `pybtex` (https://pybtex.org/). I
-also switched from `getopt` to `argparse` which is more pythonic :)
+too much limitations I decided to switch to `pybtex` (https://pybtex.org/). The
+advantage of `pybtex` is that it is easy to create plain text endnotes for
+publications, since I wanted to show endnotes at the title of the collapsible
+panels (in spite of being possible, which definitely cannot be said about
+`bibtexparse` lib). When the endnote was clicked and therefore the panel was 
+expanded, the .bib file entry could be shown to the reader, and this was easier
+to do with `bibtexparser` because `pybtex` presents some problems when dealing 
+with latex workarounds for non-ascii characters (such as `\~`, `\^`, etc.)
+
+And I also switched from `getopt` to `argparse` which is more pythonic :) The
+thing is I'm still thinking about submitting a PR to this script because it is
+king of serving another purpose now.
 
 ### Task 4.2: Members section
 TBD.
