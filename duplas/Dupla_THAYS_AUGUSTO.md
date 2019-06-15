@@ -198,3 +198,21 @@ Atividades escolhidas:
 
 	O guia Laravel está no endereço abaixo:
 	https://johnatant.github.io/laraveltherightway/
+
+## Atividade09:
+
+Atividades escolhidas:
+
+-Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+
+	Métodos ágeis são um conjunto de práticas no desenvolvimento de software que visam uma entrega com rapidez e qualidade de produtos, abordando negócios de forma que haja alinhamento das necessidades do cliente, as necessidades da empresa  e o desenvolvimento do projeto.
+
+-Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha múltiplos autores.
+
+	Commit para o repositório do Django Rest Framework realizado por 3 autores:
+	https://github.com/encode/django-rest-framework/commit/37f210a455cc92cb3f61a23e194a1d0de58d149b
+
+-Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+
+	Aplicação da metodologia TDD no Django:
+	https://github.com/topics/django?q=tdd+methodology&unscoped_q=tdd+methodology

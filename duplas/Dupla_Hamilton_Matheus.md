@@ -214,5 +214,22 @@ Boas práticas:
 
 - Use os 'Managers'
 
-Semelhante aos modelos, é recomendável abstrair a lógica comum em métodos em um 'gerenciador'. Mais especifícamente, é provavelmente desejável um método que possa ser usado em cadeia e que possa ser usado em qualquer hora. 
+Semelhante aos modelos, é recomendável abstrair a lógica comum em métodos em um 'gerenciador'. Mais especifícamente, é provavelmente desejável um método que possa ser usado em cadeia e que possa ser usado em qualquer hora.
 
+## Atividade 09
+
+### 1. Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+
+Os métodos ágeis são um modelo alternativo para gestão tradicional de projetos. Esse método fo desenvolvido em resposta ao modelo de processo em cascata, muito utilizado nos anos 90, porém que trouxe muitos prejuízos, não agregando valor para o cliente. Portanto, em 2001 foi criado o manifesto ágil, que explana todos os princípios e valores da metodologia ágil
+
+As metodologias ágeis são um modelo alternativo para gestão tradicional de projetos, que estejam alinhadas com os valores e princípios descritos no Manifesto Ágil para Desenvolvimento de Software, assinado em 2001 em Utah. Participaram desse evento 17 desenvolvedores, que apesar de estarem testando abordagens e métodos diferentes, compartilhavam dos mesmos fundamentos. As metodologias ágeis em geral defendem o planejamento adaptativo, times auto-organizados e multidisciplinares, melhoria contínua e o desenvolvimento evolucionário. Se olharmos a forma como o desenvolvimento de software se dá em diversas empresas, veremos o oposto disso.
+
+### 2. Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores 
+
+Projeto: Hiptest publisher
+Commit: https://github.com/hiptest/hiptest-publisher/commit/15b9b2cdf63b54bc0a4fcc36a60c7da47be0e7a6
+
+### 3.Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+
+Projeto: Sails.js
+Commit: https://github.com/balderdashy/sails/commit/661dfac93fbb08c9ae685066ae5b3da5eaa583f3#diff-098f6bcd4621d373cade4e832627b4f6

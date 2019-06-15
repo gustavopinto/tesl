@@ -243,3 +243,31 @@ O guia recomenda que as convenções atendam às seguintes finalidades:
 
 * Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
 R =  O Framework CakePHP é um framework da linguagem de programação PHP com o foco em desenvolvimento web, em sua pagina inicial  ([https://book.cakephp.org/3.0/pt/index.html](#)). É possível ver uma grande quantidade de exemplos e tutoriais para auxiliar o desenvolvedor iniciante. Um exemplo ilustrativo destaca o guia de convenções utilizados pelo framework (veja [https://book.cakephp.org/3.0/pt/intro/conventions.html](#)).
+
+## Atividade08
+
+Atividade 08
+
+1 - Explique o que são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares.
+R = O termo “métodos ágeis” vem do inglês Agile Software Development. Conforme o próprio nome aponta, envolvem um conjunto de metodologias que visam acelerar o ritmo dos processos de desenvolvimento de um software. Nesse contexto, a razão pela qual surgiram foi para fazer frente aos modelos tradicionais de desenvolvimento de software, tidos como lentos e burocráticos, com a intenção de reduzir o ciclo de desenvolvimento em semanas (ou até meses) ao invés de anos - como o que ocorre, ainda hoje, em modelos mais “conservadores”.
+
+2 - Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha múltiplos autores.
+R = 
+Projeto: scikit-learn [https://github.com/scikit-learn/scikit-learn](#)
+Commit:  [MRG] DEP remove pooling_func in AgglomerativeClustering (#13821)
+”glemaitre” authored and “ogrisel” committed 15 days ago
+Fonte: [https://github.com/scikit-learn/scikit-learn/commit/95339a677ef9c57b7c8c114fc08f2a401da37544](#)
+
+3 - Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+R =  
+Projeto: repodriller [https://github.com/mauricioaniche/repodriller](#)
+Issue: [https://github.com/mauricioaniche/repodriller/issues/126](#)
+
+Bugfix: collect DiffTexts when filtering diffs.
+Issue mauricioaniche#126
+ diff-filter (#127)
+@ayaankazerouni
+ayaankazerouni committed on 27 Feb 2018
+1 parent 0fa8312 commit a2b319cdeafd5dd5fdcee9372231627053c6a87e
+
+Fonte: [https://github.com/ayaankazerouni/repodriller/commit/a2b319cdeafd5dd5fdcee9372231627053c6a87e](#)
