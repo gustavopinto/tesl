@@ -29,8 +29,11 @@ defined on the list. Therefore, going back to the aforegiven example, I could
 just commented the Facebook item on the index markdown's list and *voilà!*
 Facebook would be now gone as social sharing button.
 
+**Edit:** PR was accepted (with some refactoring by the owner) on Jun 15, 2019 
+:).
+
 ## Task 3 [1pt]: Improve Multilingual documentation on Beautiful Hugo
-The documentation for [Beaultiful Hugo](https://themes.gohugo.io/beautifulhugo/)
+The documentation for [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/)
 theme for GitHub/GitLab static pages did not give any clue on how to enable the
 multilingual functionality, although it has more than 10 languages available. 
 Therefore, I have submitted 
@@ -38,6 +41,50 @@ Therefore, I have submitted
 section on README that instructs the user on how to set the configuration
 parameters to enable switching the default language directly at the navigation
 bar (top-right corner).
+
+## Task 4 [7pt]: Big functionality on Beautiful Hugo Template
+I've created two additional pages for the Beautiful Hugo theme: the first one
+for listing publications and the second to display all members in a research
+group or company.
+
+### Task 4.1: Publication section
+Submitted on [PR #286](https://github.com/halogenica/beautifulhugo/pull/286),
+this contributions solves 
+[issue #283](https://github.com/halogenica/beautifulhugo/issues/283) by adding a
+section for listing academic publications on the Beautiful Hugo theme. It
+wasn't easy since I had to watch half of a
+[Hugo Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3) 
+on YouTube in order to understand how things work underneath the Hugo framework. 
+
+I had to create a special section template file called `publication.html` under 
+the `layouts/section`. I actually got some inspiration from the Tags section
+available at the Beautiful Hugo theme itself, which has some 
+[amazing collapsible panels](https://themes.gohugo.io//theme/beautifulhugo/tags)
+defined in HTML (and perhaps some JavaScript that I haven't seen so far). So I
+created a section theme specific for publications by modifying the tags section.
+Now all I had to do was to create some high-level Markdown-based interface for
+the users to insert their publications into the newly created section.
+
+To do so, I had to make another amazing almost-contribution to a script called
+`parse_bib`, which I found by messing around the issues of the Hugo Academic
+template. The [original project on GitHub](https://github.com/apetros/parse_bib)
+uses the Python `bibtexparser` library to convert publication info directly from
+the LaTeX's BibTeX .bib files to Markdown (actually it is most TOML
+configuration defined on the page front matter that Markdown itself). I decided
+to work on the script because I was too lazy to manually input all the info from
+the .bib file into the markdown front matter content.
+
+So I created a 
+[fork on my own GitHub account](https://github.com/cassiobatista/parse_bib/tree/beautiful-hugo)
+and adapted the script to my needs: converting a .bib file to Markdown with YAML
+front matter (used in Beautiful Hugo rather than the TOML used on Hugo
+Academic). But I have made so much improvements that I almost created a totally 
+independent script, since the bibtexparse library had
+too much limitations I decided to switch to `pybtex` (https://pybtex.org/). I
+also switched from `getopt` to `argparse` which is more pythonic :)
+
+### Task 4.2: Members section
+TBD.
 
 <!--
 ## [1pt] Task 4: Bug report on XFCE 4.
