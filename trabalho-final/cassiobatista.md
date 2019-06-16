@@ -94,7 +94,16 @@ thing is I'm still thinking about submitting a PR to this script because it is
 king of serving another purpose now.
 
 ### Task 4.2: Members section
-TBD.
+I submitted [PR #287](https://github.com/halogenica/beautifulhugo/pull/287) with
+a proposal of a member section page. It's also based on the Tags layout
+described on Task 4.1 because of its awesome collapsible panels. I included some
+buttons that lead to the social media of the member. Most of the mainstream 
+social nets were already defined on a configuration file of the theme, but the
+academic ones such as ORCID, Lattes, Research Gate, Google Scholar, etc. were
+not. So I added a CSS from the 
+[Academicons](https://jpswalsh.github.io/academicons/) project to include such
+icons. In addition, I created a partial layout in Hugo to display an avatar and
+the user description side by side.
 
 <!--
 ## [1pt] Task 4: Bug report on XFCE 4.
