@@ -8,3 +8,5 @@
  ### Melhorar Documentação:
  - Documentação melhorada do projeto [calourada-bootstrap](https://github.com/JonatasFAlves/calourada-bootstrap): [Pull-Request](https://github.com/JonatasFAlves/calourada-bootstrap/pull/1)
  - Documentação melhorada do projeto [peludinhos](https://github.com/getacesupa/peludinhos): [Pull-Request](https://github.com/getacesupa/peludinhos/pull/3)
+ ### Adicionar pequena funcionalidade:
+ - Adicionado uma pequena funcionalidade referente a redes sociais no projeto [calourada-bootstrap](https://github.com/JonatasFAlves/calourada-bootstrap): [Pull-Request](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2)
