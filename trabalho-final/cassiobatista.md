@@ -1,39 +1,46 @@
 # Trabalho Final de Cassio Batista ([@cassiobatista](https://github.com/cassiobatista))
 
-## Task 1 [1pt]: Translation on Hugo Academic Template
-[Hugo](https://gohugo.io/) (see it on [GitHub](https://github.com/gohugoio/hugo))
+[Hugo](https://gohugo.io/) (see it on [GitHub](https://github.com/gohugoio/hugo) 
+and at the [official webpage](https://gohugo.io/))
 is a framework based on Google's Go language for building static pages in GitHub
 and GitLab. Among the several templates already created to make developer's
-lives easier, there is the Academic template (check
-[this](https://sourcethemes.com/academic/) and
-[this](https://github.com/gcushen/hugo-academic) 
-links), which has a typical layout of an online CV. My accepted contribution in
-in [PR #1121](https://github.com/gcushen/hugo-academic/pull/1121) was to
-translate most of the Brazilian Portuguese stuff that goes in HTML hyperlinks.
+lives easier, there is the Hugo Academic template (check the
+[Hugo themes page](https://themes.gohugo.io/academic/) and
+[official GitHub repo](https://github.com/gcushen/hugo-academic) 
+links), which has a typical layout of an online CV; and the Beautiful Hugo
+template (check [Hugo themes page](https://themes.gohugo.io/beautifulhugo/) and 
+[official GitHub repo](https://github.com/halogenica/beautifulhugo) links) which
+is a more general template for a personal (or group, although it does not seem
+to be the real purpose) webpage.
 
-## Task 2 [3pt]: Small functionality on Hugo Academic Template
+## :heavy_check_mark: Task 1 [1pt]: Translation on Hugo Academic 
+My accepted contribution in 
+[PR #1121](https://github.com/gcushen/hugo-academic/pull/1121) for Hugo Academic
+theme was to translate most of the Brazilian Portuguese stuff that goes in HTML 
+hyperlinks.
+
+## :heavy_check_mark: Task 2 [3pt]: Small functionality on Hugo Academic 
 I've solved [issue #1108](https://github.com/gcushen/hugo-academic/issues/1108),
 which was scheduled to be solved and released on version 4.4 of the Hugo
-Academic framework. The current version provides some static, fixed buttons to
+Academic theme. The current version provides some static, fixed buttons to
 share a publication page on social media such as Facebook or Twitter. But let's
 say you didn't want the Facebook button to be there. At the current version you
 would have to edit an HTML file where the URL and the icons are "hardcoded" and
-comment the Facebook list item. This is not very intuitive. My contributtion,
-submitted on [PR #1131](https://github.com/gcushen/hugo-academic/pull/1131) now
+comment the Facebook list item. This is not very intuitive. 
+
+My contributtion, submitted on 
+[PR #1131](https://github.com/gcushen/hugo-academic/pull/1131) now
 allows this configuration to be performed inside the publication's own
 `index.md` file, which is more accessible to the user/site dev. The social
-networks are defined as lower case strings inside the `social` list (toml-like
+networks are defined as lower case strings inside the `social` list (TOML-like
 configuration), and through some golang code inside the HTML I can read theses
 config parameters and put them to the GUI automatically in the order they're
 defined on the list. Therefore, going back to the aforegiven example, I could
 just commented the Facebook item on the index markdown's list and *voilà!*
 Facebook would be now gone as social sharing button.
 
-**Edit:** PR was accepted (with some refactoring by the owner) on Jun 15, 2019 
-:).
-
-## Task 3 [1pt]: Improve Multilingual documentation on Beautiful Hugo
-The documentation for [Beautiful Hugo](https://themes.gohugo.io/beautifulhugo/)
+## :hourglass_flowing_sand: Task 3 [1pt]: Improve Multilingual documentation on Beautiful Hugo
+The documentation for Beautiful Hugo
 theme for GitHub/GitLab static pages did not give any clue on how to enable the
 multilingual functionality, although it has more than 10 languages available. 
 Therefore, I have submitted 
@@ -42,7 +49,7 @@ section on README that instructs the user on how to set the configuration
 parameters to enable switching the default language directly at the navigation
 bar (top-right corner).
 
-## Task 4 [7pt]: Big functionality on Beautiful Hugo Template
+## :hourglass_flowing_sand: Task 4 [7pt]: Big functionality on Beautiful Hugo 
 I've created two additional pages for the Beautiful Hugo theme: the first one
 for listing publications and the second to display all members in a research
 group or company.
@@ -61,9 +68,10 @@ the `layouts/section`. I actually got some inspiration from the Tags section
 available at the Beautiful Hugo theme itself, which has some 
 [amazing collapsible panels](https://themes.gohugo.io//theme/beautifulhugo/tags)
 defined in HTML (and perhaps some JavaScript that I haven't seen so far). So I
-created a section theme specific for publications by modifying the tags section.
-Now all I had to do was to create some high-level Markdown-based interface for
-the users to insert their publications into the newly created section.
+created a section theme specifically for publications by modifying the tags 
+section. Now all I had to do was to create some high-level Markdown-based 
+interface for the users to insert their publications into the newly created 
+section, which goes inside the `content/publication/` dir.
 
 To do so, I had to make another amazing *almost*-contribution to a script called
 `parse_bib`, which I found by messing around the issues of the Hugo Academic
@@ -79,31 +87,34 @@ So I created a
 and adapted the script to my needs: converting a .bib file to Markdown with YAML
 front matter (used in Beautiful Hugo rather than the TOML used on Hugo
 Academic). But I have made so much improvements that I almost created a totally 
-independent script, since the bibtexparse library had
+independent script, since the `bibtexparser` library had
 too much limitations I decided to switch to `pybtex` (https://pybtex.org/). The
 advantage of `pybtex` is that it is easy to create plain text endnotes for
 publications, since I wanted to show endnotes at the title of the collapsible
-panels (in spite of being possible, which definitely cannot be said about
-`bibtexparse` lib). When the endnote was clicked and therefore the panel was 
-expanded, the .bib file entry could be shown to the reader, and this was easier
+panels (in spite of being possible, which definitely cannot be said about the
+`bibtexparser` lib). When the endnote was clicked and therefore the panel was 
+expanded, the .bib file entry could be shown to the reader alongside the
+referred paper abstract, and this was easier
 to do with `bibtexparser` because `pybtex` presents some problems when dealing 
-with latex workarounds for non-ascii characters (such as `\~`, `\^`, etc.)
+with latex workarounds for non-ascii characters (such as `\~`, `\^`, etc., which
+are usual for given names in Brazilian Portuguese).
 
 And I also switched from `getopt` to `argparse` which is more pythonic :) The
 thing is I'm still thinking about submitting a PR to this script because it is
-king of serving another purpose now.
+kind of serving another purpose now.
 
 ### Task 4.2: Members section
 I submitted [PR #287](https://github.com/halogenica/beautifulhugo/pull/287) with
 a proposal of a member section page. It's also based on the Tags layout
 described on Task 4.1 because of its awesome collapsible panels. I included some
 buttons that lead to the social media of the member. Most of the mainstream 
-social nets were already defined on a configuration file of the theme, but the
+social nets were already defined on a configuration file of the theme via 
+[Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), but the
 academic ones such as ORCID, Lattes, Research Gate, Google Scholar, etc. were
 not. So I added a CSS from the 
 [Academicons](https://jpswalsh.github.io/academicons/) project to include such
-icons. In addition, I created a partial layout in Hugo to display an avatar and
-the user description side by side.
+icons. In addition, I created a partial layout in `layouts/member-card.html` to 
+display an avatar and the user description side by side.
 
 <!--
 ## [1pt] Task 4: Bug report on XFCE 4.
