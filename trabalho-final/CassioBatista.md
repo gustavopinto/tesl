@@ -43,15 +43,17 @@ they're defined on the list
 - status: :heavy_check_mark: accepted
 - grade: 3 pt
 
-## :hourglass_flowing_sand: Task 3 [1pt]: Improve Multilingual documentation on Beautiful Hugo
-The documentation for Beautiful Hugo
-theme for GitHub/GitLab static pages did not give any clue on how to enable the
-multilingual functionality, although it has more than 10 languages available. 
-Therefore, I have submitted 
-[PR #285](https://github.com/halogenica/beautifulhugo/pull/285) with a new
-section on README that instructs the user on how to set the configuration
-parameters to enable switching the default language directly at the navigation
-bar (top-right corner).
+## Improve multilingual documentation on Beautiful Hugo
+- type: documentation
+- problem: the documentation of Beautiful Hugo theme did not give any clue on 
+how to enable the multilingual functionality, although it has more than 10 
+languages available. 
+- solution: new section on README that instructs the user on how to set the 
+configuration parameters to enable switching the default language directly at 
+the navigation bar (top-right corner)
+([PR #285](https://github.com/halogenica/beautifulhugo/pull/285)).
+- status: :hourglass_flowing_sand: waiting for approval (or rejection...)
+- grade: 1 pt
 
 ## :hourglass_flowing_sand: Task 4 [7pt]: Big functionality on Beautiful Hugo 
 I've created two additional pages for the Beautiful Hugo theme: the first one
