@@ -45,12 +45,10 @@ they're defined on the list
 
 ## Improve multilingual documentation on Beautiful Hugo
 - type: documentation
-- problem: the documentation of Beautiful Hugo theme did not give any clue on 
-how to enable the multilingual functionality, although it has more than 10 
-languages available. 
+- problem: documentation doesn't state how to enable multilingual, although it 
+has more than 10 languages available. 
 - **solution**: new section on README that instructs the user on how to set the 
-configuration parameters to enable switching the default language directly at 
-the navigation bar (top-right corner)
+config params to enable switching the default language directly at the nav bar 
 ([PR #285](https://github.com/halogenica/beautifulhugo/pull/285)).
 - status: :hourglass_flowing_sand: waiting for approval (or rejection...)
 - grade: 1 pt
@@ -75,8 +73,7 @@ the navigation bar (top-right corner)
 ([issue #283](https://github.com/halogenica/beautifulhugo/issues/283)).
 - **solution**: new publications section layout
 ([PR #286](https://github.com/halogenica/beautifulhugo/pull/286)).
-    - new special section template file created, called `publication.html`
-    under the `layouts/section`
+    - new special section template file created: `layouts/section/publication.html`
     - I made another *almost*-contribution to a script called
     [parse_bib](https://github.com/apetros/parse_bib), which uses 
     Python `bibtexparser` lib to extract publication info directly from the 
