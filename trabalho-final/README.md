@@ -19,7 +19,7 @@ Um exemplo de como ficaria o relatório segue abaixo:
 
 ## Reportar bug
 
-* Report de bug que o OpenDSSDirect suporte qualquer distribuição Linux ([OpenDSSDirect#25](https://github.com/Muxelmann/OpenDSSDirect.make/issues/25))
+* OpenDSSDirect não suporta qualquer distribuição Linux ([OpenDSSDirect#25](https://github.com/Muxelmann/OpenDSSDirect.make/issues/25))
 * Script do PADE tenta utilizar diretório sem acesso de escrita para salvar base de dados ([pade#6](https://github.com/grei-ufc/pade/issues/6))
 
 ## Adicionar pequena funcionalidade
