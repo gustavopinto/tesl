@@ -55,10 +55,23 @@ the navigation bar (top-right corner)
 - status: :hourglass_flowing_sand: waiting for approval (or rejection...)
 - grade: 1 pt
 
-## :hourglass_flowing_sand: Task 4 [7pt]: Big functionality on Beautiful Hugo 
-I've created two additional pages for the Beautiful Hugo theme: the first one
-for listing publications and the second to display all members in a research
-group or company.
+---
+
+## Members section page on Beautiful Hugo
+- type: big functionality
+- problem: no section to present members of a group or company or organization
+- solution: new members section layout
+([PR #287](https://github.com/halogenica/beautifulhugo/pull/287)).
+    - based on the Tags layout because of its awesome collapsible panels
+    - partial layout created in `layouts/member-card.html` to display an avatar 
+    and the user description side by side
+    - some buttons included leading to the social media of the member via
+    [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), and some
+    academic ones I had to add via
+    [Academicons](https://jpswalsh.github.io/academicons/) CSS file
+- status: :hourglass_flowing_sand: waiting for approval (or rejection...)
+- grade: 3.5 pt
+
 
 ### Task 4.1: Publication section
 Submitted on [PR #286](https://github.com/halogenica/beautifulhugo/pull/286),
@@ -108,26 +121,3 @@ are usual for given names in Brazilian Portuguese).
 And I also switched from `getopt` to `argparse` which is more pythonic :) The
 thing is I'm still thinking about submitting a PR to this script because it is
 kind of serving another purpose now.
-
-### Task 4.2: Members section
-I submitted [PR #287](https://github.com/halogenica/beautifulhugo/pull/287) with
-a proposal of a member section page. It's also based on the Tags layout
-described on Task 4.1 because of its awesome collapsible panels. I included some
-buttons that lead to the social media of the member. Most of the mainstream 
-social nets were already defined on a configuration file of the theme via 
-[Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), but the
-academic ones such as ORCID, Lattes, Research Gate, Google Scholar, etc. were
-not. So I added a CSS from the 
-[Academicons](https://jpswalsh.github.io/academicons/) project to include such
-icons. In addition, I created a partial layout in `layouts/member-card.html` to 
-display an avatar and the user description side by side.
-
-<!--
-## [1pt] Task 4: Bug report on XFCE 4.
-There's something really wrong when trying to load an image from a non-default
-repository (such as `~/Dropbox/wallpapers`) since the Dialog box won't let me.
-I'll report this tomorrow
-Edit: although it seems to be a still-non-solved bug, it's been already highly 
-reported :(
-- https://www.reddit.com/r/archlinux/comments/4zztq8/cannot_change_wallpaper_folder_on_fresh_install/
--->
