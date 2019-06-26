@@ -8,20 +8,22 @@
 and at the [official webpage](https://gohugo.io/))
 is a framework based on Google's Go language for building static pages in GitHub
 and GitLab. Among the several templates already created to make developer's
-lives easier, there is the Hugo Academic template (check the
+lives easier, there is the **Hugo Academic** template (check the
 [Hugo themes page](https://themes.gohugo.io/academic/) and
 [official GitHub repo](https://github.com/gcushen/hugo-academic) 
-links), which has a typical layout of an online CV; and the Beautiful Hugo
+links), which has a typical layout of an online CV; and the **Beautiful Hugo**
 template (check [Hugo themes page](https://themes.gohugo.io/beautifulhugo/) and 
 [official GitHub repo](https://github.com/halogenica/beautifulhugo) links) which
 is a more general template for a personal (or group, although it does not seem
 to be the real purpose) webpage.
 
-## :heavy_check_mark: Task 1 [1pt]: Translation on Hugo Academic 
-My accepted contribution in 
-[PR #1121](https://github.com/gcushen/hugo-academic/pull/1121) for Hugo Academic
-theme was to translate most of the Brazilian Portuguese stuff that goes in HTML 
-hyperlinks.
+## Translation on Hugo Academic 
+- type: translation
+- problem: multilingual for Portuguese still in English
+- solution: translate most of the Brazilian Portuguese stuff that goes in HTML 
+hyperlinks ([PR #1121](https://github.com/gcushen/hugo-academic/pull/1121)).
+- status: :heavy_check_mark: accepted
+- grade: 1pt
 
 ## :heavy_check_mark: Task 2 [3pt]: Small functionality on Hugo Academic 
 I've solved [issue #1108](https://github.com/gcushen/hugo-academic/issues/1108),
