@@ -55,14 +55,13 @@ the navigation bar (top-right corner)
 - status: :hourglass_flowing_sand: waiting for approval (or rejection...)
 - grade: 1 pt
 
----
-
 ## Members section page on Beautiful Hugo
 - type: big functionality
 - problem: no section to present members of a group or company or organization
 - solution: new members section layout
 ([PR #287](https://github.com/halogenica/beautifulhugo/pull/287)).
-    - based on the Tags layout because of its awesome collapsible panels
+    - based on the Tags layout because of its 
+    [amazing collapsible panels](https://themes.gohugo.io//theme/beautifulhugo/tags)
     - partial layout created in `layouts/member-card.html` to display an avatar 
     and the user description side by side
     - some buttons included leading to the social media of the member via
@@ -72,52 +71,32 @@ the navigation bar (top-right corner)
 - status: :hourglass_flowing_sand: waiting for approval (or rejection...)
 - grade: 3.5 pt
 
-
-### Task 4.1: Publication section
-Submitted on [PR #286](https://github.com/halogenica/beautifulhugo/pull/286),
-this contribution solves 
-[issue #283](https://github.com/halogenica/beautifulhugo/issues/283) by adding a
-section for listing academic publications on the Beautiful Hugo theme. It
-wasn't easy since I had to watch half of a
-[Hugo Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3) 
-on YouTube in order to understand how things work underneath the Hugo framework. 
-
-I had to create a special section template file called `publication.html` under 
-the `layouts/section`. I actually got some inspiration from the Tags section
-available at the Beautiful Hugo theme itself, which has some 
-[amazing collapsible panels](https://themes.gohugo.io//theme/beautifulhugo/tags)
-defined in HTML (and perhaps some JavaScript that I haven't seen so far). So I
-created a section theme specifically for publications by modifying the tags 
-section. Now all I had to do was to create some high-level Markdown-based 
-interface for the users to insert their publications into the newly created 
-section, which goes inside the `content/publication/` dir.
-
-To do so, I had to make another amazing *almost*-contribution to a script called
-`parse_bib`, which I found by messing around the issues of the Hugo Academic
-template. The [original project on GitHub](https://github.com/apetros/parse_bib)
-uses the Python `bibtexparser` library to extract publication info directly from
-the LaTeX's BibTeX .bib files and insert that info into Markdown files (actually 
-it is most TOML configuration defined on the page front matter than Markdown
-itself). I decided to work on the script because I was too lazy to manually
-input all the info from the .bib file into the markdown front matter content.
-
-So I created a 
-[fork on my own GitHub account](https://github.com/cassiobatista/parse_bib/tree/beautiful-hugo)
-and adapted the script to my needs: converting a .bib file to Markdown with YAML
-front matter (used in Beautiful Hugo rather than the TOML used on Hugo
-Academic). But I have made so much improvements that I almost created a totally 
-independent script, since the `bibtexparser` library had
-too much limitations I decided to switch to `pybtex` (https://pybtex.org/). The
-advantage of `pybtex` is that it is easy to create plain text endnotes for
-publications, since I wanted to show endnotes at the title of the collapsible
-panels (in spite of being possible, which definitely cannot be said about the
-`bibtexparser` lib). When the endnote was clicked and therefore the panel was 
-expanded, the .bib file entry could be shown to the reader alongside the
-referred paper abstract, and this was easier
-to do with `bibtexparser` because `pybtex` presents some problems when dealing 
-with latex workarounds for non-ascii characters (such as `\~`, `\^`, etc., which
-are usual for given names in Brazilian Portuguese).
-
-And I also switched from `getopt` to `argparse` which is more pythonic :) The
-thing is I'm still thinking about submitting a PR to this script because it is
-kind of serving another purpose now.
+## Publications section page on Beautiful Hugo
+- type: big functionality
+- problem: no section to list academic publications 
+([issue #283](https://github.com/halogenica/beautifulhugo/issues/283)).
+- solution: new publications section layout
+([PR #286](https://github.com/halogenica/beautifulhugo/pull/286)).
+    - based on the Tags layout because of its 
+    [amazing collapsible panels](https://themes.gohugo.io//theme/beautifulhugo/tags)
+    - difficult, so I had to watch half of a 
+    [Hugo Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3) 
+    on YouTube in order to understand how things work underneath the Hugo 
+    framework
+    - new special section template file created, called `publication.html`
+    under the `layouts/section`
+    - another amazing *almost*-contribution to a script called
+    `parse_bib`. The 
+    [original project on GitHub](https://github.com/apetros/parse_bib) uses the 
+    Python `bibtexparser` library to extract publication info directly from the 
+    LaTeX's BibTeX .bib files and insert that info into Markdown files (actually 
+    it is most TOML configuration defined on the page front matter than Markdown
+    itself).
+    - My own 
+    [fork on GitHub](https://github.com/cassiobatista/parse_bib/tree/beautiful-hugo)
+    converts a .bib file to Markdown with YAML front matter (used in Beautiful 
+    Hugo rather than the TOML used on Hugo Academic). But I have made so much 
+    improvements that I almost created a totally independent script, so I'm not
+    submitting PR
+- status: :hourglass_flowing_sand: waiting for approval (or rejection...)
+- grade: 3.5 pt
