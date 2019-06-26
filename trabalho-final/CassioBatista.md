@@ -23,27 +23,25 @@ to be the real purpose) webpage.
 - solution: translate most of the Brazilian Portuguese stuff that goes in HTML 
 hyperlinks ([PR #1121](https://github.com/gcushen/hugo-academic/pull/1121)).
 - status: :heavy_check_mark: accepted
-- grade: 1pt
+- grade: 1 pt
 
-## :heavy_check_mark: Task 2 [3pt]: Small functionality on Hugo Academic 
-I've solved [issue #1108](https://github.com/gcushen/hugo-academic/issues/1108),
-which was scheduled to be solved and released on version 4.4 of the Hugo
-Academic theme. The current version provides some static, fixed buttons to
+## Customise pulication share buttons on Hugo Academic 
+- type: small functionality
+- problem: The current version provides some static, fixed buttons to
 share a publication page on social media such as Facebook or Twitter. But let's
 say you didn't want the Facebook button to be there. At the current version you
 would have to edit an HTML file where the URL and the icons are "hardcoded" and
-comment the Facebook list item. This is not very intuitive. 
-
-My contributtion, submitted on 
-[PR #1131](https://github.com/gcushen/hugo-academic/pull/1131) now
-allows this configuration to be performed inside the publication's own
-`index.md` file, which is more accessible to the user/site dev. The social
+comment the Facebook list item 
+([issue #1108](https://github.com/gcushen/hugo-academic/issues/1108)).
+- solution: allow this configuration to be performed inside the publication's 
+own `index.md` file, which is more accessible to the user/site dev. The social
 networks are defined as lower case strings inside the `social` list (TOML-like
 configuration), and through some golang code inside the HTML I can read theses
-config parameters and put them to the GUI automatically in the order they're
-defined on the list. Therefore, going back to the aforegiven example, I could
-just commented the Facebook item on the index markdown's list and *voilà!*
-Facebook would be now gone as social sharing button.
+config parameters and put them to the GUI automatically in the same order 
+they're defined on the list
+([PR #1131](https://github.com/gcushen/hugo-academic/pull/1131)).
+- status: :heavy_check_mark: accepted
+- grade: 3 pt
 
 ## :hourglass_flowing_sand: Task 3 [1pt]: Improve Multilingual documentation on Beautiful Hugo
 The documentation for Beautiful Hugo
