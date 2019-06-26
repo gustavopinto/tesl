@@ -17,16 +17,16 @@ template (check [Hugo themes page](https://themes.gohugo.io/beautifulhugo/) and
 is a more general template for a personal (or group, although it does not seem
 to be the real purpose) webpage.
 
-## Translation on Hugo Academic 
-- type: translation
+## Realizar tradução
+- theme: Hugo Academic
 - problem: multilingual for Portuguese still in English
 - **solution**: translate most of the Brazilian Portuguese stuff that goes in HTML 
 hyperlinks ([PR #1121](https://github.com/gcushen/hugo-academic/pull/1121)).
 - status: :heavy_check_mark: accepted
 - grade: 1 pt
 
-## Customise pulication share buttons on Hugo Academic 
-- type: small functionality
+## Adicionar pequena funcionalidade
+- theme: Hugo Academic
 - problem: The current version provides some static, fixed buttons to
 share a publication page on social media such as Facebook or Twitter. But let's
 say you didn't want the Facebook button to be there. At the current version you
@@ -43,8 +43,8 @@ they're defined on the list
 - status: :heavy_check_mark: accepted
 - grade: 3 pt
 
-## Improve multilingual documentation on Beautiful Hugo
-- type: documentation
+## Melhorar documentação
+- theme: Beautiful Hugo
 - problem: documentation doesn't state how to enable multilingual, although it 
 has more than 10 languages available. 
 - **solution**: new section on README that instructs the user on how to set the 
@@ -53,8 +53,8 @@ config params to enable switching the default language directly at the nav bar
 - status: :hourglass_flowing_sand: waiting for approval (or rejection...)
 - grade: 1 pt
 
-## Members section page on Beautiful Hugo
-- type: big functionality
+## Adicionar grande funcionalidade (1/2)
+- theme: Beautiful Hugo
 - problem: no section to present members of a group or company or organization
 - **solution**: new members section layout
 ([PR #287](https://github.com/halogenica/beautifulhugo/pull/287)).
@@ -67,8 +67,8 @@ config params to enable switching the default language directly at the nav bar
 - status: :hourglass_flowing_sand: waiting for approval (or rejection...)
 - grade: 3.5 pt
 
-## Publications section page on Beautiful Hugo
-- type: big functionality
+## Adicionar grande funcionalidade (1/2)
+- theme: Beautiful Hugo
 - problem: no section to list academic publications 
 ([issue #283](https://github.com/halogenica/beautifulhugo/issues/283)).
 - **solution**: new publications section layout
