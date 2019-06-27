@@ -16,3 +16,5 @@
 * Adição do icone do Canva ao repositorio Simple Icons ([simple-icons/simple-icons#1487](https://github.com/simple-icons/simple-icons/pull/1487)).
 
 * Adição do icone do Google Cloud ao repositorio Simple Icons ([simple-icons/simple-icons#1488](https://github.com/simple-icons/simple-icons/pull/1488)).
+
+* Adição do icone da Epic Games ao repositorio Simple Icons ([simple-icons/simple-icons#1489](https://github.com/simple-icons/simple-icons/pull/1489)).
