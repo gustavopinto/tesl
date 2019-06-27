@@ -9,5 +9,6 @@
 
  ## Adicionar pequena funcionalidade
 
-* Adição de icone ao repositorio Font Awesome ([FortAwesome/Font-Awesome#15198](https://github.com/FortAwesome/Font-Awesome/pull/15198)).
+* Adição de novo icone ao repositorio Font Awesome ([FortAwesome/Font-Awesome#15198](https://github.com/FortAwesome/Font-Awesome/pull/15198)).
 
+* Adição de novo icone ao repositorio Feather ([feathericons/feather#636](https://github.com/feathericons/feather/pull/636)).
