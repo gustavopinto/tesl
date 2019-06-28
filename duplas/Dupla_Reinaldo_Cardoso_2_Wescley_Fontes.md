@@ -99,3 +99,8 @@ R- Possibilitar que os processos de construção, deploy e publicação sejam au
 3) Adicionar um método e o respectivo teste no projeto calculadora.
 https://github.com/wagnernegrao/calculadora-CI/pull/3
 
+## Atividade 12
+
+ https://docs.google.com/document/d/1Oti0bNwPbyYV97m1idNxfFQG0G5BD39YJLeO5im5OMc/edit?usp=sharing
+ 
+ 
