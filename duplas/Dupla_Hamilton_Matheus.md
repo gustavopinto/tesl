@@ -216,6 +216,7 @@ Boas práticas:
 
 Semelhante aos modelos, é recomendável abstrair a lógica comum em métodos em um 'gerenciador'. Mais especifícamente, é provavelmente desejável um método que possa ser usado em cadeia e que possa ser usado em qualquer hora.
 
+
 ## Atividade 09
 
 ### 1. Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
@@ -233,3 +234,20 @@ Commit: https://github.com/hiptest/hiptest-publisher/commit/15b9b2cdf63b54bc0a4f
 
 Projeto: Sails.js
 Commit: https://github.com/balderdashy/sails/commit/661dfac93fbb08c9ae685066ae5b3da5eaa583f3#diff-098f6bcd4621d373cade4e832627b4f6
+
+# Atividade 11
+
+### 1. Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+
+A métrica truck factor refere-se a concentração de conhecimento, acoplamento e dependência de um projeto de software livre em um contribuidor específico. Essecialmente o truck factor mostra se há algum gargalo na forma de contribuições centralizadas na mesma pessoa, o que pode ocasionar silos de conhecimento para o projeto. Já os heroes, são contribuidores que possuem o maior nível de contribuições em um projeto de software livre, geralmente tais heróis possuem conhecem a arquitetura do software de forma ampla e possui contribuições em diversos aspectos do projeto.
+
+### 2. Cite pelo menos tês outras métricas de saúde de projetos de software livre
+
+- First time, casual, and repeat contributors 
+- Number of open issues and pull requests opened
+- Average time a issue remains open
+- Average time to merge a pull request
+
+### 3. Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+
+- As métricas de software proprietário tradicional não podem ser usadas como critérios acurados para avalidar software livre, pois esse forma de criar software possui aspectos nas quais software proprietário não possui, como comunidade e etc. 
