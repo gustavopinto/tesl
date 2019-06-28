@@ -141,3 +141,32 @@ de acordo com a página de comunicação do [projeto](https://docs.ansible.com/a
 1.  A métrica de "Truck Factor" Lida com os desenvolvedores chave do projeto, onde se estes morrerem o projeto provavelmente está morto, enquanto a métrica de "Heroes" dita que 80% das contribuições são feitas por 20% dos contribuidores, o que indica quem são os membros ativos da comunidade, mas não necessariamente fazem parte do truck factor.
 2.  Muitas das medidas de qualidade para um projeto tradicional, lidam com estruturas rigidas e burocraticas, com requisitos bem definidos e metricas a serem atingidas, enquanto em projetos de software livre, requisitos não são bem definidos e são apenas guidelines e qualidade é relativa para os usuarios de um determinado projeto, além de que software livre não possui uma equipe fixa para cuidar daquele projeto, o que causa estes projetos utilizarem metricas diferentes de qualidade.
 3.  Habilidade de atrair e reter contribuidores, Utilização do projeto e Descobrimento do projeto [Open source metrics](https://opensource.guide/metrics/) e [Methodologies for measuring project health](https://nadiaeghbal.com/project-health)
+
+## Atividade 12
+1. Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc:      
+  673 text files.
+  673 unique files.                                          
+  5 files ignored.
+
+  github.com/AlDanial/cloc v 1.83  T=0.17 s (3882.5 files/s, 65788.2 lines/s)
+
+Language | files | blank | comment | code
+---------|:-------:|:-------:|:---------:|:--------:
+JSON                |             3      |        0      |        0      |     9278
+SVG                 |          648       |       0       |       0       |     648
+CSS                  |            1        |     42        |      0        |    338
+JavaScript            |           6         |    41         |    29         |   266
+Markdown               |          7       |     100          |    0          |  260
+HTML                    |         1      |       17           |   0         |   254
+YAML                     |        2        |      3            |  0          |   43
+SUM:               |            668    |        203     |        29      |    11087
+
+2. Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+
+[project Kubernetes Client java](https://github.com/kubernetes-client/java)
+
+
+
+3. Proponha pelo menos três métricas para avaliar um projeto de software livre.
+
+4. Implemente uma métrica para avaliar um projeto de software livre.
