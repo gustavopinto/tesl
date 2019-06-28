@@ -248,3 +248,86 @@ código. Na página [Joomla! Coding
 Standards](https://developer.joomla.org/coding-standards/basic-guidelines.html)
 há um pequeno tutorial para indentação, tamanho da linha, e diversos outros
 links para mais informações.
+
+## Atividade 08
+1. Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares?
+    - São alternativas à gerenciamento de projetos, mesmos do que não são relacionados a software, com o intuito de aumentar a produtividade e diminuir o tempo gasto durante o projeto. Trazem maior dinamisno e flexibilidade no desenvolvimento de software.
+2. Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+    - Foi encontrado no repositório do projeto Kaldi, um [commit](https://github.com/kaldi-asr/kaldi/commit/0e5e07b27de7941b75cd982b7f710cea2d7d96a4) no qual foi verificado que foi realizado em par por dois contribuidores diferentes.
+3. Procure um projeto e indique um commit que tenha Refactor e qual informe o nome da técnica empregada durante o refactor.
+    - Encontramos um [commit](https://github.com/kylekatarnls/business-day/commit/10a88da0bd90d2dddadd292f379314278e754527) no qual foi verificado a realização de um refactor do código, onde foi refatorado a classe base e deixando o código com um menor tamanho.
+
+## Atividade 09
+1. Why unit tests?
+    - The idea is to check if each unit (module, class, method, etc.) of a 
+    software is executing as it should. This is important in order to increase
+    the reliability of a software, as well as avoiding each individual in a 
+    multi-collaborator project doesn't commit garbage that can compromise the 
+    software as a whole. Unit tests nowadays are becoming something more like 
+    a way of life that must be inherent to the programming practices of the 
+    developer, since tests can also ensure the software is being well 
+    maintained and sometimes good documented as well.  
+2. What are the advantages of using CI?
+    - When integrating software into a shared repo more often, the advantage is
+    that an automated build can verify each new commit in order to look for
+    possible errors (debugging). This is important for detecting errors and
+    bugs more quickly, as well as for avoiding a lot of backtracking (let's say
+    the dev won't need to look into several weeks old commits because the bug
+    must probably had been originated on newer patches). This latter reason can
+    be seen as another advatage, since the system wouldn't need to integrate
+    lots of commits (which would most likely take a large amount of time), so
+    integrating continuously can be seen as a good practice to release often 
+    and for finding bugs often too. Additionaly, CI can help the project to 
+    grow more solid, especially as the number of contributors also grow, 
+    because this also allows devs to follow some patterns of coding that can
+    make the source become more reliable, readable, documented... well-writen.
+3. Add a method and its respective test into the `calculadora` project
+    - [PR #14](https://github.com/wagnernegrao/calculadora-CI/pull/14) created 
+    with a new method called `median()` to compute the median value of a vector 
+    passed to the class `Operations`. Tests failed on Python 2.7 because the 
+    our `median()` method depends on the `avg()` method for even-sized vectors
+    and the division operation doesn't provide floats when computing two
+    integers in that Python version.
+
+## Atividade 10
+1. "truck factor" vs "heroes"
+    - Truck factor is a metric that is based on the number of important
+  contributors on a project that have to be hit by a truck before the project
+  enters the decline stage. In other words, the truck factor identifies the
+  concentration of knowledge in software development environments, helping
+  therefore at measuring how prepared a project is to deal with developer
+  replacement/quit. Obviously, the lower the number of contributors the
+  higher the risk of the project, since depending on only a few important people
+  decreases the reliability and pretty much affects the future maintainability 
+  of the source code. A low truck factor leads to delay in launching new
+  releases and ultimately to the discontinuation of the entire project.        
+    - A hero project is the one where the great majority of contributions (80% or 
+  more) come from a few number of actual developers (less than 20%). Such kind
+  of random and sporadic contributions are usually bad for the project since it
+  affects the speed of development (which becomes normally slow) and promotes
+  information loss (actually, it promotes misinformation).
+2. Cite ao menos três **outras** métricas de saúde for FOSS projects    
+A nice project community of the Linux Foundation called 
+[CHAOSS](https://wiki.linuxfoundation.org/chaoss/metrics) has an exclusive 
+committee for capturing metrics to assess OSS health and sustainability. 
+Several metrics are defined on the project's 
+[GitHub metric](https://github.com/chaoss/metrics) repo, such as:
+    - Number of closed issues:
+        - Quality criteria: maximize closed issues
+        - Indicator: total number of issues
+        - Healthy value: X issues closed by period of time or Y issues closed by source code
+        - Alarm when: the number of closed issues is below X or Y
+    - Communication inclusivity (see [this](https://github.com/chaoss/wg-diversity-inclusion/tree/master/focus-areas/communication) link)
+        - Quality criteria: Listening, speaking and alternatives platforms for communication
+        - Indicator1: is it allowed to ask text-based questions where BW is a challenged?
+        - Indicator2: languages in accessible range for non-English speakers? captioning for the deaf (on live talks)?
+        - Indicator3: can I choose from a variety of channels the one I want to communicate with the team?
+        - Healthy value: If there exists at least one of the indicators above
+        - Alarm when: none of them exist at all
+    - Issue response time
+        - Quality criteria: minimize time between a new issue is opened and a maintainer's response
+        - Indicator: average time a issue is responded after it's been created
+        - Healthy value: the issue has been responded after X hours with a satisfactory answery
+        - Alarm when: the number of hours is above X
+3. Por que os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos FOSS?
+    - Métodos para medição de qualidade em projetos ditos como "tradicionais" não tem o mesmo resultado quando utilizados em projetos de software livre, pois a qualidade de um projeto de software livre é subjetivo. Um software livre pode atender todos os critérios de uma medição de qualidade "tradicional", porém, aos olhos da comunidade o projeto pode ser ruim, não atendendo as expectativas, não tendo uma boa comunidade de contribuidores. Além disso, pelo fato de serem vários contribuidores em um projeto de software, fica mais difícil que todos os contribuidores mantenham o mesmo padrão, mas, ainda existe a questão dos contribuidores não pagos, que quando são reprovados por algum erro, perdem a motivação para fazerem as correções necessárias e reenviar.
