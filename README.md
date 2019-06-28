@@ -29,7 +29,6 @@ projetos.
 
 ## Objetivo Específicos
 
-
 - Contextualizar historicamente o surgimento do software livre;
 - Apresentar diferentes temas sobre dinâmicas de comunidades de software livre,
 por exemplo, iniciação de novatos, manutenção de projetos, papel do mantenedor
@@ -38,7 +37,6 @@ de software, organizações de apoio a projetos, e mais;
 - Apresentar ferramentas típicas de comunicação em comunidades de software livre, como o IRC, aplicativos de mensagens modernos, fóruns, lista de e-mail, gerenciador de bugs, etc;
 - Apresentar os principais conjuntos de licenciamento de software livre e discutir suas diferenças, vantagens e desvantagens;
 - Auxiliar com o desenvolvimento de primeiras contribuições para projetos de software livre.
-
 
 ## Bibliografia
 
@@ -51,7 +49,7 @@ de software, organizações de apoio a projetos, e mais;
 ## Avaliação
 
 - Atividades conduzidas ao longo da disciplina
-- Projeto ao final da disciplina. [Veja sobre projetos aqui](/Projetos.md).
+- [Trabalho final](trabalho-final.md)
 
 ## Cronograma
 
@@ -68,10 +66,10 @@ Passível de alterações.
 | 6 | 03/05 | [Licenças de software livre](Aula05.md)                     | Gustavo          |                          |
 | 7 | 10/05 | [Gerenciamento de código e requisitos](Aula06.md)           | Gustavo          |                          |
 | 8 | 17/05 | [Boas práticas de codificação](Aula08.md)                   | Nazario          | [GNOME](https://www.gnome.org/), por [George Stavracas](https://feaneron.com/) |
-| 9 | 24/05 | Métodos Ágeis e software livre                              | Nazario          |                          |
-| 10 | 31/05 | [Testes e Integração contínua](Aula10.md)                  | Wagner           |                          |
-| 11 | 07/06 | Avaliação de qualidade de projetos                         | Gustavo              |                          |
-| 12 | 14/06 | Métricas de código fonte & Definição de projetos           | Gustavo          |                          |
+| 9 | 24/05 | [Métodos Ágeis e software livre](Aula09.md)                 | Nazario          |                          |
+| 10 | 31/05 | [Testes e Integração contínua](Aula10.md)                  | Wagner           | Pesquisas em SL, por [Igor Steinmacher](http://www.igor.pro.br/) |
+| 11 | 07/06 | [Avaliação de qualidade de projetos](Aula11.md)                         | Gustavo          |                          |
+| 12 | 14/06 | [Métricas de código fonte & Definição de projetos](Aula12.md)          | Gustavo e Nazario |                          |
 | 13 | 21/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
 | 14 | 28/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
 | 15 | 05/07 | Apresentação de projetos                                   | Filipe e Gustavo |                          |
