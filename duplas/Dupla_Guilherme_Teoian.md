@@ -102,3 +102,7 @@ No mesmo projeto mostrado na segunda questão encontramos commits feito em par, 
     Além disso, CI anda de mãos dadas com CD (Continuous Delivery - Entrega contínua), que preza pela entrega de novas _releases_ de aplicações mais rapidamente (práticas de DevOps).
 
 3. Link da PR da contribuição: github.com/wagnernegrao/calculadora-CI/pull/16
+
+### Atividade 12:
+1. O próprio projeto cloc foi utilizado para a pesquisa e tem um total de 41723 linhas de código.
+2. As métricas foram geradas levando-se em consideração classes, métodos, entre outros itens.
