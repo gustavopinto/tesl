@@ -291,3 +291,29 @@ R = Adicionamos a funcionalidade absolute.
 
 Add files via upload #17
 Open    CaioMFRodrigues wants to merge 1 commit into wagnernegrao:master from CaioMFRodrigues:master
+
+## Atividade 11
+
+Atividade 11
+
+1 - Cite pelo menos três outras métricas de saúde de projetos de software livre.
+R = As métricas de saúde de projetos de software livre, são utilizadas para avaliar a saúde e a sustentabilidade das comunidades de código aberto. E podem ser utilizadas para produzir métricas equivalentes a casos de uso detalhados, modelos ou recomendações para analisar problemas específicos no mundo da indústria. 
+
+First Response to Issue:  Duração do tempo entre um novo problema é aberto e um mantenedor responde. Também é chamado: taxa de resposta de bug.
+
+Code Review Iteration: Que permite mensurar qual o número de iterações que ocorrem antes de uma solicitação de uma issue ser aceita ou negada
+
+Issue Tracker: É uma métrica para analisar quão bem é uma configuração de issue tracker de projeto funciona  para convidar novos colaboradores, colaboradores qualificados e colaboradores não técnicos para um projeto open source.
+
+Outros exemplos são: code authorship, quasi contributors e paid developers
+
+2 - Explique por que os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre.
+R = Muito tem sido dito a respeito do que significa software livre. Sabemos que, de um modo ou outro - sendo qual for a conclusão -, ele vai muito além da produção do código-fonte. As relações interpessoais têm um importante papel neste contexto. Uma vez que os meios tradicionais de qualidade de software não levam esse aspecto em conta, apenas commits, também não costumam ter muita aceitação de programadores dessa área. 
+
+3 - Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre.
+R =  As métricas utilizadas mais comumente na indústria de software são:
+Número de linhas de código. Ela mostra a quantidade de linhas presentes no código-fonte. Deve-se ter cuidado com esta métrica quando utilizada para fazer comparações. Um maior número de linhas de código não significa necessariamente que um software seja melhor, mais eficiente que outro; sem falar que para um ambiente de pouca proximidade, como o desenvolvimento de software livre, essa métrica se torna ainda menos aderente.
+
+Número de classes.  Uma forma de medição do tamanho do programa baseada na quantidade de classes, a qual é menos sensível à linguagem de programação ou estilo de codificação. Também considera-se pouco aderente para avaliar a saúde de um software livre.
+
+Análise de pontos de função. Essa métrica mede o tamanho funcional do software e subsídios para o cálculo da produtividade do processo de desenvolvimento - com base na funcionalidade ou utilidade dos programas. Esta avaliação é realizada sob o ponto de vista do usuário, que avalia o tamanho e a complexidade de um software. Essa métrica é mais utilizada por empresas que busquem um algum tipo de certificação, ISO ou credenciamento, em algum modelo de melhoria e, também, por empresas que trabalham desenvolvendo para órgãos públicos (observação no contexto nacional). 
