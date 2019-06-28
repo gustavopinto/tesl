@@ -10,7 +10,7 @@
 - Add 'Community Recipes' table with links to other repositories using cypress (MERGED) #295 (https://github.com/cypress-io/cypress-example-recipes/pull/295)
 
 ## Realizar tradução
-- Node.js Brazilian Portuguese Translation (IN PROGRESS) (https://github.com/nodejs/nodejs-pt/issues/80#issuecomment-500542414)
+- nodejs-pt-br: Add file community.md & Translate it to brazilian portuguese #2303 (IN PROGRESS) (https://github.com/nodejs/nodejs.org/pull/2303)
 
 ## Adicionar pequena funcionalidade
 - Add Scala frameworks for REST services (MERGED) (https://github.com/marmelab/awesome-rest/pull/95)
