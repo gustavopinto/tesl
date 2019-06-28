@@ -99,3 +99,14 @@
 		* Um arquivo settings.py bem configurado visto que permite a configuração personalizada para cada ambiente.
 		* Usar Pony Checkup para verificação de segurança de um passo do site.
 		* Utilizar o sentinela por erros de registro.
+
+- Atividade 8:
+	1. É uma abordagem ao modelo de gestão tradicional de projetos. Possibilita ciclos iterativos e incrementais, o que traz flexibilidade e adaptabilidade. Uma característica importante é a inspeção e adaptação dos ciclos e iterações, focados em gerar melhoria contínua para as equipes e processos.
+
+	2. [Commit com 3 autores no Django](https://github.com/django/django/commit/58df8aa40fe88f753ba79e091a52f236246260b3). 
+
+	3. O projeto [pandas-dev/pandas](https://github.com/pandas-dev/pandas/projects/6) utliza o kanban fornecido pelo github e para interagir com as issues e a suas perspectivas etapas. 
+
+	5. [Refactor](https://github.com/django/django/pull/10314/files). Foi aplicado o 
+metodo ExtractMethod.
+

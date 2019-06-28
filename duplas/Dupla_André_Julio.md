@@ -1,5 +1,5 @@
 # Dupla ANDRÉ e JULIO
-  - André Francisco Pastana da Cunnha (andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))
+  - ~~André Francisco Pastana da Cunnha(andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))~~ (Desistiu da disciplina)
   - Julio Cesar Oliveira Carvalho (julio.developer10@gmail.com, [@juliocesark](https://github.com/juliocesark))
 
 ## Link para atividades
@@ -93,3 +93,31 @@
     - Guia de boa prática para o framework Angular: [Guia](https://angular.io/guide/styleguide)
 - Explique o que são Linters e a sua importância:
     - São ferramentas que analisam o código-fonte para sinalizar erros de programação, bugs, erros estilísticos, e construções suspeitas. É de grande importãncia para fazer com que o código-fonte siga um padrão de projeto.
+### Atividade 08:
+- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares:	
+    - São uma abordagem ao modelo de gestão tradicional de projetos. São um importantes para o desenvolvimento de softwares no que diz respeito a sua eficácia, que permitem a entrega rápida e de alta qualidade do produto, tendo uma abordagem de negócios que alinha o desenvolvimento do projeto com as necessidades do cliente e os objetivos da empresa.
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores:
+    - O projeto escolhido: [next](https://github.com/atlas-engineer/next)
+    - Commit que contém mais de mais de um autor: [commit](https://github.com/atlas-engineer/next/commit/dc96d84f5c1c20702097c20429601247d3e031f5)
+- Procure um projeto e indique um commit que tenha Refactor e informe qual o nome da técnica empregada durante o refactor:
+    - O projeto escolhido: [http-server](https://github.com/Himalee/http-server)
+    - Commit que contém um refactor utilizando a técnica "Magic Numbers": [commit](https://github.com/Himalee/http-server/commit/71e545f85a4ad39cd9123cbadca264a0f8f0bb10)
+### Atividade 09:
+- Por que utilizar testes unitários:	
+    - São utilizados para garantir que uma aplicação/método esteja funcionando de forma correta.
+- Quais vantagens de utilizar integração contínua:
+    - Encontrar e investigar bugs mais rapidamente.
+    - Melhorar a qualidade do software.
+    - Reduzir o tempo que leva para validar e lançar novas atualizações de software.
+- Adicionar um serviço de integração contínua (Travis) em um projeto pessoal:
+    - Projeto Pessoal com travis adicionado: [travis_teste](https://travis-ci.org/juliocesark/travis_teste)
+### Atividade 10:
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes":	
+    - O truck factor é o número de pessoas específicas que mantém um projeto, um truck factor baixo, possui somente uma pessoa mantedora do projeto, caso ela saía, o projeto pode ser descontinuado. Já os heroes são uma pequena parcela de pessoas que cuidam do projeto e cada uma sabe um pouco de tudo, ou seja, são as que mais contribuem.
+- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre:
+    - Tem pouca aderência devido as mêtricas para medir a qualidade de um software tradicional, se basearem apenas no código e software livre vai muito além do código, pois ela támbem se baseia em comunidades e processos.
+- Cite pelo menos tês outras métricas de saúde de projetos de software livre:
+    - Medir a complexidade de um software
+    - Medir o nível de teste de um software livre
+    - Medir o erros de sintaxe de um software
+    - Medir o número de pessoas que contribuem para o software
