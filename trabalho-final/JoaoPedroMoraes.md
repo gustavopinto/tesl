@@ -28,3 +28,5 @@
 * Adição do icone do Exercism ao repositorio Simple Icons ([simple-icons/simple-icons#1496](https://github.com/simple-icons/simple-icons/pull/1496)).
 
 * Adição do icone do Intellij Idea ao repositorio Simple Icons ([simple-icons/simple-icons#1497](https://github.com/simple-icons/simple-icons/pull/1497)).
+
+* Adição do icone do Dynatrace ao repositorio Simple Icons ([simple-icons/simple-icons#1498](https://github.com/simple-icons/simple-icons/pull/1498)).
