@@ -161,12 +161,32 @@ HTML                    |         1      |       17           |   0         |   
 YAML                     |        2        |      3            |  0          |   43
 SUM:               |            668    |        203     |        29      |    11087
 
-2. Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+2. Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck:
 
 [project Kubernetes Client java](https://github.com/kubernetes-client/java)
 
+|Tipos de Classes    |Quantidade|
+|--------------------|:----------:|
+|loopQty             |81        |
+|comparisonsQty      |3.697      |
+|tryCatchQty         |1.15       |
+|parenthesizedExpsQty|33        |
+|stringLiteralsQty   |38.383     |
+|numbersQty          |986       |
+|assignmentsQty      |36.931     |
+|mathOperationsQty   |1.333      |
+|variablesQty        |1.333      |
+|maxNestedBlocks     |29.588     |
+|anonymousClassesQty |761       |
+|subClassesQty       |5.181      |
+|lambdasQty          |1.971      |
+|uniqueWordsQty      |27        |
+|SUM:               |  120.420
 
 
 3. Proponha pelo menos três métricas para avaliar um projeto de software livre.
 
-4. Implemente uma métrica para avaliar um projeto de software livre.
+As 3 métricas proposta seriam as seguintes:
+- Média de complexidade ciclomática por método (ACCM).
+- Falta de coesão em métodos (LCOM).
+- Fator de acoplamento (COF).
