@@ -233,3 +233,12 @@ Pois projetos de software livre vão muito além do código,tendo em vista que o
 Reputação do Software
 Lista de e-mail ou Fórum de desenvolvedores
 Interoperabilidade
+
+### - Atividade11:
+
+#### Proponha pelo menos três métricas para avaliar um projeto de software livre.
+Dentre as métricas que se poderia usar para avaliar um projeto de software livre, podemos citar:
+_ O uso do projeto, pois se ele está sendo utilizado em grande quantidade em outros, pode significar que ele tem uma boa qualidade.
+_ Fluxo de Atividade, pois se ele tem muitos commits significa que muitos desenvolvedores estão envolvidos para sempre estarem melhorando aquele projeto. Ou seja, se ele tem uma grande quantidade de commits então já tem muitas melhorias também.
+_ Facilidade para se envolver, pois se um projeto tem um canal de comunicação acessível, com owners atenciosos, ele possívelmente tem um grande potêncial de qualidade e desenvolvimento.
+
