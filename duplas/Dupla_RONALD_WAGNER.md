@@ -100,8 +100,9 @@
 		* Usar Pony Checkup para verificação de segurança de um passo do site.
 		* Utilizar o sentinela por erros de registro.
 
-- Atividade 8:
-	1. É uma abordagem ao modelo de gestão tradicional de projetos. Possibilita ciclos iterativos e incrementais, o que traz flexibilidade e adaptabilidade. Uma característica importante é a inspeção e adaptação dos ciclos e iterações, focados em gerar melhoria contínua para as equipes e processos.
+- Atividade 9
+
+1. É uma abordagem ao modelo de gestão tradicional de projetos. Possibilita ciclos iterativos e incrementais, o que traz flexibilidade e adaptabilidade. Uma característica importante é a inspeção e adaptação dos ciclos e iterações, focados em gerar melhoria contínua para as equipes e processos.
 
 	2. [Commit com 3 autores no Django](https://github.com/django/django/commit/58df8aa40fe88f753ba79e091a52f236246260b3). 
 
@@ -110,3 +111,10 @@
 	5. [Refactor](https://github.com/django/django/pull/10314/files). Foi aplicado o 
 metodo ExtractMethod.
 
+- Atividade 10:
+
+	1. A Integração Contínua garante que o projeto se mantenha em bom funcionamento durante o desenvolvimento, logo, mantém confiáveis as funcionalidades do software. 
+	
+	3. Adicionou um método para o cálculo do fatorial na [Calculadora](https://github.com/wagnernegrao/calculadora-CI/pull/6) com o teste no arquivo test_core.py (O arquivo modificado gerou uma build falha).
+	
+	5. Partindo da build falha gerada pelo PR anterior, enviei as devidas [correções](https://github.com/wagnernegrao/calculadora-CI/pull/15).
