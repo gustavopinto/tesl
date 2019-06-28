@@ -19,5 +19,5 @@
 
 - Informar o LOC de pelo menos 1 projeto usando a ferramenta [cloc](https://github.com/AlDanial/cloc)
 - Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta [ck](https://github.com/mauricioaniche/ck)
-- Cite pelo menos três métricas que são indicadas para avaliar um projeto de software livre?
 - Proponha pelo menos três métricas para avaliar um projeto de software livre.
+- Implemente uma métrica para avaliar um projeto de software livre.
