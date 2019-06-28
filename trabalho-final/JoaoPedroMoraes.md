@@ -26,3 +26,5 @@
 * Adição do icone do Linux Deepin ao repositorio Simple Icons ([simple-icons/simple-icons#1495](https://github.com/simple-icons/simple-icons/pull/1495)).
 
 * Adição do icone do Exercism ao repositorio Simple Icons ([simple-icons/simple-icons#1496](https://github.com/simple-icons/simple-icons/pull/1496)).
+
+* Adição do icone do Intellij Idea ao repositorio Simple Icons ([simple-icons/simple-icons#1497](https://github.com/simple-icons/simple-icons/pull/1497)).
