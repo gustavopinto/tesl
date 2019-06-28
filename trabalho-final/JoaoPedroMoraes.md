@@ -20,3 +20,5 @@
 * Adição do icone da Epic Games ao repositorio Simple Icons ([simple-icons/simple-icons#1492](https://github.com/simple-icons/simple-icons/pull/1492)).
 
 * Adição do icone do Babel ao repositorio Simple Icons ([simple-icons/simple-icons#1493](https://github.com/simple-icons/simple-icons/pull/1493)).
+
+* Adição do icone do Kodi ao repositorio Simple Icons ([simple-icons/simple-icons#1494](https://github.com/simple-icons/simple-icons/pull/1494)).
