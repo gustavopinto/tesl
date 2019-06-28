@@ -16,5 +16,5 @@
 
 ## Adicionar pequena funcionalidade:
 
-* Adicionado uma pequena funcionalidade com bootstrap-social e font-awesome referente a redes sociais no projeto calourada-bootstrap ([calourada-bootstrap#2](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2))
+* Adicionado uma pequena funcionalidade com o repositório [bootstrap-social](https://github.com/lipis/bootstrap-social) referente a redes sociais no projeto calourada-bootstrap ([calourada-bootstrap#2](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2))
 * Adicionado um novo botão de compartilhar utilizando modal para apresentar os links de compartilhamento referente a redes socias no projeto photo-share ([photo-share#1](https://github.com/JonatasFAlves/photo-share/pull/1)) e ([photo-share#2](https://github.com/JonatasFAlves/photo-share/pull/2))
