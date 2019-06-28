@@ -24,3 +24,5 @@
 * Adição do icone do Kodi ao repositorio Simple Icons ([simple-icons/simple-icons#1494](https://github.com/simple-icons/simple-icons/pull/1494)).
 
 * Adição do icone do Linux Deepin ao repositorio Simple Icons ([simple-icons/simple-icons#1495](https://github.com/simple-icons/simple-icons/pull/1495)).
+
+* Adição do icone do Exercism ao repositorio Simple Icons ([simple-icons/simple-icons#1496](https://github.com/simple-icons/simple-icons/pull/1496)).
