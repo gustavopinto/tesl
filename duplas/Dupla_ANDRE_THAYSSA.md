@@ -142,10 +142,33 @@
     1 - Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
     R: São processos e práticas embasados de alguma forma no Manifesto Ágil e seus princípios(https://www.manifestoagil.com.br/), visando uma abordagem mais dinâmica para o desenvolvimento de software. Sua importância vem da apresentação de um novo paradigma que pode ser utilizado, conforme as características da empresa/entidade/equipe de desenvolvimento e a finalidade/cliente do software.
     2 - Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
-    https://github.com/andrewgryan/sql-playground/commit/5877220f5b746b28df11745232d3711ed5d7e29e?diff=unified
+    https://github.com/andrewgryan/sql-playground/commit/5877220f5b746b28df11745232d3711ed5d7e29e?diff=unified 
     3 - Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
     O projeto https://github.com/uxbox/ utiliza o kanban desenhado na ferramenta (tb open) Taiga.    
     https://tree.taiga.io/project/uxbox/kanban
+    
+ ## Atividade 09:
 
- 
+    1 - Por que utilizar testes unitários?
+    R: Para melhorar a qualidade do código gerado, reduzindo a necessidade de correções após integração, no momento que se garante que unitariamente aquele código já funciona adequadamente. 
 
+    2 - Quais vantagens de utilizar integração contínua?
+    R: Dentre as vantagens podemos citar a facilidade de realizar testes de software mais rapidamente, visando a melhoria da qualidade do software, e o lançamento mais rápido de builds estáveis.
+    
+    3 - Adicionar um método e o respectivo teste no projeto calculadora.
+        https://github.com/wagnernegrao/calculadora-CI/pull/12/files
+        
+## Atividade 10:
+
+    1 - Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+    R:
+    Truck factor é uma métrica que identifica o número mínimo de desenvolvedores que devem deixar de atuar no projeto para que ele seja considerado em sérios problemas de continuidade. O nome faz referência a um "atropelamento" por um caminhão. Ou seja, quantos desenvolvedores precisariam ser atropelados (ou seja, pararem de contribuir com o projeto) para que o projeto fique impactado negativamente.
+    Já o Hero é considerado uma característica do PROJETO. Um projeto HERO  80% ou mais das contribuições são realizadas por 20% dos desenvolvedores. Quanto mais 'hero' for o projeto, maior a diferença entre estes índices.
+    A diferença entre elas consiste que uma métrica é referente ao risco de se adotar o projeto e a outra aponta uma característica das contribuições do projeto. Pode haver uma co-relação entre elas, quando consideramos que quanto maior o índice HERO do projeto, provavelmente o truck factor é menor, denotando uma grande dependência de alguns poucos desenvolvedores para sua continuidade.
+    2 - Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+    R: Produtividade da equipe: a dificuldade de definir quem é a equipe, pode prejudicar a coleta desta métrica // Conformidade com os requisitos: para alguns projetos de software livre, que não possuem especificação detalhada das features a serem desenvolvidas, pode ser também um fator complicador para a coleta desta métrica // Taxa de superalocação da equipe: como o desenvolvimento é basicamente realizado de maneira voluntária e não há gerência dos recursos alocados, não há como medir super alocação da equipe de desenvolvimento.
+    
+    3 - Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+    R: Na verdade acreditamos que é totalmente possível avaliar projetos de software utilizando os modelos de referência "tradicionais", seja para avaliação do processo ou do produto final.
+    No caso do processo de desenvolvimento, obviamente o escopo de abrangência do processo de software livre não inclui processos organizacionais - que se apresentam em modelos como CMMI ou ISO - Porém, especialmente para os projetos de engenharia, é possível identificar o processo utilizado a partir das regras de contribuição e a partir daí aplicar o modelo de referência, identificando a sua aderência.
+    Para os modelos de avaliação de qualidade de produto, é ainda mais fácil, sendo possível considerar o produto final gerado pelo projeto e aplicar a um modelo de qualidade, checando inclusive as boas práticas de programação utilizadas, visto que o código é aberto.
