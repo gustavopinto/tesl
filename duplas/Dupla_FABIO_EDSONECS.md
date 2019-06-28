@@ -56,8 +56,6 @@ Item2:
 Falta documentação, instalação e contribuição traduzida para o português;
 Falta tradução do manual do usuário "Como usar o Django"
 
-## Atividade 9
-
 # Aula 9: Testes e Integração contínua
 ## Atividade 9
 Item 1:
@@ -84,3 +82,13 @@ Resp.: A-Disciplina
 Link https://github.com/fga-eps-mds/A-Disciplina
 
 
+## Atividade 10
+
+Item 1: Por que utilizar testes unitários?
+Resp.:Para realizar testes de unidade individualmente dos códigos fontes. 
+
+Item 2: Quais vantagens de utilizar integração contínua?
+Resp.: Para pratica desenvolvimento de software visando tornar a integração de código eficiente, no builds e testes automatizados.
+
+Item 3: Adicionar um método e o respectivo teste no projeto calculadora.
+Resp.:https://github.com/EdsonECS/calculadora-CI
