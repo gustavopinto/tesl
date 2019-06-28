@@ -271,3 +271,23 @@ ayaankazerouni committed on 27 Feb 2018
 1 parent 0fa8312 commit a2b319cdeafd5dd5fdcee9372231627053c6a87e
 
 Fonte: [https://github.com/ayaankazerouni/repodriller/commit/a2b319cdeafd5dd5fdcee9372231627053c6a87e](#)
+
+## Atividade 10
+
+Atividade 10
+
+1 - Por que utilizar testes unitários?
+R = Pois, os testes unitários procuram aferir a corretude do código, em sua menor fração. Em linguagens orientadas a objetos, essa menor parte do código pode ser um método de uma classe. Sendo assim, os testes unitários são aplicados a esses métodos, a partir da criação de classes de testes. Tendo em vista que  a maior parte do tempo de um projeto de desenvolvimento de um sistema será na manutenção do mesmo, a utilização de testes unitários  corrobora para que os testes possam vim a crescer em conjunto com o software produzido através de outras práticas, como a de integração contínua. 
+
+2 - Quais vantagens de utilizar integração contínua?
+R = Algumas das possíveis vantagens da utilização da prática são:
+1 - À melhora a produtividade do desenvolvedor, pois aintegração contínua ajuda sua equipe a ser mais produtiva ao liberar os desenvolvedores de tarefas manuais e encorajar comportamentos que ajudam a reduzir o número de erros e bugs implantados para os clientes.
+2 - Ela auxilia para que se  encontre e investigue bugs antecipadamente
+Encontre e investigue bugs mais rapidamente, com testes mais frequentes, sua equipe pode descobrir e investigar bugs mais cedo, antes que no futuro os problemas cresçam demais.
+3 - Distribua atualizações mais rapidamente, a  integração contínua ajuda a sua equipe a distribuir atualizações para os clientes mais rapidamente e com maior frequência.
+
+3 - Adicionar um método e o respectivo teste no projeto calculadora.
+R = Adicionamos a funcionalidade absolute. 
+
+Add files via upload #17
+Open    CaioMFRodrigues wants to merge 1 commit into wagnernegrao:master from CaioMFRodrigues:master
