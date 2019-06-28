@@ -149,3 +149,17 @@
   - Quasi contributors, Breaks e Heroes, devido ao fato de que são métricas baseadas puramente em commits, o que pode não refletir necessariamente o projeto em questão, afinal, software livre vai muito além de código.
 - Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
   - Em geral os métodos "tradicionais" de medição de qualidade tem pouca aderência em projetos de software livre, uma vez que esses projetos destinam seu dinheiro para fins que não visam a melhoria de processo de forma tracicional, mas sim para o crescimento do projeto e de sua visibilidade dentro da própria comunidade, bem como para comunidades externas (investimento em desenvolvedores, eventos da comunidade, reuniões presenciais de projetos, entre outros), além de que selos de qualidade são procurados quando se deseja vender software privados ou serviços de empresas que são destinados ao ganho monetário, o que vai de encontro com a filosofia de software livre. Além disso, os métodos "tradicionais" podem encontrar dificuldade em avaliar os processo que são realizados por um projeto de software livre, uma vez que não se pode observar facilmente os métodos de coleta, produção e validação dos processos de produção de software, fato que dificulta uma sólida avaliação do processo de acordo com os critérios estabelecidos nos guias.
+
+## Atividade 11
+- Informar o LOC de pelo menos 1 projeto usando a ferramenta [cloc](https://github.com/AlDanial/cloc)
+
+<p align="center">
+  <a href="https://imgur.com/rUbZH45">
+    <img src="https://i.imgur.com/rUbZH45.png"/>
+  </a>
+</p>
+
+- Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta [ck](https://github.com/mauricioaniche/ck)
+  - As informaçoes geradas pelo ck foram executadas no projeto [The Algorithms - Java](https://github.com/TheAlgorithms/Java) e estao disponíveis no seguinte [link](https://drive.google.com/drive/folders/1-5CInYKTQq6aYAD0kpk5X4yQG0OTuAnC?usp=sharing) 
+- Proponha pelo menos três métricas para avaliar um projeto de software livre.
+  - A métrica de Complexidade Ciclomática, que verifica o número independente de caminhos no código fonte; A métrica CK, que é voltada para orientaçao de objetos (número de filhos, profundidade em herança, acoplamento de objetos etc); e métrica relacionada a presença de "heroes" no projeto, verificando a dificuldade de novos commiters a contribuirem para o projeto.
