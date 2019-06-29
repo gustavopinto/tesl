@@ -172,3 +172,38 @@
     R: Na verdade acreditamos que é totalmente possível avaliar projetos de software utilizando os modelos de referência "tradicionais", seja para avaliação do processo ou do produto final.
     No caso do processo de desenvolvimento, obviamente o escopo de abrangência do processo de software livre não inclui processos organizacionais - que se apresentam em modelos como CMMI ou ISO - Porém, especialmente para os projetos de engenharia, é possível identificar o processo utilizado a partir das regras de contribuição e a partir daí aplicar o modelo de referência, identificando a sua aderência.
     Para os modelos de avaliação de qualidade de produto, é ainda mais fácil, sendo possível considerar o produto final gerado pelo projeto e aplicar a um modelo de qualidade, checando inclusive as boas práticas de programação utilizadas, visto que o código é aberto.
+
+
+## Atividade 11
+    
+    Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+    https://github.com/openml/openml-python
+     cloc openml-python-develop
+     124 text files.
+     123 unique files.
+      80 files ignored.
+
+    github.com/AlDanial/cloc v 1.80  T=1.00 s (102.0 files/s, 202655.0 lines/s)
+    -------------------------------------------------------------------------------
+    Language                     files          blank        comment           code
+    -------------------------------------------------------------------------------
+    XML                             11            119              0         181866
+    Python                          75           2912           4652          12244
+    Markdown                         4             67              0            205
+    make                             2             36              7            165
+    Bourne Shell                     5             29             35            103
+    DOS Batch                        1              4              0             84
+    YAML                             2             19             20             58
+    HTML                             1              3              0             20
+    CSS                              1              0              1              6
+    -------------------------------------------------------------------------------
+    SUM:                           102           3189           4715         194751
+    -------------------------------------------------------------------------------
+    
+    Proponha pelo menos três métricas para avaliar um projeto de software livre.
+    - % de colaboradores ativos no período: quantidade de colaboradores que contribuiram no período / quantidade total de colaboradores atual
+    - % de pull requests rejeitados:  % de pull requests rejeitados no mês = total de pull requests aceitos no mês / total de pull requests submetidos no mês
+    - densidade de defeitos: densidade de defeitos por linha de código = total de defeitos abertos / total de linha de código em Kloc
+    
+    Implemente uma métrica para avaliar um projeto de software livre.
+    -  quantidade de colaboradores ativos no período / medir a quantidade de colaboradores que contribuíram com o projeto num determinado período.
