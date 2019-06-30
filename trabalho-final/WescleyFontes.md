@@ -55,14 +55,14 @@ Please be more specific when reporting the issue too, we have a strict guideline
 #### 1.2.Bug (1pt)
 (Falta fazer)
 
-### 2.Melhorar documentação (2pts)
+### 2.Melhorar Documentação (2pts)
 #### 2.1.Melhorar Documentação  (1pt)
 (Falta fazer)
 
 #### 2.2.Melhorar Documentação  (1pt)
 (Falta fazer)
 
-### 3.Realizar tradução (3pts)
+### 3.Realizar Tradução (3pts)
 #### 3.1.Tradução (1pt)
 Tradução para o idioma português de partes do Get Starting do Docusaurus.
 
