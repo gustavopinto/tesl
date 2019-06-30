@@ -31,6 +31,8 @@
 
 * Adição do icone do Dynatrace ao repositorio Simple Icons ([simple-icons/simple-icons#1498](https://github.com/simple-icons/simple-icons/pull/1498)).
 
+* Adição do icone do Composer ao repositorio Simple Icons ([simple-icons/simple-icons#1505](https://github.com/simple-icons/simple-icons/pull/1505)).
+
 ## Corrigir bug
 
 * Correção de bug no repositorio do Simple Icons ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501)).
