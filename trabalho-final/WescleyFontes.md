@@ -64,5 +64,5 @@ Tradução para o idioma português de partes do Get Starting do Docusaurus.
 
 [Link para a tradução](https://crowdin.com/translate/docusaurus/2499/en-ptbr)
 
-### 4.Relatório de Experiências na Criação de um Software Livres - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
+### 4.Relatório de Experiências na Criação de um Software Livre - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
 [Link para o Documento](https://docs.google.com/document/d/1-gKaedO37KwaNecqbjTn_oSSuCYnOjZPEI8QJtJ_0aY/edit?usp=sharing)
