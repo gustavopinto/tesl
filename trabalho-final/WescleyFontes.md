@@ -2,9 +2,13 @@
 
 ### 1.Reportar um Bug
 #### Bug1
-Projeto: [Docusaurus] (https://github.com/facebook/docusaurus)
+Projeto: [Docusaurus](https://github.com/facebook/docusaurus)
+
+Resumo: Docusaurus foi projetado desde o início para ser facilmente instalado e usado para obter o seu site instalado e funcionando rapidamente.
+
 [bug1](https://github.com/facebook/docusaurus/issues/1620)
 
+<blockquote>
  wescley commented 5 days ago
 bug Bug Report
 
@@ -46,6 +50,7 @@ endiliey commented 3 days ago
 @AdrianoCahete was correct. You have to manually include on sidebars. Docusaurus dont know whether certain docs should be put in a sidebar or not.
 
 Please be more specific when reporting the issue too, we have a strict guideline on the issue template
+</blockquote>
 
 #### Bug2
 (Falta fazer)
@@ -54,7 +59,10 @@ Please be more specific when reporting the issue too, we have a strict guideline
 (Falta fazer)
 
 ### 3.Realizar tradução
-(Falta fazer)
+
+Tradução para o idioma português de partes do Get Starting do Docusaurus.
+
+[Link para a tradução](https://crowdin.com/translate/docusaurus/2499/en-ptbr)
 
 ### 4.Relatório de Experiências na Criação de um Software Livres - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
 [Link para o Documento](https://docs.google.com/document/d/1-gKaedO37KwaNecqbjTn_oSSuCYnOjZPEI8QJtJ_0aY/edit?usp=sharing)
