@@ -33,6 +33,8 @@
 
 * Adição do icone do Composer ao repositorio Simple Icons ([simple-icons/simple-icons#1505](https://github.com/simple-icons/simple-icons/pull/1505)).
 
+* Adição do icone do Haxe ao repositorio Simple Icons ([simple-icons/simple-icons#1506](https://github.com/simple-icons/simple-icons/pull/1506)).
+
 ## Corrigir bug
 
 * Correção de bug no repositorio do Simple Icons ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501)).
