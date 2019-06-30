@@ -1,12 +1,12 @@
 ## Trabalho Final
 
-### 1.Reportar um Bug
-#### Bug1
+### 1.Reportar Bug (2pts)
+#### 1.1.Bug (1pt)
 Projeto: [Docusaurus](https://github.com/facebook/docusaurus)
 
 Resumo: Docusaurus foi projetado desde o início para ser facilmente instalado e usado para obter o seu site instalado e funcionando rapidamente.
 
-[bug1](https://github.com/facebook/docusaurus/issues/1620)
+[bug](https://github.com/facebook/docusaurus/issues/1620)
 
 <blockquote>
  wescley commented 5 days ago
@@ -52,17 +52,28 @@ endiliey commented 3 days ago
 Please be more specific when reporting the issue too, we have a strict guideline on the issue template
 </blockquote>
 
-#### Bug2
+#### 1.2.Bug (1pt)
 (Falta fazer)
 
-### 2.Melhorar documentação
+### 2.Melhorar documentação (2pts)
+## 2.1.Melhorar Documentação  (1pt)
 (Falta fazer)
 
-### 3.Realizar tradução
+## 2.2.Melhorar Documentação  (1pt)
+(Falta fazer)
 
+### 3.Realizar tradução (3pts)
+## 3.1.Tradução (1pt)
 Tradução para o idioma português de partes do Get Starting do Docusaurus.
 
 [Link para a tradução](https://crowdin.com/translate/docusaurus/2499/en-ptbr)
 
-### 4.Relatório de Experiências na Criação de um Software Livre - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
+## 3.2.Tradução (1pt)
+(Falta fazer)
+
+## 3.3.Tradução (1pt)
+(Falta fazer)
+
+### 4.Atividade Final (Dupla) (3pts)
+## 4.1.Relatório de Experiências na Criação de um Software Livre - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
 [Link para o Documento](https://docs.google.com/document/d/1-gKaedO37KwaNecqbjTn_oSSuCYnOjZPEI8QJtJ_0aY/edit?usp=sharing)
