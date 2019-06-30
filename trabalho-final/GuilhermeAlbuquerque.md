@@ -6,8 +6,8 @@
 
 ## Bug fixes
 
-* Bug fix para o projeto MuseScore [#5171](https://github.com/musescore/MuseScore/pull/5171)
-* Bug fix para o projeto mxgraph [#3](https://bitbucket.org/jgraph/mxgraph2/pull-requests/3/fix-mxcodec-decode-function/diff)
+* Bug fix para o projeto MuseScore [PR #5171](https://github.com/musescore/MuseScore/pull/5171)
+* Bug fix para o projeto mxgraph [PR #3](https://bitbucket.org/jgraph/mxgraph2/pull-requests/3/fix-mxcodec-decode-function/diff)
 
 ## Melhoria de documentação
 
@@ -18,5 +18,7 @@
 *  Automação de criação de traduções [issue #194](https://github.com/whyboris/Video-Hub-App/issues/194)
 
 ## Proposta de funcionalidade (PR)
+
+* Criação de tradução (internacionalização/i18n) para o programa Video-Hub-App [PR #193](https://github.com/whyboris/Video-Hub-App/pull/193)
 
 * Automação de criação de traduções [PR #195](https://github.com/whyboris/Video-Hub-App/pull/195)
