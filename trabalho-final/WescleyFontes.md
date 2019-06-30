@@ -56,24 +56,24 @@ Please be more specific when reporting the issue too, we have a strict guideline
 (Falta fazer)
 
 ### 2.Melhorar documentação (2pts)
-## 2.1.Melhorar Documentação  (1pt)
+#### 2.1.Melhorar Documentação  (1pt)
 (Falta fazer)
 
-## 2.2.Melhorar Documentação  (1pt)
+#### 2.2.Melhorar Documentação  (1pt)
 (Falta fazer)
 
 ### 3.Realizar tradução (3pts)
-## 3.1.Tradução (1pt)
+#### 3.1.Tradução (1pt)
 Tradução para o idioma português de partes do Get Starting do Docusaurus.
 
 [Link para a tradução](https://crowdin.com/translate/docusaurus/2499/en-ptbr)
 
-## 3.2.Tradução (1pt)
+#### 3.2.Tradução (1pt)
 (Falta fazer)
 
-## 3.3.Tradução (1pt)
+#### 3.3.Tradução (1pt)
 (Falta fazer)
 
 ### 4.Atividade Final (Dupla) (3pts)
-## 4.1.Relatório de Experiências na Criação de um Software Livre - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
+#### 4.1.Relatório de Experiências na Criação de um Software Livre - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
 [Link para o Documento](https://docs.google.com/document/d/1-gKaedO37KwaNecqbjTn_oSSuCYnOjZPEI8QJtJ_0aY/edit?usp=sharing)
