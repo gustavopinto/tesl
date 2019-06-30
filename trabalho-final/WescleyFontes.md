@@ -3,7 +3,7 @@
 ### 1.Reportar um Bug
 #### Bug1
 Projeto: [Docusaurus] (https://github.com/facebook/docusaurus)
-(bug1)[https://github.com/facebook/docusaurus/issues/1620]
+[bug1](https://github.com/facebook/docusaurus/issues/1620)
 
  wescley commented 5 days ago
 bug Bug Report
