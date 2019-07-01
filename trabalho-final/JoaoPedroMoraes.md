@@ -5,6 +5,7 @@
 * Matrícula: 201504940006
 
 ## Tradução
+
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365)).
 
 ## Adicionar pequena funcionalidade
@@ -36,6 +37,8 @@
 * Adição do icone do Haxe ao repositorio Simple Icons ([simple-icons/simple-icons#1506](https://github.com/simple-icons/simple-icons/pull/1506)).
 
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507)).
+
+* Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509)).
 
 ## Corrigir bug
 
