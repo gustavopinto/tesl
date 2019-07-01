@@ -40,3 +40,7 @@
 ## Corrigir bug
 
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501)).
+
+## Melhorar documentação
+
+* Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646)).
