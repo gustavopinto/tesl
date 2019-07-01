@@ -1,13 +1,13 @@
 # Relatório do Trabalho Final - João Pedro Moraes
 
- * Nome completo: João Pedro Moreira Moraes
+* Nome completo: João Pedro Moreira Moraes
 * Nível: Graduação
 * Matrícula: 201504940006
 
 ## Tradução
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365)).
 
- ## Adicionar pequena funcionalidade
+## Adicionar pequena funcionalidade
 
 * Adição de novo icone ao repositorio Font Awesome ([FortAwesome/Font-Awesome#15198](https://github.com/FortAwesome/Font-Awesome/pull/15198)).
 
@@ -36,3 +36,7 @@
 * Adição do icone do Haxe ao repositorio Simple Icons ([simple-icons/simple-icons#1506](https://github.com/simple-icons/simple-icons/pull/1506)).
 
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507)).
+
+## Corrigir bug
+
+* Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501)).
