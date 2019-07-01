@@ -1,79 +1,16 @@
-## Trabalho Final
+# Relatório do Trabalho Final - WESCLEY FONTES
 
-### 1.Reportar Bug (2pts)
-#### 1.1.Bug (1pt)
-Projeto: [Docusaurus](https://github.com/facebook/docusaurus)
+* Nome completo: WESCLEY PIMENTEL FONTES
+* Nível: Pós-Graduação
+* Matrícula: 201920070018
+* [Trabalho em Duplas - Wescley e Reinaldo - Relatório de Experiências na Criação de um Software Livre](https://docs.google.com/document/d/1-gKaedO37KwaNecqbjTn_oSSuCYnOjZPEI8QJtJ_0aY/edit?usp=sharing)
 
-Resumo: Docusaurus foi projetado desde o início para ser facilmente instalado e usado para obter o seu site instalado e funcionando rapidamente.
+## SUBSEÇÃO DE TAREFA REALIZADA
 
-[bug](https://github.com/facebook/docusaurus/issues/1620)
-
-<blockquote>
- wescley commented 5 days ago
-bug Bug Report
-
-(A clear and concise description of what the bug is)
-Have you read the Contributing Guidelines on issues?
-
-No
-To Reproduce
-
-(Write your steps here:)
-
-    I installed docusaurus and tried to create new content, but it is not appearing in the side menu.
-
-Expected behavior
-
-(Write what you thought would happen.)
-Actual Behavior
-
-(Write what happened. Add screenshots, if applicable.)
-Reproducible Demo
-
-(Paste the link to an example repo, including a siteConfig.js, and exact instructions to reproduce the issue.)
-@yangshun
-Member
-yangshun commented 5 days ago •
-
-Please provide more information and links to repo if possible.
-
-You should read the contributing guideline on issues, it'll help us help you.
-@yangshun yangshun added the needs more information label 5 days ago
-@AdrianoCahete
-AdrianoCahete commented 4 days ago
-
-Left sidebar? If yes, you need to manually include on sidebar.json;
-@endiliey
-Collaborator
-endiliey commented 3 days ago
-
-@AdrianoCahete was correct. You have to manually include on sidebars. Docusaurus dont know whether certain docs should be put in a sidebar or not.
-
-Please be more specific when reporting the issue too, we have a strict guideline on the issue template
-</blockquote>
-
-#### 1.2.Bug (1pt)
-(Falta fazer)
-
-### 2.Melhorar Documentação (2pts)
-#### 2.1.Melhorar Documentação  (1pt)
-(Falta fazer)
-
-#### 2.2.Melhorar Documentação  (1pt)
-(Falta fazer)
-
-### 3.Realizar Tradução (3pts)
-#### 3.1.Tradução (1pt)
-Tradução para o idioma português de partes do Get Starting do Docusaurus.
-
-[Link para a tradução](https://crowdin.com/translate/docusaurus/2499/en-ptbr)
-
-#### 3.2.Tradução (1pt)
-(Falta fazer)
-
-#### 3.3.Tradução (1pt)
-(Falta fazer)
-
-### 4.Atividade Final (Dupla) (3pts)
-#### 4.1.Relatório de Experiências na Criação de um Software Livre - Estudo de Caso: Criação de um Web Blog (Python/MongoDb)
-[Link para o Documento](https://docs.google.com/document/d/1-gKaedO37KwaNecqbjTn_oSSuCYnOjZPEI8QJtJ_0aY/edit?usp=sharing)
+* Reporte de bug na ferramenta de geração de site dinâmicos Docusaurus.([BUG1](https://github.com/facebook/docusaurus/issues/1620))
+* Reporte de bug durante a instalação da ferramenta Wireframe([BUG2](https://github.com/agauniyal/wireframe/issues/32))
+* Melhorar a documentação da ferramenta de geração de site dinãmico Nikola em relação ao uso da configuração da linguagem Markdown([DOC1](https://github.com/getnikola/nikola/issues/3268))
+* Melhorar a documentação da ferramenta xxx([DOC1]())
+* Tradução para o idioma português de partes do Get Starting do Docusaurus ([TR1](https://crowdin.com/translate/docusaurus/2499/en-ptbr))
+* Tradução para o idioma português de partes do xxx ([TR2]())
+* Tradução para o idioma português de partes do xxx ([TR3]())
