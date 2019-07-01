@@ -12,5 +12,5 @@
 * Melhorar a documentação da ferramenta de geração de sites dinâmicos Nikola em relação ao uso da configuração da linguagem Markdown([DOC1](https://github.com/getnikola/nikola/issues/3268))
 * Melhorar a documentação da ferramenta xxx([DOC1]())
 * Tradução para o idioma português de partes do Get Starting do Docusaurus ([TR1](https://crowdin.com/translate/docusaurus/2499/en-ptbr))
-* Tradução para o idioma português de partes do xxx ([TR2]())
+* Tradução para o idioma português de partes do processo de tradução (readme) da ferramenta Brackets([TR2](https://github.com/adobe/brackets/issues/14822))
 * Tradução para o idioma português de partes do xxx ([TR3]())
