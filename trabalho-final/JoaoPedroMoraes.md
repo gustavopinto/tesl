@@ -36,7 +36,3 @@
 * Adição do icone do Haxe ao repositorio Simple Icons ([simple-icons/simple-icons#1506](https://github.com/simple-icons/simple-icons/pull/1506)).
 
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507)).
-
-## Corrigir bug
-
-* Correção de bug no repositorio do Simple Icons ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501)).
