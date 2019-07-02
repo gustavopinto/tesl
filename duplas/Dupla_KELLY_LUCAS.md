@@ -221,3 +221,53 @@ solicitações.
 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
 
   Guia de boas práticas do [Jquery](https://contribute.jquery.org/style-guide/), um framework de Javascript.
+
+## Atividade 8
+- Explique que o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares?
+
+  Métodos ágeis são um conjunto de abordagens alternativas para gerência de projetos nas quais são definidas iterações curtas cujos resultados são medidos através da conclusão do produto. Os métodos ágeis são importantes para o desenvolvimento de software devido ao fato de sua simplicidade e eficácia na gerências das atividades que compõe em projeto bem como nas interações dos membros da equipe. 
+
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+  
+  Commit feito no repositório do [Angular](https://github.com/angular/angular/commit/deb77bd3df2300eb8ed46f5015e730afd8dc5c78).
+
+- Procure um projeto que utilize kanban e coloque o link para a utilização desse método.
+
+  Repositório do projeto [GNOME](https://gitlab.gnome.org/groups/GNOME/-/boards).
+  
+## Atividade 9
+
+- Por que utilizar testes unitários?
+
+  Os testes unitários são importantes pois visam realizar o teste da menor parte possível de um código (por exemplo, teste de uma função/método) de forma a manter a mínima coerência possível dada modificações realizadas naquele método/função.
+
+- Quais vantagens de utilizar integração contínua?
+
+  - Redução do trabalho manual durante o processo de integração;
+  - Melhor entendimento da equipe sobre o trabalho de seus colegas;
+  - Redução dos erros e reposta mais rápida dado o surgimento de um;
+  - Disponibilização do software em ciclos menores;
+  - Diminuição no tempo de lançamento de atualização de produtos.
+
+- Adicionar um método e o respectivo teste no projeto calculadora.
+  
+  Método sugerido na PR [#7](https://github.com/wagnernegrao/calculadora-CI/pull/7)
+  
+ ### Atividade 10
+  
+ - Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+ 
+  O Truck Factor é uma métrica que analisa a distribuição de trabalho entre os contribuidores em um projeto, de tal forma que se este fator é baixo, significa que uma única pessoa é reponsável por grande parte do código e se este fator é alto, significa que a proporção de pessoas para uma única parte do código é relativamente grande. Já no caso da Heroes, esta métrica visa obter o percentual de participação de uma parcela determinada desenvolvedores dentro de um projeto.
+ 
+ - Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+ 
+  Este problema ocorre devido a existência de muitos fatores externos que não são levados em consideração nestas medições uma vez que estas restrigem-se apenas ao código e seus processos.
+
+- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+
+  - Quasi contribuidores: Analisa o número de pessoas que nunca conseguiram ter um pull request aceito no projeto;
+  - Paid developers: Analisa o número de contribuidores que são pagos para contribuir, de forma a descobrir a porcentagem deles em relação ao número de contribuidores ativos;
+  - Breaks: Analisa a quantidade de desenvolvedores que possuem uma frequência de contribuição muito distante uma da outra.
+  
+  Todas as métricas supracitadas não podem ser bem aproveitadas justamente devido ao fato de elas se restringirem a observação de aparentes contribuições (commits, pull requests, etc) o que não permite levar em consideração fatores externos que possam acometer o projeto (problemas pessoais, etc).
+
