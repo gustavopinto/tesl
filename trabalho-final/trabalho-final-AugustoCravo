@@ -6,5 +6,17 @@ https://github.com/gustavopinto/tesl/blob/master/duplas/Dupla_THAYS_AUGUSTO.md
 
 SUBSEÇÃO DE TAREFA REALIZADA
 
-- Criado algoritmo que calcula o primeiro quartil de uma lista para organização educacional The Algorithms.  https://github.com/TheAlgorithms
-  Link do pull request: https://github.com/TheAlgorithms/Python/pull/936
+- Criado algoritmo que calcula o primeiro, segundo e terceiro quartil de uma lista para organização educacional The Algorithms.(Pequena Contribuição)  https://github.com/TheAlgorithms
+
+  Link do pull request: 
+  https://github.com/TheAlgorithms/Python/pull/936/commits/4ae331e99778ff09888f7e90a0c265a6908fff3b
+	
+- Criado algoritmo que calcula outliers normais e extremos de uma lista para organização educacional The Algorithms. (Pequena Contribuição) 
+	
+	Link do pull request:
+	https://github.com/TheAlgorithms/Python/pull/940
+
+- Criado algoritmo que calcula os resultados para equações quadráticas , considerando os casos com soluções com números complexos, para organização educacional The Algorithms. (Pequena Contribuição) 
+	
+	Link do pull request:
+	https://github.com/TheAlgorithms/Python/pull/941
