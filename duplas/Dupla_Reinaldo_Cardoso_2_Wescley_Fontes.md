@@ -118,3 +118,8 @@ R-
 - Quantidade de erros, pois podem ser problemas repetidos com pesos diferentes, ou seja, a quantidade não corresponde a complexidade dos erros.
 - Tempo de Indisponibilidade do Desenvolvedor, o desenvolvedor pode estar indisponível por motivos alheios ao projeto.
 - % de Funcionalidades não Documentadas, uma vez que o próprio código pode servir como a documentação do projeto se seguir os padrões de clean code.
+
+## Atividade 12
+
+ https://docs.google.com/document/d/1Oti0bNwPbyYV97m1idNxfFQG0G5BD39YJLeO5im5OMc/edit?usp=sharing
+ 
