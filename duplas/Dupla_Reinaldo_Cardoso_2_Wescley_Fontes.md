@@ -99,8 +99,27 @@ R- Possibilitar que os processos de construção, deploy e publicação sejam au
 3) Adicionar um método e o respectivo teste no projeto calculadora.
 https://github.com/wagnernegrao/calculadora-CI/pull/3
 
+## Atividade 11
+
+1) Cite pelo menos três outras métricas de saúde de projetos de software livre
+R- 
+Quasi contributors: Métrica na qual um colaborador tenta contribuir com software de código aberto, mas não obtém êxito, ou seja, os seus pull requests não são aceitos, por algum motivo.
+
+Paid developers: Desenvolvedores patrocinados.
+
+Breaks
+
+
+2) Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+R- Porque em projetos de software livre deve-se levar em conta fatores como comunidades e processos que vão além do código. 
+
+3) Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+R- 
+- Quantidade de erros, pois podem ser problemas repetidos com pesos diferentes, ou seja, a quantidade não corresponde a complexidade dos erros.
+- Tempo de Indisponibilidade do Desenvolvedor, o desenvolvedor pode estar indisponível por motivos alheios ao projeto.
+- % de Funcionalidades não Documentadas, uma vez que o próprio código pode servir como a documentação do projeto se seguir os padrões de clean code.
+
 ## Atividade 12
 
  https://docs.google.com/document/d/1Oti0bNwPbyYV97m1idNxfFQG0G5BD39YJLeO5im5OMc/edit?usp=sharing
- 
  

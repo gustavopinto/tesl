@@ -174,3 +174,15 @@ Isso acontece devido a demanda financeira necessária para manter a qualidade do
 3- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
 Quasi contributors, Breaks e Heroes, porque são métricas baseadas puramente em commits, o que pode não refletir necessariamente o projeto em questão, afinal, software livre vai muito além de código.
 
+
+## - Atividade 13: (28/06)
+
+1- Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+Repositório: homemade-machine-learning (https://github.com/trekhleb/homemade-machine-learning)
+Link do Print: https://docs.google.com/document/d/1WnsNRNQRYkAoCZontW-K5jwf9svvWOKfXtej73ZAom8/edit?usp=sharing
+
+
+3- Proponha pelo menos três métricas para avaliar um projeto de software livre.
+Resposta: Quantidade de Issues, data da última atualização (para verificar se o projeto está ativo ou inativo) e quantidade de contribuidores.
+
+

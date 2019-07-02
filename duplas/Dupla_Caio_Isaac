@@ -317,3 +317,47 @@ Número de linhas de código. Ela mostra a quantidade de linhas presentes no có
 Número de classes.  Uma forma de medição do tamanho do programa baseada na quantidade de classes, a qual é menos sensível à linguagem de programação ou estilo de codificação. Também considera-se pouco aderente para avaliar a saúde de um software livre.
 
 Análise de pontos de função. Essa métrica mede o tamanho funcional do software e subsídios para o cálculo da produtividade do processo de desenvolvimento - com base na funcionalidade ou utilidade dos programas. Esta avaliação é realizada sob o ponto de vista do usuário, que avalia o tamanho e a complexidade de um software. Essa métrica é mais utilizada por empresas que busquem um algum tipo de certificação, ISO ou credenciamento, em algum modelo de melhoria e, também, por empresas que trabalham desenvolvendo para órgãos públicos (observação no contexto nacional). 
+
+## Atividade12    
+
+Atividade 12
+
+1 - Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc.
+R = Usamos o projeto da aula retrasada [https://github.com/wagnernegrao/calculadora-CI](#). Abaixo segue o resultado. 
+
+cloc-1.82.exe calculadora-CI
+       8 text files.
+       8 unique files.
+      10 files ignored.
+
+github.com/AlDanial/cloc v 1.82  T=0.50 s (10.0 files/s, 302.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Python                           2             22              0             62
+Markdown                         1             10              0             26
+YAML                             1              5              3             14
+Bourne Shell                     1              4              0              5
+-------------------------------------------------------------------------------
+SUM:                             5             41              3            107
+-------------------------------------------------------------------------------
+
+2 - Proponha pelo menos três métricas para avaliar um projeto de software livre.
+R = As métricas de projetos de software livre, podem ser utilizadas para avaliar a sustentabilidade e aceitabilidade. 
+
+Code Review Iteration: Uma métrica para saber qual é o número de iterações que ocorrem antes de uma solicitação de merge ser aceita ou recusada.
+
+Issues Submitted/Closed: Métrica relacionada a quantas issues foram submetidas em relação às Issues fechadas.
+
+Lines of Code Changed: Uma métrica utilizada para verificar o número de linhas alteradas em um projeto open source.
+
+3 - Implemente uma métrica para avaliar um projeto de software livre.
+R = Uma métrica potencialmente importante para implementar seria de número de testes de unitários relacionado às classes em determinado projeto, ou seja:
+
+Número: Número de Testes Unitários;
+
+Entidades: Classes;
+
+Valores: Cobertura de Teste Unitários em Classes = número de Testes Unitários / Classes.
+
+Seria importante delimitar um valor padrão aceitável para cada projeto, a fim de que a cobertura seja aceitável.

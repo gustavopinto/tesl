@@ -150,7 +150,7 @@ Item 2: Cite pelo menos tês outras métricas de saúde de projetos de software 
 Resp.: 1- Incidencia de desenvolvedores de meia idade nos projeto softwares livres.
        2- O número de erros de códigos.
        3- A quantidade de traduções utilizada e número de licenças no projeto.
-
+       
 Item 3: Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
 Resp.: Linguagem de Código.
        Controle de qualidade.
