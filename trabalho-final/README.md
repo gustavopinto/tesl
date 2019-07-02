@@ -6,9 +6,10 @@ Nessa pasta cada aluno deve colocar um arquivo que será o relatório do Trabalh
 * Preencher os dados solicitados no modelo;
 * Separar cada tipo de trabalho, da maneira como estão [especificados no documento do trabalho final](https://github.com/gustavopinto/tesl/blob/master/trabalho-final.md), em subseções de segundo nível (##);
 * Para cada subseção, dividir em itens (\*) as tarefas realizadas, com um texto curto descrevendo-a e colocando o link para a mesma;
-* Para quem realizou o trabalho "Desenvolver estudo original com artigo sobre software livre", adicionar a subseção no relatório e [enviar artigo por e-mail](https://github.com/gustavopinto/tesl#professores) para os professores Filipe e Gustavo.
+* Para quem realizou o trabalho "Desenvolver estudo original com artigo sobre software livre", adicionar a subseção no relatório e [enviar artigo por e-mail](https://github.com/gustavopinto/tesl#professores) para os professores Filipe e Gustavo;
+* Após o relatório do trabalho final ser aprovado, o aluno deverá incluir suas contribuições também no [relatório final da turma](trabalho-final-turma.md), que listará todas as colaborações feitas por todos em um único arquivo.
 
-Um exemplo de como ficaria o relatório segue abaixo:
+Um exemplo de como ficaria o relatório do aluno segue abaixo:
 
 # Relatório do Trabalho Final - Filipe Saraiva
 
