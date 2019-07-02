@@ -251,3 +251,26 @@ O FPA (Function Point Analisys) é a métrica que determina o tamanho e a comple
 Softwares tradicionais são mantidos por instituições lucrativas que possuem um vínculo financeiro muito forte com seus colaboradores. Os meios utilizados de medir a qualidade desse tipo de software são fortemente dependentes dessa condição, recorrendo à sua estrutura hierárquica lucrativa para determinar aos colaboradores que cumpram com as metas de qualidade definidas. 
 Softwares livres são mantidos, na maior parte, pela contribuição gratuita de pessoas ao redor do mundo. Essa estrutura hierárquica financeira é fraca e na maioria inexistente. Dessa forma , fica muito mais difícil se garantir que um colaborador cumpra uma meta de qualidade (ele faz se ele quiser).
 Outra condição, é que é muito difícil de se medir a qualidade de software livre baseada em commits, pois , muitas vezes, existe muito mais a ser visto na participação de um colaborador que a quantidade de commits que produziu (software livre não depende só do código).
+
+## Atividade12:
+
+Perguntas escolhidas:
+
+1 - Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+2 - Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+3 - Proponha pelo menos três métricas para avaliar um projeto de software livre.
+
+Respostas:
+1- Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+Repositório Libra
+imagem em:
+https://docs.google.com/document/d/1Yjhkf9D_bSLNnaW_QpuR4TtBVtbSkQWE99aWpncVsWs/edit?usp=sharing
+
+2- Proponha pelo menos três métricas para avaliar um projeto de software livre.
+
+Frequência dos códigos (dentro da opção Insights), quantidade de Forks e a data da última atualização. 
+
+3- Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+
+Não conseguimos rodar o ck.
+
