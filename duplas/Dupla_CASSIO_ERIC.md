@@ -331,3 +331,32 @@ Several metrics are defined on the project's
         - Alarm when: the number of hours is above X
 3. Por que os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos FOSS?
     - Métodos para medição de qualidade em projetos ditos como "tradicionais" não tem o mesmo resultado quando utilizados em projetos de software livre, pois a qualidade de um projeto de software livre é subjetivo. Um software livre pode atender todos os critérios de uma medição de qualidade "tradicional", porém, aos olhos da comunidade o projeto pode ser ruim, não atendendo as expectativas, não tendo uma boa comunidade de contribuidores. Além disso, pelo fato de serem vários contribuidores em um projeto de software, fica mais difícil que todos os contribuidores mantenham o mesmo padrão, mas, ainda existe a questão dos contribuidores não pagos, que quando são reprovados por algum erro, perdem a motivação para fazerem as correções necessárias e reenviar.
+
+## Atividade 11
+
+1. Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc:
+    - Foi escolhido o repositório Vega:
+
+    ```
+    -------------------------------------------------------------------------------
+    Language                     files          blank        comment           code
+    -------------------------------------------------------------------------------
+    JSON                           375           1097              0        1072598
+    JavaScript                     607          31092          13446         177457
+    TypeScript                     133           1201           1122          18083
+    Markdown                       202           3236              0          14198
+    RobotFramework                   1              0              0           3219
+    HTML                            16             65              0            784
+    CSS                              2             35             14            649
+    YAML                             3              5              2             41
+    Bourne Shell                     2             12             10             38
+    -------------------------------------------------------------------------------
+    SUM:                          1341          36743          14594        1287067
+    -------------------------------------------------------------------------------
+    ```
+
+    Com um LOC total de 1287067 linhas de código.
+3. Proponha pelo menos três métricas para avaliar um projeto de software livre:
+    - A primeira seria contabilizar o total de commits por projeto.
+    - A segunda seria avaliar a qualidade dos commits realizados, pois nem sempre a quantidade é relacionada com a qualidade.
+    - A terceira seria a relevância do projeto para a comunidade.
