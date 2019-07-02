@@ -38,5 +38,8 @@ apenas o computador e projetor para mostrar o código modificado ou os resultado
 * Os bugs reports devem ser originais, não duplicados;
 * As criações de funcionalidades não precisam ser aceitas pelo projeto, mas o aluno deve mostrar que
 a funcionalidade foi de fato implementada;
+* Cada aluno deverá criar um relatório do seu trabalho final baseado no [modelo disponibilizado](trabalho-final/README.md);
+* Após finalizado o relatório do trabalho, o aluno deverá incluir também suas colaborações no
+[relatório da turma](trabalho-final/trabalho-final-turma.md);
 * Prazo final para entrega das tarefas: **3 de julho**;
 * As atividades em duplas serão apresentadas em **5 de julho**.
