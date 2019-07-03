@@ -7,7 +7,7 @@
 ## Bug fixes
 
 * Bug fix para o projeto MuseScore [PR #5171](https://github.com/musescore/MuseScore/pull/5171)
-* Bug fix para o projeto mxgraph [PR #3](https://bitbucket.org/jgraph/mxgraph2/pull-requests/3/fix-mxcodec-decode-function/diff)
+* Bug fix para o projeto mxgraph [PR #4](https://bitbucket.org/jgraph/mxgraph2/pull-requests/4/fix-issue-331/diff)
 
 ## Melhoria de documentação
 
