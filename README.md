@@ -69,9 +69,9 @@ Passível de alterações.
 | 9 | 24/05 | [Métodos Ágeis e software livre](Aula09.md)                 | Nazario          |                          |
 | 10 | 31/05 | [Testes e Integração contínua](Aula10.md)                  | Wagner           | Pesquisas em SL, por [Igor Steinmacher](http://www.igor.pro.br/) |
 | 11 | 07/06 | [Avaliação de qualidade de projetos](Aula11.md)                         | Gustavo          |                          |
-| 12 | 14/06 | Métricas de código fonte & Definição de projetos           | Gustavo          |                          |
+| 12 | 14/06 | **PARALISACAO NA UFPA**                                    | Filipe e Gustavo |                          |
 | 13 | 21/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
-| 14 | 28/06 | Acompanhamento de projetos                                 | Filipe e Gustavo |                          |
+| 14 | 28/06 | [Métricas de código fonte & Definição de projetos](Aula12.md) | Nazario e Gustavo |            
 | 15 | 05/07 | Apresentação de projetos                                   | Filipe e Gustavo |                          |
 
 ## Entrega atrasada

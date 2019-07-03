@@ -233,3 +233,46 @@ Pois projetos de software livre vão muito além do código,tendo em vista que o
 Reputação do Software
 Lista de e-mail ou Fórum de desenvolvedores
 Interoperabilidade
+
+### - Atividade11:
+
+#### Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+Foi informado o LOC da projeto [Calculator](https://github.com/microsoft/calculator) da microsoft:
+
+```
+cloc C:\Users\VH\Documents\TESL\calculator-master
+     496 text files.
+     491 unique files.
+     279 files ignored.
+
+github.com/AlDanial/cloc v 1.80  T=15.00 s (22.0 files/s, 4043.5 lines/s)
+-----------------------------------------------------------------------------------
+Language                         files          blank        comment           code
+-----------------------------------------------------------------------------------
+C++                                123           5020           4301          28310
+C/C++ Header                       125           1446            946           9196
+XAML                                22            297            102           7196
+C#                                  12            132            125            928
+Markdown                            11            182              0            880
+YAML                                10             85             45            489
+XML                                 12             28             46            250
+JSON                                 3              0              0            190
+PowerShell                           3             39             80            101
+Windows Resource File                2             15              4             73
+CMake                                4              3              2             45
+Bourne Shell                         1              7              8             38
+MSBuild script                       2              9              0             34
+-----------------------------------------------------------------------------------
+SUM:                               330           7263           5659          47730
+-----------------------------------------------------------------------------------
+```
+#### Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+Foi informado as métricas de Chidamber-Kemerer do projeto [Android Calculatorpp](https://github.com/serso/android-calculatorpp):
+https://drive.google.com/drive/folders/1X8lslaXQ7upzXb756_s1cjnPnzSG1sOm?usp=sharing
+
+#### Proponha pelo menos três métricas para avaliar um projeto de software livre.
+Dentre as métricas que se poderia usar para avaliar um projeto de software livre, podemos citar:
+_ O uso do projeto, pois se ele está sendo utilizado em grande quantidade em outros, pode significar que ele tem uma boa qualidade.
+_ Fluxo de Atividade, pois se ele tem muitos commits significa que muitos desenvolvedores estão envolvidos para sempre estarem melhorando aquele projeto. Ou seja, se ele tem uma grande quantidade de commits então já tem muitas melhorias também.
+_ Facilidade para se envolver, pois se um projeto tem um canal de comunicação acessível, com owners atenciosos, ele possívelmente tem um grande potêncial de qualidade e desenvolvimento.
+
