@@ -11,7 +11,7 @@
 
 ## Realizar tradução
 
-* Doing.
+* [otacke - h5p dictation] Tradução para interface ([pr](https://github.com/otacke/h5p-dictation/pull/38))
 
 ## Melhorar documentação
 
@@ -19,8 +19,8 @@
 
 * [Gunicorn] Adição do link ao arquivo contributing no README ([pr](https://github.com/benoitc/gunicorn/pull/2069))
 
-## ?
-
-Eu não sei em que classificação o PR abaixo se encaixa, ou se ele não se encaixa em nenhuma... Peço que analisem.
+## Adicionar pequena funcionalidade
 
 * [Google Cloud Platform - Oozie to Airflow] Refatoração de uma classe ([pr](https://github.com/GoogleCloudPlatform/oozie-to-airflow/pull/272))
+
+* [Google Cloud Platform - Oozie to Airflow] Melhoria dos testes de uma classe ([pr](https://github.com/GoogleCloudPlatform/oozie-to-airflow/pull/284))
