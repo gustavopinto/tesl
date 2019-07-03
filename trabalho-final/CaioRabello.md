@@ -7,8 +7,8 @@
 
 ## Melhorar Documentação
 
-* [Adição de header](https://github.com/moment/moment/pull/5153) com a versão e outras informações em um arquivo.
+* Adiciona um header com informações da versão atual e do autor em um arquivo dos arquivos principais do projeto ([moment#5153](https://github.com/moment/moment/pull/5153))
 
 ## Correção de bug
 
-* [Adição de ID](https://github.com/CiviWiki/OpenCiviWiki/pull/537) em um campo de página web para que o teste automático pudesse o acessar, como descrito em issue e em outro pull-request.
+* Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537)).
