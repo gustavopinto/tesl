@@ -11,13 +11,7 @@
 
 ## Realizar tradução
 
-*
-*
-
-## Melhorar documentação
-
-*
-*
+* Em andamento
 
 ## Adicionar pequena funcionalidade
 
