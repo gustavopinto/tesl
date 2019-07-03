@@ -3,7 +3,7 @@
 * Nome completo: ANA ISABELA MANITO RAMOS
 * Nível: Graduação
 * Matrícula: 201404940021
-* [Trabalho em Duplas](https://drive.google.com/file/d/1g4adJ1Nd9iO6tzVXDhNYnZ65MH8GT1W1/view?usp=sharing)
+* [Trabalho em Duplas](https://docs.google.com/document/d/1bBBmj5_rnMeHZZMQLNwAPmGjYT9OCSrmaNcDKbczf4E/edit?usp=sharing)
 
 ## REPORTAR BUG
 * Módulo os.ls() não funciona no S.O Windows ([https://github.com/vlang/v/issues/953]() - [@anaisabelamr]())
