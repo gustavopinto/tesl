@@ -16,9 +16,7 @@
 - Feature: add deployment option (OPEN) (https://github.com/the-road-to-graphql/react-graphql-github-apollo/issues/25)
 
 ## Adicionar grande funcionalidade
-- Support for Docker #155 (OPEN / ON DISCUSSION) 
-  - Issue: https://github.com/chrisvfritz/vue-enterprise-boilerplate/issues/155
-  - PR: (https://github.com/chrisvfritz/vue-enterprise-boilerplate/pull/159)
+- Support for Docker #155 (OPEN / ON DISCUSSION) (https://github.com/chrisvfritz/vue-enterprise-boilerplate/pull/159) (https://github.com/chrisvfritz/vue-enterprise-boilerplate/issues/155)
 
 ## Extras
 - Criar um projeto de software livre: um toolkit de ferramentas para Load Testing (https://github.com/matheuseabra/L0ad)
