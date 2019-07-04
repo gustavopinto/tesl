@@ -14,4 +14,7 @@
 * Esse projeto pega projetos com tag *good first issue* e posta no twitter para formentar novos contribuidores, link da [issue](https://github.com/arshadkazmi42/first-issues/issues/51)
 
 ## Melhoria de documentação
-* a [issue](https://github.com/cookiecutter/cookiecutter/issues/1179) solicita que seja modificado os arquivos `.rst` para `.md`, no mento estou cmodificando os arquivos ainda, alguns são muito extensos, link do [PR](https://github.com/cookiecutter/cookiecutter/pull/1185)
+* A [issue](https://github.com/cookiecutter/cookiecutter/issues/1179) solicita que seja modificado os arquivos `.rst` para `.md`, no mento estou cmodificando os arquivos ainda, alguns são muito extensos, link do [PR](https://github.com/cookiecutter/cookiecutter/pull/1185)
+
+## Adicionar pequena funcionalidade
+* Adicionada pequena funcionalidad, link do [PR](https://github.com/OpenMined/PySyft/pull/2337)
