@@ -19,9 +19,13 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 - Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
 
+- Adiciona um header com informações da versão atual e do autor em um arquivo dos arquivos principais do projeto ([moment#5153](https://github.com/moment/moment/pull/5153) - [@caiosr](https://github.com/CaioSR))
+
 ## Realizar tradução
 
 ## Corrigir bug
+
+- Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
 
 ## Adicionar pequena funcionalidade
 
