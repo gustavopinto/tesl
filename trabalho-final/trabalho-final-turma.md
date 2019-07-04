@@ -21,9 +21,14 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+* Adição de um passo na configuração do ConEmu [Pull Request](https://github.com/LazoCoder/Pokemon-Terminal/pull/173) - [AndreMP93](https://github.com/AndreMP93)
+
 ## Realizar tradução
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Adição do Idioma portugues para o aplicativo RunnersField. [Pull Request](https://github.com/kopa/RunnersField/pull/13) - [AndreMP93](https://github.com/AndreMP93)
+
 
 ## Corrigir bug
 
@@ -62,6 +67,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Criação do modulo de casamento de padrões (Pattern matching) com os algoritmos:BMH, BMHS e ShiftAnd. [Pull Request](https://github.com/keon/algorithms/pull/510) - [AndreMP93](https://github.com/AndreMP93)
+
 
 ## Adicionar grande funcionalidade
 
