@@ -25,7 +25,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Adicionar pequena funcionalidade
 
-* Adição de 3 modulos de tradução para o projeto. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
+* Adição de 3 modulos de tradução para o projeto langplusplus. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
 
 ## Adicionar grande funcionalidade
 
