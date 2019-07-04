@@ -243,3 +243,121 @@ O guia recomenda que as convenções atendam às seguintes finalidades:
 
 * Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
 R =  O Framework CakePHP é um framework da linguagem de programação PHP com o foco em desenvolvimento web, em sua pagina inicial  ([https://book.cakephp.org/3.0/pt/index.html](#)). É possível ver uma grande quantidade de exemplos e tutoriais para auxiliar o desenvolvedor iniciante. Um exemplo ilustrativo destaca o guia de convenções utilizados pelo framework (veja [https://book.cakephp.org/3.0/pt/intro/conventions.html](#)).
+
+## Atividade08
+
+Atividade 08
+
+1 - Explique o que são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares.
+R = O termo “métodos ágeis” vem do inglês Agile Software Development. Conforme o próprio nome aponta, envolvem um conjunto de metodologias que visam acelerar o ritmo dos processos de desenvolvimento de um software. Nesse contexto, a razão pela qual surgiram foi para fazer frente aos modelos tradicionais de desenvolvimento de software, tidos como lentos e burocráticos, com a intenção de reduzir o ciclo de desenvolvimento em semanas (ou até meses) ao invés de anos - como o que ocorre, ainda hoje, em modelos mais “conservadores”.
+
+2 - Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha múltiplos autores.
+R = 
+Projeto: scikit-learn [https://github.com/scikit-learn/scikit-learn](#)
+Commit:  [MRG] DEP remove pooling_func in AgglomerativeClustering (#13821)
+”glemaitre” authored and “ogrisel” committed 15 days ago
+Fonte: [https://github.com/scikit-learn/scikit-learn/commit/95339a677ef9c57b7c8c114fc08f2a401da37544](#)
+
+3 - Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+R =  
+Projeto: repodriller [https://github.com/mauricioaniche/repodriller](#)
+Issue: [https://github.com/mauricioaniche/repodriller/issues/126](#)
+
+Bugfix: collect DiffTexts when filtering diffs.
+Issue mauricioaniche#126
+ diff-filter (#127)
+@ayaankazerouni
+ayaankazerouni committed on 27 Feb 2018
+1 parent 0fa8312 commit a2b319cdeafd5dd5fdcee9372231627053c6a87e
+
+Fonte: [https://github.com/ayaankazerouni/repodriller/commit/a2b319cdeafd5dd5fdcee9372231627053c6a87e](#)
+
+## Atividade 10
+
+Atividade 10
+
+1 - Por que utilizar testes unitários?
+R = Pois, os testes unitários procuram aferir a corretude do código, em sua menor fração. Em linguagens orientadas a objetos, essa menor parte do código pode ser um método de uma classe. Sendo assim, os testes unitários são aplicados a esses métodos, a partir da criação de classes de testes. Tendo em vista que  a maior parte do tempo de um projeto de desenvolvimento de um sistema será na manutenção do mesmo, a utilização de testes unitários  corrobora para que os testes possam vim a crescer em conjunto com o software produzido através de outras práticas, como a de integração contínua. 
+
+2 - Quais vantagens de utilizar integração contínua?
+R = Algumas das possíveis vantagens da utilização da prática são:
+1 - À melhora a produtividade do desenvolvedor, pois aintegração contínua ajuda sua equipe a ser mais produtiva ao liberar os desenvolvedores de tarefas manuais e encorajar comportamentos que ajudam a reduzir o número de erros e bugs implantados para os clientes.
+2 - Ela auxilia para que se  encontre e investigue bugs antecipadamente
+Encontre e investigue bugs mais rapidamente, com testes mais frequentes, sua equipe pode descobrir e investigar bugs mais cedo, antes que no futuro os problemas cresçam demais.
+3 - Distribua atualizações mais rapidamente, a  integração contínua ajuda a sua equipe a distribuir atualizações para os clientes mais rapidamente e com maior frequência.
+
+3 - Adicionar um método e o respectivo teste no projeto calculadora.
+R = Adicionamos a funcionalidade absolute. 
+
+Add files via upload #17
+Open    CaioMFRodrigues wants to merge 1 commit into wagnernegrao:master from CaioMFRodrigues:master
+
+## Atividade 11
+
+Atividade 11
+
+1 - Cite pelo menos três outras métricas de saúde de projetos de software livre.
+R = As métricas de saúde de projetos de software livre, são utilizadas para avaliar a saúde e a sustentabilidade das comunidades de código aberto. E podem ser utilizadas para produzir métricas equivalentes a casos de uso detalhados, modelos ou recomendações para analisar problemas específicos no mundo da indústria. 
+
+First Response to Issue:  Duração do tempo entre um novo problema é aberto e um mantenedor responde. Também é chamado: taxa de resposta de bug.
+
+Code Review Iteration: Que permite mensurar qual o número de iterações que ocorrem antes de uma solicitação de uma issue ser aceita ou negada
+
+Issue Tracker: É uma métrica para analisar quão bem é uma configuração de issue tracker de projeto funciona  para convidar novos colaboradores, colaboradores qualificados e colaboradores não técnicos para um projeto open source.
+
+Outros exemplos são: code authorship, quasi contributors e paid developers
+
+2 - Explique por que os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre.
+R = Muito tem sido dito a respeito do que significa software livre. Sabemos que, de um modo ou outro - sendo qual for a conclusão -, ele vai muito além da produção do código-fonte. As relações interpessoais têm um importante papel neste contexto. Uma vez que os meios tradicionais de qualidade de software não levam esse aspecto em conta, apenas commits, também não costumam ter muita aceitação de programadores dessa área. 
+
+3 - Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre.
+R =  As métricas utilizadas mais comumente na indústria de software são:
+Número de linhas de código. Ela mostra a quantidade de linhas presentes no código-fonte. Deve-se ter cuidado com esta métrica quando utilizada para fazer comparações. Um maior número de linhas de código não significa necessariamente que um software seja melhor, mais eficiente que outro; sem falar que para um ambiente de pouca proximidade, como o desenvolvimento de software livre, essa métrica se torna ainda menos aderente.
+
+Número de classes.  Uma forma de medição do tamanho do programa baseada na quantidade de classes, a qual é menos sensível à linguagem de programação ou estilo de codificação. Também considera-se pouco aderente para avaliar a saúde de um software livre.
+
+Análise de pontos de função. Essa métrica mede o tamanho funcional do software e subsídios para o cálculo da produtividade do processo de desenvolvimento - com base na funcionalidade ou utilidade dos programas. Esta avaliação é realizada sob o ponto de vista do usuário, que avalia o tamanho e a complexidade de um software. Essa métrica é mais utilizada por empresas que busquem um algum tipo de certificação, ISO ou credenciamento, em algum modelo de melhoria e, também, por empresas que trabalham desenvolvendo para órgãos públicos (observação no contexto nacional). 
+
+## Atividade12    
+
+Atividade 12
+
+1 - Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc.
+R = Usamos o projeto da aula retrasada [https://github.com/wagnernegrao/calculadora-CI](#). Abaixo segue o resultado. 
+
+cloc-1.82.exe calculadora-CI
+       8 text files.
+       8 unique files.
+      10 files ignored.
+
+github.com/AlDanial/cloc v 1.82  T=0.50 s (10.0 files/s, 302.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Python                           2             22              0             62
+Markdown                         1             10              0             26
+YAML                             1              5              3             14
+Bourne Shell                     1              4              0              5
+-------------------------------------------------------------------------------
+SUM:                             5             41              3            107
+-------------------------------------------------------------------------------
+
+2 - Proponha pelo menos três métricas para avaliar um projeto de software livre.
+R = As métricas de projetos de software livre, podem ser utilizadas para avaliar a sustentabilidade e aceitabilidade. 
+
+Code Review Iteration: Uma métrica para saber qual é o número de iterações que ocorrem antes de uma solicitação de merge ser aceita ou recusada.
+
+Issues Submitted/Closed: Métrica relacionada a quantas issues foram submetidas em relação às Issues fechadas.
+
+Lines of Code Changed: Uma métrica utilizada para verificar o número de linhas alteradas em um projeto open source.
+
+3 - Implemente uma métrica para avaliar um projeto de software livre.
+R = Uma métrica potencialmente importante para implementar seria de número de testes de unitários relacionado às classes em determinado projeto, ou seja:
+
+Número: Número de Testes Unitários;
+
+Entidades: Classes;
+
+Valores: Cobertura de Teste Unitários em Classes = número de Testes Unitários / Classes.
+
+Seria importante delimitar um valor padrão aceitável para cada projeto, a fim de que a cobertura seja aceitável.

@@ -71,3 +71,40 @@ Para que ele possa ser empregado corretamente e efetivamente, foi-se criado, ent
 - [Commit por mais de uma pessoa](https://github.com/pallets/flask/pull/3181/commits/8590d65a57ad57c99a82fdf4e1c57921d7e1bdcd)
 
 - [Projeto que utiliza o Kanban](https://github.com/wekan/wekan/projects/2)
+
+### - Atividade09 (Aula 10.md)
+- Por que utilizar testes unitários?
+  - Devido a necessidade de sempre adicionar funcionalidades ou realizar alterações que realmente funcionem, há a necessidade de sempre testar os métodos implementados ou alterados através de testes unitários para manter o funcionamento do projeto em questão, principalmente quando esse projeto está sendo desenvolvido por vários indivíduos.
+  
+- Quais as vantages de utilizar integração contínua?
+  - A integração contínua possui a finalidade de sempre manter o projeto ou uma branch específica atualizada, isto é, sempre estar integrando novas funcionalidades ou alterações ao projeto para que diminua a probabilidade de outros desenvolvedores trabalharem em uma versão desatualizada do projeto acidentalmente devido a não integração de alguma mudança por outro(s) desenvolvedor(es).
+
+- Pull request com adição de função na calculadora
+  - [add Absolute](https://github.com/wagnernegrao/calculadora-CI/pull/8)
+  
+- Pull request com conserto de falha de build
+  - [fixing broken build](https://github.com/wagnernegrao/calculadora-CI/pull/10)
+  
+ ### - Atividade10 (Aula 11.md)
+  - Truck Factor x Heroes
+    - O Truck Factor analisa quais as pessoas VITAIS para o funcionamento de um projeto, logo, quanto maior o Truck Factor, menos perigo corre o projeto; enquanto que Heroes são os 20% ou menos que possuem 80% ou mais das contribuições. 
+Pode-se dizer que o Truck Factor é mais restritivo, pois uma pessoa que contribui muito não necessariamente é vital ao projeto. Logo, apesar deles possivelmente incluírem uma ou outra mesma pessoa, suas finalidades são diferentes. Apesar de parecer que os Heroes são uma existência negativa ao projeto, um [estudo de abril/2019](https://arxiv.org/pdf/1904.09954.pdf) mostra que, na verdade, sua existência é positiva a saúde do projeto, haja vista que, dentre outros benefícios, Heroes normalmente possuem uma qualidade de código superior e contribuem muito mais com comunicação com outros desenvolvedores.
+
+  - Porque meios de qualidade de software tradicionais têm pouca aderência.
+    - A medição de qualidade de um projeto tradicional objetiva em definir detalhadamente os custos, recursos humanos, não humanos, cronograma, além da qualidade do código. Além de questões como cronograma e orçamento não entrarem na análise de qualidade (haja vista que um projeto de software livre não possui data de fim, é um projeto em constante evolução), os recursos humanos requerem uma atenção muito maior em um software livre devido ao fato dele ser aberto e não definirem um ‘contrato’ de responsabilidade a ele diferentemente em um projeto tradicional onde há o contrato de EMPREGO, isto é, em um software livre, o desenvolvedor pode, em geral, ‘se demitir’ quando quiser. Logo, um software livre requer uma atenção ao recursos humanos tão grande quanto ao código, e devido a forma como softwares livres funcionam, as formas de medir e de aprimorar esse ponto é muito mais complexo que em um projeto tradicional.
+  
+  - [Programa para identificar quasi-contributors](https://gist.github.com/LeonardoFurtado/582ddabca634072496bd54b872674793)
+
+### - Atividade11 (Aula 12.md)
+  - Retorno da ferramenta [cloc](https://github.com/AlDanial/cloc) no projeto [Julia](https://github.com/JuliaLang/julia)
+    - 914 arquivos
+    - 46876 linhas em branco
+    - 22785 linhas comentadas
+    - 307226 linhas de código
+   
+  - Propostas de métricas para projetos de software livre
+    - Licença: Número de licenças adotadas pelo projeto. Quanto mais e mais divergentes entre si, maior a probabilidade de ocorrer alguma incopatibilidade de licença por outro projeto que o use, mas possibilita outros usos para o código dependendo do objetivo de importação.
+    - Heroes: Número de desenvolvedores com mais de 80% das contribuições. 
+    - Facilidade para se envolver: Relação de contribuições (de preferência por não heroes) por número de forks; Relação de pull requests aceitos por pull requests negados; Quantidade de issues com a label "good first issue" ou "mentoring", por exemplo, em aberto. Analisa a facilidade de um novo contribuidor se juntar ao projeto.
+
+  - O repositório [qtbase](https://github.com/qt/qtbase), por exemplo, possui diversas licenças, umas para uso livre, outra para uso comercial.

@@ -1,5 +1,5 @@
 # Dupla ANDRÉ e JULIO
-  - André Francisco Pastana da Cunnha (andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))
+  - ~~André Francisco Pastana da Cunnha(andrefpcunha@hotmail.com, [@andrefpcunha](https://github.com/andrefpcunha))~~ (Desistiu da disciplina)
   - Julio Cesar Oliveira Carvalho (julio.developer10@gmail.com, [@juliocesark](https://github.com/juliocesark))
 
 ## Link para atividades
@@ -93,3 +93,75 @@
     - Guia de boa prática para o framework Angular: [Guia](https://angular.io/guide/styleguide)
 - Explique o que são Linters e a sua importância:
     - São ferramentas que analisam o código-fonte para sinalizar erros de programação, bugs, erros estilísticos, e construções suspeitas. É de grande importãncia para fazer com que o código-fonte siga um padrão de projeto.
+### Atividade 08:
+- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares:	
+    - São uma abordagem ao modelo de gestão tradicional de projetos. São um importantes para o desenvolvimento de softwares no que diz respeito a sua eficácia, que permitem a entrega rápida e de alta qualidade do produto, tendo uma abordagem de negócios que alinha o desenvolvimento do projeto com as necessidades do cliente e os objetivos da empresa.
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores:
+    - O projeto escolhido: [next](https://github.com/atlas-engineer/next)
+    - Commit que contém mais de mais de um autor: [commit](https://github.com/atlas-engineer/next/commit/dc96d84f5c1c20702097c20429601247d3e031f5)
+- Procure um projeto e indique um commit que tenha Refactor e informe qual o nome da técnica empregada durante o refactor:
+    - O projeto escolhido: [http-server](https://github.com/Himalee/http-server)
+    - Commit que contém um refactor utilizando a técnica "Magic Numbers": [commit](https://github.com/Himalee/http-server/commit/71e545f85a4ad39cd9123cbadca264a0f8f0bb10)
+### Atividade 09:
+- Por que utilizar testes unitários:	
+    - São utilizados para garantir que uma aplicação/método esteja funcionando de forma correta.
+- Quais vantagens de utilizar integração contínua:
+    - Encontrar e investigar bugs mais rapidamente.
+    - Melhorar a qualidade do software.
+    - Reduzir o tempo que leva para validar e lançar novas atualizações de software.
+- Adicionar um serviço de integração contínua (Travis) em um projeto pessoal:
+    - Projeto Pessoal com travis adicionado: [travis_teste](https://travis-ci.org/juliocesark/travis_teste)
+### Atividade 10:
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes":	
+    - O truck factor é o número de pessoas específicas que mantém um projeto, um truck factor baixo, possui somente uma pessoa mantedora do projeto, caso ela saía, o projeto pode ser descontinuado. Já os heroes são uma pequena parcela de pessoas que cuidam do projeto e cada uma sabe um pouco de tudo, ou seja, são as que mais contribuem.
+- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre:
+    - Tem pouca aderência devido as mêtricas para medir a qualidade de um software tradicional, se basearem apenas no código e software livre vai muito além do código, pois ela támbem se baseia em comunidades e processos.
+- Cite pelo menos tês outras métricas de saúde de projetos de software livre:
+    - Medir a complexidade de um software
+    - Medir o nível de teste de um software livre
+    - Medir o erros de sintaxe de um software
+    - Medir o número de pessoas que contribuem para o software
+### Atividade 11:
+- Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc:	
+    - Foi utlizado o projeto [python-blogs](https://github.com/python-gsoc/python-blogs) para obter o LOC através do cloc, tendo como resultado:
+    - Código utilizado: ./cloc ~/Documentos/python-blogs-master.zip 
+```
+     560 text files.
+     560 unique files.                                          
+      22 files ignored.
+
+github.com/AlDanial/cloc v 1.83  T=0.27 s (2016.7 files/s, 130992.4 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JavaScript                     392           2745           8939          13561
+HTML                            70            549            157           3882
+Python                          67            859            267           3581
+CSS                              7            122             65            600
+Markdown                         6            120              0            196
+YAML                             3              6              3             34
+INI                              1              1              0             16
+Bourne Shell                     3              1              0             15
+DOS Batch                        1              0              0              5
+-------------------------------------------------------------------------------
+SUM:                           550           4403           9431          21890
+-------------------------------------------------------------------------------
+```
+- Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck:
+    - Foi utilizado o projeto [sample-java-project](https://github.com/skeeto/sample-java-project)
+    - Código utilizado: java -jar ck-x.x.x-SNAPSHOT-jar-with-dependencies.jar ~/Downloads/sample-java-project-master/
+
+|file                                                                                                |class                                    |method                    |line|cbo|wmc|rfc|loc|returns|variables|parameters|startLine|loopQty|comparisonsQty|tryCatchQty|parenthesizedExpsQty|stringLiteralsQty|numbersQty|assignmentsQty|mathOperationsQty|maxNestedBlocks|anonymousClassesQty|subClassesQty|lambdasQty|uniqueWordsQty|
+|----------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------|----|---|---|---|---|-------|---------|----------|---------|-------|--------------|-----------|--------------------|-----------------|----------|--------------|-----------------|---------------|-------------------|-------------|----------|--------------|
+|sample-java-project-master/src/sample/java/project/SampleJavaProject.java                           |sample.java.project.SampleJavaProject    |sayHello/0                |62  |0  |1  |1  |3  |0      |0        |0         |62       |0      |0             |0          |0                   |1                |0         |0             |0                |0              |0                  |0            |0         |5             |
+|sample-java-project-master/src/sample/java/project/SampleJavaProject.java                           |sample.java.project.SampleJavaProject    |run/0                     |67  |1  |3  |2  |12 |1      |0        |0         |67       |1      |0             |1          |0                   |0                |0         |0             |0                |2              |0                  |0            |0         |18            |
+|sample-java-project-master/src/sample/java/project/SampleJavaProject.java                           |sample.java.project.SampleJavaProject    |main/1[java.lang.String[]]|41  |2  |3  |5  |16 |1      |2        |1         |41       |0      |0             |1          |0                   |1                |1         |2             |1                |2              |0                  |0            |0         |18            |
+|sample-java-project-master/test/sample/java/project/SampleJavaProjectTest.java                      |sample.java.project.SampleJavaProjectTest|testGetSet/0              |30  |1  |1  |3  |4  |0      |0        |0         |30       |0      |0             |0          |0                   |2                |0         |0             |0                |0              |0                  |0            |0         |11            |
+|sample-java-project-master/test/sample/java/project/SampleJavaProjectTest.java                      |sample.java.project.SampleJavaProjectTest|nullTest/0                |39  |1  |1  |1  |3  |0      |0        |0         |39       |0      |0             |0          |0                   |0                |0         |0             |0                |0              |0                  |0            |0         |8             |
+|sample-java-project-master/test/sample/java/project/SampleJavaProjectTest.java                      |sample.java.project.SampleJavaProjectTest|setUp/0                   |22  |2  |1  |0  |3  |0      |0        |0         |22       |0      |0             |0          |0                   |0                |0         |1             |0                |0              |0                  |0            |0         |9             |
+|                                                                                                    |                                         |                          |    |   |   |   |   |       |         |          |         |       |              |           |                    |                 |          |              |                 |               |                   |             |          |              |
+|Sum file = 6 files                                                                                  |Sum class = 2 classes                    |Sum Total =               |261 |7  |10 |12 |41 |2      |2        |1         |261      |1      |0             |2          |0                   |4                |1         |3             |1                |4              |0                  |0            |0         |69            |
+- Proponha pelo menos três métricas para avaliar um projeto de software livre:
+    - Número de commits
+    - Quantidade de contribuições
+    - Avaliar diferentes tipos de complexidade de código

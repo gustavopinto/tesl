@@ -137,3 +137,52 @@ Boas práticas de programação em Linguagem C: http://linguagemc.com.br/boas-pr
 3- Indique um guia de boas práticas de codificação em frameworks de linguagem de programação.
 7 Boas Práticas de Desenvolvimento com Spring Framework: http://blog.globalcode.com.br/2010/03/7-boas-praticas-de-desenvolvimento-com.html
 
+
+## - Atividade 08:
+
+1- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+São uma alternativa à gestão tradicional de projetos, eles nasceram nos braços do desenvolvimento de software, mas hoje podem ser aplicados a qualquer tipo de projeto (inclusive os que não se remetem ao software). A importancia dele está no fato de acelerar no desenvolvimento de software o seu processo produtivo. 
+
+2- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores.
+Possui 2 assignatures[link](https://github.com/microsoft/BuildXL/pull/330)
+
+3- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método.
+Utilizou o kanban nessa issue. [kanban](https://github.com/praia/appmenu/issues/4#)
+
+## - Atividade 09:
+
+1- Por que utilizar testes unitários?
+Procedimento padrão: se repetir o mesmo teste algumas vezes, então comece a automatizar; Garantir que a aplicação está de fato funcionando bem; Confiança no código; Possibilita refatoração do código verificando se você não modificou o comportamento do código; Pull requests não negados pela falta de testes.
+
+2- Quais vantagens de utilizar integração contínua?
+Encontrar e investigar bugs de forma mais rápida, reduzir o tempo de validação e lançamento de novas atualizações de software e também para melhorar a qualidade de software.
+
+3- Adicionar um método e o respectivo teste no projeto calculadora.
+Metodo e Teste:
+https://github.com/wagnernegrao/calculadora-CI/pull/18/commits
+
+
+## - Atividade 10:
+
+1- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+Truck factor é quando sua equipe pode estar em risco por conta da ausência de membros da equipe por problemas de saúde, férias, etc. Quando muitas desses “problemas” acontecem ao mesmo tempo, esse evento é chamado de “truck factor” e o seu projeto pode estar em risco de sofrer as consequências pela ausência de seus colaboradores. Com o tempo, qualquer um pode ser substituído. O truck factor é uma indicação de quão caro será substituir estes componentes da equipe. 
+Os heroes, ou heróis, são componentes da equipe que possuem conhecimentos específicos sobre certas partes críticas do sistema. Quando, ou se, esses heróis saírem da equipe, haverá prejuízo. Por isso, o melhor coisa a se fazer é transferir essa pessoa para uma parte diferente do sistema. .
+
+2- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+Isso acontece devido a demanda financeira necessária para manter a qualidade do software em muitos casos, algo que não é uma realidade para os projetos de software livre. Além disso, o que define essas qualidades depende dos commits e software livre não depende só do código.
+
+3- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
+Quasi contributors, Breaks e Heroes, porque são métricas baseadas puramente em commits, o que pode não refletir necessariamente o projeto em questão, afinal, software livre vai muito além de código.
+
+
+## - Atividade 13: (28/06)
+
+1- Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+Repositório: homemade-machine-learning (https://github.com/trekhleb/homemade-machine-learning)
+Link do Print: https://docs.google.com/document/d/1WnsNRNQRYkAoCZontW-K5jwf9svvWOKfXtej73ZAom8/edit?usp=sharing
+
+
+3- Proponha pelo menos três métricas para avaliar um projeto de software livre.
+Resposta: Quantidade de Issues, data da última atualização (para verificar se o projeto está ativo ou inativo) e quantidade de contribuidores.
+
+
