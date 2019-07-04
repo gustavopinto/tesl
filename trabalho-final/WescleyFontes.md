@@ -7,7 +7,7 @@
 
 ## Reportar bug
 
-* Reporte de bug na ferramenta de geração de sites dinâmicos Docusaurus ao tentar configurar um site.([BUG1](https://github.com/facebook/docusaurus/issues/1620))
+* Reporte de bug na ferramenta de limpeza de desktop: OrganiseDesktop, ao se tentar executar a opção "undo" o sistema não funcionou como esperado.([BUG1](https://github.com/blavejr/OrganiseDesktop/issues/70))
 * Reporte de bug durante a instalação da ferramenta Wireframe ao tentar configurar um site com a linguagem Markdown([BUG2](https://github.com/agauniyal/wireframe/issues/32))
 
 ## Melhorar Documentação
