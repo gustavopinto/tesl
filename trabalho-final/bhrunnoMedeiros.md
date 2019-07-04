@@ -4,6 +4,8 @@
 * Nível: Pós-Graduação
 * Matrícula: 201920070030
 
+* [Trabalho em Duplas](https://github.com/gustavopinto/tesl/blob/master/duplas/Dupla_VICTORHUGO_BHRUNNO.md)
+
 
 ## SUBSEÇÃO DE TAREFA REALIZADA
 
