@@ -9,10 +9,7 @@
 
 * Reporte de bug na ferramenta de limpeza de desktop: OrganiseDesktop, ao se tentar executar a opção "undo" o sistema não funcionou como esperado.([BUG1](https://github.com/blavejr/OrganiseDesktop/issues/70))
 * Reporte de bug durante a instalação da ferramenta Wireframe ao tentar configurar um site com a linguagem Markdown([BUG2](https://github.com/agauniyal/wireframe/issues/32))
-
-## Melhorar Documentação
-
-* Melhorar a documentação da ferramenta de geração de sites dinâmicos Nikola em relação ao uso da configuração da linguagem Markdown([DOC1](https://github.com/getnikola/nikola/issues/3268))
+* Reposte de bug na ferramenta de geração de sites dinâmicos Nikola em relação ao uso da configuração da linguagem Markdown([BUG3](https://github.com/getnikola/nikola/issues/3268))
 
 ## Adicionar Pequena Funcionalidade
 
