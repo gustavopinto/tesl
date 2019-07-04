@@ -7,7 +7,8 @@
 
 
 ## Tradução de arquivo
-* Traduzi 2 arquvivos do projeto Brythonm link do [PR](https://github.com/brython-dev/brython/pull/1152)
+* Traduzi 2 arquivos da documentação do projeto Brythonm link do [PR](https://github.com/brython-dev/brython/pull/1152)
+* Traduzi 1 arquivo da documentação do projeto Nuxtjs, link do [PR](https://github.com/nuxt/docs/pull/1474)
 
 ## Reporte de bug
 * Esse projeto pega projetos com tag *good first issue* e posta no twitter para formentar novos contribuidores, link da [issue](https://github.com/arshadkazmi42/first-issues/issues/51)
