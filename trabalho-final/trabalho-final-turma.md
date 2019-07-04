@@ -21,9 +21,13 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+* Correção de exemplos que retornavam erros, presentes no README ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
+
 ## Realizar tradução
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Adição de README em pt_Br para biblioteca python `pymarc` ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
 ## Corrigir bug
 
@@ -62,6 +66,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Criação de função para parsing de arquivos JSON para objetos de registro (pymarc.Record) da biblioteca pymarc ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
 ## Adicionar grande funcionalidade
 
