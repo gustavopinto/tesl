@@ -13,7 +13,6 @@
 - nodejs-pt-br: Add file community.md & Translate it to brazilian portuguese #2303 (IN PROGRESS) (https://github.com/nodejs/nodejs.org/pull/2303)
 
 ## Adicionar pequena funcionalidade
-- Add Scala frameworks for REST services (MERGED) (https://github.com/marmelab/awesome-rest/pull/95)
 - Feature: add deployment option (OPEN) (https://github.com/the-road-to-graphql/react-graphql-github-apollo/issues/25)
 
 ## Adicionar grande funcionalidade
@@ -24,3 +23,4 @@
 ## Extras
 - Criar um projeto de software livre: um toolkit de ferramentas para Load Testing (https://github.com/matheuseabra/L0ad)
 - Fechar issues abertos já resolvidos (https://github.com/chrisvfritz/vue-enterprise-boilerplate/issues/145)
+- Add Scala frameworks for REST services (MERGED) (https://github.com/marmelab/awesome-rest/pull/95)
