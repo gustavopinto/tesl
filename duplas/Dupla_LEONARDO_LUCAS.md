@@ -125,4 +125,41 @@
   - O [JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices) é um guia de boas práticas de JavaScript disponibilizado pela W3C, que é uma organização de padronização da World Wide Web.
 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação:
   - O [Vue Style Guide](https://vuejs.org/v2/style-guide/) é um guia de boas práticas para Vue.js, servindo como referência para evitar erros e codificações fora de padrão.
+
+## Atividade 8
+- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+  - Métodos ágeis são metodologias de desenvolvimento que adotam o conceito de metodologia ágil, sendo este uma filosofia originada do manifesto ágil, que foi desenvolvido como solução aos problemas e prejuízos apresentados pelas práticas de engenharia de software extremamente complexas e custosas da década de 90, como o modelo cascata, por exemplo. Os métodos ágeis seguem os valores e princípios do manifesto ágil, sendo voltados para projetos menores de desenvolvimento, altamente adaptáveis à mudanças e entregando software funcional continuamente. Alguns exemplos desses métodos são: XP (Extreme Programming); Scrum; KANBAN; TDD e BDD.
+- Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha multiplos autores:
+  - O seguinte [commit](https://github.com/jpalmerr/ajak-final-project/commit/20972fd5ab3acbdb59af7d0da0e1859bb697682e) é de autoria de duas pessoas, o que indica que elas trabalharam utilizando a técnica de pairing programming.
+- Procure um prjeto que utilize kanban e coloque o link para a utilização desse método:
+  - O projeto vue.js utiliza o [KANBAN](https://github.com/vuejs/vue/projects/8) para gerenciar as tasks de acordo com o release documentado em seu roadmap.
   
+## Atividade 9
+- Por que utilizar testes unitários?
+  - Os testes unitários são importantes para dar segurança e garantia de qualidade ao que está sendo implementado. Ao utilizar esses testes o programador pode verificar o funcionamento do código, garantir respostas adequadas para as funcionalidades implementadas, bem como verificar se as alterações efetuadas no código não produzem erros e inconsistências no sistema como um todo, incluindo testes de outras funcionalidades. Em um contexto de software livre, os testes unitários dão credibilidade à aceitação de pull requests.
+- Quais vantagens de utilizar integração contínua?
+  - Ao utilizar integração contínua no projeto, há garantia de que bugs serão encontrados e investigados de forma mais regular, melhor qualidade no software desenvolvido devido ao processo de planejamento mais frequente de atualizações providas, além de uma redução no intervalo de uma atualização de software para outra.
+- Adicionar um serviço de integração contínua (Travis) em um projeto pessoal.
+  - O projeto escolhido foi [Administer-panel](https://github.com/leochrisis/Administer-panel) e o commit que indica o uso do travis está [aqui](https://github.com/leochrisis/Administer-panel/commit/cbd2957080dad18f02957110222e091fd0c311c6) 
+
+## Atividade 10
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes":
+  - O "Truck Factor" é um termo criado para determinar quantos desenvolvedores contribuintes para um projeto precisam ser "atropelados" para esse projeto ser considerado incapacitado (ou morrer). Ou seja, tem relação com a concentração de informação e capacidade de contribuição nas mãos de poucas pessoas, sendo estas as que mantém o projeto em pé, dificultando a substituição de desenvolvedores em um projeto. "Heroes", por outro lado, é uma métrica que diz respeito, estatisticamente, à distribuição desigual de contribuições por pessoas. Ou seja, muito commit sendo realizado por uma porcentagem pequena de contribuidores. No caso dos "heroes", não necessariamente eu tenho concentração de informação em poucas pessoas, portanto não causando um possível gargalo caso haja a necessidade de substituir desenvolvedores.
+- Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre:
+  - Quasi contributors, Breaks e Heroes, devido ao fato de que são métricas baseadas puramente em commits, o que pode não refletir necessariamente o projeto em questão, afinal, software livre vai muito além de código.
+- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+  - Em geral os métodos "tradicionais" de medição de qualidade tem pouca aderência em projetos de software livre, uma vez que esses projetos destinam seu dinheiro para fins que não visam a melhoria de processo de forma tracicional, mas sim para o crescimento do projeto e de sua visibilidade dentro da própria comunidade, bem como para comunidades externas (investimento em desenvolvedores, eventos da comunidade, reuniões presenciais de projetos, entre outros), além de que selos de qualidade são procurados quando se deseja vender software privados ou serviços de empresas que são destinados ao ganho monetário, o que vai de encontro com a filosofia de software livre. Além disso, os métodos "tradicionais" podem encontrar dificuldade em avaliar os processo que são realizados por um projeto de software livre, uma vez que não se pode observar facilmente os métodos de coleta, produção e validação dos processos de produção de software, fato que dificulta uma sólida avaliação do processo de acordo com os critérios estabelecidos nos guias.
+
+## Atividade 11
+- Informar o LOC de pelo menos 1 projeto usando a ferramenta [cloc](https://github.com/AlDanial/cloc)
+
+<p align="center">
+  <a href="https://imgur.com/rUbZH45">
+    <img src="https://i.imgur.com/rUbZH45.png"/>
+  </a>
+</p>
+
+- Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta [ck](https://github.com/mauricioaniche/ck)
+  - As informaçoes geradas pelo ck foram executadas no projeto [The Algorithms - Java](https://github.com/TheAlgorithms/Java) e estao disponíveis no seguinte [link](https://drive.google.com/drive/folders/1-5CInYKTQq6aYAD0kpk5X4yQG0OTuAnC?usp=sharing) 
+- Proponha pelo menos três métricas para avaliar um projeto de software livre.
+  - A métrica de Complexidade Ciclomática, que verifica o número independente de caminhos no código fonte; A métrica CK, que é voltada para orientaçao de objetos (número de filhos, profundidade em herança, acoplamento de objetos etc); e métrica relacionada a presença de "heroes" no projeto, verificando a dificuldade de novos commiters a contribuirem para o projeto.

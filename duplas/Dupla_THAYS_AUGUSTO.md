@@ -198,3 +198,79 @@ Atividades escolhidas:
 
 	O guia Laravel está no endereço abaixo:
 	https://johnatant.github.io/laraveltherightway/
+
+## Atividade09:
+
+Atividades escolhidas:
+
+-Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+
+	Métodos ágeis são um conjunto de práticas no desenvolvimento de software que visam uma entrega com rapidez e qualidade de produtos, abordando negócios de forma que haja alinhamento das necessidades do cliente, as necessidades da empresa  e o desenvolvimento do projeto.
+
+-Procure um projeto e indique um commit que indique trabalho feito em par, ou seja, um commit que tenha múltiplos autores.
+
+	Commit para o repositório do Django Rest Framework realizado por 3 autores:
+	https://github.com/encode/django-rest-framework/commit/37f210a455cc92cb3f61a23e194a1d0de58d149b
+
+-Procure um projeto e indique um commit que contenha indícios da metodologia TDD (Test Driven Development), ou seja, o desenvolvedor enviou o código fonte com o teste no mesmo commit.
+
+	Aplicação da metodologia TDD no Django:
+	https://github.com/topics/django?q=tdd+methodology&unscoped_q=tdd+methodology
+
+## Atividade10:
+
+Atividade escolhidas:
+
+
+- Por que utilizar testes unitários?
+	O teste unitário deve ser capaz de examinar o comportamento do código de acordo com a entrada e saída de dados 	utilizadas. Utilizar o teste unitário reduz a quantidade de bugs no projeto ao longo da implementação. 
+
+- Quais vantagens de utilizar integração contínua?
+	Testes unitários previnem regressão, pois com uma boa base de testes garante que a introdução de novos métodos não afetam o funcionamento do que já existe; Incentivam a refatoração, já que o processo de refatorar não deve afetar o que o código faz, refactoring consiste em mudar apenas a aparência do código, além disso os testes unitários também podem ser utilizados como documentação.
+
+
+- Adicionar um método e o respectivo teste no projeto calculadora.
+
+https://github.com/wagnernegrao/calculadora-CI/pull/19
+
+## Atividade11:
+
+Atividade escolhidas:
+
+- Explique detalhadamente qual é a diferença entre as métricas "truck factor" e "heroes"
+Truck factor é uma medida utilizada para se determinar o risco que um projeto pode estar correndo caso algum ou mais dos seus participantes não possam mais participar, seja qual for o motivo (inclusive ser atropelado por um caminhão, por isso o nome).
+Dependendo da atuação do membro na equipe, o truck factor pode ser mais alto ou baixo, pois existem pessoas que tem uma participação muito mais alta em um projeto que outras. 
+A métrica de Heroes é aquela utilizada para se determinar se um projeto possui uma porcentagem pequena de colaboradores (do total de participantes) com a maior parte da participação no trabalho. Esses indivíduos são aqueles que justificam a medida do truck factor, pois acabam sendo essenciais para o andamento do projeto. 
+
+- Cite pelo menos três outras métricas de saúde de projetos de software livre
+Defeitos no projeto, é a imperfeição na especificação técnica, no projeto de um componente ou na codificação de um software, que, em determinadas condições, causa uma falha observada. Assim, ao longo do tempo vão aparecendo falhas que constituem a curva de detecção de falhas. Por sua vez, os defeitos também podem ser analisados construindo curva de detecção de defeitos e curva de densidade de defeitos. A observação minuciosa dos defeitos proporcionam a verificação de tendência em direção à qualidade.
+Qualidade total, que proporciona uma visão geral das medidas de qualidade de projeto combinando 4 domínios: arquitetura, projeto, código e teste; com o objetivo de calcular a saúde do projeto.
+O FPA (Function Point Analisys) é a métrica que determina o tamanho e a complexidade de um software. Concentra-se na quantificação da funcionalidade do software e baseia-se na visão do usuário para medir o que é um sistema e o seu tamanho funcional. Também pode medir a relação do sistema com usuários e com outros sistemas.
+
+- Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
+Softwares tradicionais são mantidos por instituições lucrativas que possuem um vínculo financeiro muito forte com seus colaboradores. Os meios utilizados de medir a qualidade desse tipo de software são fortemente dependentes dessa condição, recorrendo à sua estrutura hierárquica lucrativa para determinar aos colaboradores que cumpram com as metas de qualidade definidas. 
+Softwares livres são mantidos, na maior parte, pela contribuição gratuita de pessoas ao redor do mundo. Essa estrutura hierárquica financeira é fraca e na maioria inexistente. Dessa forma , fica muito mais difícil se garantir que um colaborador cumpra uma meta de qualidade (ele faz se ele quiser).
+Outra condição, é que é muito difícil de se medir a qualidade de software livre baseada em commits, pois , muitas vezes, existe muito mais a ser visto na participação de um colaborador que a quantidade de commits que produziu (software livre não depende só do código).
+
+## Atividade12:
+
+Perguntas escolhidas:
+
+1 - Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+2 - Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+3 - Proponha pelo menos três métricas para avaliar um projeto de software livre.
+
+Respostas:
+1- Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+Repositório Libra
+imagem em:
+https://docs.google.com/document/d/1Yjhkf9D_bSLNnaW_QpuR4TtBVtbSkQWE99aWpncVsWs/edit?usp=sharing
+
+2- Proponha pelo menos três métricas para avaliar um projeto de software livre.
+
+Frequência dos códigos (dentro da opção Insights), quantidade de Forks e a data da última atualização. 
+
+3- Informar as métricas de Chidamber-Kemerer de pelo menos 1 projeto usando a ferramenta ck
+
+Não conseguimos rodar o ck.
+
