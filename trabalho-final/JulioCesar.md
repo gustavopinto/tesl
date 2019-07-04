@@ -3,6 +3,7 @@
 * Nome Completo: Julio Cesar Oliveira Carvalho
 * Nível: Graduação
 * Matrícula: 201706840034
+* [Trabalho em Duplas](https://github.com/gustavopinto/tesl/blob/master/duplas/Dupla_André_Julio.md)
 
 ## Realizar tradução:
 
