@@ -15,6 +15,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Reportar bug
 
+* Ícones de Twitter dos autores não carregam corretamente ([Ícone#53](https://github.com/glugmvit/glugmvit.github.io/issues/53) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Links dos botões sociais não redirecionam para as respectivas redes sociais indicadas ([Link#1](https://github.com/phucuongit/vaibekum_pro_1/issues/1) - [@VictorBSI](https://github.com/VictorBSI))
+
 ## Melhorar documentação
 
 - Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
@@ -25,9 +29,15 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+* Tradução da página principal ([Page#43](https://github.com/w3c/wai-intro-accessibility/pull/43) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Tradução do módulo de strings ([Mod#57](https://github.com/centosadmin/redmine_recurring_tasks/pull/57) - [@VictorBSI](https://github.com/VictorBSI))
+
 ## Corrigir bug
 
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
 
 ## Adicionar pequena funcionalidade
 
@@ -62,6 +72,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Botão scroll que permite ao usuário voltar para o topo de uma página ([Botão#51](https://github.com/glugmvit/glugmvit.github.io/pull/51) - [@VictorBSI](https://github.com/VictorBSI))
 
 ## Adicionar grande funcionalidade
 
