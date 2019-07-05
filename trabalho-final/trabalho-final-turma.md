@@ -27,6 +27,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 - Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
 
+- Altera de maíusculo para minúsculo os nomes do meses em pt e pt_BR. ([moment#5158](https://github.com/moment/moment/pull/5158) - [@caiosr](https://github.com/CaioSR)).
+
 ## Adicionar pequena funcionalidade
 
 - Pacote de um componente vue.js para animação de escrita, foi sugerido implementar a possibilidade de simular um cursor "falso", eu implementei como pedido. O cursor foi adicionado com a possibilidade de configurar a velocidade em que ele pisca, cor, formato e além de também adicionar uma classe css para infinitas configurações ([PR #6](https://github.com/trickstival/vue-typing/pull/6) - [@urielfcampos](https://github.com/urielfcampos))
