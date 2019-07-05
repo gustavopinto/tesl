@@ -69,6 +69,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Criação de função para parsing de arquivos JSON para objetos de registro (pymarc.Record) da biblioteca pymarc ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
+* Verifiquei que no projeto [pymarc](https://github.com/edsu/pymarc) havia uma [issue](https://github.com/edsu/pymarc/issues/130) solicitando a modificação de uma função existente na biblioteca. ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/138) - [@souzaluuk](https://github.com/souzaluuk))
+
 ## Adicionar grande funcionalidade
 
 - Um projeto de auxílio para Dungeon masters de rpg de mesa, ele gera cidades e regiões inteiras, uma [issue](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/205), pedia para implementar uma nova funcionalidade que alterava a maneira que cidades eram geradas, incluindo um material de construcao "principal" para aquela cidade, que influencia o material das construções daquela cidade que acabavam ficando complementamente incoerentes por serem escolhidos aleatoriamente sem nenhuma influência da cidade em que se encontravam. Esta geração agora é influenciada pelo tamanho da cidade, riqueza e localização da mesma, depois de gerado, gera-se o material individual de cada construção da cidade, que é influenciada pelo material "principal" da cidade e pela riqueza do dono da construção.([PR #220](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/pull/220) - [@urielfcampos](https://github.com/urielfcampos))
