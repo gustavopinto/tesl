@@ -12,10 +12,12 @@
 ## Traduções 2x (2 pts)
 
 * Traduzi alguns arquivos de documetação do projeto Brython para português brasileiro
-([Brython#1151](https://github.com/brython-dev/brython/pull/1151)).
+([Brython#1151](https://github.com/brython-dev/brython/pull/1151));
 
 * Traduzi (iniciei um processo de tradução) no projeto de um framework de testes em C++ conhecido como [Catch2](https://gihub.com/catchorg/Catch2), pretendo traduzir todos os arquivos de documentação e tutoriais para o português brasileiro. PR [Catch2#1675](https://github.com/catchorg/Catch2/pull/1679).
 
-## Bug Report (1 pt)
+## Bug Report 2x (2 pts)
 
-* ParadisEO aprensenta erros nas execuções de testes do módulo MO, reportado em [ParadisEO#44](https://github.com/nojhan/paradiseo/issues/44).
+* ParadisEO aprensenta erros nas execuções de testes do módulo MO, reportado em [ParadisEO#44](https://github.com/nojhan/paradiseo/issues/44);
+
+* A biblioteca de Funções estatísticas da linguagem Julia apresenta erros em um de seus testes. [StatsFuns#74](https://github.com/JuliaStats/StatsFuns.jl/issues/73).
