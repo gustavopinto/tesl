@@ -31,4 +31,4 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Desenvolver estudo original com artigo sobre software livre
 
-* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub (Dupla com o [@leochrisis](https://github.com/leochrisis), ainda sem link pq não vai dar pra terminar antes de sexta-feira) - [@tavareslucas](https://github.com/tavareslucas)
+* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub [Link para o Artigo](https://drive.google.com/open?id=145ZQaQuj7-0eCAtoYpbKH7sgXB_VZCbg) - (Dupla com o @leochrisis)
