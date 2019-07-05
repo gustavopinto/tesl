@@ -15,7 +15,7 @@
 
 ## Artigo (7 Pts)
 
-* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub (Dupla com o @leochrisis, ainda sem link pq não vai dar pra terminar antes de sexta-feira)
+* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub [Link para o Artigo](https://drive.google.com/open?id=145ZQaQuj7-0eCAtoYpbKH7sgXB_VZCbg) - (Dupla com o @leochrisis)
 
 ## Pontuação
 Tradução: (1 Pt)
