@@ -11,5 +11,5 @@
 
 ## Artigo (7 Pts)
 
-* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub (Dupla @tavareslucas, com data de 
-entrega agendada para sexta-feira.)
+* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub. 
+[link para o arquivo](https://drive.google.com/open?id=145ZQaQuj7-0eCAtoYpbKH7sgXB_VZCbg) (Dupla @tavareslucas)
