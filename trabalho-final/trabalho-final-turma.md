@@ -69,7 +69,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Criação de função para parsing de arquivos JSON para objetos de registro (pymarc.Record) da biblioteca pymarc ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
-* Verifiquei que no projeto [pymarc](https://github.com/edsu/pymarc) havia uma [issue](https://github.com/edsu/pymarc/issues/130) solicitando a modificação de uma função existente na biblioteca. ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/138) - [@souzaluuk](https://github.com/souzaluuk))
+* Verifiquei que no projeto [pymarc](https://github.com/edsu/pymarc) havia uma [issue](https://github.com/edsu/pymarc/issues/130) solicitando a modificação de uma função existente na biblioteca. ([edsu/pymarc#138](https://github.com/edsu/pymarc/pull/138) - [@souzaluuk](https://github.com/souzaluuk))
 
 ## Adicionar grande funcionalidade
 
