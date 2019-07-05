@@ -15,3 +15,7 @@
 ([Brython#1151](https://github.com/brython-dev/brython/pull/1151)).
 
 * Traduzi (iniciei um processo de tradução) no projeto de um framework de testes em C++ conhecido como [Catch2](https://gihub.com/catchorg/Catch2), pretendo traduzir todos os arquivos de documentação e tutoriais para o português brasileiro. PR [Catch2#1675](https://github.com/catchorg/Catch2/pull/1679).
+
+## Bug Report (1 pt)
+
+* ParadisEO aprensenta erros nas execuções de testes do módulo MO, reportado em [ParadisEO#44](https://github.com/nojhan/paradiseo/issues/44).
