@@ -11,7 +11,7 @@
 
 ## Realizar tradução
 
-* Em andamento
+* Tradução de dois arquivos da documentação do [Brython](https://github.com/brython-dev/brython/pull/1154).
 
 ## Adicionar pequena funcionalidade
 
