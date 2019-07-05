@@ -21,9 +21,13 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+* Instructions for setting the config params to enable switching the default language at the nav bar ([beautifulhugo#285](https://github.com/halogenica/beautifulhugo/pull/285) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
 ## Realizar tradução
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Translate most of the Brazilian Portuguese stuff that goes in HTML hyperlinks ([hugo-academic#1121](https://github.com/gcushen/hugo-academic/pull/1121) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
 ## Corrigir bug
 
@@ -63,10 +67,14 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+* Allow pub-sharing buttons configuration to be performed inside the publication's own `index.md` file ([hugo-academic#1131](https://github.com/gcushen/hugo-academic/pull/1131) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
 ## Adicionar grande funcionalidade
 
 - Um projeto de auxílio para Dungeon masters de rpg de mesa, ele gera cidades e regiões inteiras, uma [issue](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/205), pedia para implementar uma nova funcionalidade que alterava a maneira que cidades eram geradas, incluindo um material de construcao "principal" para aquela cidade, que influencia o material das construções daquela cidade que acabavam ficando complementamente incoerentes por serem escolhidos aleatoriamente sem nenhuma influência da cidade em que se encontravam. Esta geração agora é influenciada pelo tamanho da cidade, riqueza e localização da mesma, depois de gerado, gera-se o material individual de cada construção da cidade, que é influenciada pelo material "principal" da cidade e pela riqueza do dono da construção.([PR #220](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/pull/220) - [@urielfcampos](https://github.com/urielfcampos))
 
+* New members section layout ([beautifulhugo#287](https://github.com/halogenica/beautifulhugo/pull/287) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
+* New publications section layout ([beautifulhugo#286](https://github.com/halogenica/beautifulhugo/pull/286) - [@cassiobatista](https://github.com/cassiobatista/))
 
 ## Desenvolver estudo original com artigo sobre software livre
