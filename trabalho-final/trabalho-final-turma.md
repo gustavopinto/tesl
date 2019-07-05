@@ -1,6 +1,6 @@
 # Trabalho Final - Turma
 
-Esse arquivo compila **todas as colaborações*- realizadas pela turma durante a realização do trabalho final.
+Esse arquivo compila **todas as colaborações** realizadas pela turma durante a realização do trabalho final.
 O propósito deste arquivo é permitir uma visão global de tudo o que foi desenvolvido, de maneira simples e rápida.
 
 As colaborações estão divididas por tipos, conforme estabelecido na [especificação do trabalho final](../trabalho-final.md), e devem seguir o seguinte padrão:
