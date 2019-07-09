@@ -78,3 +78,4 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * New publications section layout ([beautifulhugo#286](https://github.com/halogenica/beautifulhugo/pull/286) - [@cassiobatista](https://github.com/cassiobatista/))
 
 ## Desenvolver estudo original com artigo sobre software livre
+* Processo de Desenvolvimento em Projetos Open Source: Um Estudo Observacional ([download](https://github.com/gustavopinto/tesl/files/3368976/Artigo.TESL.-.Andre.e.Thayssa.pdf) - [@ThayssaRocha](https://github.com/ThayssaRocha) e [@andremp93](https://github.com/andremp93))
