@@ -10,3 +10,4 @@
 
 ## Realizar Tradução
 * Tradução para o portugues de um arquivo do blog do nodejs. [Pull Request](https://github.com/nodejs/nodejs.org/pull/2325)
+* Tradução para o portugues de um arquivo de mensagens do aspia [Pull Request] (https://github.com/dchapyshev/aspia/pull/76)
