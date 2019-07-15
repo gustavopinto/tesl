@@ -12,3 +12,5 @@
 ## Correção de bug
 
 * Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537)).
+
+* Altera de maíusculo para minúsculo os nomes do meses em pt e pt_BR. ([moment#5158](https://github.com/moment/moment/pull/5158)).
