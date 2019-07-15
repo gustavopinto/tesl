@@ -23,11 +23,19 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Instructions for setting the config params to enable switching the default language at the nav bar ([beautifulhugo#285](https://github.com/halogenica/beautifulhugo/pull/285) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
+* Documentação melhorada do projeto calourada-bootstrap ([calourada-bootstrap#1](https://github.com/JonatasFAlves/calourada-bootstrap/pull/1) - [@juliocesark](https://github.com/juliocesark))
+
+* Documentação melhorada do projeto peludinhos ([peludinhos#3](https://github.com/getacesupa/peludinhos/pull/3) - [@juliocesark](https://github.com/juliocesark))
+
 ## Realizar tradução
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Translate most of the Brazilian Portuguese stuff that goes in HTML hyperlinks ([hugo-academic#1121](https://github.com/gcushen/hugo-academic/pull/1121) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
+* Foi realizado a tradução da documentação do projeto BlindChat ([BlindChat#33](https://github.com/mayukh18/BlindChat/pull/33) - [@juliocesark](https://github.com/juliocesark))
+
+* Foi realizado a tradução da documentação do projeto python-blogs ([python-blogs#240](https://github.com/python-gsoc/python-blogs/pull/240) - [@juliocesark](https://github.com/juliocesark))
 
 ## Corrigir bug
 
@@ -68,6 +76,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Allow pub-sharing buttons configuration to be performed inside the publication's own `index.md` file ([hugo-academic#1131](https://github.com/gcushen/hugo-academic/pull/1131) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
+* Foi retirado o modal que estava apenas com texto, e adicionado 2 botões para redes sociais ao lado de "contate-me" para que ficasse melhor visualizado na página. E para o desenvolvimento desses botões foi utilizado o repositório [bootstrap-social](https://github.com/lipis/bootstrap-social). Essa pequena funcionalidade foi implementada no projeto calourada-bootstrap ([calourada-bootstrap#2](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2) - [@juliocesark](https://github.com/juliocesark))
+
+* Adicionado um novo botão de compartilhar utilizando modal para apresentar os links de compartilhamento referente a redes socias no projeto photo-share (([photo-share#1](https://github.com/JonatasFAlves/photo-share/pull/1)) e ([photo-share#2](https://github.com/JonatasFAlves/photo-share/pull/2)) - [@juliocesark](https://github.com/juliocesark))
 
 ## Adicionar grande funcionalidade
 
