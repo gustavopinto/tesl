@@ -271,3 +271,36 @@ solicitações.
   
   Todas as métricas supracitadas não podem ser bem aproveitadas justamente devido ao fato de elas se restringirem a observação de aparentes contribuições (commits, pull requests, etc) o que não permite levar em consideração fatores externos que possam acometer o projeto (problemas pessoais, etc).
 
+### Atividade 11
+
+- Informar o LOC de pelo menos 1 projeto usando a ferramenta cloc
+
+  Projeto escolhido: [Angular](https://github.com/angular)
+  
+  ```
+  github.com/AlDanial/cloc v 1.83  T=14.01 s (425.2 files/s, 59504.7 lines/s)
+  -----------------------------------------------------------------------------------
+  Language                         files          blank        comment           code
+  -----------------------------------------------------------------------------------
+  TypeScript                        4193          71706          85558         398048
+  JavaScript                         434          24591          27928         111346
+  Markdown                           249          23447              0          42391
+  JSON                               343             71              0          16136
+  HTML                               448           1517           1272           9649
+  CSS                                100            972            163           5506
+  Sass                                49            693             76           3649
+  Starlark                            21            411            763           1943
+  SVG                                 43              3             11           1394
+  Bourne Shell                        53            343            352           1214
+  YAML                                 4             73            263            667
+  Bourne Again Shell                   6             45             34            291
+  XML                                  5              0              0            201
+  Dockerfile                           2             43             44            154
+  Pascal                               1             40            130            109
+  Windows Resource File                2             12              0             56
+  Protocol Buffers                     1              9             27             15
+  diff                                 1              0              5              6
+  -----------------------------------------------------------------------------------
+  SUM:                              5955         123976         116626         592775
+  -----------------------------------------------------------------------------------
+  ```
