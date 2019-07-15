@@ -21,13 +21,27 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+
 * Correção de exemplos que retornavam erros, presentes no README ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
+
+* Instructions for setting the config params to enable switching the default language at the nav bar ([beautifulhugo#285](https://github.com/halogenica/beautifulhugo/pull/285) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
+* Documentação melhorada do projeto calourada-bootstrap ([calourada-bootstrap#1](https://github.com/JonatasFAlves/calourada-bootstrap/pull/1) - [@juliocesark](https://github.com/juliocesark))
+
+* Documentação melhorada do projeto peludinhos ([peludinhos#3](https://github.com/getacesupa/peludinhos/pull/3) - [@juliocesark](https://github.com/juliocesark))
+
 
 ## Realizar tradução
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Adição de README em pt_Br para biblioteca python `pymarc` ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
+
+* Translate most of the Brazilian Portuguese stuff that goes in HTML hyperlinks ([hugo-academic#1121](https://github.com/gcushen/hugo-academic/pull/1121) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
+* Foi realizado a tradução da documentação do projeto BlindChat ([BlindChat#33](https://github.com/mayukh18/BlindChat/pull/33) - [@juliocesark](https://github.com/juliocesark))
+
+* Foi realizado a tradução da documentação do projeto python-blogs ([python-blogs#240](https://github.com/python-gsoc/python-blogs/pull/240) - [@juliocesark](https://github.com/juliocesark))
 
 ## Corrigir bug
 
@@ -71,10 +85,25 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Verifiquei que no projeto [pymarc](https://github.com/edsu/pymarc) havia uma [issue](https://github.com/edsu/pymarc/issues/130) solicitando a modificação de uma função existente na biblioteca. ([edsu/pymarc#138](https://github.com/edsu/pymarc/pull/138) - [@souzaluuk](https://github.com/souzaluuk))
 
+* Allow pub-sharing buttons configuration to be performed inside the publication's own `index.md` file ([hugo-academic#1131](https://github.com/gcushen/hugo-academic/pull/1131) - [@cassiobatista](https://github.com/cassiobatista/)) 
+
+* Foi retirado o modal que estava apenas com texto, e adicionado 2 botões para redes sociais ao lado de "contate-me" para que ficasse melhor visualizado na página. E para o desenvolvimento desses botões foi utilizado o repositório [bootstrap-social](https://github.com/lipis/bootstrap-social). Essa pequena funcionalidade foi implementada no projeto calourada-bootstrap ([calourada-bootstrap#2](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2) - [@juliocesark](https://github.com/juliocesark))
+
+* Adicionado um novo botão de compartilhar utilizando modal para apresentar os links de compartilhamento referente a redes socias no projeto photo-share (([photo-share#1](https://github.com/JonatasFAlves/photo-share/pull/1)) e ([photo-share#2](https://github.com/JonatasFAlves/photo-share/pull/2)) - [@juliocesark](https://github.com/juliocesark))
+
 ## Adicionar grande funcionalidade
 
 - Um projeto de auxílio para Dungeon masters de rpg de mesa, ele gera cidades e regiões inteiras, uma [issue](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/205), pedia para implementar uma nova funcionalidade que alterava a maneira que cidades eram geradas, incluindo um material de construcao "principal" para aquela cidade, que influencia o material das construções daquela cidade que acabavam ficando complementamente incoerentes por serem escolhidos aleatoriamente sem nenhuma influência da cidade em que se encontravam. Esta geração agora é influenciada pelo tamanho da cidade, riqueza e localização da mesma, depois de gerado, gera-se o material individual de cada construção da cidade, que é influenciada pelo material "principal" da cidade e pela riqueza do dono da construção.([PR #220](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/pull/220) - [@urielfcampos](https://github.com/urielfcampos))
 
+* New members section layout ([beautifulhugo#287](https://github.com/halogenica/beautifulhugo/pull/287) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
+* New publications section layout ([beautifulhugo#286](https://github.com/halogenica/beautifulhugo/pull/286) - [@cassiobatista](https://github.com/cassiobatista/))
+
+* Inclusão de um novo algoritmo de embedding - redução da dimensionalidade de dados em alta dimensão - na biblioteca de machine learning Scikit-learn ([A new manifold learning algorithm #14239](https://github.com/scikit-learn/scikit-learn/pull/14239) - [@elgrably](https://github.com/Elgrably), [@caioMFRodrigues](https://github.com/CaioMFRodrigues))
 
 ## Desenvolver estudo original com artigo sobre software livre
+
+* Mapeamento de Ferramentas e Frameworks de Testes utilizando Mineração de Repositórios no GitHub ([@elgrably](https://github.com/Elgrably), [@caioMFRodrigues](https://github.com/CaioMFRodrigues))
+
+* Processo de Desenvolvimento em Projetos Open Source: Um Estudo Observacional ([download](https://github.com/gustavopinto/tesl/files/3368976/Artigo.TESL.-.Andre.e.Thayssa.pdf) - [@ThayssaRocha](https://github.com/ThayssaRocha) e [@andremp93](https://github.com/andremp93))
+
