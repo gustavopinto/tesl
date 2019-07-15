@@ -21,15 +21,21 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+
+* Correção de exemplos que retornavam erros, presentes no README ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
+
 * Instructions for setting the config params to enable switching the default language at the nav bar ([beautifulhugo#285](https://github.com/halogenica/beautifulhugo/pull/285) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
 * Documentação melhorada do projeto calourada-bootstrap ([calourada-bootstrap#1](https://github.com/JonatasFAlves/calourada-bootstrap/pull/1) - [@juliocesark](https://github.com/juliocesark))
 
 * Documentação melhorada do projeto peludinhos ([peludinhos#3](https://github.com/getacesupa/peludinhos/pull/3) - [@juliocesark](https://github.com/juliocesark))
 
+
 ## Realizar tradução
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Adição de README em pt_Br para biblioteca python `pymarc` ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
 * Translate most of the Brazilian Portuguese stuff that goes in HTML hyperlinks ([hugo-academic#1121](https://github.com/gcushen/hugo-academic/pull/1121) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
@@ -74,6 +80,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Adição do icone do Apache Flink ao repositorio Simple Icons ([simple-icons/simple-icons#1507](https://github.com/simple-icons/simple-icons/pull/1507) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Criação de função para parsing de arquivos JSON para objetos de registro (pymarc.Record) da biblioteca pymarc ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
+
+* Verifiquei que no projeto [pymarc](https://github.com/edsu/pymarc) havia uma [issue](https://github.com/edsu/pymarc/issues/130) solicitando a modificação de uma função existente na biblioteca. ([edsu/pymarc#138](https://github.com/edsu/pymarc/pull/138) - [@souzaluuk](https://github.com/souzaluuk))
 
 * Allow pub-sharing buttons configuration to be performed inside the publication's own `index.md` file ([hugo-academic#1131](https://github.com/gcushen/hugo-academic/pull/1131) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
