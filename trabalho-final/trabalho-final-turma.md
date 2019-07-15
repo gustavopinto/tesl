@@ -24,7 +24,6 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
-
 * Correção de exemplos que retornavam erros, presentes no README ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
 * Instructions for setting the config params to enable switching the default language at the nav bar ([beautifulhugo#285](https://github.com/halogenica/beautifulhugo/pull/285) - [@cassiobatista](https://github.com/cassiobatista/)) 
@@ -32,6 +31,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Documentação melhorada do projeto calourada-bootstrap ([calourada-bootstrap#1](https://github.com/JonatasFAlves/calourada-bootstrap/pull/1) - [@juliocesark](https://github.com/juliocesark))
 
 * Documentação melhorada do projeto peludinhos ([peludinhos#3](https://github.com/getacesupa/peludinhos/pull/3) - [@juliocesark](https://github.com/juliocesark))
+
+* Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
 
 ## Realizar tradução
@@ -47,6 +48,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Foi realizado a tradução da documentação do projeto BlindChat ([BlindChat#33](https://github.com/mayukh18/BlindChat/pull/33) - [@juliocesark](https://github.com/juliocesark))
 
 * Foi realizado a tradução da documentação do projeto python-blogs ([python-blogs#240](https://github.com/python-gsoc/python-blogs/pull/240) - [@juliocesark](https://github.com/juliocesark))
+
+* Tradução para o portugues de um arquivo do blog do nodejs ([Nodejs#2325](https://github.com/nodejs/nodejs.org/pull/2325) - [@thayssarocha](https://github.com/thayssarocha))
+
+* Tradução para o portugues de um arquivo de mensagens do aspia ([aspia#76](https://github.com/dchapyshev/aspia/pull/76) - [@thayssarocha](https://github.com/thayssarocha))
 
 ## Corrigir bug
 
