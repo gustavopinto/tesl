@@ -36,6 +36,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Realizar tradução
 
+* Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
+
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Adição de README em pt_Br para biblioteca python `pymarc` ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
@@ -54,6 +56,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 ## Adicionar pequena funcionalidade
+
+* Adição de 3 modulos de tradução para o projeto langplusplus. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
 
 - Pacote de um componente vue.js para animação de escrita, foi sugerido implementar a possibilidade de simular um cursor "falso", eu implementei como pedido. O cursor foi adicionado com a possibilidade de configurar a velocidade em que ele pisca, cor, formato e além de também adicionar uma classe css para infinitas configurações ([PR #6](https://github.com/trickstival/vue-typing/pull/6) - [@urielfcampos](https://github.com/urielfcampos))
 - Aponta qual o comentário com melhores reações (baseado em uma heurística simples) em uma issue do GitHub para facilitar encontrar possíveis respostas ou destaques importantes de se ler ([sindresorhus/refined-github#2108](https://github.com/sindresorhus/refined-github/pull/2108) - [@lubien](https://github.com/lubien)).
@@ -113,7 +117,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Desenvolver estudo original com artigo sobre software livre
 
+* Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub [Link para o Artigo](https://drive.google.com/open?id=145ZQaQuj7-0eCAtoYpbKH7sgXB_VZCbg) - (Dupla com o @leochrisis)
+
 * Mapeamento de Ferramentas e Frameworks de Testes utilizando Mineração de Repositórios no GitHub ([@elgrably](https://github.com/Elgrably), [@caioMFRodrigues](https://github.com/CaioMFRodrigues))
 
 * Processo de Desenvolvimento em Projetos Open Source: Um Estudo Observacional ([download](https://github.com/gustavopinto/tesl/files/3368976/Artigo.TESL.-.Andre.e.Thayssa.pdf) - [@ThayssaRocha](https://github.com/ThayssaRocha) e [@andremp93](https://github.com/andremp93))
-
