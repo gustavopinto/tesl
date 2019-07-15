@@ -89,5 +89,11 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * New publications section layout ([beautifulhugo#286](https://github.com/halogenica/beautifulhugo/pull/286) - [@cassiobatista](https://github.com/cassiobatista/))
 
+* Inclusão de um novo algoritmo de embedding - redução da dimensionalidade de dados em alta dimensão - na biblioteca de machine learning Scikit-learn ([A new manifold learning algorithm #14239](https://github.com/scikit-learn/scikit-learn/pull/14239) - [@elgrably](https://github.com/Elgrably), [@caioMFRodrigues](https://github.com/CaioMFRodrigues))
+
 ## Desenvolver estudo original com artigo sobre software livre
+
+* Mapeamento de Ferramentas e Frameworks de Testes utilizando Mineração de Repositórios no GitHub ([@elgrably](https://github.com/Elgrably), [@caioMFRodrigues](https://github.com/CaioMFRodrigues))
+
 * Processo de Desenvolvimento em Projetos Open Source: Um Estudo Observacional ([download](https://github.com/gustavopinto/tesl/files/3368976/Artigo.TESL.-.Andre.e.Thayssa.pdf) - [@ThayssaRocha](https://github.com/ThayssaRocha) e [@andremp93](https://github.com/andremp93))
+
