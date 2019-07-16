@@ -100,6 +100,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Tradução para portugues de 1 arquivo da documentação do projeto Nuxtjs ([nuxt/docs#1474](https://github.com/nuxt/docs/pull/1474) - [@wagnernegrao](https://github.com/wagnernegrao))
 
+* Tradução de dois arquivos da documentação do ([Brython#1154](https://github.com/brython-dev/brython/pull/1154) - [@kellydosocorro](https://github.com/kellydosocorro))
+
 * Traduzi alguns arquivos de documetação do projeto Brython para português brasileiro.
 ([Brython#1151](https://github.com/brython-dev/brython/pull/1151) - [@pinho](https://github.com/pinho));
 
@@ -120,6 +122,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Correção de alguns erros no exemplo fornecido em uma documentação do ([PADE#13](https://github.com/grei-ufc/pade/pull/13) - [@kellydosocorro](https://github.com/kellydosocorro))
 
 * Foi criada uma página e redirecionado o link inválido. O link agora redireciona para uma página espeficica destinada ao proposito. ([pokemongovet#90](https://github.com/pokemongovet/pokemongovet.github.io/pull/90) - [@Reinald28](https://github.com/reinald28))
 
@@ -190,6 +194,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Automação de criação de traduções ([PR #195](https://github.com/whyboris/Video-Hub-App/pull/195) - [@lakshamana](https://github.com/lakshamana))
 
 * Criação de tradução para o programa Video-Hub-App ([PR #193](https://github.com/whyboris/Video-Hub-App/pull/193) - [@lakshamana](https://github.com/lakshamana))
+
+* Adiciona a funcionalidade de retornar para o tamanho de fonte padrão em uma página HTML ([acessibilidade#2](https://github.com/lucianobragaweb/acessibilidade/pull/2) - [@kellydosocorro](https://github.com/kellydosocorro))
 
 * Foi criado uma página de contato para o projeto com envio de e-mail. ([pokemongovet#79](https://github.com/pokemongovet/pokemongovet.github.io/pull/79) - [@Reinald28](https://github.com/reinald28))
 
