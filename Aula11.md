@@ -20,4 +20,3 @@
 - Cite pelo menos tês outras métricas de saúde de projetos de software livre
 - Explique porque os meios para medir qualidade de um projeto de software "tradicional" tem pouca aderência em projetos de software livre?
 - Cite pelo menos três métricas que não são indicadas para avaliar a saúde de um projeto de software livre?
-- 
