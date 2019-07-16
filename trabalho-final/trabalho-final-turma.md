@@ -13,7 +13,7 @@ Por exemplo:
 
 Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
-## Reportar bug
+## Reportar bug (6)
 
 * Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK - [@eriicf](https://github.com/eriicf/)
 
@@ -28,7 +28,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * O desenvolvedor não seleciona os arquivos específicos a serem publicados com o pacote gerando uma build com peso desnecessário ([pandrRe/Fastable#2](https://github.com/pandrRe/Fastable/issues/2) - [@lubien](https://github.com/lubien)).
 
 
-## Melhorar documentação
+## Melhorar documentação (11)
 
 * Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
 
@@ -52,7 +52,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
-## Realizar tradução
+## Realizar tradução (13)
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -80,7 +80,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Tradução para o portugues de um arquivo de mensagens do aspia ([aspia#76](https://github.com/dchapyshev/aspia/pull/76) - [@thayssarocha](https://github.com/thayssarocha))
 
-## Corrigir bug
+## Corrigir bug (7)
 
 * Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
 
@@ -96,7 +96,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
 
-## Adicionar pequena funcionalidade
+## Adicionar pequena funcionalidade (27)
 
 * Adição de 3 modulos de tradução para o projeto langplusplus. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -152,7 +152,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado um novo botão de compartilhar utilizando modal para apresentar os links de compartilhamento referente a redes socias no projeto photo-share (([photo-share#1](https://github.com/JonatasFAlves/photo-share/pull/1)) e ([photo-share#2](https://github.com/JonatasFAlves/photo-share/pull/2)) - [@juliocesark](https://github.com/juliocesark))
 
-## Adicionar grande funcionalidade
+## Adicionar grande funcionalidade (5)
 
 * Um projeto de auxílio para Dungeon masters de rpg de mesa, ele gera cidades e regiões inteiras, uma [issue](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/205), pedia para implementar uma nova funcionalidade que alterava a maneira que cidades eram geradas, incluindo um material de construcao "principal" para aquela cidade, que influencia o material das construções daquela cidade que acabavam ficando complementamente incoerentes por serem escolhidos aleatoriamente sem nenhuma influência da cidade em que se encontravam. Esta geração agora é influenciada pelo tamanho da cidade, riqueza e localização da mesma, depois de gerado, gera-se o material individual de cada construção da cidade, que é influenciada pelo material "principal" da cidade e pela riqueza do dono da construção.([PR #220](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/pull/220) - [@urielfcampos](https://github.com/urielfcampos))
 
@@ -164,7 +164,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Inclusão de um novo algoritmo de embedding - redução da dimensionalidade de dados em alta dimensão - na biblioteca de machine learning Scikit-learn ([A new manifold learning algorithm #14239](https://github.com/scikit-learn/scikit-learn/pull/14239) - [@elgrably](https://github.com/Elgrably), [@caioMFRodrigues](https://github.com/CaioMFRodrigues))
 
-## Desenvolver estudo original com artigo sobre software livre
+## Desenvolver estudo original com artigo sobre software livre (3)
 
 * Artigo sobre análise quantitativa de testes usando o SonarQube em repositórios do GitHub [Link para o Artigo](https://drive.google.com/open?id=145ZQaQuj7-0eCAtoYpbKH7sgXB_VZCbg) - (Dupla com o @leochrisis)
 
