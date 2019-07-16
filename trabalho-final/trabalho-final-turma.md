@@ -29,6 +29,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Esse projeto está pegando projetos com tag *good first issue* , porém com isses que já estão sendo respondidas e postando no twitter para formentar novos contribuidores naquela isse ([arshadkazmi42/first-issues#51](https://github.com/arshadkazmi42/first-issues/issues/51) - [@wagnernegrao](https://github.com/wagnernegrao))
 
+* Foi reportado um bug de um link para uma página inválida. ([issue](https://github.com/pokemongovet/pokemongovet.github.io/issues/78) - [@Reinald28](https://github.com/reinald28))
+
 * Foi aberta uma issue para reportar que o ParadisEO aprensenta erros nas execuções de testes do módulo MO ([ParadisEO#44](https://github.com/nojhan/paradiseo/issues/44) - [@pinho](https://github.com/pinho));
 
 
@@ -57,6 +59,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
 * Modificando os arquivos `.rst` para `.md`, do projeto cookiecutter ([cookiecutter#1185](https://github.com/cookiecutter/cookiecutter/pull/1185) - [@wagnernegrao](https://github.com/wagnernegrao))
+
+* Foi movido uma nota de explicação, sobre uma polemica que envolvia uma página do projeto, para um arquivo especifico .md fora do código HTML do projeto. ([pokemongovet#88](https://github.com/pokemongovet/pokemongovet.github.io/pull/88) - [@Reinald28](https://github.com/reinald28))
+
+* Foi intruduzido o trecho: Como contribuir no projeto ([web_blog#2](https://github.com/wescley/web_blog/pull/2) - [@Reinald28](https://github.com/reinald28))
 
 * Arquivos Markdown são mais fáceis para trabalhar, uma [issue](https://github.com/cookiecutter/cookiecutter/issues/1179) no projeto [Cookiecutter](https://github.com/cookiecutter/cookiecutter) pede para converter os arquivos de doc .rst para .md. ([Cookiecutter#1188](https://github.com/cookiecutter/cookiecutter/pull/1188) - [@pinho](https://github.com/pinho)).
 
@@ -114,6 +120,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Foi criada uma página e redirecionado o link inválido. O link agora redireciona para uma página espeficica destinada ao proposito. ([pokemongovet#90](https://github.com/pokemongovet/pokemongovet.github.io/pull/90) - [@Reinald28](https://github.com/reinald28))
 
 * Includes absolutos nos códigos fontes do módulo EO causava inconsistência na inclusão desse módulo no código fonte do usuário. Mudei para includes relativos dentro dos códigos fontes e acabaram todos os erros de compilação. ([ParadisEO#43](https://github.com/nojhan/paradiseo/pull/43) - [@pinho](https://github.com/pinho)).
 
@@ -182,6 +190,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Automação de criação de traduções ([PR #195](https://github.com/whyboris/Video-Hub-App/pull/195) - [@lakshamana](https://github.com/lakshamana))
 
 * Criação de tradução para o programa Video-Hub-App ([PR #193](https://github.com/whyboris/Video-Hub-App/pull/193) - [@lakshamana](https://github.com/lakshamana))
+
+* Foi criado uma página de contato para o projeto com envio de e-mail. ([pokemongovet#79](https://github.com/pokemongovet/pokemongovet.github.io/pull/79) - [@Reinald28](https://github.com/reinald28))
 
 ## Adicionar grande funcionalidade (5)
 
