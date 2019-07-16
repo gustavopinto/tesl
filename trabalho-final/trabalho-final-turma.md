@@ -50,6 +50,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Documentação melhorada do projeto peludinhos ([peludinhos#3](https://github.com/getacesupa/peludinhos/pull/3) - [@juliocesark](https://github.com/juliocesark))
 
+* Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
+
 ## Realizar tradução
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
@@ -73,6 +75,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Foi realizado a tradução da documentação do projeto BlindChat ([BlindChat#33](https://github.com/mayukh18/BlindChat/pull/33) - [@juliocesark](https://github.com/juliocesark))
 
 * Foi realizado a tradução da documentação do projeto python-blogs ([python-blogs#240](https://github.com/python-gsoc/python-blogs/pull/240) - [@juliocesark](https://github.com/juliocesark))
+
+* Tradução para o portugues de um arquivo do blog do nodejs ([Nodejs#2325](https://github.com/nodejs/nodejs.org/pull/2325) - [@thayssarocha](https://github.com/thayssarocha))
+
+* Tradução para o portugues de um arquivo de mensagens do aspia ([aspia#76](https://github.com/dchapyshev/aspia/pull/76) - [@thayssarocha](https://github.com/thayssarocha))
 
 ## Corrigir bug
 
