@@ -52,7 +52,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
-## Realizar tradução (13)
+* Adicão de página de documentação com instruções de instalação de dependências para compilar MuseScore ([página](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-archlinux-based-distros-git) - [@lakshamana](https://github.com/lakshamana))
+
+## Realizar tradução (14)
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -95,6 +97,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Bug fix para o projeto MuseScore ([PR #5171](https://github.com/musescore/MuseScore/pull/5171) - [@lakshamana](https://github.com/lakshamana))
+
+* Bug fix para o projeto mxgraph ([PR #4](https://bitbucket.org/jgraph/mxgraph2/pull-requests/4/fix-issue-331/diff) - [@lakshamana](https://github.com/lakshamana))
 
 ## Adicionar pequena funcionalidade (27)
 
@@ -151,6 +157,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Foi retirado o modal que estava apenas com texto, e adicionado 2 botões para redes sociais ao lado de "contate-me" para que ficasse melhor visualizado na página. E para o desenvolvimento desses botões foi utilizado o repositório [bootstrap-social](https://github.com/lipis/bootstrap-social). Essa pequena funcionalidade foi implementada no projeto calourada-bootstrap ([calourada-bootstrap#2](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2) - [@juliocesark](https://github.com/juliocesark))
 
 * Adicionado um novo botão de compartilhar utilizando modal para apresentar os links de compartilhamento referente a redes socias no projeto photo-share (([photo-share#1](https://github.com/JonatasFAlves/photo-share/pull/1)) e ([photo-share#2](https://github.com/JonatasFAlves/photo-share/pull/2)) - [@juliocesark](https://github.com/juliocesark))
+
+* Automação de criação de traduções ([PR #195](https://github.com/whyboris/Video-Hub-App/pull/195) - [@lakshamana](https://github.com/lakshamana))
+
+* Criação de tradução para o programa Video-Hub-App ([PR #193](https://github.com/whyboris/Video-Hub-App/pull/193) - [@lakshamana](https://github.com/lakshamana))
 
 ## Adicionar grande funcionalidade (5)
 
