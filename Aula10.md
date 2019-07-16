@@ -2,7 +2,11 @@
 
 ## Material extra
 
-- Links no Slide.
+- https://docs.pytest.org/en/latest/contents.html
+- https://travis-ci.org/
+- [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+- [Continous Integration Theather](http://gustavopinto.org/lost+found/esem2019b.pdf)
+- [Automated Reporting of Anti-Patterns and Decay in Continuous Integration](https://zenodo.org/record/2578271#.XS2qpHvQ_MI)
 
 ## Slides
 
