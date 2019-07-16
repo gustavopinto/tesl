@@ -30,7 +30,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Esse projeto está pegando projetos com tag *good first issue* , porém com isses que já estão sendo respondidas e postando no twitter para formentar novos contribuidores naquela isse ([arshadkazmi42/first-issues#51](https://github.com/arshadkazmi42/first-issues/issues/51) - [@wagnernegrao](https://github.com/wagnernegrao))
 
 
-## Melhorar documentação (12)
+## Melhorar documentação (13)
 
 * Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
 
@@ -57,6 +57,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Modificando os arquivos `.rst` para `.md`, do projeto cookiecutter ([cookiecutter#1185](https://github.com/cookiecutter/cookiecutter/pull/1185) - [@wagnernegrao](https://github.com/wagnernegrao))
 
 ## Realizar tradução (15)
+
+* Adicão de página de documentação com instruções de instalação de dependências para compilar MuseScore ([página](https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-archlinux-based-distros-git) - [@lakshamana](https://github.com/lakshamana))
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -105,6 +107,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
 
 ## Adicionar pequena funcionalidade (28)
+
+* Bug fix para o projeto MuseScore ([PR #5171](https://github.com/musescore/MuseScore/pull/5171) - [@lakshamana](https://github.com/lakshamana))
+
+* Bug fix para o projeto mxgraph ([PR #4](https://bitbucket.org/jgraph/mxgraph2/pull-requests/4/fix-issue-331/diff) - [@lakshamana](https://github.com/lakshamana))
 
 * Adição de 3 modulos de tradução para o projeto langplusplus. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -162,6 +168,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado metodo div para autograd ([OpenMined/PySyft#2337](https://github.com/OpenMined/PySyft/pull/2337) - [@wagnernegrao](https://github.com/wagnernegrao))
 
+* Automação de criação de traduções ([PR #195](https://github.com/whyboris/Video-Hub-App/pull/195) - [@lakshamana](https://github.com/lakshamana))
+
+* Criação de tradução para o programa Video-Hub-App ([PR #193](https://github.com/whyboris/Video-Hub-App/pull/193) - [@lakshamana](https://github.com/lakshamana))
 
 ## Adicionar grande funcionalidade (5)
 
