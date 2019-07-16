@@ -5,24 +5,42 @@ O propósito deste arquivo é permitir uma visão global de tudo o que foi desen
 
 As colaborações estão divididas por tipos, conforme estabelecido na [especificação do trabalho final](../trabalho-final.md), e devem seguir o seguinte padrão:
 
-`- frase descrevendo o que foi feito ([link para a colaboração]() - [@usuario]())`
+`* frase descrevendo o que foi feito ([link para a colaboração]() - [@usuario]())`
 
 Por exemplo:
 
-- Permite que o OpenDSSDirect busque o caminho para o GCC independente da distribuição ([OpenDSSDirect#24](https://github.com/Muxelmann/OpenDSSDirect.make/pull/24) - [@filipesaraiva](https://github.com/filipesaraiva))
+* Permite que o OpenDSSDirect busque o caminho para o GCC independente da distribuição ([OpenDSSDirect#24](https://github.com/Muxelmann/OpenDSSDirect.make/pull/24) - [@filipesaraiva](https://github.com/filipesaraiva))
 
 Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Reportar bug
 
-- Mesmo quando usado um token pessoal, a CLI pede usuário e senha ([mathdroid/crop-github-images-cli#5](https://github.com/mathdroid/crop-github-images-cli/issues/5) - [@lubien](https://github.com/lubien)).
-- O desenvolvedor não seleciona os arquivos específicos a serem publicados com o pacote gerando uma build com peso desnecessário ([pandrRe/Fastable#2](https://github.com/pandrRe/Fastable/issues/2) - [@lubien](https://github.com/lubien)).
+* Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK - [@eriicf](https://github.com/eriicf/)
+
+* Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência - [@eriicf](https://github.com/eriicf/)
+
+* Ícones de Twitter dos autores não carregam corretamente ([Ícone#53](https://github.com/glugmvit/glugmvit.github.io/issues/53) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Links dos botões sociais não redirecionam para as respectivas redes sociais indicadas ([Link#1](https://github.com/phucuongit/vaibekum_pro_1/issues/1) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Mesmo quando usado um token pessoal, a CLI pede usuário e senha ([mathdroid/crop-github-images-cli#5](https://github.com/mathdroid/crop-github-images-cli/issues/5) - [@lubien](https://github.com/lubien)).
+
+* O desenvolvedor não seleciona os arquivos específicos a serem publicados com o pacote gerando uma build com peso desnecessário ([pandrRe/Fastable#2](https://github.com/pandrRe/Fastable/issues/2) - [@lubien](https://github.com/lubien)).
+
 
 ## Melhorar documentação
 
-- Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
+* Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
+
+* Adiciona um header com informações da versão atual e do autor em um arquivo dos arquivos principais do projeto ([moment#5153](https://github.com/moment/moment/pull/5153) - [@caiosr](https://github.com/CaioSR))
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Foi feito o [pull request](https://github.com/DivulgacaoCientifica/divulgacaocientifica/pull/15) para a atualização da lista de podcast, melhorando assim a documentação - [@eriicf](https://github.com/eriicf/)
+
+* Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) para a criação do arquivo de licença, criação do arquivo contributing e melhora do arquivo readme - [@eriicf](https://github.com/eriicf/)
+
+* Adição de um passo na configuração do ConEmu [Pull Request](https://github.com/LazoCoder/Pokemon-Terminal/pull/173) - [AndreMP93](https://github.com/AndreMP93)
 
 * Correção de exemplos que retornavam erros, presentes no README ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
@@ -34,12 +52,21 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
-
 ## Realizar tradução
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Foi feito o [pull request](https://github.com/okkur/syna/pull/573) para a tradução PT-BR do tema Syna - [@eriicf](https://github.com/eriicf/)
+
+* Foi feito o [pull request](https://github.com/budparr/gohugo-theme-ananke/pull/179) para a tradução PT-BR do tema Ananke - [@eriicf](https://github.com/eriicf/)
+
+* Tradução da página principal ([Page#43](https://github.com/w3c/wai-intro-accessibility/pull/43) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Tradução do módulo de strings ([Mod#57](https://github.com/centosadmin/redmine_recurring_tasks/pull/57) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Adição do Idioma portugues para o aplicativo RunnersField. [Pull Request](https://github.com/kopa/RunnersField/pull/13) - [AndreMP93](https://github.com/AndreMP93)
 
 * Adição de README em pt_Br para biblioteca python `pymarc` ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
@@ -55,19 +82,31 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Corrigir bug
 
-- O gerador de site estático usava os repositórios do usuário no site mas não contava que quando o usuário não tivesse repositórios um erro era ocasionado ([saberland/create-portfolio#26](https://github.com/saberland/create-portfolio/pull/26) - [@lubien](https://github.com/lubien)).
-- O gerador de site estático não tinha suporte para links com `#fragment-identifiers` pois na build ele considerava apenas o link ao arquivo original ([saberland/saber#270](https://github.com/saberland/saber/pull/270) - [@lubien](https://github.com/lubien)).
-- O parser não conseguia identificar corretamente o início de um link em markdown ([saberland/saber#278](https://github.com/saberland/saber/pull/278) - [@lubien](https://github.com/lubien)).
+* Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
+
+* Altera de maíusculo para minúsculo os nomes do meses em pt e pt_BR. ([moment#5158](https://github.com/moment/moment/pull/5158) - [@caiosr](https://github.com/CaioSR)).
+
+* O gerador de site estático usava os repositórios do usuário no site mas não contava que quando o usuário não tivesse repositórios um erro era ocasionado ([saberland/create-portfolio#26](https://github.com/saberland/create-portfolio/pull/26) - [@lubien](https://github.com/lubien)).
+
+* O gerador de site estático não tinha suporte para links com `#fragment-identifiers` pois na build ele considerava apenas o link ao arquivo original ([saberland/saber#270](https://github.com/saberland/saber/pull/270) - [@lubien](https://github.com/lubien)).
+
+* O parser não conseguia identificar corretamente o início de um link em markdown ([saberland/saber#278](https://github.com/saberland/saber/pull/278) - [@lubien](https://github.com/lubien)).
+
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
 
 ## Adicionar pequena funcionalidade
 
 * Adição de 3 modulos de tradução para o projeto langplusplus. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
 
-- Pacote de um componente vue.js para animação de escrita, foi sugerido implementar a possibilidade de simular um cursor "falso", eu implementei como pedido. O cursor foi adicionado com a possibilidade de configurar a velocidade em que ele pisca, cor, formato e além de também adicionar uma classe css para infinitas configurações ([PR #6](https://github.com/trickstival/vue-typing/pull/6) - [@urielfcampos](https://github.com/urielfcampos))
-- Aponta qual o comentário com melhores reações (baseado em uma heurística simples) em uma issue do GitHub para facilitar encontrar possíveis respostas ou destaques importantes de se ler ([sindresorhus/refined-github#2108](https://github.com/sindresorhus/refined-github/pull/2108) - [@lubien](https://github.com/lubien)).
-- Incrementa a funcionalidade do ponto anterior adicionando uma _label_ no comentário em destaque ([sindresorhus/refined-github#2177](https://github.com/sindresorhus/refined-github/pull/2177) - [@lubien](https://github.com/lubien)).
-- Implementa a possibilidade da biblioteca NodeJs chamada `create-site` usar [templates do GitHub](https://help.github.com/en/articles/creating-issue-templates-for-your-repository) ([saberland/saber#271](https://github.com/saberland/saber/pull/271) - [@lubien](https://github.com/lubien)).
+* Pacote de um componente vue.js para animação de escrita, foi sugerido implementar a possibilidade de simular um cursor "falso", eu implementei como pedido. O cursor foi adicionado com a possibilidade de configurar a velocidade em que ele pisca, cor, formato e além de também adicionar uma classe css para infinitas configurações ([PR #6](https://github.com/trickstival/vue-typing/pull/6) - [@urielfcampos](https://github.com/urielfcampos))
+
+* Aponta qual o comentário com melhores reações (baseado em uma heurística simples) em uma issue do GitHub para facilitar encontrar possíveis respostas ou destaques importantes de se ler ([sindresorhus/refined-github#2108](https://github.com/sindresorhus/refined-github/pull/2108) - [@lubien](https://github.com/lubien)).
+
+* Incrementa a funcionalidade do ponto anterior adicionando uma _label_ no comentário em destaque ([sindresorhus/refined-github#2177](https://github.com/sindresorhus/refined-github/pull/2177) - [@lubien](https://github.com/lubien)).
+
+* Implementa a possibilidade da biblioteca NodeJs chamada `create-site` usar [templates do GitHub](https://help.github.com/en/articles/creating-issue-templates-for-your-repository) ([saberland/saber#271](https://github.com/saberland/saber/pull/271) - [@lubien](https://github.com/lubien)).
 
 * Adição de novo icone ao repositorio Font Awesome ([FortAwesome/Font-Awesome#15198](https://github.com/FortAwesome/Font-Awesome/pull/15198) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
@@ -99,6 +138,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adição do icone do Chef ao repositorio Simple Icons ([simple-icons/simple-icons#1509](https://github.com/simple-icons/simple-icons/pull/1509) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
+* Botão scroll que permite ao usuário voltar para o topo de uma página ([Botão#51](https://github.com/glugmvit/glugmvit.github.io/pull/51) - [@VictorBSI](https://github.com/VictorBSI))
+
+* Criação do modulo de casamento de padrões (Pattern matching) com os algoritmos:BMH, BMHS e ShiftAnd. [Pull Request](https://github.com/keon/algorithms/pull/510) - [AndreMP93](https://github.com/AndreMP93)
+
 * Criação de função para parsing de arquivos JSON para objetos de registro (pymarc.Record) da biblioteca pymarc ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
 * Verifiquei que no projeto [pymarc](https://github.com/edsu/pymarc) havia uma [issue](https://github.com/edsu/pymarc/issues/130) solicitando a modificação de uma função existente na biblioteca. ([edsu/pymarc#138](https://github.com/edsu/pymarc/pull/138) - [@souzaluuk](https://github.com/souzaluuk))
@@ -111,8 +154,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Adicionar grande funcionalidade
 
-- Um projeto de auxílio para Dungeon masters de rpg de mesa, ele gera cidades e regiões inteiras, uma [issue](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/205), pedia para implementar uma nova funcionalidade que alterava a maneira que cidades eram geradas, incluindo um material de construcao "principal" para aquela cidade, que influencia o material das construções daquela cidade que acabavam ficando complementamente incoerentes por serem escolhidos aleatoriamente sem nenhuma influência da cidade em que se encontravam. Esta geração agora é influenciada pelo tamanho da cidade, riqueza e localização da mesma, depois de gerado, gera-se o material individual de cada construção da cidade, que é influenciada pelo material "principal" da cidade e pela riqueza do dono da construção.([PR #220](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/pull/220) - [@urielfcampos](https://github.com/urielfcampos))
-- Cria uma nova regra do eslint que adiciona a possibilidade de se passar argumentos a comentários _TODO_ e definir condições em que eles se tornam inválidos (data de expiração, biblioteca adicionada/removida, versão de certa tecnologia entre outros) ([sindresorhus/eslint-plugin-unicorn#302](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/302) - [@lubien](https://github.com/lubien)).
+* Um projeto de auxílio para Dungeon masters de rpg de mesa, ele gera cidades e regiões inteiras, uma [issue](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/205), pedia para implementar uma nova funcionalidade que alterava a maneira que cidades eram geradas, incluindo um material de construcao "principal" para aquela cidade, que influencia o material das construções daquela cidade que acabavam ficando complementamente incoerentes por serem escolhidos aleatoriamente sem nenhuma influência da cidade em que se encontravam. Esta geração agora é influenciada pelo tamanho da cidade, riqueza e localização da mesma, depois de gerado, gera-se o material individual de cada construção da cidade, que é influenciada pelo material "principal" da cidade e pela riqueza do dono da construção.([PR #220](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/pull/220) - [@urielfcampos](https://github.com/urielfcampos))
+
+* Cria uma nova regra do eslint que adiciona a possibilidade de se passar argumentos a comentários _TODO_ e definir condições em que eles se tornam inválidos (data de expiração, biblioteca adicionada/removida, versão de certa tecnologia entre outros) ([sindresorhus/eslint-plugin-unicorn#302](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/302) - [@lubien](https://github.com/lubien)).
 
 * New members section layout ([beautifulhugo#287](https://github.com/halogenica/beautifulhugo/pull/287) - [@cassiobatista](https://github.com/cassiobatista/)) 
 
