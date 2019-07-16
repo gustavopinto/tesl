@@ -22,8 +22,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 - Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
 
-* Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+- Adiciona um header com informações da versão atual e do autor em um arquivo dos arquivos principais do projeto ([moment#5153](https://github.com/moment/moment/pull/5153) - [@caiosr](https://github.com/CaioSR))
 
+* Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
 
 * Correção de exemplos que retornavam erros, presentes no README ([edsu/pymarc#137](https://github.com/edsu/pymarc/pull/137) - [@souzaluuk](https://github.com/souzaluuk))
 
@@ -32,7 +33,6 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Documentação melhorada do projeto calourada-bootstrap ([calourada-bootstrap#1](https://github.com/JonatasFAlves/calourada-bootstrap/pull/1) - [@juliocesark](https://github.com/juliocesark))
 
 * Documentação melhorada do projeto peludinhos ([peludinhos#3](https://github.com/getacesupa/peludinhos/pull/3) - [@juliocesark](https://github.com/juliocesark))
-
 
 ## Realizar tradução
 
@@ -50,10 +50,14 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Corrigir bug
 
+- Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
+
+- Altera de maíusculo para minúsculo os nomes do meses em pt e pt_BR. ([moment#5158](https://github.com/moment/moment/pull/5158) - [@caiosr](https://github.com/CaioSR)).
 - O gerador de site estático usava os repositórios do usuário no site mas não contava que quando o usuário não tivesse repositórios um erro era ocasionado ([saberland/create-portfolio#26](https://github.com/saberland/create-portfolio/pull/26) - [@lubien](https://github.com/lubien)).
 - O gerador de site estático não tinha suporte para links com `#fragment-identifiers` pois na build ele considerava apenas o link ao arquivo original ([saberland/saber#270](https://github.com/saberland/saber/pull/270) - [@lubien](https://github.com/lubien)).
 - O parser não conseguia identificar corretamente o início de um link em markdown ([saberland/saber#278](https://github.com/saberland/saber/pull/278) - [@lubien](https://github.com/lubien)).
 * Correção de bugs no do repositorio Simple Icons, icone desformatado ([simple-icons/simple-icons#1501](https://github.com/simple-icons/simple-icons/pull/1501) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
 
 ## Adicionar pequena funcionalidade
 
