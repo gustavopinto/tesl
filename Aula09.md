@@ -2,7 +2,14 @@
 
 ## Material extra
 
-- Links no Slide.
+- [O que são métodos ageis?](https://www.culturaagil.com.br/o-que-sao-metodos-ageis/)
+- [Manifesto Ágil](https://www.manifestoagil.com.br/)
+- [Scrum](http://www.metodoagil.com/scrum/)
+- [O que é kanban](http://www.metodoagil.com/o-que-e-kanban/)
+- [Valores do Scrum](http://www.metodoagil.com/valores-do-scrum/)
+- [The annual state of agile report](https://www.stateofagile.com/#ufh-i-521251909-13th-annual-state-of-agile-report/473508)
+- [Modelo cascata](https://pt.wikipedia.org/wiki/Modelo_em_cascata)
+- [Extreme go horse](http://sou.gohorseprocess.com.br/extreme-go-horse-xgh/)
 
 ## Slides
 
