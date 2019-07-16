@@ -15,6 +15,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 ## Reportar bug
 
+* Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK - [@eriicf](https://github.com/eriicf/)
+
+* Foi aberta uma [issue](https://github.com/JabRef/jabref/issues/5100) para reportar um bug na ferramenta JabRef ao editar uma referência - [@eriicf](https://github.com/eriicf/)
+
 * Ícones de Twitter dos autores não carregam corretamente ([Ícone#53](https://github.com/glugmvit/glugmvit.github.io/issues/53) - [@VictorBSI](https://github.com/VictorBSI))
 
 * Links dos botões sociais não redirecionam para as respectivas redes sociais indicadas ([Link#1](https://github.com/phucuongit/vaibekum_pro_1/issues/1) - [@VictorBSI](https://github.com/VictorBSI))
@@ -23,6 +27,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * O desenvolvedor não seleciona os arquivos específicos a serem publicados com o pacote gerando uma build com peso desnecessário ([pandrRe/Fastable#2](https://github.com/pandrRe/Fastable/issues/2) - [@lubien](https://github.com/lubien)).
 
+
 ## Melhorar documentação
 
 * Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
@@ -30,6 +35,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Adiciona um header com informações da versão atual e do autor em um arquivo dos arquivos principais do projeto ([moment#5153](https://github.com/moment/moment/pull/5153) - [@caiosr](https://github.com/CaioSR))
 
 * Adição de Guia de designer ao arquivo de contribuição do repositorio Feather ([feathericons/feather#646](https://github.com/feathericons/feather/pull/646) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Foi feito o [pull request](https://github.com/DivulgacaoCientifica/divulgacaocientifica/pull/15) para a atualização da lista de podcast, melhorando assim a documentação - [@eriicf](https://github.com/eriicf/)
+
+* Foi feito o [pull request](https://github.com/elvisthermo/formularioCategorizacao/pull/1) para a criação do arquivo de licença, criação do arquivo contributing e melhora do arquivo readme - [@eriicf](https://github.com/eriicf/)
 
 * Adição de um passo na configuração do ConEmu [Pull Request](https://github.com/LazoCoder/Pokemon-Terminal/pull/173) - [AndreMP93](https://github.com/AndreMP93)
 
@@ -46,6 +55,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
 
 * Adição de tradução PT-BR no Projeto de Player de Musica Nuclear ([nukeop/nuclear#365](https://github.com/nukeop/nuclear/pull/365) - [@JoaoPedroMoraes](https://github.com/JoaoPedroMoraes)).
+
+* Foi feito o [pull request](https://github.com/okkur/syna/pull/573) para a tradução PT-BR do tema Syna - [@eriicf](https://github.com/eriicf/)
+
+* Foi feito o [pull request](https://github.com/budparr/gohugo-theme-ananke/pull/179) para a tradução PT-BR do tema Ananke - [@eriicf](https://github.com/eriicf/)
 
 * Tradução da página principal ([Page#43](https://github.com/w3c/wai-intro-accessibility/pull/43) - [@VictorBSI](https://github.com/VictorBSI))
 
