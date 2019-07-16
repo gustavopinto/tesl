@@ -13,7 +13,7 @@ Por exemplo:
 
 Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
-## Reportar bug (6)
+## Reportar bug (7)
 
 * Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK - [@eriicf](https://github.com/eriicf/)
 
@@ -27,8 +27,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * O desenvolvedor não seleciona os arquivos específicos a serem publicados com o pacote gerando uma build com peso desnecessário ([pandrRe/Fastable#2](https://github.com/pandrRe/Fastable/issues/2) - [@lubien](https://github.com/lubien)).
 
+* Esse projeto está pegando projetos com tag *good first issue* , porém com isses que já estão sendo respondidas e postando no twitter para formentar novos contribuidores naquela isse ([arshadkazmi42/first-issues#51](https://github.com/arshadkazmi42/first-issues/issues/51) - [@wagnernegrao](https://github.com/wagnernegrao))
 
-## Melhorar documentação (11)
+
+## Melhorar documentação (12)
 
 * Melhoramento de documentação do repositório,que ao investigar a documentação não ficava claro como instalar e rodar o ambiente local de desenvolvimento, após conversar com os mantenedores e abrir um issue, eles alteraram a wiki com instruções que eu criei ([issue #219](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/issues/219#issuecomment-506033821), [Wiki deles após sugestão](https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator/wiki/Compiling-the-Generator) - [@urielfcampos](https://github.com/urielfcampos))
 
@@ -52,7 +54,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
-## Realizar tradução (13)
+* Modificando os arquivos `.rst` para `.md`, do projeto cookiecutter ([cookiecutter#1185](https://github.com/cookiecutter/cookiecutter/pull/1185) - [@wagnernegrao](https://github.com/wagnernegrao))
+
+## Realizar tradução (15)
 
 * Tradução do README do projeto scancode-toolkit ([PR](https://github.com/nexB/scancode-toolkit/pull/1640) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -80,6 +84,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Tradução para o portugues de um arquivo de mensagens do aspia ([aspia#76](https://github.com/dchapyshev/aspia/pull/76) - [@thayssarocha](https://github.com/thayssarocha))
 
+* Tradução para portugues de 2 arquivos da documentação do projeto Brythonm ([brython-dev/brython#1152](https://github.com/brython-dev/brython/pull/1152) - [@wagnernegrao](https://github.com/wagnernegrao))
+
+* Tradução para portugues de 1 arquivo da documentação do projeto Nuxtjs ([nuxt/docs#1474](https://github.com/nuxt/docs/pull/1474) - [@wagnernegrao](https://github.com/wagnernegrao))
+
 ## Corrigir bug (7)
 
 * Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
@@ -96,7 +104,7 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
 
-## Adicionar pequena funcionalidade (27)
+## Adicionar pequena funcionalidade (28)
 
 * Adição de 3 modulos de tradução para o projeto langplusplus. ([PR da funcionalidade](https://github.com/fibanneacci/langplusplus/pull/25) - [@tavareslucas](https://github.com/tavareslucas))
 
@@ -151,6 +159,9 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Foi retirado o modal que estava apenas com texto, e adicionado 2 botões para redes sociais ao lado de "contate-me" para que ficasse melhor visualizado na página. E para o desenvolvimento desses botões foi utilizado o repositório [bootstrap-social](https://github.com/lipis/bootstrap-social). Essa pequena funcionalidade foi implementada no projeto calourada-bootstrap ([calourada-bootstrap#2](https://github.com/JonatasFAlves/calourada-bootstrap/pull/2) - [@juliocesark](https://github.com/juliocesark))
 
 * Adicionado um novo botão de compartilhar utilizando modal para apresentar os links de compartilhamento referente a redes socias no projeto photo-share (([photo-share#1](https://github.com/JonatasFAlves/photo-share/pull/1)) e ([photo-share#2](https://github.com/JonatasFAlves/photo-share/pull/2)) - [@juliocesark](https://github.com/juliocesark))
+
+* Adicionado metodo div para autograd ([OpenMined/PySyft#2337](https://github.com/OpenMined/PySyft/pull/2337) - [@wagnernegrao](https://github.com/wagnernegrao))
+
 
 ## Adicionar grande funcionalidade (5)
 
