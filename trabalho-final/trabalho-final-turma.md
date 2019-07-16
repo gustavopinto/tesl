@@ -13,7 +13,7 @@ Por exemplo:
 
 Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
-## Reportar bug (7)
+## Reportar bug (8)
 
 * Foi aberta uma [issue](https://github.com/mauricioaniche/ck/issues/19) para reportar um bug no ao executar a ferramenta CK - [@eriicf](https://github.com/eriicf/)
 
@@ -28,6 +28,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * O desenvolvedor não seleciona os arquivos específicos a serem publicados com o pacote gerando uma build com peso desnecessário ([pandrRe/Fastable#2](https://github.com/pandrRe/Fastable/issues/2) - [@lubien](https://github.com/lubien)).
 
 * Esse projeto está pegando projetos com tag *good first issue* , porém com isses que já estão sendo respondidas e postando no twitter para formentar novos contribuidores naquela isse ([arshadkazmi42/first-issues#51](https://github.com/arshadkazmi42/first-issues/issues/51) - [@wagnernegrao](https://github.com/wagnernegrao))
+
+* Foi reportado um bug de um link para uma página inválida. ([issue](https://github.com/pokemongovet/pokemongovet.github.io/issues/78) - [@Reinald28](https://github.com/reinald28))
+
+* Foi aberta uma issue para reportar que o ParadisEO aprensenta erros nas execuções de testes do módulo MO ([ParadisEO#44](https://github.com/nojhan/paradiseo/issues/44) - [@pinho](https://github.com/pinho));
 
 
 ## Melhorar documentação (13)
@@ -55,6 +59,12 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Ajustes na tradução do trecho "a motivação" do arquivo Readme do projeto first-timers-bot ([first-timers-bot#223](https://github.com/hoodiehq/first-timers-bot/pull/223) - [@thayssarocha](https://github.com/thayssarocha))
 
 * Modificando os arquivos `.rst` para `.md`, do projeto cookiecutter ([cookiecutter#1185](https://github.com/cookiecutter/cookiecutter/pull/1185) - [@wagnernegrao](https://github.com/wagnernegrao))
+
+* Foi movido uma nota de explicação, sobre uma polemica que envolvia uma página do projeto, para um arquivo especifico .md fora do código HTML do projeto. ([pokemongovet#88](https://github.com/pokemongovet/pokemongovet.github.io/pull/88) - [@Reinald28](https://github.com/reinald28))
+
+* Foi intruduzido o trecho: Como contribuir no projeto ([web_blog#2](https://github.com/wescley/web_blog/pull/2) - [@Reinald28](https://github.com/reinald28))
+
+* Arquivos Markdown são mais fáceis para trabalhar, uma [issue](https://github.com/cookiecutter/cookiecutter/issues/1179) no projeto [Cookiecutter](https://github.com/cookiecutter/cookiecutter) pede para converter os arquivos de doc .rst para .md. ([Cookiecutter#1188](https://github.com/cookiecutter/cookiecutter/pull/1188) - [@pinho](https://github.com/pinho)).
 
 ## Realizar tradução (15)
 
@@ -92,7 +102,12 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Tradução de dois arquivos da documentação do ([Brython#1154](https://github.com/brython-dev/brython/pull/1154) - [@kellydosocorro](https://github.com/kellydosocorro))
 
-## Corrigir bug (7)
+* Traduzi alguns arquivos de documetação do projeto Brython para português brasileiro.
+([Brython#1151](https://github.com/brython-dev/brython/pull/1151) - [@pinho](https://github.com/pinho));
+
+* Traduzi (iniciei um processo de tradução) no projeto de um framework de testes em C++ conhecido como [Catch2](https://gihub.com/catchorg/Catch2), pretendo traduzir todos os arquivos de documentação e tutoriais para o português brasileiro. ([Catch2#1675](https://github.com/catchorg/Catch2/pull/1679) - [@pinho](https://github.com/pinho) ).
+
+## Corrigir bug (8)
 
 * Adiciona um ID em um campo dinâmico de página web para que o teste automático do projeto pudesse o acessar, como descrito em issue e em outro pull-request. ([OpenCiviWiki#537](https://github.com/CiviWiki/OpenCiviWiki/pull/537) - [@caiosr](https://github.com/CaioSR)).
 
@@ -109,6 +124,10 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Corrigir o alinhamento da descrição dos autores com os seus respectivos nomes ([Descrição#52](https://github.com/glugmvit/glugmvit.github.io/pull/52) - [@VictorBSI](https://github.com/VictorBSI))
 
 * Correção de alguns erros no exemplo fornecido em uma documentação do ([PADE#13](https://github.com/grei-ufc/pade/pull/13) - [@kellydosocorro](https://github.com/kellydosocorro))
+
+* Foi criada uma página e redirecionado o link inválido. O link agora redireciona para uma página espeficica destinada ao proposito. ([pokemongovet#90](https://github.com/pokemongovet/pokemongovet.github.io/pull/90) - [@Reinald28](https://github.com/reinald28))
+
+* Includes absolutos nos códigos fontes do módulo EO causava inconsistência na inclusão desse módulo no código fonte do usuário. Mudei para includes relativos dentro dos códigos fontes e acabaram todos os erros de compilação. ([ParadisEO#43](https://github.com/nojhan/paradiseo/pull/43) - [@pinho](https://github.com/pinho)).
 
 ## Adicionar pequena funcionalidade (28)
 
@@ -177,6 +196,8 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 * Criação de tradução para o programa Video-Hub-App ([PR #193](https://github.com/whyboris/Video-Hub-App/pull/193) - [@lakshamana](https://github.com/lakshamana))
 
 * Adiciona a funcionalidade de retornar para o tamanho de fonte padrão em uma página HTML ([acessibilidade#2](https://github.com/lucianobragaweb/acessibilidade/pull/2) - [@kellydosocorro](https://github.com/kellydosocorro))
+
+* Foi criado uma página de contato para o projeto com envio de e-mail. ([pokemongovet#79](https://github.com/pokemongovet/pokemongovet.github.io/pull/79) - [@Reinald28](https://github.com/reinald28))
 
 ## Adicionar grande funcionalidade (5)
 
