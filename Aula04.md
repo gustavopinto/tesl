@@ -2,7 +2,10 @@
 
 ## Material extra
 
-- TBD
+- [If It Isn't Documented, It Doesn't Exist](https://blog.codinghorror.com/if-it-isnt-documented-it-doesnt-exist/)
+- [A Guide to Writing Your First Software Documentation](https://www.sitepoint.com/writing-software-documentation/)
+- [Write the docs](https://www.writethedocs.org/)
+- [GNOME Help](https://help.gnome.org/users/index.html.pt_BR)
 
 ## Slides
 
